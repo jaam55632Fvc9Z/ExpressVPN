@@ -22,15 +22,11 @@ vless://c922f5cd-134e-4ce6-be9e-da246ef93216@srv-germany.hajimamadcloud.com.tr:1
 
 vless://d7e0cd97-a245-48aa-87b0-8539068e36ba@51.250.74.146:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d1579a8745398e34#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
 
-vless://bf028773-b964-4529-93f2-fc168d89fb7b@109.95.67.200:25443?security=none&type=tcp&headerType=http&path=%2F&host=myket.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayNg_madam
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://1b7987a1-595b-49a2-9cc4-ce87d7104419@zerotrust.0ppenheimer.com:2088?security=none&type=tcp&headerType=http&path=%2F&host=Myket.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
 
-vless://1b7987a1-595b-49a2-9cc4-ce87d7104419@zerotrust.0ppenheimer.com:2088?security=none&encryption=none&host=Myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
 vless://b9653688-1470-f844-f106-a12f10fb3517@porttt4.webchipro2.ir:3040?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
-
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#%F0%9F%87%BA%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2nodes
 
@@ -161,6 +157,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.225.239:22224?type=ws&securi
 trojan://telegram-id-privatevpns@35.181.225.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
 vless://ce7331c5-a28c-4478-ae06-2a2c5b5416fe@ir.api.clothesshopping.ir:19163?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless#%F0%9F%8C%90%20GRPC-None%20%7C%20%40configraygan
+
+vless://1b7987a1-595b-49a2-9cc4-ce87d7104419@zerotrust.0ppenheimer.com:2088?security=none&encryption=none&host=Myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://0485aebb-2626-4b1d-a995-c7c66dc44e10@81.12.33.166:1001?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
