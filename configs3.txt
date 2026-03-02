@@ -18,6 +18,8 @@ vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.21.31.30:80?security=none&type=
 
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#%F0%9F%87%BA%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
 vless://c922f5cd-134e-4ce6-be9e-da246ef93216@srv-germany.hajimamadcloud.com.tr:1991?security=none&encryption=none&host=skyroom.online%2C+igap.net%2C+gharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://ebb0c7d6-0983-41c6-95c8-fd6351dd254c@ir3.yooznet.top:9001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
@@ -55,8 +57,6 @@ vless://2dafa16c-74da-4528-802f-342b216beb1c@Tr1.Xn--fjQYeXxiDv2znoe9rK1n8aGb1E0
 vmess://eyJhZGQiOiAieDEubWVocmFkc2VydmljZS5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjZhNjU2ZmRjLTdjM2QtNGRjMy1hOTBhLTA3NzkzMTVmOTM2YyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQ1MSIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZWQgVENQLU5vbmUgfCBAY29uZmlncmF5Z2FuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 
 vmess://eyJhZGQiOiAiczEuaGFtaXNoZS5jbG91ZCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJkaXZhci5pciIsICJpZCI6ICIyN2JhZDliOC0zYmViLTRkYmQtYWIzYS1hZjM4M2RkMDEwOTQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxMTAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
-
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@84.201.128.76:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&security=reality&sid=3c1523da43287ec4&sni=smartcaptcha.yandexcloud.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
@@ -823,4 +823,6 @@ vless://879225dc-7d2f-423b-86dc-c53af12368fc@quick.reloc.cyou:43281?encryption=n
 vless://2fb9335d-6a89-4eed-8246-0d5076fd556e@vip-meli2.nightgemshop.com:443?encryption=none&security=none&type=tcp&headerType=http&host=alef.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40anotherme_night
 
 vless://b8d25a27-b842-4af6-b9d8-5606b0f6653a@51.rexg.ir:11001?encryption=none&security=none&type=tcp&headerType=http&host=mizbandade.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40anotherme_night
+
+vless://a2e81889-1663-478a-a445-a9194f52b411@shop.yorkvilleu.twc1.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jcBRwKNJc7tgOQFOanFTdLUMAs1vIS01dF_9LSq-gx0&security=reality&sid=0e02e3bf&sni=google.com,www.google.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
