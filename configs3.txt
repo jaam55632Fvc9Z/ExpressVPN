@@ -10,6 +10,8 @@ vless://9d5ee9e3-782a-4496-b1bd-038e4a45da49@ir-www-germani1.khabarkamkwww.fun:8
 
 vless://d9438566-ecb5-47e8-8aa1-cf4ff68b3e66@index.sandis.space:8443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40PewezaVPN
 
+vless://b174b5d5-8cd7-4f2d-927a-f1a5ec309d36@78.157.37.186:2099?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%8C%90%20GRPC-None%20%7C%20%40EmKavpn
+
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.212.90.22:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.107.234:53780?path=%2F&security=tls&encryption=none&type=ws&sni=hkd.ylks.link#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
@@ -26,6 +28,12 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAi
 
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@65.75.193.21:37813?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xind.ylks.link#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
+trojan://telegram-id-directvpn@13.38.236.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.236.178:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.38.236.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
 vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&security=reality&sid=479826bdfc3eb86e&sni=www.speedtest.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://c50da5a1-e5eb-5ea5-ad5a-69e6c134a601@72.56.96.81:443?encryption=none&fp=chrome&pbk=sUPI4-Pa9wBUiiVO8RP1AYyDqU46uKTi0S-GWWbU2Ts&security=reality&sid=ffffffffff&sni=apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
@@ -37,18 +45,6 @@ vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@norman.ns.cloudflare.com:443?allowI
 vmess://eyJhZGQiOiAiZGV1LnBhZWV6YW4udG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImZhc3QuY29tIiwgImlkIjogIjhkMWIxYjFjLTQ4YTUtNGI4Mi05NGM3LWJmY2ViZTMxMWRhOCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwMjk4IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBwbGFuQl9uZXQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
 
 vless://a80cc27a-14a6-4147-bc1b-70fcca27253d@81.12.33.166:900?encryption=none&type=tcp&headerType=http&path=%2F&host=myket.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40netmelli15
-
-vless://b174b5d5-8cd7-4f2d-927a-f1a5ec309d36@78.157.37.186:2099?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%8C%90%20GRPC-None%20%7C%20%40netmelli15
-
-vless://5cd9792c-9ad5-499f-be6a-0f872dd06b07@emarat2.digionline2.com:4003?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
-
-vmess://eyJhZGQiOiAibGluZTYudHdvd2F5ZmlsLmxpbmsiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImZkZDRlZDdhLTZhNWQtNDZiMi04YzhmLWY3NWU1NjJhM2Q1MiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTE2NTUiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGthbmZpZ19rYWRlIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-
-vless://424b84b4-cd57-42eb-b1e0-5b618ffcb822@109.95.67.200:25443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
-
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40kanfig_kade
-
-vless://fa684fb4-3083-48b1-92a3-d3cc0786e865@fiin.tldoom.online:43377?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
 
 vless://16a5322b-0db6-45b7-9506-5aec747d999d@85.133.221.61:543?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
@@ -72,11 +68,7 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reali
 
 vless://a80cc27a-14a6-4147-bc1b-70fcca27253d@81.12.33.166:900?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
-trojan://telegram-id-directvpn@13.38.236.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.236.178:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.38.236.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+vless://fa684fb4-3083-48b1-92a3-d3cc0786e865@fiin.tldoom.online:43377?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://0d5fade6-78b0-45d2-a0fc-74ec41f676b9@android.solidnet.ir:2026?security=none&type=tcp&headerType=http&path=%2F&host=telewebion.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40confegraigan
 
