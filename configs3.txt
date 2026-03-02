@@ -22,6 +22,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.225.239:22224?type=ws&securi
 
 trojan://telegram-id-privatevpns@35.181.225.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@hk.tfree.top:10004?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=Rp0axdMMyjBY3su8yFECX1rMCcg90y0HcCHalmxs73Y&sid=494cf2&sni=www.cloudflare.com&servername=www.cloudflare.com&spx=/&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
+
 vless://ebb0c7d6-0983-41c6-95c8-fd6351dd254c@ir3.yooznet.top:9001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vmess://eyJhZGQiOiAieDEubWVocmFkc2VydmljZS5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjZhNjU2ZmRjLTdjM2QtNGRjMy1hOTBhLTA3NzkzMTVmOTM2YyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQ1MSIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZWQgVENQLU5vbmUgfCBAY29uZmlncmF5Z2FuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
@@ -37,8 +39,6 @@ vmess://eyJhZGQiOiAieDUubWVocmFkc2VydmljZS5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIi
 vless://951feaf5-c793-47c7-86fc-db85501ff9c8@entekhabat.iran.asiatech.numthree.iranvatanam.com:813?security=none&encryption=none&host=skyroom.online%2C+igap.net%2C+gharar.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40configraygan
 
 vless://27511a97-b005-4b76-8fb6-84a6b66997b0@next.bestirspeed.top:1008?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40configraygan
-
-vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@hk.tfree.top:10004?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=Rp0axdMMyjBY3su8yFECX1rMCcg90y0HcCHalmxs73Y&sid=494cf2&sni=www.cloudflare.com&servername=www.cloudflare.com&spx=/&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://fd325093-cdb5-4a73-980e-af2ec0444310@89.125.48.112:443?security=reality&encryption=none&pbk=2s4DLPlhc3evv3LN-qV-nXdjQtJ7jQ35i--PE8JeeG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=retn.net#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
 
