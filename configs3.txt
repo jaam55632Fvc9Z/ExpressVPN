@@ -62,10 +62,6 @@ vless://e384913f-8863-47b4-8858-a84b68abb4a6@82.22.40.109:23335?security=reality
 
 vless://26524cce-d514-4014-a426-365fb266a14d@31.133.0.133:2053?path=%2Fdanfeng%3Fed%3D2560&security=tls&encryption=none&host=_acme-challenge.443888.xyz&fp=random&type=ws&sni=_acme-challenge.443888.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.197.182.128:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40manVPN
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.145:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
 vless://08426869-4fe0-4f44-baf0-1273acd31f08@de-1-tun.irantehrankhabar.fun:8081?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://44ebb276-4c2a-4969-9a4f-ceebc050baf1@ultra.jahanover.sbs:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
@@ -105,6 +101,8 @@ vless://08426869-4fe0-4f44-baf0-1273acd31f08@de-6-tun-single.starping5.fun:8083?
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.46.90:80?path=%2F&security=none&encryption=none&host=us3.rtacg.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
 
 vless://ba099f67-fc1f-4339-b36e-bcbbcc38fe8f@162.159.194.86:2087?path=%2F&security=tls&encryption=none&insecure=0&host=amorix.abresani.com&type=ws&allowInsecure=0&sni=amorix.abresani.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
+
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.145:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://24cf379a-9f42-4f1f-88cd-370630c2aac5@support.fastly.com:8880?path=%2Fdownloadvideo&security=none&encryption=none&host=g2-au-cloud.a1mshop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
 
