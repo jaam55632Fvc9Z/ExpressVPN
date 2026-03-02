@@ -20,12 +20,6 @@ vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:8080?security=none&ty
 
 vless://347f6eda-d514-4756-a810-ddbe5ba114aa@51.44.57.46:443?security=reality&sni=anandtech.com&type=http&fp=chrome&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Hope_Net
 
-vless://9fa8657f-9701-4bfc-86af-b8b5681b8b52@ir12.mahdava.site:2125?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vmess_iran
-
-vless://47d440a1-83ac-4d0f-b2b4-e51a8526f55a@ge.configfast.site:3013?security=&encryption=none&host=bale.ai%2Cweb.splus.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmess_iran
-
-vless://31bdae38-ab95-499a-8105-2fe7c45a8240@gb1.wiziii.xyz:8085?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40vmess_iran
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQEFsaWVuVlBOcyIsICJhZGQiOiAidHVyazQud2Fyem9uZTEuaW4iLCAicG9ydCI6ICIyMzc2NSIsICJpZCI6ICI2OWEzNTg3NS02ZmVjLTk4OTEtYWM3ZS1jNTdhZjJlZGEwMjAiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogImh0dHAiLCAiaG9zdCI6ICJnb29nbGVhcGlzLmNuLHVhLnlla3RhbmV0LmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJpbnNlY3VyZSI6ICIwIn0=
 
 vless://22539a4e-2975-4586-99a4-2bfaeb9ccd2b@blog2.tanupload.top:62443?encryption=none&security=none&type=tcp&headerType=http&host=cafeariel.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40AlienVPNs
@@ -229,6 +223,8 @@ vless://910e3778-bbee-492b-a1e5-5f9c1cfe4194@85.133.250.87:41679?security=none&e
 vless://31bdae38-ab95-499a-8105-2fe7c45a8240@gb1.wiziii.xyz:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://47d440a1-83ac-4d0f-b2b4-e51a8526f55a@ge.configfast.site:3013?security=none&encryption=none&host=bale.ai%2C+web.splus.ir%2C+igap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://9fa8657f-9701-4bfc-86af-b8b5681b8b52@ir12.mahdava.site:2125?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
 
 vless://2c7d8e9d-d40a-49f8-b150-2d9cf4d69f4d@212.80.8.212:38941?security=none&encryption=none&host=speedtesthttps%3A%2F%2Ft.me%2FVIPV2rayNGNP&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
@@ -973,4 +969,10 @@ vmess://eyJhZGQiOiAicHEtSHVuZ2FyeTEuMDl2cG4uY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAi
 vmess://eyJhZGQiOiAiNDUuMTIuMTMyLjE4MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBjb25maWdyYXlnYW4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 
 vless://36d43050-a3bf-49e3-ae62-1c17fd902dca@81.12.33.100:7710?mode=gun&security=none&encryption=none&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#%F0%9F%8C%90%20GRPC-None%20%7C%20%40netmelli15
+
+vless://36d43050-a3bf-49e3-ae62-1c17fd902dca@81.12.33.100:7710?encryption=none&type=grpc&mode=gun&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#%F0%9F%8C%90%20GRPC-None%20%7C%20%40planB_net
+
+vless://d5ee5591-66ea-4f56-ac3c-e7991f727f5e@fs.cedriklorenz.ir:443?encryption=none&type=ws&host=looaxdfboijji.global.ssl.fastly.net&security=tls&fp=chrome&sni=speedtest.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
+
+vless://d5ee5591-66ea-4f56-ac3c-e7991f727f5e@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=0&host=looaxdfboijji.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=speedtest.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40netmelli15
 
