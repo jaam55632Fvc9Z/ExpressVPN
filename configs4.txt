@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@13.38.236.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.236.178:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.38.236.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 vless://0d5fade6-78b0-45d2-a0fc-74ec41f676b9@android.solidnet.ir:2026?security=none&type=tcp&headerType=http&path=%2F&host=telewebion.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40confegraigan
 
 vless://0d5fade6-78b0-45d2-a0fc-74ec41f676b9@91.99.61.69:8080?security=none&type=tcp&headerType=http&path=%2F&host=testspeed-foreign.tci.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40confegraigan
@@ -65,4 +59,8 @@ vmess://eyJhZGQiOiAidWFlLnRvcHNwZWVkYXJhc2guY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAi
 vmess://eyJhZGQiOiAiYnVnLnRvcHNwZWVkYXJhc2guY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwMjJhZjhhMi1mMmEwLTRjMTktOTk2Mi1lZGMxMTZhYjhjZDAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQzNjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
 vmess://eyJhZGQiOiAiYnVnLnRvcHNwZWVkYXJhc2guY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwMjJhZjhhMi1mMmEwLTRjMTktOTk2Mi1lZGMxMTZhYjhjZDAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQzNjAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://815dba60-0b12-4be4-9106-33952667e63b@mydigipay.com:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=www.link-kon.ir&fp=chrome&type=ws&sni=mydigipay.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
+
+vless://4aab1963-b71f-4348-b391-93a56d45160b@DE.shOpfoRkiDS.iR:2246?security=reality&encryption=none&pbk=RdhlZ8FX6D8znsqujb8fJ29mGJocrN2m8DEbdULkV0w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=3a622700e73c6642#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
 
