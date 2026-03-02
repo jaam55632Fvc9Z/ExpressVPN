@@ -42,3 +42,9 @@ vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reali
 
 vless://a24481eb-0496-4ab9-9bd0-af1d530df91d@5.255.120.217:80?mode=auto&path=%2Fpwp&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-Reality%20%7C%20%40manVPN
 
+trojan://telegram-id-directvpn@15.188.115.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.115.231:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.188.115.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
