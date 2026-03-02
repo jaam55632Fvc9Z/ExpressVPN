@@ -34,8 +34,6 @@ trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@cccvgt.7777125.xyz:443?type=ws&sec
 
 vless://e5b3365b-50f7-4479-b25a-5f314ce871c2@shop.khalijservers1.top:7432?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://70a2673d-bb34-489c-91f5-fb43ee824be9@de2.uniquewp.ir:3030?security=&encryption=none&host=cdn.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://31420c2a-070e-4942-ad92-89081fc88804@node5.telegavpn.org:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=node5.telegavpn.org&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
@@ -459,6 +457,8 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@129.150.62.252:54774?security=tls&s
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.33.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
 vless://d7e0cd97-a245-48aa-87b0-8539068e36ba@51.250.74.146:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d1579a8745398e34#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#%F0%9F%87%BA%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2nodes
 
