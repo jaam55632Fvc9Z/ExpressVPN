@@ -28,3 +28,7 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.91:443?path=tg%40zdyz2&sec
 
 vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@86.38.214.51:443?security=tls&sni=fourth.pinocchio1.ir.&type=grpc&fp=firefox&alpn=http%2F1.1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Hope_Net
 
+vless://93b82d85-6b29-4808-a7df-5ea150427a8a@ir3.yooznet.top:9001?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.67.110.232:443?path=%2Fazadnet-919.pages.dev%2F%3Fed%3D2560%26prot_type%3Dvless&security=tls&encryption=none&host=azadnet-919.pages.dev&fp=randomized&type=ws&sni=azadnet-919.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
+
