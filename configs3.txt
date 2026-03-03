@@ -98,14 +98,6 @@ vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=n
 
 vmess://eyJhZGQiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ1c2FhcHAxLmppc3V5dW4udG9wIiwgImlkIjogIjRiODBhYTg2LTQzNTQtNDBiYi1kMmEzLTQ3MTI2Y2ZmMGJlYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdXNhdm0iLCAicG9ydCI6ICIyMDUzIiwgInBzIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBXUy1UTFMgfCBAdjJub2RlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
-vless://7b3ba8c0-0bb2-469a-a396-1c360e7da8d7@18betasia.com:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=mskyehfojwown7dooejenggsjsp73839.mrpixanos.ir&fp=chrome&type=ws&allowInsecure=0&sni=mskyehfojwown7dooejenggsjsp73839.mrpixanos.ir#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://7b3ba8c0-0bb2-469a-a396-1c360e7da8d7@azaranik.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=kffoepwiqmiovvunwoowow2jowpqpwkc892.mrpixanos.ir&fp=chrome&type=ws&allowInsecure=1&sni=kffoepwiqmiovvunwoowow2jowpqpwkc892.mrpixanos.ir#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://7b3ba8c0-0bb2-469a-a396-1c360e7da8d7@18betasia.com:8443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=fdlqoqigovlwqiq8gngoqoiqwnvowhnwq829202.mrpixanos.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fdlqoqigovlwqiq8gngoqoiqwnvowhnwq829202.mrpixanos.ir#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
-
-vless://7b3ba8c0-0bb2-469a-a396-1c360e7da8d7@18betasia.com:8443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hsygw246920lsh.mrpixanos.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=hsygw246920lsh.mrpixanos.ir#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40ConfigV2rayNG
-
 vless://092e5bb7-bbe3-44da-a46d-0bea017a9c14@srv2-germany.hajimamadcloud.com.tr:1992?security=none&encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
 
 vmess://eyJhZGQiOiAicGF5YTEucG1vYmlsZTEuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm11c2ljLmFwcGxlLmNvbSIsICJpZCI6ICIxMzI4NGY4ZS04ZmU4LTQ2NzItOTI4ZC0zNjRjYWMwZWVlYzYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjY1NTM1IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBDb25maWdWMnJheU5HIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
@@ -659,4 +651,6 @@ vless://b13770a6-29e5-45fd-d5fd-53837a41380c@3.75.250.174:32127?encryption=none&
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?encryption=none&type=ws&host=hetz.x-smm.com&path=/45.76.183.217%3D49292&security=tls&fp=chrome&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_cartel
 
 vless://426aee4a-bfdc-4be1-f5ee-0245c8ef15c2@18.199.86.85:34838?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_cartel
+
+vless://10f11182-a46e-42fc-9fec-f81baa39fa3a@140.248.165.204:80?path=/containers/fi&security=none&encryption=none&host=wellcome-losangles.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2nodes
 
