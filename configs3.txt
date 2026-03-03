@@ -24,8 +24,6 @@ vless://45fdb236-47b4-404c-a330-c66270de172e@ic.imsoon.io:45219?security=&encryp
 
 vless://c3a8f526-6f41-4884-adb8-f33b4ec30fa6@v2.royalway.shop:2053?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
 
-vless://telegram-id-ArV2ray@185.146.173.158:80?path=/telegram-ArV2ray#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
-
 vless://4c55e931-e33b-487c-806e-cb29b64a089c@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
 
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
@@ -263,4 +261,6 @@ vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@37.139.34.145:443?type=tcp&security
 vless://7b9eee6a-13e0-11f1-8992-6dc1f910523f@us1.maxservice.life:443?type=xhttp&security=reality&sni=us1.maxservice.life&fp=chrome&pbk=oZ35ZYOLZJfAsLOHuPbGpEH66RDMZBTksY0tZOLkNUM&sid=a1b2c3d4#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40Trick_mobil
 
 vless://a28cfe60-b6f6-4737-9082-b2df62f59229@rus62.ruslucker.org:444?mode=auto&path=%2Fapi%2Fv1%2F&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=xhttp&sni=rus62.ruslucker.org#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40VIPV2rayNGNP
+
+vless://83b3bb17-bc07-453f-9f10-4264ae839314@89.34.230.234:443?security=tls&encryption=none&insecure=1&host=namasha.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1&sni=namasha.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40prrofile_purple
 
