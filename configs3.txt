@@ -122,18 +122,6 @@ vless://39b62ebd-7a1c-4d44-84f1-6c3bfb058a1e@uk.armin-website.com:9090?encryptio
 
 vless://148f8bfe-92c6-46fa-a327-de12e2558962@dash.mobileemdad.top:9560?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40netmelli15
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.236.178:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
-
-vless://bfa95c9d-87fb-4766-9b40-5af8d5d530aa@ir5.mmdpnj.site:3201?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
-
-vless://b94228f1-c4cd-4ce4-a5ed-19782cacbe99@entekhabat.iran.asiatech.iranvatanam.com:538?security=none&encryption=none&host=skyroom.online%2C+igap.net%2C+gharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
-
-vmess://eyJhZGQiOiAidWFlLnRvcHNwZWVkYXJhc2guY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwMjJhZjhhMi1mMmEwLTRjMTktOTk2Mi1lZGMxMTZhYjhjZDAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQzNTMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
-vmess://eyJhZGQiOiAiYnVnLnRvcHNwZWVkYXJhc2guY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwMjJhZjhhMi1mMmEwLTRjMTktOTk2Mi1lZGMxMTZhYjhjZDAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQzNjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
-vmess://eyJhZGQiOiAiYnVnLnRvcHNwZWVkYXJhc2guY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwMjJhZjhhMi1mMmEwLTRjMTktOTk2Mi1lZGMxMTZhYjhjZDAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQzNjAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
 vless://815dba60-0b12-4be4-9106-33952667e63b@mydigipay.com:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=www.link-kon.ir&fp=chrome&type=ws&sni=mydigipay.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
 vless://4aab1963-b71f-4348-b391-93a56d45160b@DE.shOpfoRkiDS.iR:2246?security=reality&encryption=none&pbk=RdhlZ8FX6D8znsqujb8fJ29mGJocrN2m8DEbdULkV0w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=3a622700e73c6642#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
@@ -191,6 +179,8 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.73:443?path=%2Fblue&secu
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogImluLXR3LTEuaWl2dnBwbm4uaW5mbyIsICJwb3J0IjogIjM4MjAxIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3OTM4NjY4NS0xNmRhLTMyN2MtOWUxNC1hYTZkNzAyZDg2YmMiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hscy9jY3R2NXBoZC5tM3U4IiwgImhvc3QiOiAid3d3Lml2cG5wcm8ubmV0IiwgInRscyI6ICIifQ==
 
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.109:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://bfa95c9d-87fb-4766-9b40-5af8d5d530aa@ir5.mmdpnj.site:3201?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
 
 vless://44de73bc-eb6d-429d-9c2f-ec0a6e4a6681@my.configfast.site:4013?security=none&encryption=none&host=bale.ai%2C+web.splus.ir%2C+igap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
