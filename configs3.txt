@@ -18,12 +18,6 @@ vless://2a9ecf05-c971-4c56-b44e-f85b2b253f93@serverpars.com:2052?encryption=none
 
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.57:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
-trojan://telegram-id-directvpn@15.188.115.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.115.231:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@15.188.115.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 vless://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
@@ -187,6 +181,8 @@ vless://953a7b6e-d5bb-472c-843b-4c73514e1b15@realgod.gamebestir.ir:2093?path=%2F
 vless://76ec0213-e6ec-4f30-9d4d-d497c7d2943c@german2.activevps2.in:22015?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
+
+trojan://telegram-id-privatevpns@15.188.115.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
 
 vless://3b90b867-e6e9-41c3-ac4c-9d26be982391@103.184.45.121:2087?path=%2F%40V2RAXX-TEL--%40V2RAXX-TEL--%40V2RAXX-TEL--%40V2RAXX-TEL--%40V2RAXX-TEL--%40V2RAXX-TEL%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=v2raxx-tel-ws.amalfatm.ir.&fp=chrome&type=ws&sni=v2raxx-tel-ws.amalfatm.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
