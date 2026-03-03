@@ -14,8 +14,6 @@ vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&sec
 
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?path=/&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@18.183.167.108:331?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2nodes
-
 trojan://telegram-id-privatevpns@63.181.212.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
 
 vless://ce7331c5-a28c-4478-ae06-2a2c5b5416fe@ir.api.clothesshopping.ir:19163?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%8C%90%20GRPC-None%20%7C%20%40VIPV2rayNGNP
