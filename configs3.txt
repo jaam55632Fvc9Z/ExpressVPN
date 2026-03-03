@@ -20,8 +20,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.109:443?path=tg%40zdyz2&
 
 vless://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
-vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
-
 vless://bfa95c9d-87fb-4766-9b40-5af8d5d530aa@ir5.mmdpnj.site:3201?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
 
 vless://44de73bc-eb6d-429d-9c2f-ec0a6e4a6681@my.configfast.site:4013?security=none&encryption=none&host=bale.ai%2C+web.splus.ir%2C+igap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
@@ -33,6 +31,8 @@ vless://2fb9335d-6a89-4eed-8246-0d5076fd556e@vip-meli2.nightgemshop.com:443?secu
 vless://092e5bb7-bbe3-44da-a46d-0bea017a9c14@srv2-germany.hajimamadcloud.com.tr:1992?security=none&encryption=none&host=skyroom.online%2C+igap.net%2C+gharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://3b521776-dd0d-4ef4-b3de-09452ae779cb@turkish.levron.pro:2088?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://3363394e-d5ce-4b71-8281-39a3469924c5@tr.speadnet.ir:2087?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vmess://eyJhZGQiOiAiMTMxLjE0NS42MC44MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzc2NDJjZmQtMDQ4OC00ZjA0LWI4MmEtZWE5MTczNTNmMzhmIiwgIm5ldCI6ICJncnBjIiwgInBhdGgiOiAibWNpLmlyIiwgInBvcnQiOiAiNDI1IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBHUlBDLU5vbmUgfCBAY29uZmlncmF5Z2FuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm11bHRpIiwgInYiOiAiMiJ9
 
@@ -605,4 +605,6 @@ vmess://eyJhZGQiOiAiNDYuMjkuMTYzLjE1OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vless://1b3c9373-5013-4409-b5e7-b10a1a076f21@104.16.229.250:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&host=join-to.vmessorg.Community.&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
 vmess://eyJhZGQiOiAiMTAzLjEzNi4xODUuMTM2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiOTA3Y2ZjNS03MWFlLTQ2NjMtODNkYS01MTI4MzU2NWFkYmIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0MTA4MiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBASG9wZV9OZXQifQ==
+
+vless://09825436-5781-496b-83bd-b992f7b6ef0f@104.18.32.47:8443?allowInsecure=1&encryption=none&host=xpb.parsfast.ir&path=%2F&security=tls&sni=xpb.parsfast.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2nodes
 
