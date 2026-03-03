@@ -422,3 +422,7 @@ vless://085fd318-41f2-4a0a-8438-74f311de1c56@ir2.mahsanrz.ir:2023?path=%2F&secur
 
 vless://085fd318-41f2-4a0a-8438-…#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
+trojan://telegram-id-privatevpns@13.39.97.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
+
