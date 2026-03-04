@@ -70,8 +70,6 @@ vless://telegram-id-ArV2ray@185.234.65.232:4423?type=grpc&security=reality&sni=a
 
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?type=tcp&security=reality&headerType=none&fp=chrome&sni=api.push.apple.com&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
-vless://423c14e1-9879-4335-b371-e582ce0dbc14@185.97.119.239:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
 vless://a1c6fb9b-fccd-488e-8967-ff0879b4b07c@unlimited.sibvpn.pro:2083?type=ws&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
 vless://83b3bb17-bc07-453f-9f10-4264ae839314@89.34.230.234:443?security=tls&encryption=none&insecure=1&host=namasha.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1&sni=namasha.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40BrilliantGift
@@ -85,6 +83,8 @@ vless://305ec9f7-b1be-4ab3-8732-34bb0ddd8af0@94.183.241.160:81?security=none&enc
 vless://42a7df85-0739-4760-a248-32a491abfa2a@cze01-vlr01.tcp-reset-club.net:10443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#%F0%9F%87%A8%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://33bab917-3a20-4294-ad71-7277e61cf2e0@2.188.212.54:2096?encryption=none&type=tcp&headerType=none&security=reality&fp=random&sni=www.skyroom.online&pbk=YX9MYt8jKxTc6OGfACpBJAOqW4jc6v-RMQos4rzFHwI&sid=af&spx=/#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40BrilliantGift
+
+vless://423c14e1-9879-4335-b371-e582ce0dbc14@185.97.119.239:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://49a10d26-d2af-4d72-8c7a-12590eb423f9@46.245.120.148:48393?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
@@ -243,4 +243,10 @@ vless://86512219-2fe9-42ac-ab0d-dc7604f9afe9@det.web7ghost.top:2086?security=&en
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#%F0%9F%87%A7%F0%9F%87%AC%20WS-None%20%7C%20%40manVPN
 
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.136.116:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
+
+trojan://telegram-id-directvpn@13.39.100.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.100.172:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.39.100.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
