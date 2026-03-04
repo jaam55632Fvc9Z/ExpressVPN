@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://1807220e-e9d1-ac9e-48f4-aec30e5290b6@79.175.167.111:12864?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.88.196:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayngSeven
-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.88.196:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
 
 trojan://2jmsdyu5-y4dr-axpc-ltl1-oxf7lc4tuira@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -31,4 +27,6 @@ trojan://telegram-id-directvpn@13.39.100.172:22223?security=tls&alpn=http/1.1&he
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.100.172:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@13.39.100.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://59ca59b6-3127-484d-9e65-8d6ed8b64a43@DEgermanuy.nexavps.ir:4590?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
 
