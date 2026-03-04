@@ -188,3 +188,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.158.4:22224?type=ws&security=t
 
 trojan://telegram-id-privatevpns@3.79.158.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://b623a8a7-46f4-4666-9f8d-01032c24fdf7@diddy.com:2086?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2056&host=span.dl101movis.ir#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40V2rayng_Fast
+
