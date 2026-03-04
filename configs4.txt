@@ -32,3 +32,7 @@ vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?security=tls&en
 
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=deu549.worldbypass.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40prrofile_purple
 
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=pqh17v1.carwashipdir.shop&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2nodes
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=pqh21v7.carwashipdir.shop&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2nodes
+
