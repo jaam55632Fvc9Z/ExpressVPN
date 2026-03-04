@@ -22,3 +22,7 @@ trojan://telegram-id-privatevpns@52.47.37.116:22222?security=tls&alpn=http/1.1&h
 
 vless://7f518b87-e6e8-4058-9926-05ae078104d2@194.60.228.208:4005?encryption=none&type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40proxymaann
 
+vless://7f518b87-e6e8-4058-9926-05ae078104d2@194.60.228.208:4005?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://dbd5654a-cba5-4b75-8ee8-bb25a5f8e14a@94.183.241.159:22222?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
