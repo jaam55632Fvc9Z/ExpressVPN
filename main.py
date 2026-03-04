@@ -25,7 +25,7 @@ EXPIRY_HOURS = 48       # حذف کانفیگ‌های قدیمی‌تر از ۱
 SEARCH_LIMIT_HOURS = 1  # بررسی پیام‌های ۱ ساعت اخیر کانال‌ها
 ROTATION_LIMIT = 65      
 ROTATION_LIMIT_2 = 1000   
-ROTATION_LIMIT_3 = 3000   
+ROTATION_LIMIT_3 = 5000   
 # =============================================================
 
 def get_only_flag(text):
