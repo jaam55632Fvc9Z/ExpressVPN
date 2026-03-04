@@ -72,3 +72,15 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&en
 
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.109.107:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
 
+trojan://telegram-id-directvpn@63.182.150.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.150.196:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@63.182.150.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://c9b59935-e2ca-4041-a21b-f2d780af3ae4@78.157.37.186:2099?encryption=none&type=grpc&mode=gun&serviceName=vless&security=none#%F0%9F%8C%90%20GRPC-None%20%7C%20%40proxymaann
+
+vless://21d43aa8-3f0e-4c19-88fb-1705885bb2c6@flt.web7ghost.top:2095?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40proxymaann
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFdTLU5vbmUgfCBAdjJub2RlcyIsICJhZGQiOiAiaG4ueG4tLXdscXcxc3dyajA0anU1NmQuY29tIiwgInBvcnQiOiAiODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJmOWRkZWZjNS1kMTIxLTQ4NmYtOWUyZi0wYzJjZDFhM2RlY2MiLCAiaG9zdCI6ICJ0bXMuZGluZ3RhbGsuY29tIiwgInBhdGgiOiAiLyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+
