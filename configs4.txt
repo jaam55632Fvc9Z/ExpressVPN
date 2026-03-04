@@ -22,3 +22,5 @@ vless://1807220e-e9d1-ac9e-48f4-aec30e5290b6@79.175.167.111:12864?security=none&
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.88.196:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayngSeven
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.88.196:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
+
