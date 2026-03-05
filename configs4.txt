@@ -24,3 +24,11 @@ vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@209.102.207.205:443?allowInsecure=1
 
 trojan://humanity@188.114.96.3:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40kanfig_kade
 
+vless://4ce367e8-89bf-43f7-a04d-d94bab948fc6@v10.atlax.ir:59680?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://db764e29-170a-4f2e-8c5e-c7e33b2d1344@1mobile.cfd:10738?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&type=tcp&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
+
+vmess://eyJhZGQiOiAib2doYWJvbmxpbmV2aXBzLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogInJhbmRvbWl6ZWQiLCAiaG9zdCI6ICJzb2Z0OTguaXIiLCAiaWQiOiAiODkyNGI5ZjYtMDVhYS00YjlhLWE5OTAtY2MyZTMwNTI1Y2FjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDgzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBTcG90aWZ5X1BvcnRlZ2hhbGkiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9naGFib25saW5ldmlwcy5jb20iLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
+
