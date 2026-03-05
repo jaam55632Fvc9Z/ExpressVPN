@@ -1,8 +1,16 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://77a2fa7d-39b5-45af-9758-74e1fbaf1995@home1.metaworkcloud.ir:8449?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40EmKavpn
+trojan://telegram-id-directvpn@63.183.63.206:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
-vless://750a3613-ff1b-9bcc-d61a-3abe6dfcfec2@rocket.unlimiteds.site:9874?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=rocket.unlimiteds.site#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.63.206:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
 
-vless://750a3613-ff1b-9bcc-d61a-3abe6dfcfec2@rocket.unlimiteds.site:9874?type=tcp&headerType=http&host=fast.com&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
+trojan://telegram-id-privatevpns@63.183.63.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://b5131722-cc98-409e-8b04-5aeb97a5ee38@193.151.130.43:41295?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://4f6c3dab-9574-474b-933a-0e96ab248f71@mac.sordoservice.site:80?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://99846bfd-9ce2-4776-9c53-ca12bfcad077@104.17.147.22:2086?path=%2F---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam%3Fed%3D2048&security=none&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
+
+vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
 
