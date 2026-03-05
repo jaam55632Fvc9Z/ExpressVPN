@@ -988,3 +988,5 @@ trojan://Nova-Proxy@141.101.113.223:8443?path=%2F%3Fed&security=tls&host=small-m
 
 vless://26524cce-d514-4014-a426-365fb266a14d@144.24.140.37:443?&security=tls&fp=random&sni=lirpeuijr.chinav.indevs.in&type=ws&headerType=none&host=lirpeuijr.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2nodes
 
+vless://d3bd917a-cd7c-85c9-caa5-557cc2a5cd82@photon.unlimiteds.site:660?type=tcp&headerType=http&host=fast.com&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
