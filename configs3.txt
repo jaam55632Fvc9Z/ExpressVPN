@@ -16,9 +16,9 @@ vless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?security=
 
 vless://80662112-2307-4b95-9837-b3d1cc6c0dd2@de-2-tun.healingfluence.org:8081?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
-vless://a589a8c6-ddbb-496f-92bd-7422ea8c9fb7@isv31x.smrfy.online:45965?encryption=none&type=tcp&headerType=http&host=trexplus.org&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40proxymaann
+vless://d6e51590-555b-400a-9fda-3e091bf84176@bia.gdsrguydsrghj.ir:1010?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=pqh42v8.carwashipdir.shop&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2nodes
+vless://a589a8c6-ddbb-496f-92bd-7422ea8c9fb7@isv31x.smrfy.online:45965?encryption=none&type=tcp&headerType=http&host=trexplus.org&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40proxymaann
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=pqh31v1.carwashipdir.shop&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2nodes
 
@@ -35,8 +35,6 @@ vless://f164e068-c4d4-4603-a814-ff850c1da651@webb.gdsrguydsrghj.ir:3000?security
 vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?security=tls&encryption=none&insecure=1&host=afxmsv51.fx02.ccwu.cc&type=ws&allowInsecure=1&sni=afxmsv51.fx02.ccwu.cc#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=deu549.worldbypass.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40VIPV2rayNGNP
-
-vless://d6e51590-555b-400a-9fda-3e091bf84176@bia.gdsrguydsrghj.ir:1010?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vmess://eyJhZGQiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ1c2FhcHAxLmppc3V5dW4udG9wIiwgImlkIjogIjRiODBhYTg2LTQzNTQtNDBiYi1kMmEzLTQ3MTI2Y2ZmMGJlYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdXNhdm0iLCAicG9ydCI6ICIyMDUzIiwgInBzIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBXUy1UTFMgfCBAdjJub2RlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
@@ -1589,4 +1587,10 @@ vless://c0ac5114-b6e9-216a-4c11-9ac0c515b8ff@dragon.socialxxmedia.pro:350/?encry
 vless://419be96a-f900-4b0a-aecd-9402bddcfc4c@62.60.146.14:16020?encryption=none&type=tcp&headerType=http&path=%2F&host=igap.net#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://b2878bf1-40a1-4294-8567-50851f1f3842@6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:705?security=none&type=tcp&headerType=http&path=%2F&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://76083baf-1fb7-44d0-b241-2d9af1191621@151.101.193.194:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=%2FTignaliSWithYou&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40V2rayng_Fast
+
+vless://ed609427-35be-4fe6-a8dd-a23f0bd1916a@185.112.59.134:9443?security=reality&encryption=none&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
+
+vless://3c715fab-a290-487a-a4bf-76c6c86f8e98@Sun.senboonzakara.ir:443?path=%2Fsun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Sun.senboonzakara.ir&fp=chrome&type=ws&sni=Sun.senboonzakara.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
 
