@@ -56,27 +56,15 @@ vless://3f9c8463-8610-3ed8-86c8-a26713067825@188.114.98.0:443?path=%2Fdb10240eb7
 
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40vmess_iran
 
-vless://387a1826-bf7c-48c5-afd6-50796c40a0b3@bes.psyacoo.sbs:50141?security=none&encryption=none&host=bitcoin.org&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40confegraigan
-
-vless://8af919d5-c30e-4f2b-a5f5-b67622d7f416@91.107.186.197:53583?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40confegraigan
-
 vless://6164ebb2-bde1-46da-e601-1887d5393378@Sr44.mynor1.ir:8080?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayNG_SPDNet
 
 vmess://eyJhZGQiOiAiaXIubWloYW5tYXguY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5YWJkZjczMi0zYzkwLTRkZDktOTA3Yi02NDkzMmRiZmFhOTgiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjAyMSIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAVjJyYXlOR19TUEROZXQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 
-vless://53b6a466-2b4e-4edb-b3f3-f3cfb9d658c4@ultra.jahanover.sbs:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://bee9f9f6-9af2-4087-a526-b386dec1bb46@ir.api.clothesshopping.ir:19163?security=none&type=grpc&headerType=&serviceName=vless&authority=&mode=gun#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2HUBIR
-
-vless://60b06b06-e43e-9633-6381-30719a5bea9c@94.183.241.192:2087?security=none&type=tcp&headerType=none&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://d203ceae-d9a9-45bb-a07c-0eb52baf9130@78.157.37.186:2099?security=none&type=grpc&headerType=&serviceName=vless&authority=&mode=gun#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2HUBIR
-
-vless://02d9d91a-22b5-47a3-b586-caecd96ec030@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
 vless://bee9f9f6-9af2-4087-a526-b386dec1bb46@ir.api.clothesshopping.ir:19163?encryption=none&security=none&serviceName=vless&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2HUBIR
 
 vless://d203ceae-d9a9-45bb-a07c-0eb52baf9130@78.157.37.186:2099?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2HUBIR
+
+vless://02d9d91a-22b5-47a3-b586-caecd96ec030@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd@turkey.dehnavy.ir:36135?security=&encryption=none&host=skyroom.online%2C%20igap.net%2C%20gharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
@@ -449,6 +437,8 @@ vless://6e3e76bf-9928-4eec-be2b-f8ea12fcc47d@dash.mobileemdad.top:9560?security=
 vless://326960b8-7fa6-42f4-98cc-bbb868a6106d@s1.fastsnap.info:20943?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
 
 vless://42ad4aa3-5741-417a-9cf8-60be19fbcd0a@entekhabat.iran.asiatech.iranvatanam.com:538?security=none&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
+
+vless://387a1826-bf7c-48c5-afd6-50796c40a0b3@bes.psyacoo.sbs:50141?security=none&encryption=none&host=bitcoin.org&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
 
 vless://08b772b5-966b-4dd4-bbb1-0df97744a408@custom.rezadvr.ir:43434?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
 
