@@ -26,9 +26,13 @@ vless://fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b@1.iran2.axenet.company:1118?securit
 
 vless://fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b@1.iran2.axenet.company:1120?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=zaya1.ketabland.org#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40azadi_config
 
-vless://753a71a8-53f5-44c1-851e-93d3eb642d89@denew2.hexogate.com:5052?security=reality&encryption=none&pbk=G9VRKdI0lkkYaPWk80dAneuxi7Me9RspWZ86qDRBXlg&headerType=none&fp=firefox&type=tcp&sni=www.bing.com&sid=a9c3f17b5d2e8a01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigX2ray
+vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@104.19.1.89:2096?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=ita.data-recive.ir&type=xhttp&allowInsecure=0&sni=ita.data-recive.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40ConfigX2ray
 
-vless://2w7S91Wf0cdonFx5pNkdNMZn4xhn/e8UhGHc8NC1aBpTQqNyb8SBMF/FhvAg2MILb1pD4h/NfuvtQrs+QvDL6n0XdnEQFdct0qPUMwbVAl3Kz24py9LPmd+BEvaO+rCLKq/hPB5TPY8MlgfG150yDH6KgZWYkciUt0WvEuZcB2tiuKkMRmNq47wK+fh4myJJ9e7jO00A21QgCdRVwFfs1GyD1XWmJWuXUg9tGHGbLTdY6iO0CtY7vckJv5GiG42tze6TcsVIlv5lGug4g22wDaBYPPA+852m9zK9AzKtwKtAr/VOGwGgRaG0VKIiLgWI#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.158.2:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
+
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?path=%2F&security=tls&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
+
+vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@104.20.7.182:2096?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=finmk212.data-recive.ir&type=xhttp&allowInsecure=0&sni=finmk212.data-recive.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40ConfigX2ray
 
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?security=tls&encryption=none&insecure=1&headerType=&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=deu549.worldbypass.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigX2ray
 
@@ -39,20 +43,6 @@ vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@146.103.102.82:80?path=%2FgetWorker
 vless://54e5a989-5938-43ce-ba58-026ddbfd4d7b@45.141.234.159:30724?security=reality&encryption=none&pbk=KcWxOI6Y2kqFd_cg4bu-hWBZDlsJhT6TyRHhwFAHa0A&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=eab8ab08e4d6faa0#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigX2ray
 
 vless://0c49f1d8-3d34-473b-bebf-9d9a4811db62@45.141.234.196:51472?security=reality&encryption=none&pbk=hvFQArY-PeMdz4jfKEGZ9HgIJvZbR5Bd9F0GgNLemQI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=ab4398ec00fc775d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigX2ray
-
-vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@104.19.1.89:2096?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=ita.data-recive.ir&type=xhttp&allowInsecure=0&sni=ita.data-recive.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40ConfigX2ray
-
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?path=%2F&security=tls&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
-
-vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@104.20.7.182:2096?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=finmk212.data-recive.ir&type=xhttp&allowInsecure=0&sni=finmk212.data-recive.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40ConfigX2ray
-
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.158.2:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
-
-vless://76af46ef-439b-4062-a366-52f862dadc70@V1.socialser.org:442?security=none&encryption=none&host=google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
-
-vless://6723e687-e5cd-4ca5-a446-832e447847b3@api-main-frank1.cdnpark.net:305?security=none&encryption=none&host=web.igap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
-
-vless://815dba60-0b12-4be4-9106-33952667e63b@snapp.ir:443?path=%2F%3F%40V_P_N_Ahmad&security=tls&encryption=none&alpn=h2,http/1.1&host=link-kon.ir&fp=chrome&type=ws&sni=snapp.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
 vless://ded7d38c-97fe-4f44-98db-63ea31dc66c8@s4.laptopstock7.com:9976?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40configraygan
 
