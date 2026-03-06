@@ -12,3 +12,11 @@ vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=%2
 
 vless://22facc17-dda1-4000-9b45-b56fee01ae6d@91.107.144.71:54250?security=reality&encryption=none&pbk=hqFjJmgoV9E8zs3YIpiOFOljQjYuskuJuWF3mzkBzh0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=ce8a4a0afd73a293#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40manVPN
 
+trojan://telegram-id-directvpn@3.124.229.240:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.229.240:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.124.229.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://d10bf921-9b53-434f-9fc7-2af7a3dad17b@109.95.65.242:8032?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40netmelli15
+
