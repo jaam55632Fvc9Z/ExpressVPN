@@ -14,15 +14,15 @@ vless://c19fb567-74a9-454f-9757-e612fc4be371@62.141.32.238:8443?security=reality
 
 vless://7a55574d-552b-419e-e1ea-e690636e9bed@marzha.antimage.ir:45591?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
-vless://e20bdce4-bc7a-48ef-841f-cfab846a5494@2.188.212.54:80?path=%2Fapi%2F&security=none&encryption=none&host=tk_tor.irannet.top&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
-
-vless://423c14e1-9879-4335-b371-e582ce0dbc14@185.97.119.239:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
-
 trojan://telegram-id-directvpn@13.37.88.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.88.196:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@13.37.88.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://e20bdce4-bc7a-48ef-841f-cfab846a5494@2.188.212.54:80?path=%2Fapi%2F&security=none&encryption=none&host=tk_tor.irannet.top&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
+
+vless://423c14e1-9879-4335-b371-e582ce0dbc14@185.97.119.239:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://cbd99b35-3229-42f1-bae4-dfc2a037974f@arsim3.bestfrends.ir:2092?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40proxymaann
 
