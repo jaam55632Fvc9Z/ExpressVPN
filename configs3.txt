@@ -74,13 +74,7 @@ trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:443?sni=10-bPb-WORKer-paNEL.pa
 
 vless://8c27381c-3124-0008-bfa3-76d1a00265c8@37.139.32.50:8443?type=tcp&security=reality&sni=ads.x5.ru&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
 
-vless://67fd9d67-7693-4a28-e7a1-fb02c8008cef@18.153.68.212:50170?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://65e0671a-3a42-4f6d-9cd5-3e0d4c6bc43f@40.rexg.ir:11001?security=none&encryption=none&host=fire194.centerplus.xyz&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
 vless://4292f5ab-8963-1770-8052-3615895ce4f1@146.185.242.246:51006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d8c6b58bcbb0c323#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
-
-hysteria2://0b8a288c@107.174.181.241:65160?security=tls&insecure=1&sni=%2FJOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet%3Fed%3D2560#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40V2rayNG_SPDNet
 
 vless://7f8da1f9-2d1c-43d8-ae16-2222e0c5da6b@s2.mesterkit.com:52917?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40proxy_tunnel
 
@@ -406,6 +400,8 @@ vless://9b48cbe2-62cf-4073-ae78-5f3aa6fb75d4@m3.anush.top:1404?security=none&enc
 
 vmess://eyJhZGQiOiAibjE3NjEyMTQ5MTAuNzRxeHYudG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzYxMjE0OTEwLjc0cXh2LnRvcCIsICJpZCI6ICIwMTFjNDY3MC1jZGRlLTQ0ZmItYjliZS04YTFlMjdhZjI2YzkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMgV1MtVExTIHwgQGNvbmZpZ3JheWdhbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibjE3NjEyMTQ5MTAuNzRxeHYudG9wIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 
+vless://67fd9d67-7693-4a28-e7a1-fb02c8008cef@18.153.68.212:50170?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
 trojan://telegram-id-privatevpns@52.47.37.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
 
 vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@104.16.253.83:443?allowInsecure=1&encryption=none&host=c0.ttlive4.dns-dynamic.net&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=c0.ttlive4.dns-dynamic.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40kanfig_kade
@@ -621,6 +617,8 @@ vless://f7fef35a-ef3e-4824-bcb0-62e94f7676c9@vdsina.oblakovpn.org:443?security=r
 vless://28c22b90-2c31-4e46-9cb3-d55fcab64294@78.157.47.150:52356?security=none&encryption=none&host=Zula.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://ed8cd325-e1b2-64dc-68dd-7ed60e278b5c@srv-s0.netmaster.cam:801?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
+
+vless://65e0671a-3a42-4f6d-9cd5-3e0d4c6bc43f@40.rexg.ir:11001?security=none&encryption=none&host=fire194.centerplus.xyz&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://a41e01c3-94a3-4fd0-c1e1-e7bab798c4c0@srfremehdi-1.vahidtoni.life:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@v2raysrv&sni=srfremehdi-1.vahidtoni.life#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40vpnplusee_free
 
