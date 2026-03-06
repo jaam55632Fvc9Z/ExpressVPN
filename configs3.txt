@@ -70,15 +70,13 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?type=tcp&securi
 
 vless://e8fb0f43-3497-4ef3-8a89-35bae56549b7@93.94.51.8:13380?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4&sid=99de062f46387d3e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
 
-vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@146.185.240.4:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://edc9daf2-fc2e-435b-a87b-8427020b1d40@217.16.25.94:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=urvTdWo4dZxKfyZPbqMnVhX319f-6W_7pZtHITljvy4&security=reality&sid=aca9&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://5df01bcc-0540-452d-bdaa-3374821fa984@pm5.vhuma.com:443?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
 
 vless://83b3bb17-bc07-453f-9f10-4264ae839314@89.34.230.234:443?security=tls&encryption=none&insecure=1&host=namasha.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1&sni=namasha.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40EmKavpn
 
 vless://423c14e1-9879-4335-b371-e582ce0dbc14@185.97.119.239:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
+
+vless://edc9daf2-fc2e-435b-a87b-8427020b1d40@217.16.25.94:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=urvTdWo4dZxKfyZPbqMnVhX319f-6W_7pZtHITljvy4&security=reality&sid=aca9&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://711dfaf3-7bc7-41d2-b471-f51067a3c41c@gemini.vhuma.com:65?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40BugFreeNet
 
