@@ -84,15 +84,15 @@ vless://7f8da1f9-2d1c-43d8-ae16-2222e0c5da6b@s2.mesterkit.com:52917?security=non
 
 vless://13e-2@85.133.197.205:21?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
 
-vless://423c14e1-9879-4335-b371-e582ce0dbc14@185.97.119.239:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+vless://9bc96c14-89fb-e475-0078-5b55db238d7c@caz6l.uk.digit-verse.com:8804?mode=auto&path=%2F&security=reality&encryption=none&pbk=LTi4um2kTdX2yCczh2KdI1_JzRw1q94Gr9AK5NB6-mg&fp=chrome&type=xhttp&sni=yahoo.com&sid=123d5baacd15b48c#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40EmKavpn
 
 vless://51ed1080-8708-4045-94c7-be593ba8e5d8@94.183.241.159:81?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://423c14e1-9879-4335-b371-e582ce0dbc14@185.97.119.239:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://80662112-2307-4b95-9837-b3d1cc6c0dd2@de-2-tun.healingfluence.org:8081/?type=tcp&headerType=http&host=cafebazaar.ir&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd@turkey.dehnavy.ir:36135?security=&encryption=none&host=skyroom.online%2C%20igap.net%2C%20gharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://9bc96c14-89fb-e475-0078-5b55db238d7c@caz6l.uk.digit-verse.com:8804?mode=auto&path=%2F&security=reality&encryption=none&pbk=LTi4um2kTdX2yCczh2KdI1_JzRw1q94Gr9AK5NB6-mg&fp=chrome&type=xhttp&sni=yahoo.com&sid=123d5baacd15b48c#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40EmKavpn
 
 trojan://telegram-id-directvpn@52.47.37.116:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
@@ -1623,4 +1623,6 @@ vless://c2691112-a756-862e-da3d-1e0f3846b0bb@tunn.vpsino.com:2087?security=none&
 vless://051e0777-6446-48cd-ab2a-9ba93ef6cb8d@gb2.vnet500.xyz:31005?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://06792207-b128-447b-b257-a0df0f5c899b@1kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:700?security=none&encryption=none&host=rubika.ir%2C+igap.net%2C+splus.ir%2C+skyroom.online&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40configraygan
+
+vless://fac62eac-1eec-4260-a991-0cac2f8745a3@partner.zoom.us:80?encryption=none&host=free-server.techsonic.ggff.net&path=/@Tech_Sonic&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20WS-None%20%7C%20%40v2nodes
 
