@@ -14,6 +14,8 @@ vless://1af7c6b3-e35e-4a47-90e5-cb082a24e6ec@de-3-tun-single.starping1.fun:8083?
 
 vless://86512219-2fe9-42ac-ab0d-dc7604f9afe9@det.web7ghost.top:2086?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40V2rayng_Fast
 
+vless://6b2de6fd-0c8a-4b5b-849a-ebb0688ea80f@ir9knu.smrfy.online:38902?encryption=none&type=tcp&headerType=http&host=trexplus.org&path=/#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40proxymaann
+
 vless://753a71a8-53f5-44c1-851e-93d3eb642d89@denew2.hexogate.com:5052?security=reality&encryption=none&pbk=G9VRKdI0lkkYaPWk80dAneuxi7Me9RspWZ86qDRBXlg&headerType=none&fp=firefox&type=tcp&sni=www.bing.com&sid=a9c3f17b5d2e8a01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigX2ray
 
 vless://2w7S91Wf0cdonFx5pNkdNMZn4xhn/e8UhGHc8NC1aBpTQqNyb8SBMF/FhvAg2MILb1pD4h/NfuvtQrs+QvDL6n0XdnEQFdct0qPUMwbVAl3Kz24py9LPmd+BEvaO+rCLKq/hPB5TPY8MlgfG150yDH6KgZWYkciUt0WvEuZcB2tiuKkMRmNq47wK+fh4myJJ9e7jO00A21QgCdRVwFfs1GyD1XWmJWuXUg9tGHGbLTdY6iO0CtY7vckJv5GiG42tze6TcsVIlv5lGug4g22wDaBYPPA+852m9zK9AzKtwKtAr/VOGwGgRaG0VKIiLgWI#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
@@ -21,6 +23,10 @@ vless://2w7S91Wf0cdonFx5pNkdNMZn4xhn/e8UhGHc8NC1aBpTQqNyb8SBMF/FhvAg2MILb1pD4h/N
 vless://fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b@1.iran2.axenet.company:1118?security=tls&type=tcp&headerType=none&path=&host=&sni=zaya1.ketabland.org&fp=#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigX2ray
 
 vless://fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b@1.iran2.axenet.company:1120?security=tls&type=tcp&headerType=none&path=&host=&sni=zaya1.ketabland.org&fp=#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigX2ray
+
+vless://95795ee5-e9aa-405e-9c45-1d64dfb3b6c3@bufa.heliyadak.ir:2455?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
+
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
 
 vless://fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b@1.iran2.axenet.company:1111?security=tls&encryption=none&headerType=none&type=tcp&sni=zaya1.ketabland.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
 
@@ -43,12 +49,6 @@ vless://65756824-435e-47c0-ff31-b24a5405e79d@116.203.11.168:2052?security=none&e
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#%F0%9F%87%A7%F0%9F%87%AC%20WS-None%20%7C%20%40manVPN
 
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.136.116:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
-
-vless://6b2de6fd-0c8a-4b5b-849a-ebb0688ea80f@ir9knu.smrfy.online:38902?encryption=none&type=tcp&headerType=http&host=trexplus.org&path=/#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40proxymaann
-
-vless://95795ee5-e9aa-405e-9c45-1d64dfb3b6c3@bufa.heliyadak.ir:2455?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
-
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
 
 vmess://eyJhZGQiOiAic2VyYi5zcnZ0b2dvLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYmI1M2YyMzctOWM4Ny00NTEwLWEzNDctZDk0MDlmYjhmNDQ0IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjk5MDAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQFBld2V6YVZQTiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
