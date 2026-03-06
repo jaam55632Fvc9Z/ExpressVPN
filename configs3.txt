@@ -12,27 +12,11 @@ vless://0a20fddc-8d3d-46ab-a8d6-d8d00299f80d@arsim3.bestfrends.ir:2092?security=
 
 vless://57286885-b4cc-477e-98cd-fd2bdd1dfe00@ukt.web7ghost.top:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
-trojan://telegram-id-directvpn@13.37.88.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.88.196:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.37.88.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+vless://1807220e-e9d1-ac9e-48f4-aec30e5290b6@79.175.167.111:12864?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://cbd99b35-3229-42f1-bae4-dfc2a037974f@arsim3.bestfrends.ir:2092?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40proxymaann
 
 vless://43fb8173-64f7-4a20-bb2e-11a42ad0799a@isv31x.smrfy.online:45965?encryption=none&type=tcp&headerType=http&host=trexplus.org&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40proxymaann
-
-vless://60c4d266-1244-4354-837f-d42b9f51077b@nt5.vhuma.com:8443?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayngSeven
-
-vless://6863526a-8c03-499d-8144-0087a9b78ab7@2.144.20.38:443?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayngSeven
-
-vless://870f0165-8308-4e53-b81f-8b54eaf03bd2@62.60.212.199:443?security=reality&encryption=none&pbk=KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA&headerType=none&fp=random&spx=%2F&type=tcp&sni=www.figma.com&sid=8784#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayngSeven
-
-vless://c19fb567-74a9-454f-9757-e612fc4be371@62.141.32.238:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayngSeven
-
-vless://7a55574d-552b-419e-e1ea-e690636e9bed@marzha.antimage.ir:45591?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayngSeven
-
-vless://1807220e-e9d1-ac9e-48f4-aec30e5290b6@79.175.167.111:12864?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.88.196:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayngSeven
 
@@ -564,6 +548,8 @@ vless://b6c0b793-ce27-48bb-a18b-ca1e6b6a90a7@finland.411r324.ir:1313?security=&e
 
 vless://26524cce-d514-4014-a426-365fb266a14d@52.19.138.237:8443?security=tls&sni=bt5hpm5jf6.chinam.eu.org&type=ws&host=bt5hpm5jf6.chinam.eu.org&path=/danfeng?ed=2560&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2nodes
 
+vless://c19fb567-74a9-454f-9757-e612fc4be371@62.141.32.238:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
 vless://c19fb567-74a9-454f-9757-e612fc4be371@85.114.138.39:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=dropbox.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://a91bfd34-3d81-42b2-b8d0-4a29e0a57889@Si.sanflow.ir:921?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
@@ -855,6 +841,10 @@ vless://456ad5c1-ac34-4e50-87d8-faec61ce462c@a1-gfawbcx.maxriser.ir:8082?securit
 vless://49855d97-2d13-453b-84b7-1d94af760777@185.141.107.110:11178?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://49a10d26-d2af-4d72-8c7a-12590eb423f9@46.245.120.148:48393?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://60c4d266-1244-4354-837f-d42b9f51077b@nt5.vhuma.com:8443?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://870f0165-8308-4e53-b81f-8b54eaf03bd2@62.60.212.199:443?security=reality&encryption=none&pbk=KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA&headerType=none&fp=random&spx=%2F&type=tcp&sni=www.figma.com&sid=8784#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
 
 vless://a6c79c8c-8682-4287-aabb-660143de38b7@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
