@@ -4,8 +4,6 @@ vless://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?type=tcp&s
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=pqh17v6.carwashipdir.shop&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2nodes
 
-vless://423c14e1-9879-4335-b371-e582ce0dbc14@185.97.119.239:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40proxy_tunnel
-
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4674?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2nodes
 
 trojan://telegram-id-privatevpns@52.28.154.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
@@ -121,6 +119,8 @@ vless://7a55574d-552b-419e-e1ea-e690636e9bed@marzha.antimage.ir:45591?security=n
 vmess://eyJhZGQiOiAiNzguMTU3LjYzLjc3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICIxYmUwMDRmMy0zMWY3LTRmOWQtOTk0MS0wZjQ5ZmY0MTA3YjkiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQHBycm9maWxlX3B1cnBsZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
 vless://727193c6-2bee-44bf-bea4-089538c4e530@dashh.dashti.cyou:50711?security=reality&encryption=none&pbk=0QZksUpNALQRl7s2dJ4MKQrusLEW6TRwtHSRmBol828&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=984db8b819e1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
+
+vless://423c14e1-9879-4335-b371-e582ce0dbc14@185.97.119.239:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 trojan://telegram-id-directvpn@13.37.88.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
