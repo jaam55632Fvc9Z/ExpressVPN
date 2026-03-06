@@ -4,10 +4,6 @@ vless://5976b860-e481-41e2-b2f2-9f8901bf84a2@94.183.241.159:22222?security=none&
 
 vmess://eyJhZGQiOiAidXNlcjU1MDcubG9naW4ua2FyaW0yMDAwLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhYTg0NThlOS0xOTgzLTQ5ZTItYTQyYy0yOWZiOWVhNDUzZjciLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTAwMzYiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQHBycm9maWxlX3B1cnBsZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
-vless://9bc96c14-89fb-e475-0078-5b55db238d7c@caz6l.uk.digit-verse.com:8804?mode=auto&path=%2F&security=reality&encryption=none&pbk=LTi4um2kTdX2yCczh2KdI1_JzRw1q94Gr9AK5NB6-mg&fp=chrome&type=xhttp&sni=yahoo.com&sid=123d5baacd15b48c#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40V2rayng_Fast
-
-vless://9bc96c14-89fb-e475-0078-5b55db238d7c@caz6l.uk.digit-verse.com:8804?mode=auto&path=%2F&security=LTi4um2kTdX2yCczh2KdI1_Jz-mg&xhttp&som&sid=123d5baacd15b48c#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
 vless://fb829049-08e7-4111-a909-0bd2256cb516@vpnstar.lithiumhost.ir:8080?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
@@ -26,16 +22,6 @@ vless://45fdb236-47b4-404c-a330-c66270de172e@ic.imsoon.io:45219?security=none&en
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=pqh20v3.carwashipdir.shop&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2nodes
 
-vless://8bc21af8-96d9-48a9-9bd7-6361684bedac@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
-vless://d203ceae-d9a9-45bb-a07c-0eb52baf9130@78.157.37.186:2099?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%8C%90%20GRPC-None%20%7C%20%40VIPV2rayNGNP
-
-vless://f164e068-c4d4-4603-a814-ff850c1da651@webb.gdsrguydsrghj.ir:3000?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
-vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?security=tls&encryption=none&insecure=1&host=afxmsv51.fx02.ccwu.cc&type=ws&allowInsecure=1&sni=afxmsv51.fx02.ccwu.cc#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
-
-vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=deu549.worldbypass.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40VIPV2rayNGNP
-
 vmess://eyJhZGQiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ1c2FhcHAxLmppc3V5dW4udG9wIiwgImlkIjogIjRiODBhYTg2LTQzNTQtNDBiYi1kMmEzLTQ3MTI2Y2ZmMGJlYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdXNhdm0iLCAicG9ydCI6ICIyMDUzIiwgInBzIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBXUy1UTFMgfCBAdjJub2RlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?encryption=none&security=reality&sni=api.push.apple.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
@@ -51,6 +37,8 @@ vless://a589a8c6-ddbb-496f-92bd-7422ea8c9fb7@isv31x.smrfy.online:45965?security=
 vless://e5a33157-a449-4a25-8bd4-d2b02d66aa38@de2.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#%F0%9F%87%BA%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?security=tls&encryption=none&insecure=1&host=afxmsv51.fx02.ccwu.cc&type=ws&allowInsecure=1&sni=afxmsv51.fx02.ccwu.cc#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
@@ -199,6 +187,8 @@ vless://9fdf7698-c269-439d-bcbe-5977ad25cc5c@4l.gexar.top:21791?encryption=none&
 vless://ac257956-149d-4fc4-969e-13ae4765aa4b@4l.gexar.top:21791?encryption=none&headerType=http&…#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
 
 vless://ac257956-149d-4fc4-969e-13ae4765aa4b@4l.gexar.top:21791?encryption=none&header…#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
+
+vless://9bc96c14-89fb-e475-0078-5b55db238d7c@caz6l.uk.digit-verse.com:8804?mode=auto&path=%2F&security=reality&encryption=none&pbk=LTi4um2kTdX2yCczh2KdI1_JzRw1q94Gr9AK5NB6-mg&fp=chrome&type=xhttp&sni=yahoo.com&sid=123d5baacd15b48c#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40meliproxyy
 
 vless://b6c0b793-ce27-48bb-a18b-ca1e6b6a90a7@finland.411r324.ir:1313?security=&encryption=none&host=skyroom.online%2C%2Bigap.net%2C%2Bgharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
 
