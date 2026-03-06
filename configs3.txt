@@ -6,6 +6,8 @@ vless://4292f5ab-8963-1770-8052-3615895ce4f1@146.185.242.246:51006?security=real
 
 vless://4292f5ab-8963-044c-8052-3615895ce4f1@37.139.33.187:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%A8%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://4292f5ab-8963-012c-8052-3615895ce4f1@37.139.33.187:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%A6%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2nodes
+
 vless://5976b860-e481-41e2-b2f2-9f8901bf84a2@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://fed939d1-6e3f-4f1b-8455-1d81468a34a6@a.vipnamusic.sbs:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
@@ -31,8 +33,6 @@ vless://0d11eed5-50e3-4e35-bc98-c316982ff0f2@wpmanage.levron.pro:2089?security=n
 vless://1cf6792c-079e-44f9-a2ce-2c00feae74bf@2.144.6.9:14032?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://7f8da1f9-2d1c-43d8-ae16-2222e0c5da6b@s2.mesterkit.com:52917?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40proxy_tunnel
-
-vless://4292f5ab-8963-012c-8052-3615895ce4f1@37.139.33.187:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%A6%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2nodes
 
 hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
 
