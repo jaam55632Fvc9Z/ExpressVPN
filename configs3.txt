@@ -10,9 +10,9 @@ vless://d051bb3b-ddd8-4ca6-bb28-f7fa57ebdef0@digi32.ez0535.com:3201?security=non
 
 vless://fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b@1.iran2.axenet.company:1112?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=zaya1.ketabland.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40PewezaVPN
 
-vless://82341ecd-ec7a-47c3-94cf-ecc1cbeb146f@fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray20261
-
 vless://879ffe2f-d6cd-48b7-b7ec-458fb4b66148@sv6n.tsteamzd.top:10006?security=none&type=tcp&headerType=http&path=%2F&host=cafeariel.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549@vb13.homianco.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
 
 vless://6b2de6fd-0c8a-4b5b-849a-ebb0688ea80f@ir9knu.smrfy.online:38902?encryption=none&type=tcp&headerType=http&host=trexplus.org&path=/#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40proxymaann
 
@@ -25,8 +25,6 @@ vless://b3be6e1b-a6c2-4dfa-85a1-44df455554d1@arsim2.bestfrends.ir:2094?security=
 vless://fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b@1.iran2.axenet.company:1118?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=zaya1.ketabland.org#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40azadi_config
 
 vless://fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b@1.iran2.axenet.company:1120?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=zaya1.ketabland.org#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40azadi_config
-
-vless://d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549@vb13.homianco.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40azadi_config
 
 vless://753a71a8-53f5-44c1-851e-93d3eb642d89@denew2.hexogate.com:5052?security=reality&encryption=none&pbk=G9VRKdI0lkkYaPWk80dAneuxi7Me9RspWZ86qDRBXlg&headerType=none&fp=firefox&type=tcp&sni=www.bing.com&sid=a9c3f17b5d2e8a01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigX2ray
 
@@ -56,11 +54,11 @@ vless://6723e687-e5cd-4ca5-a446-832e447847b3@api-main-frank1.cdnpark.net:305?sec
 
 vless://815dba60-0b12-4be4-9106-33952667e63b@snapp.ir:443?path=%2F%3F%40V_P_N_Ahmad&security=tls&encryption=none&alpn=h2,http/1.1&host=link-kon.ir&fp=chrome&type=ws&sni=snapp.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
-vless://65756824-435e-47c0-ff31-b24a5405e79d@116.203.11.168:2052?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vpnplusee_free
-
 vless://ded7d38c-97fe-4f44-98db-63ea31dc66c8@s4.laptopstock7.com:9976?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40configraygan
 
 vless://ded7d38c-97fe-4f44-98db-63ea31dc66c8@s5.laptopstock7.com:9976?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40configraygan
+
+vless://65756824-435e-47c0-ff31-b24a5405e79d@116.203.11.168:2052?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vpnplusee_free
 
 trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40xsfilternet
 
