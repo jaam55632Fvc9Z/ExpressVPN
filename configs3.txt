@@ -10,10 +10,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.100.172:22224?type=ws&securit
 
 trojan://telegram-id-privatevpns@13.39.100.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
-vless://1af7c6b3-e35e-4a47-90e5-cb082a24e6ec@de-3-tun-single.starping1.fun:8083?security=none&allowInsecure=0&encryption=none&type=tcp&host=www.speedtest.net&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://86512219-2fe9-42ac-ab0d-dc7604f9afe9@det.web7ghost.top:2086?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40V2rayng_Fast
-
 vless://6b2de6fd-0c8a-4b5b-849a-ebb0688ea80f@ir9knu.smrfy.online:38902?encryption=none&type=tcp&headerType=http&host=trexplus.org&path=/#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40proxymaann
 
 vless://753a71a8-53f5-44c1-851e-93d3eb642d89@denew2.hexogate.com:5052?security=reality&encryption=none&pbk=G9VRKdI0lkkYaPWk80dAneuxi7Me9RspWZ86qDRBXlg&headerType=none&fp=firefox&type=tcp&sni=www.bing.com&sid=a9c3f17b5d2e8a01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigX2ray
@@ -45,10 +41,6 @@ vless://6723e687-e5cd-4ca5-a446-832e447847b3@api-main-frank1.cdnpark.net:305?sec
 vless://815dba60-0b12-4be4-9106-33952667e63b@snapp.ir:443?path=%2F%3F%40V_P_N_Ahmad&security=tls&encryption=none&alpn=h2,http/1.1&host=link-kon.ir&fp=chrome&type=ws&sni=snapp.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
 vless://65756824-435e-47c0-ff31-b24a5405e79d@116.203.11.168:2052?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vpnplusee_free
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#%F0%9F%87%A7%F0%9F%87%AC%20WS-None%20%7C%20%40manVPN
-
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.136.116:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
 
 vmess://eyJhZGQiOiAic2VyYi5zcnZ0b2dvLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYmI1M2YyMzctOWM4Ny00NTEwLWEzNDctZDk0MDlmYjhmNDQ0IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjk5MDAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQFBld2V6YVZQTiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
@@ -1090,6 +1082,8 @@ vless://eb4f770d-f8d7-4e15-acbe-d42f16bf1cda@gamix.ncop.ir:2086?security=none&en
 
 vless://26524cce-d514-4014-a426-365fb266a14d@104.16.71.33:443?&security=tls&fp=random&sni=lirpeuijr.chinav.indevs.in&type=ws&headerType=none&host=lirpeuijr.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2nodes
 
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.136.116:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
+
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%87%A6%F0%9F%87%BA%20WS-None%20%7C%20%40manVPN
 
 vmess://eyJhZGQiOiAidjUuY2RuLmZranc0d3EwZzUuZXdkZG5zLm5ldCIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFdTLU5vbmUgfCBAdjJub2RlcyIsICJwb3J0IjogNTUwMywgImlkIjogIjNmYTNjYzM4LTlhZDEtNDQ0ZC04ODNlLTIxZmJkYzQ1MzJhZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ2NS5jZG4uZmtqdzR3cTBnNS5ld2RkbnMubmV0IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
@@ -1653,4 +1647,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=%2F&security
 vless://81b73edd-d42d-ff2f-051d-6600595e406d@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://958f6b9f-1628-4816-b3b6-7cdf4dc8cf03@6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:705?security=none&encryption=none&host=rubika.ir%2C+igap.net%2C+splus.ir%2C+skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=myket.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
+
+vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=myket.ir&type=ws&sni=myket.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
 
