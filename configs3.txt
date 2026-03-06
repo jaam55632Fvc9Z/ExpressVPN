@@ -20,8 +20,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.150.196:22224?type=ws&securi
 
 trojan://telegram-id-privatevpns@63.182.150.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
-vless://60b06b06-e43e-9633-6381-30719a5bea9c@94.183.241.192:2087?security=none&type=tcp&headerType=none&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40V2rayng_Fast
-
 vless://c3f6cc06-cc1a-4ab4-d7f8-a3c90b832dc4@185.173.129.127:102?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
 vless://84306d25-e61b-4f21-b55e-67ab6699060f@130.185.73.92:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
@@ -77,6 +75,8 @@ vless://6e3e76bf-9928-4eec-be2b-f8ea12fcc47d@dash.mobileemdad.top:9560?encryptio
 vless://53b6a466-2b4e-4edb-b3f3-f3cfb9d658c4@ultra.jahanover.sbs:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://bee9f9f6-9af2-4087-a526-b386dec1bb46@ir.api.clothesshopping.ir:19163?security=none&type=grpc&headerType=&serviceName=vless&authority=&mode=gun#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2HUBIR
+
+vless://60b06b06-e43e-9633-6381-30719a5bea9c@94.183.241.192:2087?security=none&type=tcp&headerType=none&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://d203ceae-d9a9-45bb-a07c-0eb52baf9130@78.157.37.186:2099?security=none&type=grpc&headerType=&serviceName=vless&authority=&mode=gun#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2HUBIR
 
