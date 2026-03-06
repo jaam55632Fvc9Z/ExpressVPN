@@ -12,7 +12,7 @@ vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?security=tls&en
 
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=deu549.worldbypass.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40prrofile_purple
 
-vless://9bc96c14-89fb-e475-0078-5b55db238d7c@caz6l.uk.digit-verse.com:8804?mode=auto&path=%2F&security=reality&encryption=none&pbk=LTi4um2kTdX2yCczh2KdI1_JzRw1q94Gr9AK5NB6-mg&fp=chrome&type=xhttp&sni=yahoo.com&sid=123d5baacd15b48c#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40EmKavpn
+vless://5976b860-e481-41e2-b2f2-9f8901bf84a2@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
 trojan://telegram-id-directvpn@52.47.37.116:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
@@ -21,6 +21,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.37.116:22224?type=ws&security
 trojan://telegram-id-privatevpns@52.47.37.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
 vless://7f518b87-e6e8-4058-9926-05ae078104d2@194.60.228.208:4005?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://9bc96c14-89fb-e475-0078-5b55db238d7c@caz6l.uk.digit-verse.com:8804?mode=auto&path=%2F&security=reality&encryption=none&pbk=LTi4um2kTdX2yCczh2KdI1_JzRw1q94Gr9AK5NB6-mg&fp=chrome&type=xhttp&sni=yahoo.com&sid=123d5baacd15b48c#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40V2rayng_Fast
 
 vless://dbd5654a-cba5-4b75-8ee8-bb25a5f8e14a@94.183.241.159:22222?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
@@ -45,8 +47,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowIns
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=pqh31v1.carwashipdir.shop&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2nodes
 
 vless://45fdb236-47b4-404c-a330-c66270de172e@ic.imsoon.io:45219?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2nodes
-
-vless://5976b860-e481-41e2-b2f2-9f8901bf84a2@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=pqh20v3.carwashipdir.shop&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2nodes
 
@@ -1599,4 +1599,8 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@179.43.176.216:443?&security=tls&fp
 vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
 
 trojan://telegram-id-privatevpns@3.124.229.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=troja.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40BrilliantGift
+
+vless://c0ac5114-b6e9-216a-4c11-9ac0c515b8ff@dragon.socialxxmedia.pro:350/?encryption=none&type=tcp&headerType=http&host=fast.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
+
+vless://419be96a-f900-4b0a-aecd-9402bddcfc4c@62.60.146.14:16020?encryption=none&type=tcp&headerType=http&path=%2F&host=igap.net#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
