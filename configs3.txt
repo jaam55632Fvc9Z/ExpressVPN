@@ -100,11 +100,11 @@ vless://80662112-2307-4b95-9837-b3d1cc6c0dd2@de-2-tun.healingfluence.org:8081/?t
 
 vless://9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd@turkey.dehnavy.ir:36135?security=&encryption=none&host=skyroom.online%2C%20igap.net%2C%20gharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
-vless://7f518b87-e6e8-4058-9926-05ae078104d2@194.60.228.208:4005?encryption=none&type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40proxymaann
-
 vless://7f518b87-e6e8-4058-9926-05ae078104d2@194.60.228.208:4005?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://dbd5654a-cba5-4b75-8ee8-bb25a5f8e14a@94.183.241.159:22222?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://7f518b87-e6e8-4058-9926-05ae078104d2@194.60.228.208:4005?encryption=none&type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40proxymaann
 
 vless://4dc44daf-52e7-4c47-b87f-cbe86c04c74c@185.143.234.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
 
@@ -1631,4 +1631,6 @@ trojan://telegram-id-directvpn@51.44.109.231:22223?security=tls&alpn=http/1.1&he
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.109.231:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@51.44.109.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://b257-a0df0f5c899b@1kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:700?security=none&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
