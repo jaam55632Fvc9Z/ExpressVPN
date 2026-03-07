@@ -14,9 +14,13 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?security=reality&
 
 vless://db764e29-170a-4f2e-8c5e-c7e33b2d1344@1mobile.cfd:10738?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
+vless://1b0b95da-aeb3-8d3e-b03c-63eee27c92a1@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=turbo.unlimiteds.site#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
+
 vless://24d75d1c-4745-4df6-80f9-4a0de7eb4b2f@65.109.221.209:49797?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://d3bd917a-cd7c-85c9-caa5-557cc2a5cd82@photon.unlimiteds.site:660?type=tcp&headerType=http&host=fast.com&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://19a2d48d-96f1-b777-4b96-7c4f9848f2c4@photon.unlimiteds.site:660?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=photon.unlimiteds.site#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://26524cce-d514-4014-a426-365fb266a14d@144.24.140.37:443?&security=tls&fp=random&sni=lirpeuijr.chinav.indevs.in&type=ws&headerType=none&host=lirpeuijr.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2nodes
 
@@ -40,8 +44,6 @@ vless://b31c46fe-25db-4109-ab46-3f1343bd752b@airman-defense.oblivionspark.com:58
 
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.67.110.232:443?path=%2Fazadnet-919.pages.dev%2F%3Fed%3D2560%26prot_type%3Dvless&security=tls&encryption=none&insecure=0&host=azadnet-919.pages.dev&fp=randomized&type=ws&allowInsecure=0&sni=azadnet-919.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_iran
 
-vless://1b0b95da-aeb3-8d3e-b03c-63eee27c92a1@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=turbo.unlimiteds.site#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmess_iran
-
 vless://20a70054-8d93-4c8c-b8f0-d1113f431daf@neth15.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=neth15.youtuber-vps.com&sid=b95d09fc94955ba4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vmess_iran
 
 vless://5e5d004d-b55b-4184-b3bb-7e99cd58b4da@de-1-tun-single.starping1.fun:8083?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmess_iran
@@ -55,8 +57,6 @@ vless://8ebd3e05-ffc2-4193-e0cf-94987f98b77b@arz.radargame.site:8443?security=tl
 vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@tr1.googel-arana.online:1005?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
 
 vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
-
-vless://19a2d48d-96f1-b777-4b96-7c4f9848f2c4@photon.unlimiteds.site:660?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=photon.unlimiteds.site#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
 
