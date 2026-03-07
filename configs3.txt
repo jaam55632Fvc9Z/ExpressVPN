@@ -14,11 +14,11 @@ vless://c19fb567-74a9-454f-9757-e612fc4be371@85.114.138.39:8443?flow=xtls-rprx-v
 
 vless://e5a33157-a449-4a25-8bd4-d2b02d66aa38@de2.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.108.135:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yandex.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
 vmess://eyJhZGQiOiJwMTcuZm9ydG50aW5lLWdhbWUudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFhMGQxZDE2LWVhOGMtNGMwYi05M2UwLWQwZWY1MzQxODhhMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiOTUwMCIsInBzIjoiQGNvbmZpZ3JheWdhbiDwn5WKINin2K7Yqti12Kf…#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://73954be3-fb0b-4fea-bff1-29c6adfd1ad9@germany.411r324.ir:1313?security=none&encryption=none&host=skyroom.online%2C+igap.net%2C+gharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.108.135:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yandex.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
 trojan://Nova-Proxy@190.93.244.43:8443?path=%2F%3Fed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
@@ -1589,4 +1589,20 @@ vless://becd8a5a-775e-4613-beae-4c537721bc60@2.144.22.84:8008?security=none&encr
 vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://d463f08d-10ee-449a-82fe-437795d95ae4@mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://425b7d48-b737-4850-aed1-14c763be44ae@1:1?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
+
+vless://425b7d48-b737-4850-aed1-14c763be44ae@hol.pngcon.top:9051?security=none&encryption=none&host=refersion.com%2Cplay.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
+
+vless://425b7d48-b737-4850-aed1-14c763be44ae@irmon.ipng.site:9056?security=none&encryption=none&host=refersion.com%2Cplay.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
+
+vless://425b7d48-b737-4850-aed1-14c763be44ae@cro.pngcon.top:9053?security=none&encryption=none&host=refersion.com%2Cplay.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
+
+vless://70f7934d-c54a-4294-a00d-0908ac9f3068@www.tomandjery.eu:1003?security=reality&encryption=none&pbk=3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40ConfigV2rayNG
+
+vless://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun3.kheyrienoor.ir:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40ConfigV2rayNG
+
+vless://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun1.kheyrienoor.ir:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40ConfigV2rayNG
+
+vless://e0f6e954-8ca5-44d6-b434-61af7c8d36f3@taktun2.majalekhodrostore.ir:50325?security=none&encryption=none&host=ikcosales.ir&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40ConfigV2rayNG
 
