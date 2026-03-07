@@ -76,8 +76,6 @@ vless://8c27381c-3124-0008-bfa3-76d1a00265c8@37.139.32.50:8443?type=tcp&security
 
 vmess://eyJhZGQiOiAidXNlcjU1MDcubG9naW4ua2FyaW0yMDAwLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhYTg0NThlOS0xOTgzLTQ5ZTItYTQyYy0yOWZiOWVhNDUzZjciLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTAwMzYiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQEVtS2F2cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 
-vless://727193c6-2bee-44bf-bea4-089538c4e530@dashh.dashti.cyou:50711?type=tcp&security=reality&pbk=0QZksUpNALQRl7s2dJ4MKQrusLEW6TRwtHSRmBol828&fp=chrome&sni=www.yahoo.com&sid=984db8b819e1&spx=/#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://f85c9efa-da9d-4f86-a497-e92a89ffb572@F2.HaMrAhCoNf.Ir:8443?security=tls&type=ws&headerType=&path=/&host=p3-sync-06.secoxi.site&sni=sp.secoxi.site&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2nodes
 
 vless://4292f5ab-8963-1770-8052-3615895ce4f1@146.185.242.246:51006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d8c6b58bcbb0c323#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
@@ -1861,4 +1859,6 @@ vless://8b7df747-8680-45fe-80a2-934bfe983024@nwugrmnene.ultraserver.store:6274?s
 vless://becd8a5a-775e-4613-beae-4c537721bc60@2.144.22.84:8008?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
 
 vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
+
+vless://0ce9f160-10b3-bea2-59d0-37e6137e2a22@tunn.vpsino.com:2096?security=none&type=tcp&headerType=none&path=%2F&host=nobitex.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
