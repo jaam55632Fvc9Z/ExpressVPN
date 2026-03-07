@@ -122,22 +122,6 @@ vless://e9adbac6-90e1-4c1f-ad17-46226d45a262@85.133.221.52:3001?security=none&en
 
 vless://0032ca43-03f8-4d60-8c0e-0c4d3f51e9c3@185.136.135.172:40915?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
 
-vless://bee9f9f6-9af2-4087-a526-b386dec1bb46@ir.api.clothesshopping.ir:19163?encryption=none&security=none&serviceName=vless&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2HUBIR
-
-vless://95795ee5-e9aa-405e-9c45-1d64dfb3b6c3@bufa.heliyadak.ir:2455?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
-
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
-
-vless://d203ceae-d9a9-45bb-a07c-0eb52baf9130@78.157.37.186:2099?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2HUBIR
-
-vless://02d9d91a-22b5-47a3-b586-caecd96ec030@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://13b63262-5da7-41d2-a943-27d4deed897b@212.80.21.220:10200?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://3c26db15-402f-43bf-a3d6-bfff5a7728ca@ger2.md-teach.com:32075?encryption=none&type=tcp&headerType=http&host=parsabr.ir&path=/path&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://dba833ca-38b5-40dd-b725-c7f61be99871@fr.speadnet.ir:7777?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
 vless://9d78b6b9-bfaf-4f2f-b5b8-3051ee3f7722@194.145.119.216:8082?security=none&encryption=none&host=virgool.io&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://80662112-2307-4b95-9837-b3d1cc6c0dd2@de-2-tun.healingfluence.org:8081?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
@@ -461,6 +445,8 @@ vless://a41e01c3-94a3-4fd0-c1e1-e7bab798c4c0@srfremehdi-1.vahidtoni.life:2096?mo
 vless://df8c77ef-8e6d-0be6-eb03-a849a6ac02e5@photon.unlimiteds.site:660?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=photon.unlimiteds.site#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://1f1182df-aae8-669c-9402-afbf305da043@nltn1.techabzar.ir:2032?security=&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
 vless://d5cdee01-d5f6-40d7-b40a-8e0a8a4ed376@212.80.10.249:2020?encryption=none&type=ws&host=myket.ir&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
