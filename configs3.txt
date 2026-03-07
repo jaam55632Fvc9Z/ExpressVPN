@@ -34,8 +34,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.44.47:22224?type=ws&security
 
 trojan://telegram-id-privatevpns@15.236.44.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
-vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
 vless://7c607c15-6c0c-60e6-602e-08936fca83c3@lord.socialxxmedia.pro:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://26524cce-d514-4014-a426-365fb266a14d@144.24.140.37:443?&security=tls&fp=random&sni=lirpeuijr.chinav.indevs.in&type=ws&headerType=none&host=lirpeuijr.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2nodes
@@ -59,6 +57,8 @@ vless://bd5bcf92-5a9b-429f-998c-8e4115ed5357@94.183.241.159:22222?security=none&
 vless://8ebd3e05-ffc2-4193-e0cf-94987f98b77b@arz.radargame.site:8443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=arz.radargame.site#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
 
 vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@tr1.googel-arana.online:1005?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://24d75d1c-4745-4df6-80f9-4a0de7eb4b2f@65.109.221.209:49797?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
