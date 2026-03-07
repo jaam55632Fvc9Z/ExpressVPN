@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://nn1458rz-cdlk-9ak3-2cjb-f0xybedrfp0v@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://adqldwyi-afza-fumu-pb6m-q5xeglg5j9sc@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://2fiyxiyh-gf4k-lond-j13l-07gnmy578w2i@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://mt4y5qwn-7o4b-thrt-jmh8-1teavgmk8l4b@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://swyvq79b-bxgx-vv78-i9q4-gsmjk51cwet2@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://qbgphe0j-p44q-q34r-r6y6-r9dknq6oylhj@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://telegram-id-directvpn@3.139.145.191:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyBOb25lIiwiYWRkIjoiN2NjMDJhYjktMzQ3OC0xNzMzLWVhOTQtMmI0NWQ4ZTExNWEwLmJ1Z3Rpay5sdGQiLCJwb3J0Ijo4MCwiaWQiOiI0NmNmY2ZlMS1lNDUwLTQ1OWQtYTNhYi05NDA2MDExYWIzZWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
-
 vless://1b0b95da-aeb3-8d3e-b03c-63eee27c92a1@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=turbo.unlimiteds.site#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
 
 vless://435d3474-5a1f-4fbe-b62d-f82fa00e4516@s4.laptopstock7.com:9976?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
@@ -37,8 +21,6 @@ vless://74da7a3a-3686-42fc-801f-c02dae2d0f93@185.232.152.24:443?security=tls&enc
 vless://dc558369-4df5-45a0-ca05-1e2b7c572bcf@dl2.iranifarmoon.ir:33553?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://dd2121e0-d41a-4802-bbeb-2b91122ca732@94.183.149.168:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40proxymaann
-
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://26524cce-d514-4014-a426-365fb266a14d@144.24.140.37:443?&security=tls&fp=random&sni=lirpeuijr.chinav.indevs.in&type=ws&headerType=none&host=lirpeuijr.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2nodes
 
@@ -148,6 +130,8 @@ trojan://igabjvua-rohd-qnbt-j4tw-aw3q5d0sdgoa@127.0.0.1:2080?security=tls&type=t
 
 trojan://g6km2h14-pigb-21uj-bduo-473ip9g3x7ud@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
+vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ0xPVURGTEFSRU5FVCBcdTI1MDcgMTcyLjY3LjExNi40OCIsImFkZCI6IjE3Mi42Ny4xMTYuNDgiLCJwb3J0Ijo4MCwiaWQiOiIyMmExM2FhMi00ODU0LTQ0Y2ItZTA5MC1lYzcxYWI4NGIxZmYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
 trojan://qxcq5sxy-sqjb-ecuy-gq71-rx7aam15gapz@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://9861nqcu-iunk-duaa-jeqr-sgfgv33mlv26@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -159,6 +143,20 @@ trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&peer=www.calmlunch.com&
 trojan://3690911436885991424@careful-platypus.opossum872.cfd:443?security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://telegram-id-privatevpns@18.159.99.186:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://nn1458rz-cdlk-9ak3-2cjb-f0xybedrfp0v@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://adqldwyi-afza-fumu-pb6m-q5xeglg5j9sc@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://2fiyxiyh-gf4k-lond-j13l-07gnmy578w2i@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://mt4y5qwn-7o4b-thrt-jmh8-1teavgmk8l4b@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://swyvq79b-bxgx-vv78-i9q4-gsmjk51cwet2@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://qbgphe0j-p44q-q34r-r6y6-r9dknq6oylhj@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://telegram-id-directvpn@3.139.145.191:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 vless://e51a6f44-8fc3-402b-889a-405c7228ad5c@q.panel.digikalapro.ir:2095?path=%2FHellshop&security=none&encryption=none&host=ikcosales.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
@@ -1731,4 +1729,6 @@ vless://7061a7ca-787e-4dd2-8876-51b0ff01964c@link.mizbanertebatfarda.site:3010?p
 vmess://eyJhZGQiOiAiZ3IxLmlyYW5pc2hvcHMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI2OTk3ZWQ0OC0yNzMzLTQwZjgtYmE4Ny01NjZlM2VmZGM1ZDAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAY29uZmlncmF5Z2FuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 
 vmess://eyJhZGQiOiAia2xvdG9wLm9mZmljaWFsdnBuLnNob3AiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImUzNTg3MGQ5LWEwNzktNDFlOS05NDJjLTgwNGY4NTNiM2ZhMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTIwNDgiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://f863a208-8b1a-4829-b952-140c5dc76849@airman-defense.oblivionspark.com:5874?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayngSeven
 
