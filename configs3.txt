@@ -84,8 +84,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.61.161:22224?type=ws&security
 
 trojan://telegram-id-privatevpns@13.39.61.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
-vless://19a2d48d-96f1-b777-4b96-7c4f9848f2c4@photon.unlimiteds.site:660?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=photon.unlimiteds.site#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
 vless://b623a8a7-46f4-4666-9f8d-01032c24fdf7@diddy.com:8080?path=%2F%3Fed%3D2056&security=none&encryption=none&host=Net7v2.abcdefiran.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40V2rayng_Fast
 
 vless://74da7a3a-3686-42fc-801f-c02dae2d0f93@185.232.152.24:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=S3Bucket.4cdn.lat#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2rayng_Fast
@@ -1739,4 +1737,10 @@ trojan://telegram-id-privatevpns@35.180.7.142:22222?security=tls&alpn=http/1.1&h
 vless://74f6348b-bc9a-4175-93f9-080afda56da8@io.market.iran-rom.ir:50330?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
 
 vless://74f6348b-bc9a-4175-93f9-080afda56da8@u.usa.forbes.com.chellservice.ir:1820?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
+
+vless://7061a7ca-787e-4dd2-8876-51b0ff01964c@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=myket.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
+
+vmess://eyJhZGQiOiAiZ3IxLmlyYW5pc2hvcHMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI2OTk3ZWQ0OC0yNzMzLTQwZjgtYmE4Ny01NjZlM2VmZGM1ZDAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAY29uZmlncmF5Z2FuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+
+vmess://eyJhZGQiOiAia2xvdG9wLm9mZmljaWFsdnBuLnNob3AiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImUzNTg3MGQ5LWEwNzktNDFlOS05NDJjLTgwNGY4NTNiM2ZhMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTIwNDgiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
