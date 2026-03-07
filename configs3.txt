@@ -28,12 +28,6 @@ vless://4ce367e8-89bf-43f7-a04d-d94bab948fc6@v10.atlax.ir:59680?security=none&en
 
 vless://db764e29-170a-4f2e-8c5e-c7e33b2d1344@1mobile.cfd:10738?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
 
-trojan://telegram-id-directvpn@15.236.44.47:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.44.47:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@15.236.44.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 vless://7c607c15-6c0c-60e6-602e-08936fca83c3@lord.socialxxmedia.pro:440?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://24d75d1c-4745-4df6-80f9-4a0de7eb4b2f@65.109.221.209:49797?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
@@ -54,15 +48,15 @@ vless://94b0206c-9117-4f47-b702-749ac3d5763d@www.aparatgame.online:3006?security
 
 trojan://Nova-Proxy@141.101.113.223:8443?path=%2F%3Fed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_iran
 
-vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@us1.googel-arana.online:1007?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@us1.googel-arana.online:1007?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
 
-vless://bd5bcf92-5a9b-429f-998c-8e4115ed5357@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+vless://bd5bcf92-5a9b-429f-998c-8e4115ed5357@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
 
-vless://8ebd3e05-ffc2-4193-e0cf-94987f98b77b@arz.radargame.site:8443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=arz.radargame.site#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
+vless://8ebd3e05-ffc2-4193-e0cf-94987f98b77b@arz.radargame.site:8443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=arz.radargame.site#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigX2ray
 
-vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@tr1.googel-arana.online:1005?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@tr1.googel-arana.online:1005?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
 
-vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
 
 vless://20a70054-8d93-4c8c-b8f0-d1113f431daf@israel.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=israel.youtuber-vps.com&sid=b95d09fc94955ba4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vmess_iran
 
