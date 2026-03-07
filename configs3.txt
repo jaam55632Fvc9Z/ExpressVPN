@@ -18,17 +18,9 @@ vless://36d63b0e-af50-4989-adf0-5a0787948237@217.16.27.208:8443?flow=xtls-rprx-v
 
 vless://f514dfd2-fefe-49bd-e9a2-28225b9b338b@47.236.148.7:42759?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2nodes
 
-trojan://Nova-Proxy@190.93.244.43:8443?path=%2F%3Fed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
-
-vless://ece350a5-35d4-47fa-a5d7-9dd60409634a@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
-
-vmess://eyJhZGQiOiAiMi4xNDQuNy4xMzkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjFmN2FhNGFhLTUyYmUtNDVjMS1iYzJjLTVhMDhlMTZjMTRmYSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzI4NTMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://454c9327-33cd-4aae-b69f-57f1e323fa08@nl1.vnet500.xyz:26074?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40configraygan
 
 vless://b6c0b793-ce27-48bb-a18b-ca1e6b6a90a7@finland.411r324.ir:1313?security=none&encryption=none&host=skyroom.online%2C+%2Bigap.net%2C+%2Bgharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
-
-vless://fcb5f45a-c967-458b-a6d0-85fc529f6302@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
-
-vless://454c9327-33cd-4aae-b69f-57f1e323fa08@nl1.vnet500.xyz:26074?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40configraygan
 
 vless://b6c0b793-ce27-48bb-a18b-ca1e6b6a90a7@finland.411r324.ir:1313?security=none&encryption=none&host=skyroom.online%2C+igap.net%2C+gharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
