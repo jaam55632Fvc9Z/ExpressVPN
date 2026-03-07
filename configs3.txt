@@ -6,8 +6,6 @@ vless://d3bd917a-cd7c-85c9-caa5-557cc2a5cd82@photon.unlimiteds.site:660?type=tcp
 
 vless://26524cce-d514-4014-a426-365fb266a14d@144.24.140.37:443?&security=tls&fp=random&sni=lirpeuijr.chinav.indevs.in&type=ws&headerType=none&host=lirpeuijr.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2nodes
 
-vless://a41e01c3-94a3-4fd0-c1e1-e7bab798c4c0@srfremehdi-1.vahidtoni.life:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@v2raysrv&sni=srfremehdi-1.vahidtoni.life#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40vpnplusee_free
-
 vless://df8c77ef-8e6d-0be6-eb03-a849a6ac02e5@photon.unlimiteds.site:660?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=photon.unlimiteds.site#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://1f1182df-aae8-669c-9402-afbf305da043@nltn1.techabzar.ir:2032?security=&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
@@ -1723,4 +1721,6 @@ vless://c2b88a44-9000-4c86-9df9-cee546d793b7@178.239.146.50:2001?security=none&e
 vmess://eyJhZGQiOiAiNzguMTU3LjYzLjc3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlMGRkMGRkZS02NTdkLTRhMjktYTc5Mi1jN2VmNTdiMzRhZWUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBjb25maWdyYXlnYW4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 
 vless://c2b88a44-9000-4c86-9df9-cee546d793b7@178.239.146.50:2001?flow=&type=tcp&headerType=http&host=anten.ir&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+trojan://telegram-id-directvpn@15.224.0.245:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2rayng_Fast
 
