@@ -78,10 +78,6 @@ vmess://eyJhZGQiOiAidmljdG9yeS5kZXZtYXR0LmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwg
 
 vmess://eyJhZGQiOiAiOTQuMTgzLjI0MS4yMzMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImE3NDlmMjZjLTRkOGUtNDAwYy1iNzY2LWM0YjJmMTlkNTk1YSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmbHl2MnJheSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
-vless://b5131722-cc98-409e-8b04-5aeb97a5ee38@193.151.130.43:41295?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://4f6c3dab-9574-474b-933a-0e96ab248f71@mac.sordoservice.site:80?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
 vless://750a3613-ff1b-9bcc-d61a-3abe6dfcfec2@rocket.unlimiteds.site:9874?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://3f5c08c2-c8b0-4af8-85cf-c28bb5b8cc6b@89.42.139.69:3530?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
@@ -411,6 +407,10 @@ vless://dfe13f5a-9ce4-44fc-be96-1067bbf9202d@ep.tehrantolidi.ir:443?mode=auto&se
 vless://3fceb82d-bbe7-446f-89e1-bea39b611816@79.175.167.147:80?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
 
 vless://c9360999-71a4-470f-b2a9-52446beea99c@de-5-tun-single.starping5.fun:8083?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
+
+vless://4f6c3dab-9574-474b-933a-0e96ab248f71@mac.sordoservice.site:80?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
+
+vless://b5131722-cc98-409e-8b04-5aeb97a5ee38@193.151.130.43:41295?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
 
 vless://b6c0b793-ce27-48bb-a18b-ca1e6b6a90a7@finland.411r324.ir:1313?security=&encryption=none&host=skyroom.online%2C%20igap.net%2C%20gharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
 
@@ -1727,4 +1727,14 @@ trojan://onvw9adh-v673-4doa-3m3d-rhi9rjb4judy@127.0.0.1:1080?security=tls&type=t
 trojan://m7ks9kvz-g26q-d3cg-j40x-r4x1u5kpx765@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://wmyvqtir-krbf-67az-dfqv-xktwao4simh7@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2nodes
+
+vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
+
+vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?path=%2Fget&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40configraygan
+
+vless://b6e371d1-0e7e-4145-ba77-32ea4c37e7d5@85.133.227.39:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vmess://eyJhZGQiOiAidHVuLnAycDEuc2JzIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5MTQzNGU2Yy05OWVhLTQyMmMtYTFkMi0yNzcyNWU2YjcyZDciLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwMTciLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
