@@ -6,6 +6,14 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.164.194:22224?type=ws&securi
 
 trojan://telegram-id-privatevpns@35.181.164.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://b9c5f438-a69a-4aad-ea2b-b98d0bc48cbd@94.183.241.26:33553?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://e506be51-aef2-4ebc-b703-4b3c1be890cf@Si.sanflow.ir:921?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://253817a2-f6ed-4701-919d-89ec5caa8d63@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=myket.ir&type=ws&sni=myket.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://9f4fa241-2576-40f3-ac95-8fb8400cf3ca@beta.tomandjery.eu:1002?security=reality&encryption=none&pbk=8kF3OSt4WYVsMqvbgoq2wGzRXk05az1AeVE2v9596V8&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
+
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
 
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
@@ -42,19 +50,11 @@ vless://4408dcae-2bdf-4185-84d0-38556d79f27e@srv2-germany.hajimamadcloud.com.tr:
 
 vless://3f5c08c2-c8b0-4af8-85cf-c28bb5b8cc6b@89.42.139.69:3530?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
-vless://b9c5f438-a69a-4aad-ea2b-b98d0bc48cbd@94.183.241.26:33553?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
-vless://253817a2-f6ed-4701-919d-89ec5caa8d63@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=myket.ir&type=ws&sni=myket.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
-
 vless://2ecd11c8-677f-4a28-81cf-c60d0f8b786e@37.32.9.9:80?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
-vless://9f4fa241-2576-40f3-ac95-8fb8400cf3ca@beta.tomandjery.eu:1002?security=reality&encryption=none&pbk=8kF3OSt4WYVsMqvbgoq2wGzRXk05az1AeVE2v9596V8&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40VIPV2rayNGNP
 
 vless://43bfe589-bbcf-4288#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
 vless://55981ad0-8786-4678-92be-071fb99fb9ab@37.32.8.234:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
-vless://e506be51-aef2-4ebc-b703-4b3c1be890cf@Si.sanflow.ir:921?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://7e01bdb1-07b2-415d-abe4-e94e75f15dfc@fn22.finuxmaster.shop:2095?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray20261
 
