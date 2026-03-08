@@ -80,10 +80,6 @@ trojan://telegram-id-privatevpns@63.182.228.117:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@63.183.63.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
 
-vless://0cac6955-f1ed-4eff-941c-bef4adbee920@nl1.vnet500.xyz:26083?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40ConfigV2rayNG
-
-vless://e3e6e7a6-eebc-4c66-a16f-7aab5d695e39@109.95.70.232:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
-
 vless://d9d163e3-793c-4fd4-8026-690d422bf8ea@s2.fastsnap.info:21113?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
 
 vless://93c6a92b-3e91-4ec9-9d48-5a9efdc79a87@gb1.vnet500.xyz:32040?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
@@ -124,6 +120,8 @@ vless://6266fdb6-1868-49fe-bf85-683e91b5fe98@151.101.1.194:80?mode=auto&path=%2F
 
 vless://f25e7ea5-ef6b-4f63-8617-8151ca31b7b1@VIP2.xQFire.iR:811?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
+vless://e3e6e7a6-eebc-4c66-a16f-7aab5d695e39@109.95.70.232:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
 vless://16a42115-baeb-4b2f-9ffc-27a5019e8253@ir-www-germani1.khabarkamkwww.fun:8081?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
 vless://b367148f-b0d1-466f-bad2-ac99fe557b85@92.114.24.9:56609?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
@@ -161,6 +159,8 @@ vless://ee73ff6e-af32-43df-854e-754253bd1bd8@de-2-tun-single.starping1.fun:8083?
 vless://585e33d7-c503-4b90-bff7-aca1b1bb8e4f@194.60.228.158:7710?mode=gun&security=none&encryption=none&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#%F0%9F%8C%90%20GRPC-None%20%7C%20%40ConfigV2rayNG
 
 vless://1515087c-5397-4b99-9f89-675a7ab1015c@151.101.193.194:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40ConfigV2rayNG
+
+vless://0cac6955-f1ed-4eff-941c-bef4adbee920@nl1.vnet500.xyz:26083?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
 
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigV2rayNG
 
