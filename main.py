@@ -19,10 +19,11 @@ MY_CHANNEL_ID = "@Express_alaki"
 CUSTOM_SEPARATOR = "|"
 NOT_FOUND_FLAG = "🌐"
 
-SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://']
+# اضافه شدن پروتکل‌های شدوساکس
+SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://', 'ss://', 'shadowsocks://']
 
-EXPIRY_HOURS = 144       # حذف کانفیگ‌های قدیمی‌تر از ۱۲ ساعت از دیتابیس
-SEARCH_LIMIT_HOURS = 1  # بررسی پیام‌های ۱ ساعت اخیر کانال‌ها
+EXPIRY_HOURS = 144       # حذف کانفیگ‌های قدیمی‌تر از 144 ساعت از دیتابیس
+SEARCH_LIMIT_HOURS = 1   # بررسی پیام‌های 1 ساعت اخیر کانال‌ها
 ROTATION_LIMIT = 65      
 ROTATION_LIMIT_2 = 1000   
 ROTATION_LIMIT_3 = 5000   
@@ -106,7 +107,17 @@ def analyze_and_rename(config, channel_name):
         t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
         transport = t_map.get(t_val, 'TCP')
 
-        if config.startswith(('hysteria2://', 'hy2://')): transport, security = "Hysteria", "TLS"
+        # بررسی پروتکل Hysteria
+        if config.startswith(('hysteria2://', 'hy2://')): 
+            transport, security = "Hysteria", "TLS"
+            
+        # بررسی پروتکل Shadowsocks و استخراج اطلاعات از پلاگین
+        elif config.startswith(('ss://', 'shadowsocks://')):
+            transport, security = "TCP", "None"
+            plugin = urllib.parse.unquote(params.get('plugin', '')).lower()
+            if 'tls' in plugin: security = "TLS"
+            if 'ws' in plugin or 'websocket' in plugin: transport = "WS"
+            elif 'grpc' in plugin: transport = "GRPC"
 
         # فرمت درخواستی: flag transport-tls | @source
         final_name = f"{flag} {transport}-{security} {CUSTOM_SEPARATOR} {clean_source}"
@@ -144,13 +155,10 @@ def run():
                 parts = line.strip().split('|', 2)
                 if len(parts) == 3: db_data.append(parts)
 
-    # برای جلوگیری از تکرار در طول کل برنامه
-    seen_cores = set()
-    for pin in PINNED_CONFIGS: seen_cores.add(get_config_core(pin))
-
+    # مقایسه متنی خام برای جلوگیری از سنگین شدن دیتابیس (تکراری مطلق)
+    all_raw_configs = [d[2] for d in db_data]
     now = datetime.now().timestamp()
 
-    # استخراج جدید
     for ch in channels:
         try:
             resp = requests.get(f"https://t.me/s/{ch}", timeout=15)
@@ -164,27 +172,26 @@ def run():
                 msg_text = wrap.find('div', class_='tgme_widget_message_text')
                 if not msg_text: continue
                 for c in extract_configs_logic(msg_text):
-                    core = get_config_core(c)
-                    if core not in seen_cores:
+                    # دیتابیس فقط کانفیگ‌های کاملاً یکسان را نادیده می‌گیرد (بنابراین کانفیگ‌ها با اسم‌های مختلف ذخیره می‌شوند)
+                    if c not in all_raw_configs and c not in PINNED_CONFIGS:
                         db_data.append([str(now), ch, c])
-                        seen_cores.add(core)
+                        all_raw_configs.append(c)
         except: continue
 
-    # فیلتر ۱۲ ساعته برای کل دیتابیس
+    # فیلتر انقضای دیتابیس: فقط مواردی که بالای 144 ساعت هستند حذف می‌شوند
     valid_items = [item for item in db_data if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
 
-    # مرتب‌سازی و حذف تکراری نهایی قبل از توزیع در فایل‌ها
+    # === سیستم حذف تکراری‌ها فقط برای فایل‌های TXT (دیتابیس دست نمی‌خورد) ===
     unique_pool = []
-    final_seen = set()
-    for pin in PINNED_CONFIGS: final_seen.add(get_config_core(pin))
+    seen_cores = set()
+    for pin in PINNED_CONFIGS: seen_cores.add(get_config_core(pin))
     
     for item in valid_items:
         core = get_config_core(item[2])
-        if core not in final_seen:
+        if core not in seen_cores:
             unique_pool.append(item)
-            final_seen.add(core)
+            seen_cores.add(core)
 
-    # چرخش و توزیع
     current_index = 0
     if os.path.exists('pointer.txt'):
         try:
@@ -222,6 +229,7 @@ def run():
     save_output('configs3.txt', batch_chronological)
     save_output('configs4.txt', batch_under_1_hour)
 
+    # دیتابیس اصلی با تمام موارد (شامل نام‌های مختلف) حفظ می‌شود
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_items: f.write("|".join(item) + "\n")
     
