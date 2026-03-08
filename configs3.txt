@@ -1550,3 +1550,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.232.208:22224?type=ws&securi
 
 trojan://telegram-id-privatevpns@18.199.232.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://ee5ac6bd-3709-45d4-83e3-086cb10827ad@89.45.56.83:50156?path=%2F&security=none&encryption=none&host=89.45.56.83&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40EmKavpn
+
