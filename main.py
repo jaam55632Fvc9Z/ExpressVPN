@@ -21,7 +21,7 @@ NOT_FOUND_FLAG = "🌐"
 
 SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://']
 
-EXPIRY_HOURS = 48       # حذف کانفیگ‌های قدیمی‌تر از ۱۲ ساعت از دیتابیس
+EXPIRY_HOURS = 144       # حذف کانفیگ‌های قدیمی‌تر از ۱۲ ساعت از دیتابیس
 SEARCH_LIMIT_HOURS = 1  # بررسی پیام‌های ۱ ساعت اخیر کانال‌ها
 ROTATION_LIMIT = 65      
 ROTATION_LIMIT_2 = 1000   
