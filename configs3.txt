@@ -1566,3 +1566,9 @@ vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?encryption=
 
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#%F0%9F%8C%90%20WS-None%20%7C%20%40tik7net_vpn
 
+vless://JT82NfVfBaVbehRbuIvttb@45.89.52.5:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=tr2.alice#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2rayng_Fast
+
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
