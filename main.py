@@ -19,11 +19,10 @@ MY_CHANNEL_ID = "@Express_alaki"
 CUSTOM_SEPARATOR = "|"
 NOT_FOUND_FLAG = "🌐"
 
-# اضافه شدن پروتکل‌های شدوساکس
 SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://', 'ss://', 'shadowsocks://']
 
-EXPIRY_HOURS = 144       # حذف کانفیگ‌های قدیمی‌تر از 144 ساعت از دیتابیس
-SEARCH_LIMIT_HOURS = 1   # بررسی پیام‌های 1 ساعت اخیر کانال‌ها
+EXPIRY_HOURS = 144       # حذف از دیتابیس فقط پس از 144 ساعت
+SEARCH_LIMIT_HOURS = 1   # بررسی پیام‌های 1 ساعت اخیر
 ROTATION_LIMIT = 65      
 ROTATION_LIMIT_2 = 1000   
 ROTATION_LIMIT_3 = 5000   
@@ -43,27 +42,34 @@ def parse_vmess_uri(config):
         b64_str = config[8:]
         b64_str += "=" * (-len(b64_str) % 4)
         data = json.loads(base64.b64decode(b64_str).decode('utf-8'))
-        raw_name = data.get('ps', '')
-        net = data.get('net', 'tcp').lower()
-        tls = data.get('tls', '').lower()
-        transport = net
-        security = 'TLS' if tls == 'tls' else 'None'
-        return data, raw_name, transport, security, True
+        return data, True
     except:
-        return None, "", "TCP", "None", False
+        return None, False
 
-def get_config_core(config):
-    """ استخراج بخش فنی کانفیگ برای تشخیص تکراری بودن بدون در نظر گرفتن نام """
+def get_config_fingerprint(config):
+    """ ساخت یک اثر انگشت منحصر به فرد و نرمال شده برای تشخیص دقیق تکراری‌ها """
     try:
         config = config.strip()
+        # 1. مدیریت VMess (چون JSON است)
         if config.startswith("vmess://"):
-            data, _, _, _, is_json = parse_vmess_uri(config)
-            if is_json:
-                # مقایسه بر اساس آدرس، پورت و آیدی اصلی
-                return f"vmess-{data.get('add')}:{data.get('port')}:{data.get('id')}"
-        else:
-            # برای سایر پروتکل‌ها، بخش قبل از # تمام تنظیمات فنی را شامل می‌شود
-            return config.split('#')[0]
+            data, ok = parse_vmess_uri(config)
+            if ok:
+                # استخراج فیلدهای حیاتی و مرتب‌سازی آن‌ها
+                keys = ['add', 'port', 'id', 'net', 'tls', 'path', 'host', 'sni']
+                return "vmess:" + "|".join(str(data.get(k, '')).lower() for k in keys)
+        
+        # 2. مدیریت سایر پروتکل‌ها (VLESS, Trojan, SS, ...)
+        base_part = config.split('#')[0]
+        parsed = urllib.parse.urlparse(base_part)
+        
+        # استخراج پارامترها و مرتب‌سازی حروف الفبایی برای خنثی کردن جابه‌جایی
+        query_params = urllib.parse.parse_qsl(parsed.query)
+        # حذف پارامترهای غیرفنی مثل نام یا رمارک که ممکن است در کوئری باشد
+        filtered_params = sorted([(k.lower(), v.lower()) for k, v in query_params if k.lower() not in ['remark', 'ps', 'name']])
+        normalized_query = urllib.parse.urlencode(filtered_params)
+        
+        # ترکیب: پروتکل + یوزر و آدرس (حروف کوچک) + مسیر + پارامترهای مرتب شده
+        return f"{parsed.scheme}:{parsed.netloc.lower()}{parsed.path.lower()}?{normalized_query}"
     except:
         return config
 
@@ -76,27 +82,21 @@ def analyze_and_rename(config, channel_name):
         transport, security, flag = "TCP", "None", NOT_FOUND_FLAG
         
         if config.startswith("vmess://"):
-            data, raw_name, v_trans, v_sec, is_json = parse_vmess_uri(config)
-            if is_json:
-                flag = get_only_flag(raw_name)
+            data, ok = parse_vmess_uri(config)
+            if ok:
+                flag = get_only_flag(data.get('ps', ''))
                 t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'h2': 'H2', 'quic': 'QUIC', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
-                transport = t_map.get(v_trans.lower(), 'TCP')
-                security = v_sec
-                # فرمت: flag transport-tls | @source
-                new_ps = f"{flag} {transport}-{security} {CUSTOM_SEPARATOR} {clean_source}"
-                data['ps'] = new_ps
+                transport = t_map.get(data.get('net', 'tcp').lower(), 'TCP')
+                security = 'TLS' if data.get('tls', '').lower() == 'tls' else 'None'
+                data['ps'] = f"{flag} {transport}-{security} {CUSTOM_SEPARATOR} {clean_source}"
                 return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
 
-        if '#' in config:
-            base_url, raw_fragment = config.split('#', 1)
-        else:
-            base_url, raw_fragment = config, ""
-
+        # سایر پروتکل‌ها
+        base_url, raw_fragment = config.split('#', 1) if '#' in config else (config, "")
         flag = get_only_flag(raw_fragment)
-        try:
-            parsed = urllib.parse.urlparse(base_url)
-            params = {k.lower(): v.lower() for k, v in urllib.parse.parse_qsl(parsed.query)}
-        except: params = {}
+        
+        parsed = urllib.parse.urlparse(base_url)
+        params = {k.lower(): v.lower() for k, v in urllib.parse.parse_qsl(parsed.query)}
 
         if 'security' in params:
             if params['security'] in ['tls', 'xtls', 'ssl']: security = 'TLS'
@@ -107,19 +107,15 @@ def analyze_and_rename(config, channel_name):
         t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
         transport = t_map.get(t_val, 'TCP')
 
-        # بررسی پروتکل Hysteria
-        if config.startswith(('hysteria2://', 'hy2://')): 
-            transport, security = "Hysteria", "TLS"
-            
-        # بررسی پروتکل Shadowsocks و استخراج اطلاعات از پلاگین
+        if config.startswith(('hysteria2://', 'hy2://')): transport, security = "Hysteria", "TLS"
         elif config.startswith(('ss://', 'shadowsocks://')):
             transport, security = "TCP", "None"
+            # بررسی پلاگین در شدوساکس
             plugin = urllib.parse.unquote(params.get('plugin', '')).lower()
-            if 'tls' in plugin: security = "TLS"
+            if 'tls' in plugin or 'ssl' in plugin: security = "TLS"
             if 'ws' in plugin or 'websocket' in plugin: transport = "WS"
             elif 'grpc' in plugin: transport = "GRPC"
 
-        # فرمت درخواستی: flag transport-tls | @source
         final_name = f"{flag} {transport}-{security} {CUSTOM_SEPARATOR} {clean_source}"
         return f"{base_url}#{urllib.parse.quote(final_name)}"
     except:
@@ -133,14 +129,11 @@ def extract_configs_logic(msg_div):
     extracted = []
     for line in full_text.split('\n'):
         line = line.strip()
-        starts = []
         for proto in SUPPORTED_PROTOCOLS:
-            for m in re.finditer(re.escape(proto), line): starts.append((m.start(), proto))
-        starts.sort(key=lambda x: x[0])
-        for i in range(len(starts)):
-            start_pos = starts[i][0]
-            candidate = line[start_pos:starts[i+1][0]] if i+1 < len(starts) else line[start_pos:]
-            if len(candidate.strip()) > 15: extracted.append(candidate.strip())
+            if proto in line:
+                start_idx = line.find(proto)
+                extracted.append(line[start_idx:].strip())
+                break
     return extracted
 
 def run():
@@ -155,10 +148,10 @@ def run():
                 parts = line.strip().split('|', 2)
                 if len(parts) == 3: db_data.append(parts)
 
-    # مقایسه متنی خام برای جلوگیری از سنگین شدن دیتابیس (تکراری مطلق)
-    all_raw_configs = [d[2] for d in db_data]
     now = datetime.now().timestamp()
+    all_raw_seen = {d[2] for d in db_data} # برای جلوگیری از سنگین شدن دیتابیس در همان لحظه
 
+    # دریافت کانفیگ‌های جدید
     for ch in channels:
         try:
             resp = requests.get(f"https://t.me/s/{ch}", timeout=15)
@@ -172,26 +165,27 @@ def run():
                 msg_text = wrap.find('div', class_='tgme_widget_message_text')
                 if not msg_text: continue
                 for c in extract_configs_logic(msg_text):
-                    # دیتابیس فقط کانفیگ‌های کاملاً یکسان را نادیده می‌گیرد (بنابراین کانفیگ‌ها با اسم‌های مختلف ذخیره می‌شوند)
-                    if c not in all_raw_configs and c not in PINNED_CONFIGS:
+                    if c not in all_raw_seen:
                         db_data.append([str(now), ch, c])
-                        all_raw_configs.append(c)
+                        all_raw_seen.add(c)
         except: continue
 
-    # فیلتر انقضای دیتابیس: فقط مواردی که بالای 144 ساعت هستند حذف می‌شوند
+    # فیلتر انقضای دیتابیس (فقط حذف موارد قدیمی‌تر از 144 ساعت)
     valid_items = [item for item in db_data if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
 
-    # === سیستم حذف تکراری‌ها فقط برای فایل‌های TXT (دیتابیس دست نمی‌خورد) ===
+    # === سیستم فیلتر تکراری‌های هوشمند برای فایل‌های خروجی ===
     unique_pool = []
-    seen_cores = set()
-    for pin in PINNED_CONFIGS: seen_cores.add(get_config_core(pin))
+    fingerprints_seen = set()
+    # افزودن پین شده‌ها به لیست "دیده شده"
+    for pin in PINNED_CONFIGS: fingerprints_seen.add(get_config_fingerprint(pin))
     
     for item in valid_items:
-        core = get_config_core(item[2])
-        if core not in seen_cores:
+        fp = get_config_fingerprint(item[2])
+        if fp not in fingerprints_seen:
             unique_pool.append(item)
-            seen_cores.add(core)
+            fingerprints_seen.add(fp)
 
+    # مدیریت پوینتر و چرخش
     current_index = 0
     if os.path.exists('pointer.txt'):
         try:
@@ -209,33 +203,25 @@ def run():
         else:
             return unique_pool[current_index:] + unique_pool[:actual_size - (pool_size - current_index)]
 
-    batch1 = get_rotated_batch(ROTATION_LIMIT)
-    batch2 = get_rotated_batch(ROTATION_LIMIT_2)
-    batch_chronological = unique_pool[-ROTATION_LIMIT_3:]
-
-    # --- فیلتر ۱ ساعته برای فایل ۴ ---
-    # 3600 ثانیه = ۱ ساعت
-    batch_under_1_hour = [item for item in unique_pool if now - float(item[0]) < 3600]
-
+    # ذخیره فایل‌های متنی
     def save_output(filename, batch):
         with open(filename, 'w', encoding='utf-8') as f:
             for pin in PINNED_CONFIGS: f.write(pin + "\n\n")
             for ts, source_ch, raw_cfg in batch:
-                renamed = analyze_and_rename(raw_cfg, source_ch)
-                f.write(renamed + "\n\n")
+                f.write(analyze_and_rename(raw_cfg, source_ch) + "\n\n")
 
-    save_output('configs.txt', batch1)
-    save_output('configs2.txt', batch2)
-    save_output('configs3.txt', batch_chronological)
-    save_output('configs4.txt', batch_under_1_hour)
+    save_output('configs.txt', get_rotated_batch(ROTATION_LIMIT))
+    save_output('configs2.txt', get_rotated_batch(ROTATION_LIMIT_2))
+    save_output('configs3.txt', unique_pool[-ROTATION_LIMIT_3:])
+    save_output('configs4.txt', [item for item in unique_pool if now - float(item[0]) < 3600])
 
-    # دیتابیس اصلی با تمام موارد (شامل نام‌های مختلف) حفظ می‌شود
+    # بروزرسانی دیتابیس (بدون پاکسازی، فقط حذف منقضی شده‌ها)
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_items: f.write("|".join(item) + "\n")
     
+    # ذخیره پوینتر جدید
     with open('pointer.txt', 'w', encoding='utf-8') as f:
-        new_ptr = (current_index + ROTATION_LIMIT) % pool_size if pool_size > 0 else 0
-        f.write(str(new_ptr))
+        f.write(str((current_index + ROTATION_LIMIT) % pool_size if pool_size > 0 else 0))
 
 if __name__ == "__main__":
     run()
