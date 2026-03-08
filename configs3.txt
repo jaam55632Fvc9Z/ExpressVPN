@@ -1594,3 +1594,9 @@ vless://40634014-2458-4ddd-9125-b0023548f770@1kdksjskskwkwodk.lskwposkrjgso.ncni
 
 vmess://eyJhZGQiOiAidHVuLnAycDEuc2JzIiwgImFpZCI6ICIwIiwgImlkIjogIjU4MGJmOTM4LThjYWUtNDMxZC1iMmE0LTg3ZWM5NWQxNTZkOCIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAyMDE1LCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 
+trojan://telegram-id-directvpn@3.79.165.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.165.50:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.79.165.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
