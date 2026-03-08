@@ -1,5 +1,7 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
+vless://7e01bdb1-07b2-415d-abe4-e94e75f15dfc@fn22.finuxmaster.shop:2095?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray20261
+
 trojan://telegram-id-directvpn@35.181.164.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.164.194:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
@@ -55,8 +57,6 @@ vless://2ecd11c8-677f-4a28-81cf-c60d0f8b786e@37.32.9.9:80?encryption=none&type=t
 vless://43bfe589-bbcf-4288#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
 vless://55981ad0-8786-4678-92be-071fb99fb9ab@37.32.8.234:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
-vless://7e01bdb1-07b2-415d-abe4-e94e75f15dfc@fn22.finuxmaster.shop:2095?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray20261
 
 vless://26524cce-d514-4014-a426-365fb266a14d@107.173.181.236:7700?&security=tls&fp=random&sni=fqrf5tlc.chinav.eu.org&type=ws&headerType=none&host=fqrf5tlc.chinav.eu.org&path=%2Fdanfeng#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2nodes
 
