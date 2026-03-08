@@ -78,18 +78,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.228.117:22224?type=ws&securi
 
 trojan://telegram-id-privatevpns@63.182.228.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
-trojan://telegram-id-privatevpns@63.183.63.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://d9d163e3-793c-4fd4-8026-690d422bf8ea@s2.fastsnap.info:21113?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
-
-vless://93c6a92b-3e91-4ec9-9d48-5a9efdc79a87@gb1.vnet500.xyz:32040?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
-
-vless://f0874314-b134-4d38-84c2-d1b32cd30136@vipde1.persianpinggame.com:9091?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
-
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40planB_net
-
-vless://1de3c813-46ff-4403-9339-5f1d2e1f97dd@194.60.228.73:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
-
 vless://541de3b2-5b5f-4e27-b671-f32b28b811af@185.136.135.164:8086?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
 
 vless://e8f8d7d6-8c21-4499-b6b4-2bc9972fff72@melli.tehransnr.com:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
@@ -116,6 +104,8 @@ vless://eef39638-45eb-47c1-ba53-708eea36210c@haji.arezoni1.ir:666?security=&encr
 
 vless://93c6a92b-3e91-4ec9-9d48-5a9efdc79a87@gb1.vnet500.xyz:32040?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
+vless://93c6a92b-3e91-4ec9-9d48-5a9efdc79a87@gb1.vnet500.xyz:32040?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
 vless://6266fdb6-1868-49fe-bf85-683e91b5fe98@151.101.1.194:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp5#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
 vless://f25e7ea5-ef6b-4f63-8617-8151ca31b7b1@VIP2.xQFire.iR:811?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
@@ -123,6 +113,8 @@ vless://f25e7ea5-ef6b-4f63-8617-8151ca31b7b1@VIP2.xQFire.iR:811?security=none&en
 vless://e3e6e7a6-eebc-4c66-a16f-7aab5d695e39@109.95.70.232:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
 vless://16a42115-baeb-4b2f-9ffc-27a5019e8253@ir-www-germani1.khabarkamkwww.fun:8081?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
+vless://d9d163e3-793c-4fd4-8026-690d422bf8ea@s2.fastsnap.info:21113?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
 vless://b367148f-b0d1-466f-bad2-ac99fe557b85@92.114.24.9:56609?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
 
@@ -145,6 +137,8 @@ vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=realit
 vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@172.64.155.209:443?path=%2F&security=tls&encryption=none&insecure=1&host=fancy-haze-01e3.ipv4-917.workers.dev&type=ws&allowInsecure=1&sni=fancy-haze-01e3.ipv4-917.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40EmKavpn
 
 vmess://eyJhZGQiOiAiMTk0LjYwLjIyOC43MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJmYXJhYXppbi5pciIsICJpZCI6ICIzZmZiMjMzNy03YmViLTQyNzgtODczNi0wODIzYzc3NGIzZjIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjE2MTYiLCAicHMiOiAiXHVkODNjXHVkZGZiXHVkODNjXHVkZGU2IFRDUC1Ob25lIHwgQENvbmZpZ1YycmF5TkciLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+
+vless://1de3c813-46ff-4403-9339-5f1d2e1f97dd@194.60.228.73:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
 
 vless://a62c4be7-04b0-405c-ae9f-d04f2a43ec13@138.199.150.141:44344?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
 
@@ -613,6 +607,10 @@ vless://c3f30d4c-2ba7-4cb8-aee1-a1ce9652d5aa@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.rea
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl…#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
 vless://c4b0b136-5345-4c43-89e4-2b77753acaca@94.182.91.213:8443?path=/mnRThvbnmNbtghj&security=&encryption=none&host=shst218.hivehost.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40netmelli15
+
+vless://f0874314-b134-4d38-84c2-d1b32cd30136@vipde1.persianpinggame.com:9091?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
 
 vless://b7691745-dd65-42a5-9999-516cda9dee6e@81.12.54.238:4440?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40iP_CF
 
