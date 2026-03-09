@@ -3518,3 +3518,7 @@ vless://8620a004-648c-43ab-9efe-4d3d82b12dc4@213.177.176.182:26401?encryption=no
 
 vless://e6a9002b-8508-406e-929d-faffa97928b0@185.206.94.106:443?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://aa0a2261-b411-4f16-a66b-88eded8e96a1@tehran-3.bazipardaz.com:45005?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&fp=firefox&sni=fi.bazipardaz.com&alpn=h2,http/1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://d5e44539-7180-47a7-9be1-97421a7341da@ir-fr4.smrfy.online:48132?security=&encryption=none&host=trexplus.org%2Crubika.ir%2Csoft98.ir%2Csnapp.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
