@@ -2546,3 +2546,5 @@ vless://5229125c-af0b-4f28-a3d0-990d5ade9ac0@94.101.184.65:443?type=ws&encryptio
 
 vless://a611c5bb-ffc8-4ef7-876e-35248b5b389d@45.84.222.48:2053?security=reality&encryption=none&pbk=8vwyeA7P9JHvGKY5q8PtFISf2a0ioVEfrh2UdgY371Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+trojan://humanity@chat.openai.com:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
