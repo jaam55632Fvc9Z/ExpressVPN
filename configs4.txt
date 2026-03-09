@@ -64,3 +64,17 @@ trojan://telegram-id-directvpn@51.21.138.5:22222?sni=trojan.burgerip.co.uk&peer=
 
 vless://8620a004-648c-43ab-9efe-4d3d82b12dc4@213.177.176.182:26401?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
 
+vless://17f100d3-4b31-47f9-b8df-94d1a723d43e@185.124.175.40:2424?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://17f100d3-4b31-47f9-b8df-94d1a723d43e@140.248.163.71:443?path=%2F&security=tls&encryption=none&host=efixshop.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://17f100d3-4b31-47f9-b8df-94d1a723d43e@140.248.155.104:443?path=%2F&security=tls&encryption=none&host=efixshop.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://7ffea5aa-9083-4d51-d7aa-d0518aa09c20@now.m4dcustomize.com:51890?encryption=none&type=tcp&headerType=http&host=fast.com&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a4f7ac23-8146-464b-a932-9753f97303aa@sr-d-2.sedarchahar.top:9102?security=none&encryption=none&host=api.live98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c3a8f526-6f41-4884-adb8-f33b4ec30fa6@v2.royalway.shop:2053?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://8620a004-648c-43ab-9efe-4d3d82b12dc4@213.177.176.182:26401?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
