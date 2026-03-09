@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://aa0a2261-b411-4f16-a66b-88eded8e96a1@tehran-3.bazipardaz.com:45005?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&fp=firefox&sni=fi.bazipardaz.com&alpn=h2,http/1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://d5e44539-7180-47a7-9be1-97421a7341da@ir-fr4.smrfy.online:48132?security=&encryption=none&host=trexplus.org%2Crubika.ir%2Csoft98.ir%2Csnapp.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://71cc7878-bcc0-46fc-bc4f-c30fe69ab2e5@18.245.162.72:443?type=ws&encryption=none&security=tls&sni=iranistudyshop.store&alpn=h2,http/1.1&fp=chrome&host=iranistudyshop.store&path=%2Faws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://b793e551-9e2c-40e3-b83a-2ff8c3eae890@37.202.225.108:222?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -43,4 +37,10 @@ vless://d8ed00b9-6002-4482-ade0-611f357a0f3b@91.99.204.242:19056?mode=auto&path=
 vless://4f5def46-1a54-11f1-9053-92000723b4ab@vipde2.persianpinggame.com:9091?type=tcp&headerType=http&host=filmnet.ir&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?type=ws&path=/vpnjantit&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@63.183.124.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.124.201:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@63.183.124.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
