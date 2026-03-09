@@ -2506,3 +2506,7 @@ vless://f8380547-dd80-4c0c-a694-1a280afc2158@185.126.11.183:56517?security=none&
 
 vless://276a40e3-4a5c-4238-bdda-40374af9e318@78.157.58.197:35776?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=h32.1.beROzHA.IR&fp=ios&type=ws&sni=h32.1.beROzHA.IR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40manVPN
+
+vless://b54fbd00-dc57-46d0-8bc0-d5546b977012@104.21.7.147:8880?path=%2F&security=none&encryption=none&host=kk195.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&type=httpupgrade#%F0%9F%87%BA%F0%9F%87%B8%20HTTPUpgrade-None%20%7C%20%40manVPN
+
