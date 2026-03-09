@@ -34,3 +34,15 @@ vless://23d5dae7-368c-4ec8-a32e-ec4c7b42b41d@85.133.202.87:80?path=%2Fdll&securi
 
 vless://a27d67a1-4ed5-4d06-83e2-f7762e0f5423@haji.arezoni1.ir:666?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://a27d67a1-4ed5-4d06-83e2-f7762e0f5423@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://7a694fc2-8426-42ff-8f89-20cb66198a2b@143.204.111.124:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=du7mrk8x7tp34.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=d1ynygcyatgpcd.cloudfront.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://7a694fc2-8426-42ff-8f89-20cb66198a2b@143.204.111.124:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=d1svfq2bccykmk.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=d1ynygcyatgpcd.cloudfront.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://7a694fc2-8426-42ff-8f89-20cb66198a2b@www.dns-hub.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://7a694fc2-8426-42ff-8f89-20cb66198a2b@143.204.111.124:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=d873seb70um73.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=d1ynygcyatgpcd.cloudfront.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiODcuMTA3LjE4Ny4yMTAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjY0YzczNDg5LWU3NDEtOWJkMi04NmNhLTVlOTBhMjM3NjBhZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjAwMSIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+
