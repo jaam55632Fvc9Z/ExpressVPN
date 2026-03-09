@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://4dd14167-ddce-49d1-8322-133e82c0cbfb@109.95.65.242:900?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://501dfe1a-be73-4b89-b3bf-7f8a21c6f2ee@emergency3.layer-ziro.ir:2003?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://04e80506-3f5a-0efb-60c0-2fcd4ae838c9@tunn.vpsino.com:2096?security=none&encryption=none&host=nobitex.ir&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -49,4 +47,10 @@ vless://f7b7ae90-a95f-4a9a-bf65-c7a6bc1a6cec@emg5.saipasamandemg5.sbs:2005?secur
 vless://f7b7ae90-a95f-4a9a-bf65-c7a6bc1a6cec@emg5.saipasamandemg5.sbs:2005?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://763dfd7b-6c3a-0e44-2938-0ba6b76dc565@94.184.26.99:58119/?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@15.224.33.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.33.171:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.224.33.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
