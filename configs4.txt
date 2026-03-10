@@ -30,3 +30,7 @@ vless://19c9555d-9134-44e1-9e85-9ff18d364459@127.0.0.1:1000?security=none&type=t
 
 vless://76c51bbc-ed16-4e68-8cab-ee196a3ddf2f@102.37.146.15:8080?type=tcp&encryption=none&path=%2F&host=102.37.146.15&headerType=http&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://76c51bbc-ed16-4e68-8cab-ee196a3ddf2f@102.37.146.15:8080?security=none&encryption=none&host=102.37.146.15&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://19c9555d-9134-44e1-9e85-9ff18d364459@127.0.0.1:1000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
