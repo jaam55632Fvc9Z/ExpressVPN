@@ -82,3 +82,13 @@ vmess://eyJhZGQiOiAiREUyLklQU0VOVEVSLk5FVCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJm
 
 vmess://eyJhZGQiOiAiREUyLklQU0VOVEVSLk5FVCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJkMWdzbGkwaGM3MjJ2Yi5jbG91ZGZyb250Lm5ldCIsICJpZCI6ICI4OWUxNTE2Yi0zNDEzLTQ3MzctYWZiYy05MjRmNThmYWY4MzAiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
+trojan://telegram-id-directvpn@51.44.200.241:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://c5383c9e-543f-407f-bb76-8ef6ed2e0ace@185.206.231.59:41057?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c5383c9e-543f-407f-bb76-8ef6ed2e0ace@185.206.231.59:41057?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://d46ffeea-bc5a-2305-bd82-64d01e80540b@94.184.20.158:58149?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://72b0ecbd-b465-40d5-916b-21e53cc9e4be@nhgr07.nyber.org:15000?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
