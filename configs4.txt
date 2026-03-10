@@ -10,3 +10,27 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.171.45:22224?type=ws&security
 
 trojan://telegram-id-privatevpns@3.127.171.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://71322f86-f37a-4929-ada0-05e6a2688145@uk2.pineappled.org:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://871595f2-4b19-4e9f-9eb8-b380f0476421@2.188.241.144:29332?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.16:443?security=reality&encryption=none&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=my-rebar.shop#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://711f56b0-0d4c-4516-bea6-0e963749928c@my-rebar.shop:443?security=reality&encryption=none&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=my-rebar.shop#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiJ1cy56YXJhc2l0ZS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZjJkNjBmYy01MTJkLTQ4MTEtYjUwYy0xODAxM2UzMmMxNjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjY1MzEiLCJwcyI6ImNoYW5uZWwgOiBzb2JoYW5hcnlhYSDwn6aB4piA77iPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsIn#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://587d20b3-b31a-4066-88d2-e40b209530c8@85.210.206.62:55378?type=grpc&encryption=none&serviceName=mci.ir&authority=&mode=multi&security=reality&pbk=Nz2ybZx-75Wtlm1jimK6whbblbIEakrcjFDsTaZ2eFM&fp=chrome&sni=www.web.rubika.ir&sid=1f7c2eb020&spx=%2F#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd@turkey.dehnavy.ir:36135?type=tcp&headerType=http&host=skyroom.online,%20igap.net,%20gharar.ir&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://587d20b3-b31a-4066-88d2-e40b209530c8@85.210.206.62:55378?type=grpc&encryption=none&serviceName=mci.ir&authority=&mode=multi&security=reality&pbk=Nz2ybZx-75Wtlm1jimK6whbblbIEakrcjFDsTaZ2eFM&fp=chrome&sni=www.khamenei.ir&sid=1f7c2eb020&spx=%2F#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://ff858da0-9ba5-4b64-9ab7-4c8305920a29@nim.opgermany.shop:49040?type=tcp&security=none&headerType=http&path=/&host=bale.ai,soroushplus.com,web.splus.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIEdSUEMtTm9uZSB8IEBmaWxlbWJhZCIsICJhZGQiOiAiNDAuODEuMTUyLjE2MSIsICJwb3J0IjogNDI1LCAiaWQiOiAiYWI0ZGRkNmItMjVkZi00YzYxLWI1ODMtZjZmYmJhYjk3YTdhIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJncnBjIiwgInRscyI6ICJub25lIiwgInBhdGgiOiAibWNpLmlyIiwgImF1dGhvcml0eSI6ICIiLCAidHlwZSI6ICJtdWx0aSJ9
+
+vless://70ecfd5e-b439-410e-f1f5-68245522e0b8@85.133.214.37:443?security=none&encryption=none&type=tcp&host=myket.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://YWVzLTI1Ni1nY206T3UyZkZ4c2VmR2h3ZU4yUEJkWA@195.230.107.5:10594?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
