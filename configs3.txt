@@ -4678,3 +4678,9 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.60.191:2053?type=ws&host=sni
 
 vless://659b51bf-3d3b-454c-aebf-3affa69c8ff3@CLOUD104.TURKSERVER.IR:2083?path=%2FXIXVPN%3Fed&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=bsun-nlv2.ip-venzo.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://8ebd3e05-ffc2-4193-e0cf-94987f98b77b@arz.radargame.site:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=arz.radargame.site#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://d3bd917a-cd7c-85c9-caa5-557cc2a5cd82@photon.unlimiteds.site:660?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6e03fdbe-256d-4c34-9838-7fd7d06570a8@199.232.53.135:80?mode=auto&path=%2FXIXVPN%3Fed&security=none&encryption=none&host=melowasheredebot.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
