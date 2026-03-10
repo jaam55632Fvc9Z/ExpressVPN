@@ -58,3 +58,7 @@ vless://3445d549-b0cc-4972-a0ac-21d00b5e8713@102.37.157.78:6013?path=%2F&securit
 
 vless://f9a84da7-102f-4066-8593-095c4a4af003@102.37.157.78:6013?path=/&security=none&encryption=none&host=soft98.ir&#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://telegram-id-privatevpns@13.38.214.118:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://536baf5a-3370-4d8d-bf50-fea682f01b92@speed.mobilekamali.com:41000?type=tcp&headerType=none&host=fast.com&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
