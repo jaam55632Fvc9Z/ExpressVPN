@@ -36,3 +36,11 @@ vless://c4e2512d-060c-59a7-ad20-be4284298eeb@thesis.mhub-mc.ir:3010?encryption=n
 
 vless://f099bbde-8193-46c9-b42f-392177520f02@37.32.8.38:35444?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://f099bbde-8193-46c9-b42f-392177520f02@37.32.8.38:35444?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://telegram-id-privatevpns@3.69.235.19:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@3.69.235.19:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://a1b2c3d4-e5f6-7890-abcd-ef1234567890@de-fr.cloud.reality-hub.workers.dev:443?security=reality&encryption=none&pbk=AbCdEfGhIjKlMnOpQrStUvWxYz1234567890abcdef&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=a1b2c3d4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
