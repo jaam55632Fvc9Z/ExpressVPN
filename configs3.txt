@@ -5634,3 +5634,5 @@ trojan://telegram-id-directvpn@3.69.235.19:22223?security=tls&alpn=http%2F1.1&in
 
 vless://a1b2c3d4-e5f6-7890-abcd-ef1234567890@de-fr.cloud.reality-hub.workers.dev:443?security=reality&encryption=none&pbk=AbCdEfGhIjKlMnOpQrStUvWxYz1234567890abcdef&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=a1b2c3d4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.235.19:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+

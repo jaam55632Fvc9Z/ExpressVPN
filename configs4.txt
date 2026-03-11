@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://4eacc434-27b8-4e59-b5be-47796ba3dff6@dual0.melowashere.com:48782?encryption=none&security=none&type=ws&path=%2Fmelo#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://ae29791e-b4e7-4a42-bab1-e937a24ab4a1@we.configfast.site:1142?security=none&encryption=none&host=bale.ai%2Cweb.splus.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 trojan://telegram-id-directvpn@3.69.235.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.235.19:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
@@ -43,4 +39,6 @@ trojan://telegram-id-privatevpns@3.69.235.19:22222?security=tls&alpn=http%2F1.1&
 trojan://telegram-id-directvpn@3.69.235.19:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://a1b2c3d4-e5f6-7890-abcd-ef1234567890@de-fr.cloud.reality-hub.workers.dev:443?security=reality&encryption=none&pbk=AbCdEfGhIjKlMnOpQrStUvWxYz1234567890abcdef&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=a1b2c3d4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.235.19:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
