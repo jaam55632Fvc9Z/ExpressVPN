@@ -6100,3 +6100,15 @@ vless://039f874f-c655-48fa-a632-42296e3cf47d@37.32.25.58:8586/?type=tcp&encrypti
 
 vless://86a382d7-2622-4581-a455-599c70679d02@185.206.231.57:36522?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Blue_star_Vip
 
+vless://814f531d-4e30-4fd7-a5af-38b4e5e70d39@frank1.blixguard.web:305?security=none&allowInsecure=0&encryption=none&type=tcp&host=google.com&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://telegram-id-privatevpns@13.36.100.6:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://86a382d7-2622-4581-a455-599c70679d02@185.206.231.57:36522/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c3f30d4c-2ba7-4cb8-aee1-a1ce9652d5aa@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online%2C%2Bgharar.ir%2C%2Bigap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F%3FTELEGRAM-%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiMy5lbGFiZWxhLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMGU2NjRkMGMtMmM4ZS00ODFjLTg3MTgtZGEwMTllNTUzZTJjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjkwOSIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+
