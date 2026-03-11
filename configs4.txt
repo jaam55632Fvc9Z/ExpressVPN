@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://e4272007-395c-4c11-8c86-b8abe3984cd1@188.121.102.71:444?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2QDEwMi4zNy4xNTYuMjI0OjQ0Mw#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://2ac0ee37-fdc4-4afa-8141-f960c49ece60@188.121.120.140:56557?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://2ac0ee37-fdc4-4afa-8141-f960c49ece60@188.121.120.140:56557?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -41,4 +37,8 @@ trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?encryption=none&security=tls&sni=snippet.fgfw.indevs.in&insecure=0&allowInsecure=0&type=ws&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 trojan://ZJU29smXwp@172.67.68.87:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=Web2.teama.tk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://ZJU29smXwp@172.67.68.87:2053?path=%2F&security=tls&insecure=0&host=k.teama.tk&type=ws&allowInsecure=0&sni=Web2.teama.tk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&insecure=0&host=k.teama.tk&type=ws&allowInsecure=0&sni=web2.teama.tk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 

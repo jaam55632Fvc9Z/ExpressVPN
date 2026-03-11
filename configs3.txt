@@ -5366,3 +5366,7 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?encryption=none&
 
 trojan://ZJU29smXwp@172.67.68.87:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=Web2.teama.tk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+trojan://ZJU29smXwp@172.67.68.87:2053?path=%2F&security=tls&insecure=0&host=k.teama.tk&type=ws&allowInsecure=0&sni=Web2.teama.tk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&insecure=0&host=k.teama.tk&type=ws&allowInsecure=0&sni=web2.teama.tk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
