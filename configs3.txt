@@ -6908,3 +6908,13 @@ vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@testing.iranmonitor.live:443?type=w
 
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:8443?type=tcp&security=reality&pbk=qlo3nQHthxBwNOFQWOXbXezt1xzx3M34fQ08jcnE7To&fp=chrome&sni=yahoo.com&sid=d470092c533cc629&spx=%2F&flow=xtls-rprx-vision&encryption=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@testing.iranmonitor.live:2053?type=ws&security=tls&sni=testing.iranmonitor.live&host=testing.iranmonitor.live&path=%2Fws&fp=chrome&encryption=none&alpn=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a0a522e8-41f8-41ee-9048-10a7cc42290d@185.26.32.18:5066?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Z2hWUUk0bjlpMURWODI1b1dkd2JUZz09OmdoVlFJNG45aTFEVjgyNW9XZHdiVGc9PQ@23.95.113.104:8388#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206QVNNa0N3L1NNQThNelpLOHR2NXZOdz09OkFTTWtDdy9TTUE4TXpaSzh0djV2Tnc9PQ@142.171.65.106:8388#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
