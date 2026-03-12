@@ -42,3 +42,7 @@ vless://cbda2242-32b8-4b0d-bed2-edc1f0c39080@77.42.21.210:2095?mode=multi&securi
 
 vless://f4afd252-6159-459e-a025-f72632eaff43@77.42.67.4:8443?type=tcp&encryption=mlkem768x25519plus.native.0rtt.PDuirO86TI_G0f2I0oJEFrbqYddOTMH9LnYN8RZel1Q&security=reality&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&fp=chrome&sni=www.cloudflare.com&sid=f4fa9f410d7134ea&spx=%2F&flow=xtls-rprx-vision-udp443#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://f4afd252-6159-459e-a025-f72632eaff43@77.42.67.4:8443?security=reality&encryption=mlkem768x25519plus.native.0rtt.PDuirO86TI_G0f2I0oJEFrbqYddOTMH9LnYN8RZel1Q&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision-udp443&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://be224aaf-618c-4a9e-877c-1cee0e32056b@45.139.27.44:443?security=reality&encryption=none&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rus.fasti.win&sid=feedbacc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
