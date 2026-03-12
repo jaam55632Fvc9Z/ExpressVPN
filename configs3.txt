@@ -16,8 +16,6 @@ vless://3c715fab-a290-487a-a4bf-76c6c86f8e98@Sun.senboonzakara.ir:443?path=%2Fsu
 
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@179.43.176.216:443?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B9%20WS-TLS%20%7C%20%40v2nodes
 
-vless://d8f52ed3-d94d-4195-a1f7-b32d3934268e@TR.DarinaService-IR.Store:3333?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
-
 vless://c049b9e1-3b34-4b3c-9e10-4978f11dec75@109.95.65.242:8032?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://d24e1b75-d80f-4818-d621-ee919ea71c16@94.183.149.168:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
@@ -7855,4 +7853,18 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJh
 vless://5fdc186d-f881-4fc4-9346-1f3d8fae9339@F3.HaMrAhCoNf.Ir:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=p2-core-03.secoxi.site&path=/&sni=uktkq.secoxi.site&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://5fdc186d-f881-4fc4-9346-1f3d8fae9339@F3.HaMrAhCoNf.Ir:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=p2-core-09.secoxi.site&path=/&sni=uktkq.secoxi.site&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://5fdc186d-f881-4fc4-9346-1f3d8fae9339@F2.HaMrAhCoNf.Ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=p2-core-02.secoxi.site&fp=chrome&type=ws&allowInsecure=0&sni=uktkq.secoxi.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40HajmVPN_Config
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://232dcd07-d3d6-4fc6-a802-1d967f1e1a0a@188.114.98.0:443?encryption=none&type=xhttp&mode=auto&host=api-fr.serx.ir&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&fp=chrome&sni=api-fr.serx.ir&alpn=h2#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@188.114.98.0:443?encryption=none&security=tls&sni=pqh30v3.carwashipdir.shop&alpn=h2&insecure=1&allowInsecure=1&type=grpc#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+trojan://humanity@188.114.98.0:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=nl4.maxriser.ir&fp=chrome&type=ws&sni=nl4.maxriser.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f2.hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=1&host=app-core-02.secoxi.site&type=ws&allowInsecure=1&sni=uiuyoyw.secoxi.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
