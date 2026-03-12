@@ -7710,3 +7710,9 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?security=tls&enc
 
 vless://aac9db21-79ad-4f5a-901e-942e44e6a3d7@15.237.206.147:9090?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://4ab1088a-9f8a-4fcc-8805-8353a8b3cf44@152.53.200.42:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://e40ba39e-2fe3-4078-9b50-baf1b56d14c5@emergency-5680.carpet-carpet-carped.ir:5680?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b60dd651-2d4e-4c15-b2d0-60a76c5cc1a6@52.195.208.63:14564?type=grpc&mode=multi&serviceName=mci.ir&security=reality&fp=firefox&sni=www.apple.com&pbk=PVjuTK9q16H1XvZ1z11UT1ssMqYfm_w6pXhWeLOScT4&sid=9e569fc87f8d54&spx=/#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
