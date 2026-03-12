@@ -28,3 +28,9 @@ vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?security=tls&allo
 
 vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?type=ws&path=%2F&host=a1d.maxriser.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=a1d.maxriser.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://bb4c2af2-c8b5-4688-bf60-50de46587f12@188.114.98.0:2087?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=x1.realitysec4.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=x1.realitysec4.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2rayngSeven
+
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=a1d.maxriser.ir&fp=chrome&type=ws&allowInsecure=1&sni=a1d.maxriser.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
