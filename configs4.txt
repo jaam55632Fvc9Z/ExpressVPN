@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://9a1ba595-2e2c-4daa-a8a2-8b4a20982213@91.92.182.230:5001?encryption=none&type=tcp&headerType=http&host=speedtest.net&path=/#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@144.31.131.224:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mold.speedload.online&sid=a20d3ed244c76426#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@www.fastly.com:80?path=%2Ftechbod%3Fed&security=none&encryption=none&host=mitivpn3.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://71f22eb1-96c1-4cde-a8f6-cc755ca83af7@bl.khakimilad.online:58992?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://25168a7f-05e6-45a6-acaf-e00497c19024@91.92.182.230:5001?encryption=none&type=tcp&headerType=http&host=speedtest.net&path=/#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.185.26:2096?path=%2F&security=tls&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -125,4 +117,28 @@ vless://9f8a8c74-49fc-4f06-8885-3f438dd71a49@162.55.190.0:443/?type=tcp&encrypti
 vless://45099c5b-b11f-4149-9a27-fe6434f96320@162.55.190.0:443/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://dd4f4dec-2cb9-4dcf-b8fc-d88ddaf705a5@bl.khakimilad.online:58992?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@3.127.99.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.99.68:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.127.99.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://a10791c1-4710-4ac7-901e-143eabe632e4@144.31.116.213:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TnfSCSoPjSQZ2GNtR15iEnTtF6AMroEBGNBhxAnitWY&security=reality&sid=4c2404fc&sni=sun6-22.userapi.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://7a37a4a1-0750-4311-a355-ff7d499c6797@185.191.118.144:443?encryption=none&fp=chrome&pbk=qrnqrRbyJ3KLRDdvO0Ed2ewMvTn1i5XWyF07q_4eunk&security=reality&sid=8cb5caf3547681c1&sni=www.microsoft.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://45099c5b-b11f-4149-9a27-fe6434f96320@162.55.190.0:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://9f8a8c74-49fc-4f06-8885-3f438dd71a49@162.55.190.0:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://657ff25f-5f69-4201-99fb-0e7908940b66@162.55.190.0:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://dd4f4dec-2cb9-4dcf-b8fc-d88ddaf705a5@bl.khakimilad.online:58992?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://ab571f06-6df1-4cb1-901e-542c6713f9a1@bl.khakimilad.online:58992?type=&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://44871891-1628-4c3c-8e6b-93de933c3a0b@162.55.190.0:433/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://899a75fd-4c23-4012-9748-5db1cce5a76a@162.55.190.0:433/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
