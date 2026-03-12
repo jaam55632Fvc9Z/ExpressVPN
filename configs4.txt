@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJ2Ny5sb2dhbjEucnUiLCAicG9ydCI6IDIwOTIsICJpZCI6ICI0M2FmOTExZC1mNmU2LTQ5YzEtYThjNS0wOTc3ZjU3NGMxN2UiLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAibm9uZSJ9
-
-vless://0b67b2d1-ad8e-4aab-bbf9-7c0ba55f157b@g1-tun-de.a1mshop2.xyz:14500?security=none&type=tcp&headerType=http&path=%2F&host=aparat.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://c0316393-9355-4b8a-9400-d406ec81c9f8@emg2.saipasamandemg2.sbs:2002?security=none&type=tcp&headerType=http&path=%2F&host=anten.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 trojan://telegram-id-directvpn@13.36.204.100:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.204.100:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
@@ -45,4 +39,12 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?security=tls&all
 vless://9d15d7ab-5867-4857-b813-bf1924510bca@ez.pubgping.com:8080?type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://a212eb37-f48d-4164-a0dd-75b1877dd440@ir.pivotstrategy.ir:1605?type=tcp&security=none&encryption=none&headerType=http&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAidWwtdWFlMS4wOXZwbi5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjBhOTc5YzUyLWNhODYtNDkzZC1iZDU4LTIwMWE0MjFkMmNmZSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+
+vless://645f1259-d71d-4631-a8d3-041bba140f8e@ul-uae1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?path=%2Fdanfeng&security=tls&encryption=none&insecure=0&host=snippet.fgfw.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=snippet.fgfw.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a212eb37-f48d-4164-a0dd-75b1877dd440@ir.pivotstrategy.ir:1605?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
