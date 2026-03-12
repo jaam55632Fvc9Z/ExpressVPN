@@ -7676,3 +7676,9 @@ vmess://eyJhZGQiOiAiMTY1LjE1NC4xOTUuMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAi
 
 vless://e6bb35bc-8d03-47a6-8e79-21db9ac5835f@5.202.12.22:1002?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://e6020f2d-4676-462f-8cc1-c824486287b1@fa.wikipediafa.com:443?security=reality&encryption=none&pbk=w-eVCTCks0bfj3RTBCl7IbvLZud0pR2YS8skkXm11W4&host=en.wikipedia.org&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=en.wikipedia.org&sid=2e0c58c2131842e3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWEhWWVg2TDVFb2ZWb0ppN1pkQ0F4SmZWTVhIZGoxMmRRUkVrUkNGUU1QY3NyRlhYV3FIeDNXUlVhellaVkM4dlo0N1h0SDVzRGtHbzFyTlpyaTZTV3hobnJ4NUNmVno@185.5.38.111:55988#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://telegram-id-privatevpns@15.237.89.75:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
