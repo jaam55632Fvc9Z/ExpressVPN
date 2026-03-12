@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ebfbb1e7-25ac-45cb-8f10-c417e0a035bf@85.133.240.234:46216?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
-
 trojan://telegram-id-directvpn@35.181.222.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.222.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
@@ -53,4 +51,8 @@ vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?type=ws&path=%2F&
 vless://451bb03c-7afa-41f2-ad37-8f280c8308af@speed.mobilekamali.com:40999?security=&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://20d983ca-d7fa-4fc6-#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=%2F&security=tls&encryption=none&insecure=1&host=a1d.maxriser.ir&fp=chrome&type=ws&allowInsecure=1&sni=a1d.maxriser.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=a4.maxriser.ir&fp=chrome&type=ws&allowInsecure=0&sni=a4.maxriser.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
