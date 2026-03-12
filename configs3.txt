@@ -7790,3 +7790,37 @@ vless://5ac2d3b6-33cc-4442-9c0b-#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://ebfbb1e7-25ac-45cb-8f10-c417e0a035bf@85.133.240.234:46216?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
+trojan://telegram-id-directvpn@35.181.222.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.222.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.181.222.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://d429bc6f-570b-457e-88b9-4697e849ae1d@n-g-f-1.m2v2.site:2101?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
+
+vless://41d576fb-a9a2-4c57-bb32-73427cd3d31a@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vless://91b8a76f-af6a-4347-83c3-043d422f31dc@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vless://5645d1cf-76e7-41a7-9360-4ba20f3b07c5@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vless://c421246e-0bc4-4b0b-b5d1-f70bbe11d82a@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vless://56d46499-c05d-4f8b-b073-63cbcd95d293@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vless://ef245dae-2b84-48e9-85d1-c3b76760d0b6@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vless://8cab5d60-588b-41a4-a915-fc2b279bd277@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vless://1e3fa391-bf89-432e-81d1-e3a052b6df98@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vless://7a8faa8d-1af3-46e8-aede-90aad5faa0c6@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vless://60a27a8d-bc44-411d-83c9-24f631e409cb@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vless://162a4efb-1f1c-47f9-b059-96db9c8c66ba@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&type=ws&host=ca.adobe-connect.top&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://d429bc6f-570b-457e-88b9-4697e849ae1d@n-g-f-1.m2v2.site:2101?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=/?BIA_Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
