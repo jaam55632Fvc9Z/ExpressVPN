@@ -14,6 +14,8 @@ vless://301a87ba-898b-ccb2-88d6-acedf1c2afcc@tunn.vpsino.com:2087?security=none&
 
 vless://537e107f-dde5-41d4-b629-bcefa9f3cabd@h43.gettips.ir:56304?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
 
+vless://f5630288-5254-42b5-b098-d7d5737e831a@185.136.135.172:41002?encryption=none&type=tcp&headerType=http&host=fast.com&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
+
 vless://d9d163e3-793c-4fd4-8026-690d422bf8ea@s2.fastsnap.info:21113?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
 
 vless://93c6a92b-3e91-4ec9-9d48-5a9efdc79a87@gb1.vnet500.xyz:32040?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
@@ -23,8 +25,6 @@ vless://f0874314-b134-4d38-84c2-d1b32cd30136@vipde1.persianpinggame.com:9091?sec
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
 
 vless://1de3c813-46ff-4403-9339-5f1d2e1f97dd@194.60.228.73:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
-
-vless://f5630288-5254-42b5-b098-d7d5737e831a@185.136.135.172:41002?encryption=none&type=tcp&headerType=http&host=fast.com&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
 
 vless://3574a6d1-ad41-47ab-ba3e-1ecc425fa6f6@93.126.19.117:37449?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray20261
 
@@ -7997,4 +7997,12 @@ vless://9dfd9c25-f75b-4265-9ca3-bbb9b23f89dd@Si.sanflow.ir:921?security=none&enc
 vless://b2ece504-9df7-4bb8-f092-650c0849f19c@farzandeiran.iransalar.top:56358?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAiOTQuMTAxLjE4NS41MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZmUzZDM5ZmUtYmNhNC00MDkyLWNhOWItNzNkOTczNzlkZTY5IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjg0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+
+vless://5763cf20-ce6c-481e-a7df-f99d5f4c58ac@none.reallyclody.ir:29623?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://31bf5ffc-8440-4223-ba85-638d96aa896b@simcard.parhamm1.ir:5066?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://f407d448-986c-4575-b1c5-cbc5d5d738b4@37.32.43.7:2039/?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://5fdc186d-f881-4fc4-9346-1f3d8fae9339@F3.HaMrAhCoNf.Ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=p2-core-09.secoxi.site&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
