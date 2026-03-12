@@ -7544,3 +7544,25 @@ vless://0b67b2d1-ad8e-4aab-bbf9-7c0ba55f157b@g1-tun-de.a1mshop2.xyz:14500?securi
 
 vless://c0316393-9355-4b8a-9400-d406ec81c9f8@emg2.saipasamandemg2.sbs:2002?security=none&type=tcp&headerType=http&path=%2F&host=anten.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@13.36.204.100:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.204.100:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.36.204.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://ebc1a91a-751f-4d8b-a8bc-d771713ae745@jll.az99x.info:8880?host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://f069db6f-8fcc-467e-9237-28b68cc65aae@hi.darkhtpa.ir:23628?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://c5389214-cb57-4be4-8e5f-58d0337ff244@yumyum.spacesystems.shop:20354?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6230f6ae-e514-4a4c-a403-389b5a78698f@tt.onepiecefamily.ir:57263?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://71f22eb1-96c1-4cde-a8f6-cc755ca83af7@bl.khakimilad.online:58992?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://f64216af-00df-4967-9fc1-a6022346fc9c@france11.parsi.sbs:15601?security=none&encryption=none&host=rubika.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://5e2b5500-d2fb-44c1-8cec-8def7a4347c5@94.183.165.146:443?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&pbk=ize-uZeKIdCj8aB2Lc9zrzQqKLLOeJ1i2klMjyGznjU&fp=firefox&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm&sni=aparat.com&sid=280fd83aff#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://670d830d-5540-40e8-9cc8-0ef78b091cf5@str.gamepuzzlecenter.com:21760?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
