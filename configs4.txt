@@ -44,3 +44,9 @@ vless://3592a64e-7454-4a4e-974a-a7d9ffd77956@cdn.reza.bnwm.org:444?security=none
 
 vless://fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b@1.iran2.axenet.company:1112?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=zaya1.ketabland.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2.37.156.224:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=a4.maxriser.ir&fp=chrome&type=ws&allowInsecure=1&sni=a4.maxriser.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?type=ws&path=%2F&host=a4.maxriser.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=a4.maxriser.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40saministamm
+
