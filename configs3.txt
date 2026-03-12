@@ -16,16 +16,6 @@ vless://537e107f-dde5-41d4-b629-bcefa9f3cabd@h43.gettips.ir:56304?security=none&
 
 vless://f5630288-5254-42b5-b098-d7d5737e831a@185.136.135.172:41002?encryption=none&type=tcp&headerType=http&host=fast.com&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
 
-vless://d9d163e3-793c-4fd4-8026-690d422bf8ea@s2.fastsnap.info:21113?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
-
-vless://93c6a92b-3e91-4ec9-9d48-5a9efdc79a87@gb1.vnet500.xyz:32040?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
-
-vless://f0874314-b134-4d38-84c2-d1b32cd30136@vipde1.persianpinggame.com:9091?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
-
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
-
-vless://1de3c813-46ff-4403-9339-5f1d2e1f97dd@194.60.228.73:80?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
-
 vless://3574a6d1-ad41-47ab-ba3e-1ecc425fa6f6@93.126.19.117:37449?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray20261
 
 hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
@@ -522,6 +512,8 @@ vmess://eyJhZGQiOiAiZEMtMi5jRU50UmFMbkV0LkNsSWNLIiwgImFpZCI6ICIwIiwgImFscG4iOiAi
 
 vmess://eyJhZGQiOiAiZEMtMS5jRW5UckFsTmVULkN2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyMzNlZWFmNy1lODBmLTRkOWMtOTNmMS1hMmRiNWVmZTFkOTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjMwMDAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQHBsYW5CX25ldCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
+vless://d9d163e3-793c-4fd4-8026-690d422bf8ea@s2.fastsnap.info:21113?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
 trojan://z36ywp06-wm0m-63cf-6c66-6uvdwcdnpsvp@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://om2xb44b-xbi1-abo1-9h8m-69iwjgo0am0u@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -785,6 +777,8 @@ vless://8058fd1c-28ca-4e6c-9828-ce7cf4433b5c@134.255.204.17:443?type=tcp&encrypt
 vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443?path=%2Flove&security=tls&encryption=none&host=bank.alaska-tigr.info&type=ws&sni=bank.alaska-tigr.info#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
 
 vless://8058fd1c-28ca-4e6c-9828-ce7cf4433b5c@134.255.204.17:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
+
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
 
 vless://5b318d6c-c6d9-e36a-ec8c-7e6cefe52cca@rocket.unlimiteds.site:9874?security=&encryption=none&host=fast.com&headerType=http&type=tcp&sni=rocket.unlimiteds.site#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2HUBIR
 
@@ -8005,4 +7999,8 @@ vless://31bf5ffc-8440-4223-ba85-638d96aa896b@simcard.parhamm1.ir:5066?security=n
 vless://f407d448-986c-4575-b1c5-cbc5d5d738b4@37.32.43.7:2039/?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://5fdc186d-f881-4fc4-9346-1f3d8fae9339@F3.HaMrAhCoNf.Ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=p2-core-09.secoxi.site&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1d1d088b-84ce-45b1-b23b-544522f200a6@bl.khakimilad.online:58992?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://03bf55fe-e3b7-4085-9b90-a2b2def8a11c@bl.khakimilad.online:58992?type=&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
