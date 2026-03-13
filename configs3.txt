@@ -74,6 +74,12 @@ vless://18f72be7-0651-4037-928b-8a309d685796@194.107.126.157:443?type=tcp&securi
 
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
+trojan://telegram-id-directvpn@35.180.7.142:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.7.142:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.180.7.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
 vless://45f21592-da5c-41ca-a681-52a81c222c53@151.101.242.172:80?mode=auto&path=%2FDL%3Fed%3D2096&security=none&encryption=none&host=kmkhom.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40V2rayng_Fast
 
 vless://abfb8ddb-7c35-4c7b-a40d-817d813481ef@viptun.persianv2.ir:2096?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
@@ -113,12 +119,6 @@ vless://6a3ad064-be7c-40be-9a48-171885a359b7@mail.tomandjery.eu.zero_proxy1:1001
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-trojan://telegram-id-directvpn@35.180.7.142:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.7.142:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@35.180.7.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
 vless://74f6348b-bc9a-4175-93f9-080afda56da8@io.market.iran-rom.ir:50330?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
 
@@ -9025,4 +9025,14 @@ vless://1f80b24e-bbdf-4959-abca-3808377a37c3@89.23.99.224:443?flow=xtls-rprx-vis
 vless://d9438566-ecb5-47e8-8aa1-cf4ff68b3e66@index.sandis.space:8443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://d16bab5b-a68d-4280-c340-d3e865f2a858@18.153.80.37:17506?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://telegram-id-ArV2ray2@84.32.101.93:443?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&sni=ftp.debian.org&sid=688c#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40manVPN
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://d9438566-ecb5-47e8-8aa1-cf4ff68b3e66@index.sandis.space:8443?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b5a71bc7-cc2c-4c6c-90b6-d08c341994c6@46.245.65.49:2053?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://telegram-id-ArV2ray@185.146.173.158:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
