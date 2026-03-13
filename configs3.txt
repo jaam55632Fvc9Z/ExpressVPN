@@ -16,8 +16,6 @@ trojan://telegram-id-directvpn@18.184.163.171:22223?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@18.184.163.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
-vless://f6c7016b-6f94-4a32-975c-013f2494d312@fr1.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OhVlH8lBJp6uiNx_RrMQcp3mxyguvSeCAiymCtLIhTc&security=reality&sid=65ef&sni=www.lvmh.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://0509acee-63e3-4364-95cc-21c601f059be@squad-2-de.vps-m.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&security=reality&sni=booking.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@38.180.91.119:2053?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2nodes
