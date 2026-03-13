@@ -2,6 +2,8 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
 vless://f1449968-0329-468b-b56b-1c573ac2a767@51.250.75.255:8081?security=reality&encryption=none&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&headerType=&fp=chrome&type=tcp&sni=eh.vk.com&sid=425ba80cd1a821a8#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
 
+trojan://telegram-id-privatevpns@15.188.164.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
+
 vless://501dfe1a-be73-4b89-b3bf-7f8a21c6f2ee@emergency3.layer-ziro.ir:2003?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
 
 vless://fa424e28-6cec-4c95-a9de-b7589cd48b00@drop3.iransport90.ir:3478?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
@@ -338,11 +340,7 @@ vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=&encr
 
 vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
 
-vless://c9f7b50d-0f3c-a1f1-a36e-015ce0112a28@titan.socialxxmedia.pro:1937?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=titan.socialxxmedia.pro#%F0%9F%8C%90%20TCP-None%20%7C%20%40netmelli15
-
 vless://9f366a3e-348c-492c-be54-4a0a6db94cc7@79.175.167.147:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-trojan://telegram-id-privatevpns@15.188.164.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
 
 hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
 
@@ -4522,6 +4520,8 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@82.118.230.220:443?security=tls&typ
 
 vless://72b0ecbd-b465-40d5-916b-21e53cc9e4be@nhgr07.nyber.org:15000?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://c9f7b50d-0f3c-a1f1-a36e-015ce0112a28@titan.socialxxmedia.pro:1937?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=titan.socialxxmedia.pro#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
 vless://e9350dfa-fa5c-11f0-a1cb-920006d3a56e@94.183.165.200:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://bbc3bc76-3118-4fd8-9d8b-23519078ea2f@taktun2.majalekhodrostore.ir:50325?security=none&encryption=none&host=ikcosales.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -8093,4 +8093,10 @@ vless://6e27392c-6896-4aca-9455-6b4b55cafb17@de20.fastplus7.site:33937?security=
 vless://9f940f6d-0f5a-47f5-818c-95950c69b1de@yumyum.spacesystems.shop:25124?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://ba7f1b89-3bba-41ff-b0e8-79deeacc0b1b@[2a0f:5707:aaf1:4d5b::1]:8443?mode=stream-up&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=developers.kermanshahi.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZTY4ZDRiZDAwMjQzN2Fi@149.104.71.134:11201#%F0%9F%87%B8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2nodes
+
+vless://ba7f1b89-3bba-41ff-b0e8-79deeacc0b1b@[2a0f:5707:aaf1:4d5b::1]:8443?mode=stream-up&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=developers.kermanshahi.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
