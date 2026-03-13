@@ -30,8 +30,6 @@ trojan://telegram-id-directvpn@18.184.163.171:22223?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@18.184.163.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
-vless://f6c7016b-6f94-4a32-975c-013f2494d312@uk1.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA&security=reality&sid=d923&sni=www.bp.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://f6c7016b-6f94-4a32-975c-013f2494d312@fr1.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OhVlH8lBJp6uiNx_RrMQcp3mxyguvSeCAiymCtLIhTc&security=reality&sid=65ef&sni=www.lvmh.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://0509acee-63e3-4364-95cc-21c601f059be@squad-2-de.vps-m.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&security=reality&sni=booking.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
@@ -7793,4 +7791,14 @@ vless://54c36460-4710-4c4d-8b58-0be7da081331@esp.darknet.run:443?type=tcp&securi
 vless://bbe2f89f-8462-44a3-aef5-72f657a9710d@download.jonoub.com:443?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://21915536-afb5-4a0c-b047-fcf549d3a173@madrid-meow.nethcloud.top:443?encryption=none&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://13d2b959-9bc1-40eb-eb69-7856f3495a7f@151.243.3.59:15187?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.61.47.9:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.149.233.78:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.149.222.113:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
