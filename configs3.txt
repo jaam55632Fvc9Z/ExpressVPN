@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://8058fd1c-28ca-4e6c-9828-ce7cf4433b5c@134.255.204.17:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
-
-vless://c71a9084-637b-43d5-8d26-802677443b89@109.95.65.242:900?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
-
-vless://f2f17144-6b9a-494d-a1cd-dc146514a719@37.152.175.201:40001?security=&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
-
-vless://4dd14167-ddce-49d1-8322-133e82c0cbfb@109.95.65.242:900?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
-
-vless://c72511d7-1729-403d-92c5-7448533a369a@Platform.snapp.ir.green-gaming-company.ir:1011?security=&encryption=none&host=s.cafebazaar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
-
 vless://84b5a48a-4c69-493c-87cb-09cbdfa7a450@103.213.249.62:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.dev&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigV2rayNG
 
 vmess://eyJhZGQiOiAiMTMuMjMxLjIwOC4xMTciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZW5kLWdmdy5jb20iLCAiaWQiOiAiMWExN2IxOWQtNDg5Ni00NTMxLWFmNzktNmU5MWQ4ZWY4MjI4IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjg2ODYiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAQ29uZmlnVjJyYXlORyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiYmFpZHUuY29tIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
@@ -9999,4 +9989,14 @@ vless://6439688b-2e57-4c52-919d-a72131c5492d@188.213.196.93:443?security=tls&typ
 vless://614c6f16-de06-4dc1-8cb5-4e6e594ddb4e@sps1s.shahramv1.site:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=sps1s.shahramv1.site#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://6439688b-2e57-4c52-919d-a72131c5492d@188.213.196.93:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=numberland.ir&fp=chrome&type=ws&allowInsecure=1&sni=numberland.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiamprbS56ZW0uaW5kZXZzLmluIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiYzU1ODMyOGItZWI0Ni00MjRjLWI5ZTAtNTc0NzcwZjBiMDcyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAiaG9zdCI6ICJqamttLnplbS5pbmRldnMuaW4iLCAicGF0aCI6ICIvN3NPejBwNFN6VTFENlhOQzBCWEd0SiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidHlwZSI6ICJub25lIiwgInNlcnZlclBvcnQiOiAwLCAibmF0aW9uIjogIiJ9
+
+vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@chatgpt.com:2052?path=%2F%3Fed&security=none&encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiZHZndC56ZW0uaW5kZXZzLmluIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiYzU1ODMyOGItZWI0Ni00MjRjLWI5ZTAtNTc0NzcwZjBiMDcyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAiaG9zdCI6ICJkdmd0LnplbS5pbmRldnMuaW4iLCAicGF0aCI6ICIvN3NPejBwNFN6VTFENlhOQzBCWEd0SiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidHlwZSI6ICJub25lIiwgInNlcnZlclBvcnQiOiAwLCAibmF0aW9uIjogIiJ9
+
+vmess://eyJhZGQiOiAidGcuYXBvY2FseXBzZS5jYy5jZCIsICJwb3J0IjogIjgwIiwgImlkIjogIjEzYWQzNmU2LWMwOTEtNDNmMi04NTA1LTQ3ZDg2OGRkNTQ0YyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQGZpbGVtYmFkIiwgImhvc3QiOiAidGcuYXBvY2FseXBzZS5jYy5jZCIsICJwYXRoIjogIi9Zc21Sb3VBOVpieGdXNCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidHlwZSI6ICJub25lIiwgInNlcnZlclBvcnQiOiAwLCAibmF0aW9uIjogIiJ9
+
+vmess://eyJhZGQiOiAiY3ZmZy5hZTFhdXR1bW4uY2MuY2QiLCAicG9ydCI6ICI4MCIsICJpZCI6ICIxM2FkMzZlNi1jMDkxLTQzZjItODUwNS00N2Q4NjhkZDU0NGMiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJob3N0IjogImN2ZmcuYWUxYXV0dW1uLmNjLmNkIiwgInBhdGgiOiAiL1lzbVJvdUE5WmJ4Z1c0IiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0eXBlIjogIm5vbmUiLCAic2VydmVyUG9ydCI6IDAsICJuYXRpb24iOiAiIn0=
 
