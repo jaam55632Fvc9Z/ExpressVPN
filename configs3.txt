@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?path=%2F&security=tls&encryption=none&insecure=1&host=rukawa.pages.dev&type=ws&allowInsecure=1&sni=rukawa.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-trojan://sl7un6sc-0ff5-u4l4-8c39-1k2d0tjsmmcz@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://ne9ne3e6-b101-ikh6-76ii-n4m6qmq7n62u@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://d7hpn78e-ojds-h4ii-md5e-udyoe8fdgulk@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://7b3e76e2-66f7-47f5-bd78-a9324a5254b2@it.trevia.sbs:443?type=tcp&encryption=none&security=tls&fp=&alpn=#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40EmKavpn
-
-trojan://telegram-id-directvpn@18.199.232.208:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.232.208:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@18.199.232.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
@@ -9999,4 +9987,16 @@ vless://f7f02e63-7a12-4d13-a44d-0740a3ed2ebc@vpnstar6.lithiumhost.ir:42874?secur
 vless://614c6f16-de06-4dc1-8cb5-4e6e594ddb4e@sps1s.shahramv1.site:443?security=tls&encryption=none&headerType=none&fp=firefox&type=tcp&sni=sps1s.shahramv1.site#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://ec612eee-5fef-4ca6-b69d-0e2618472e5f@46.38.143.232:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=numberland.ir&path=/voip&sni=numberland.ir&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?security=reality&encryption=none&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=4e249e62#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
+
+vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?security=reality&encryption=none&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9edc548e1e284d84#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
+
+vless://1218c022-dca8-49e5-b7d4-a04f3023db81@89.185.81.169:443?security=reality&encryption=none&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=4e249e62#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2N2ZRWHA3QXlzYXc5RzlTdkVVdFE3@171.22.181.186:16570#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
+vless://ec612eee-5fef-4ca6-b69d-0e2618472e5f@46.38.143.232:443?path=%2Fvoip&security=tls&encryption=none&host=numberland.ir&fp=chrome&type=ws&sni=numberland.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://ec612eee-5fef-4ca6-b69d-0e2618472e5f@46.38.143.232:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=numberland.ir&fp=chrome&type=ws&allowInsecure=1&sni=numberland.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
