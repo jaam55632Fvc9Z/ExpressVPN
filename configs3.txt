@@ -14,8 +14,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&f
 
 vless://847975b8-6bd5-4904-de77-6b5590800f5d@47.236.152.192:46137?&type=tcp&headerType=none&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2nodes
 
-vless://74f6348b-bc9a-4175-93f9-080afda56da8@io.market.iran-rom.ir:50330?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
-
 vless://74f6348b-bc9a-4175-93f9-080afda56da8@u.usa.forbes.com.chellservice.ir:1820?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
 
 vless://c8c75018-26ab-4501-be3e-f7bb33ed8c57@ja3.diiginet.ir:1500?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
@@ -63,6 +61,8 @@ vless://c2b88a44-9000-4c86-9df9-cee546d793b7@178.239.146.50:2001?security=none&e
 vmess://eyJhZGQiOiAiNzguMTU3LjYzLjc3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlMGRkMGRkZS02NTdkLTRhMjktYTc5Mi1jN2VmNTdiMzRhZWUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBjb25maWdyYXlnYW4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 
 vless://c2b88a44-9000-4c86-9df9-cee546d793b7@178.239.146.50:2001?flow=&type=tcp&headerType=http&host=anten.ir&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://74f6348b-bc9a-4175-93f9-080afda56da8@io.market.iran-rom.ir:50330?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://0fff5f1b-370d-4e98-829d-7dca653fbca8@185.226.117.160:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
@@ -9095,4 +9095,6 @@ vless://c74f37b1-f671-4e43-9242-a0f88b50c843@77.42.67.4:443?security=reality&enc
 vless://cea9739e-50d9-4fbb-87e3-73e52e91d567@77.42.67.4:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.2Do-Va1SMMHGLqftB61-zvPgdxfeTgFu_DomYu6G4Sg&pbk=c_JfmGPZlvpdm22tfPSVaVA97Qd7pYXR3JII2Gsp708&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=aws.amazon.com&sid=0944bdbc711210#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://e1effa1a-1258-4b60-8f7a-7eedc6d1d563@77.42.67.4:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.2Do-Va1SMMHGLqftB61-zvPgdxfeTgFu_DomYu6G4Sg&pbk=c_JfmGPZlvpdm22tfPSVaVA97Qd7pYXR3JII2Gsp708&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=aws.amazon.com&sid=0944bdbc711210#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://be2557f7-a0df-4393-b71b-28013847059f@fastly3.hamrahflow.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=Valsiin.com&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
