@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-co…#%F0%9F%8C%90%20WS-TLS%20%7C%20%40HajmVPN_Config
-
 vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@ch.fasti.win:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=ch.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp&allowInsecure=1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
@@ -183,4 +181,8 @@ vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955/?type=grpc&encry
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.16.250.22:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.16.250.22:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1ad2695a-4bd9-4c88-8b19-ed60ff3c2192@94.182.145.78:60001?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
 
