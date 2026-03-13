@@ -86,6 +86,8 @@ trojan://KBgnXadFmC@88.99.184.17:40450?security=none#%F0%9F%8C%90%20TCP-None%20%
 
 vless://234e7684-18d1-40b8-b71b-066400c18ae6@mapi.timapsee.com:5003?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
 
+vless://c0ac5114-b6e9-216a-4c11-9ac0c515b8ff@dragon.socialxxmedia.pro:350?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
+
 vless://d9d163e3-793c-4fd4-8026-690d422bf8ea@s2.fastsnap.info:21113?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://234e7684-18d1-40b8-b71b-066400c18ae6@mapi.timapsee.com:5003?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
@@ -119,8 +121,6 @@ vmess://eyJhZGQiOiAiZEMtMi5jRU50UmFMbkV0LkNsSWNLIiwgImFpZCI6ICIwIiwgImFscG4iOiAi
 vmess://eyJhZGQiOiAiZEMtMS5jRW5UckFsTmVULkN2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyMzNlZWFmNy1lODBmLTRkOWMtOTNmMS1hMmRiNWVmZTFkOTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjMwMDAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQHBsYW5CX25ldCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
 vless://e96096d9-74c7-4a64-904a-cab4a4428cce@51.250.3.29:7445?security=reality&encryption=none&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40planB_net
-
-vless://c0ac5114-b6e9-216a-4c11-9ac0c515b8ff@dragon.socialxxmedia.pro:350?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
 
 trojan://telegram-id-directvpn@18.184.163.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
