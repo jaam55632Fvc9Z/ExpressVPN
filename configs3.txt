@@ -10,8 +10,6 @@ vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security
 
 vless://38bf7faf-8751-45a0-9a1c-e8e75a31e64a@185.136.135.172:41000?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
-vless://6a3ad064-be7c-40be-9a48-171885a359b7@mail.tomandjery.eu:1001?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2&fp=firefox&pbk=xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40netmelli15
-
 vless://6a3ad064-be7c-40be-9a48-171885a359b7@mail.tomandjery.eu.zero_proxy1:1001?security=reality&encryption=none&pbk=xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40VIPV2rayNGNP
 
 vless://21915536-afb5-4a0c-b047-fcf549d3a173@176.124.221.32:8443?encryption=none&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
@@ -933,6 +931,8 @@ vless://Telegram%3A%40NormanV2ray@62.182.193.76:443?path=%2Fsg-lnd&security=tls&
 trojan://humanity@chat.openai.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://8dcb7893-9191-4c71-b92a-4c3e52142030@vip.younetwork.ir:20900?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6a3ad064-be7c-40be-9a48-171885a359b7@mail.tomandjery.eu:1001?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2&fp=firefox&pbk=xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://705f96ea-9a3f-9d89-4ed9-c1b8b6e802da@tunn.vpsino.com:2096?security=none&type=tcp&headerType=none&path=%2F&host=nobitex.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -8907,4 +8907,10 @@ vless://ccd85f23-9105-37fd-96b9-9dcbc89ff3eb@s173.okgg.top:443?security=tls&type
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJwdWIuYXAyMDI2MDIyOC5jb20iLCAicG9ydCI6ICI2NDA5NyIsICJpZCI6ICJhNzM5ZTc4Mi0xNjgyLTM4YTUtOTE1My1hYWQwOWQ3NzlhZTkiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIn0=
 
 vless://f32dfcdf-e307-455e-9088-0edd103cd438@athena.fdping.com:443?security=none&encryption=none&host=%40persian_asasins&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6e03fdbe-256d-4c34-9838-7fd7d06570a8@speedtest.org:8080?path=%2FXIXVPN%3Fed&security=none&encryption=none&host=shad.ir.bot.digicyber.click&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://dfe13f5a-9ce4-44fc-be96-1067bbf9202d@ep.tehrantolidi.ir:443?mode=auto&path=%2FXIXVPN%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=www.designseda.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=65kcnqjbg1.designseda.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vmess://eyJhdXRob3JpdHkiOiAiIiwgIm1vZGUiOiAiIiwgImhvc3QiOiAiIiwgIm5ldCI6ICJ0Y3AiLCAic2VydmljZU5hbWUiOiAibm9uZSIsICJzbmkiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJmcmFnbWVudCI6ICIiLCAiZGV2aWNlSUQiOiAiIiwgInR5cGUiOiAibm9uZSIsICJleHRyYSI6ICIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNlZWQiOiAiIiwgInBhdGgiOiAiIiwgImhlYWRlclR5cGUiOiAibm9uZSIsICJwb3J0IjogIjE4MCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAidiI6ICIyIiwgInRscyI6ICJub25lIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3In0=
 
