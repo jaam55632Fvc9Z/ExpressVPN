@@ -82,3 +82,11 @@ vless://a1f1933f-6152-4bf4-8cb1-742cade818c8@5.255.102.217:2012?security=reality
 
 vless://a1f1933f-6152-4bf4-8cb1-742cade818c8@5.255.108.77:2012?security=reality&encryption=none&pbk=SAAA12X48mYw2aoV_l8ep_vFpYxJZCKz5c-ps7xd7lU&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=938015b35f161374#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://32332baa-3178-4c57-9c17-5f3bcf974bc1@st19.iranian-technology.com:18941?type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6addc0d6-94f8-b513-3d2d-dc86f174f2ab@meli2.ertebatgoostar.ir:2087?security=&encryption=none&host=tv3.ir&headerType=http&type=tcp&sni=54.38.242.158#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://d57ad741-5f88-4b7e-b117-830b454ae74a@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@188.114.97.3:443?path=%2FIq3945ZsqJBAQ5Ah&security=tls&encryption=none&insecure=0&host=sxcvf54.0wu.ccwu.cc&type=ws&allowInsecure=0&sni=sxcvf54.0wu.ccwu.cc#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
