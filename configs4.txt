@@ -318,3 +318,21 @@ vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@45.61.140.116:443?encryption=none&s
 
 vmess://eyJhZGQiOiAiY2hhdGdwdC5jb20iLCAiaWQiOiAiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwgInBvcnQiOiAiODQ0MyIsICJzY3kiOiAiYXV0byIsICJ2IjogIjIiLCAibmV0IjogIndzIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2xNbnNaVU40LyIsICJ0bHMiOiAidGxzIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJzbmkiOiAidjJyYXkxLmRvemFwcC54eXoiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJhaWQiOiAiMCIsICJ0eXBlIjogIm5vbmUifQ==
 
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@chatgpt.com:443?type=ws&security=tls&sni=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g&host=mfyousheng.nl.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@chatgpt.com:443?security=tls&sni=mfyousheng.nl.eu.org&fp=qq&insecure=0&allowInsecure=0&type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://de2707f7-e261-4d77-a346-a5150daafa2d@185.231.181.119:3562?type=tcp&encryption=none&path=%2F&host=filimo.com&headerType=http&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c3ec5c1d-4d55-4484-838c-0a4ee157aaec@185.231.181.119:3562?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://9b354a64-81f6-4a15-a127-337cd17e25ba@172.67.142.88:80?path=%2FIBb38gsTRjFOzklVEUuTu7GKK&security=none&encryption=none&host=nghnju.2yo.ccwu.cc&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9b354a64-81f6-4a15-a127-337cd17e25ba@104.21.87.73:80?path=%2FIBb38gsTRjFOzklVEUuTu7GKK&security=none&encryption=none&host=nghnju.2yo.ccwu.cc&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9e308743-bc58-4109-b8a8-c2c686959c65@188.114.97.3:80?path=%252FI4W63AAjPkpe1D3pAvPtZpEoeO&security=none&encryption=none&host=cdvbghy.2xv.ccwu.cc&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9b354a64-81f6-4a15-a127-337cd17e25ba@172.67.142.219:80?path=%2FIBb38gsTRjFOzklVEUuTu7GKK&security=none&encryption=none&host=nmjju8.0sm.ccwu.cc&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://937d410f-1858-471d-bc0e-cdf3b43e78b8@188.114.96.3:443?path=%2FeyJqdW5rIjoiMnlwZUVocGtVZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=60ysrd9-v10nswi4duhvlrv0yxuspeth.efownd9to.workers.dev&type=ws&allowInsecure=0&sni=60ysrd9-v10nswi4duhvlrv0yxuspeth.efownd9to.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
