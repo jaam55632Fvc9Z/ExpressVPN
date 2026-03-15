@@ -230,3 +230,9 @@ vless://417881fa-348c-44cf-bc20-4f690247457a@188.225.57.180:5443?flow=xtls-rprx-
 
 vless://ae85c7e7-c16f-4075-9d2c-aa697f118550@51.250.118.241:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-gg&fp=chrome&sni=www.google.com&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
 
+vless://14db8096-7800-4cb8-bb52-1856e3b65785@snt1.shahramv1.site:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=snt1.shahramv1.site#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2rayng_Fast
+
+vless://f69fb3fd-fec4-8b01-301b-787c7edad2f9@po.jijibiji.online:1010?security=none&encryption=none&host=tv3.ir&headerType=http&type=tcp&sni=57.128.255.3#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://1794c438-83ee-46fb-93fc-2bdb04ac20fc@awss.imsoon.io:80?encryption=none&type=ws&host=d14wbg30w81crg.cloudfront.net&path=/api&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
