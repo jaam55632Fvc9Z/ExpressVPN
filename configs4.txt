@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://dc08d353-44f5-45b6-b273-703ff5e955dc@192.200.160.20:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=639073677243308853.camry-perma.info&path=/jxyughws&security=tls&sni=639073677243308853.camry-perma.info&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2nodes
-
 vless://f8aa1288-08a6-4a73-9589-fa63a294a89f@emg5.saipasamandemg5.sbs:2005?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://e73df646-1f62-41bf-8c50-653497d603d0@SC-TheNetherlands2.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40v2nodes
@@ -17,4 +15,6 @@ trojan://telegram-id-directvpn@3.123.240.134:22223?security=tls&alpn=http/1.1&he
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.240.134:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@3.123.240.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://ec5c0a6a-04ca-48a2-88be-dae9a0f9c870@simcard.parhamm1.ir:5066?encryption=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
