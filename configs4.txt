@@ -62,3 +62,9 @@ trojan://z74suj1o-p5r7-wg4q-2rcy-73khuqoxol6i@127.0.0.1:2080?security=tls&type=t
 
 trojan://c004niej-7px0-lhrm-moze-g8jphy08f79l@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
+trojan://telegram-id-directvpn@18.194.236.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.236.215:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@18.194.236.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
