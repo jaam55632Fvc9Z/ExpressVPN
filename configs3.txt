@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://4ae2d0f2-f150-42ff-b09d-8080d09e6d8d@87.242.103.115:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=jyfiBUYiL1e88ru9_K3hrieKZVwiI6CkU5mhnH36qm8&sid=afee1a48fd42a87b&sni=io.ozone.ru&path=&host=#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://4ae2d0f2-f150-42ff-b09d-8080d09e6d8d@85.208.87.231:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=jyfiBUYiL1e88ru9_K3hrieKZVwiI6CkU5mhnH36qm8&sid=afee1a48fd42a87b&sni=max.ru&path=&host=#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://4ae2d0f2-f150-42ff-b09d-8080d09e6d8d@5.188.138.88:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=jyfiBUYiL1e88ru9_K3hrieKZVwiI6CkU5mhnH36qm8&sid=afee1a48fd42a87b&sni=eh.vk.com&path=&host=#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 vless://4ae2d0f2-f150-42ff-b09d-8080d09e6d8d@176.108.241.219:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=jyfiBUYiL1e88ru9_K3hrieKZVwiI6CkU5mhnH36qm8&sid=afee1a48fd42a87b&sni=max.ru&path=&host=#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://4ae2d0f2-f150-42ff-b09d-8080d09e6d8d@84.23.52.10:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=jyfiBUYiL1e88ru9_K3hrieKZVwiI6CkU5mhnH36qm8&sid=afee1a48fd42a87b&sni=sun.cdn.yandex.com&path=&host=#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -9999,4 +9993,10 @@ vless://705f96ea-9a3f-9d89-4ed9-c1b8b6e802da@tunn.vpsino.com:2096?security=none&
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+trojan://telegram-id-directvpn@51.45.11.182:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.11.182:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@51.45.11.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
