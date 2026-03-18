@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-trojan://wivdrgke-2677-4f2r-cb6g-o76intq87s3c@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://8610pbcy-olt3-zib2-dio3-cy1gw9mza0hd@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
 trojan://4kch82iw-3g09-1ewa-hsq2-63qwmkbbmfz4@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUZW5jZW50IEJ1aWxkaW5nLCBLZWppemhvbmd5aSBBdmVudWUgXHUyNTA3IDQzLjEzNC4xNjcuMTM1IiwiYWRkIjoiNDMuMTM0LjE2Ny4xMzUiLCJwb3J0Ijo5OTUyLCJpZCI6IjQ2MmQ5Njk0LTYyYjUtNDc4MS1hMjg3LTYxYTQyMmI5MjBlOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3Z2aXAiLCJ0bHMiOiJ0bHMifQ#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
@@ -9999,4 +9993,10 @@ trojan://telegram-id-directvpn@15.224.60.191:22223?security=tls&alpn=http/1.1&he
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.60.191:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@15.224.60.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://808f9260-d154-4fee-8120-9a9046e8cdcc@speedtest.net:80?mode=auto&path=%2Fassets&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=xn--9kqz4c3d8f2a9b7e6h5m4n3p2q1r0s8t7u6v5w4x.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://57b7103c-3f00-4d92-90e0-29ff701576a6@farzandeiran.iransalar.top:21531?type=tcp&security=none&encryption=none&headerType=http&path=%2F&fp=chrome&sni=www.cloudflare.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b4c5c4f6-8056-4728-886e-a67e182b8d32@185.211.57.31:443?security=&encryption=none&host=telewebion.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
