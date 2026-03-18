@@ -8,3 +8,17 @@ vless://3cc7c3a4-03a7-11f1-9bc0-0242ac110002@fr1.cyphervpn.pro:443?encryption=no
 
 vless://658786e5-f302-48e2-b321-f4dc6da2a398@89.185.85.107:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdnv-img.perekrestok.ru&pbk=EdEtwDL3a_V9midkIqik19C3xo7VvefseGkDM5jBWGM&sid=ba34cbf836e99bf6#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
+trojan://biS%28YrwB%2C3L%24@185.143.235.5:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mydigipay.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40prrofile_purple
+
+vless://94986991-74c7-4c8b-acf2-90992059e7f1@jsbsh_jsjsbdixsjsvsjvdj_dhdjdjdkjbsj_b.d2centeerr.sbs:27208?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
+vless://7dc5d455-5ce5-4d6a-a9fa-ba69132133c7@178.17.52.29:8083?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SziXMkSTuvedEFS4DE-WY0a4Hb87Y22VW0TgE9IPDjA&security=reality&sid=425ba80cd1a821a8&sni=www.apple.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://9880cba6-7260-4eab-a446-d9f4b02b28bd@198.41.215.93:443?hiddify=1&sni=cdn.shayan.cyou&type=httpupgrade&alpn=http%2F1.1&fragment=10-100%2C50-200%2Ctlshello&path=%2FYAIb93ZcNf9TH3lW5eYZzKoL0t&host=cdn.shayan.cyou&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&ech=AEX%2BDQBBrgAgACDj1dgwS8IygHFEYTxl4bnS3imzq5T44HLjx9lgfznpJAAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA%3D&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F144.0.0.0%20Safari%2F537.36%20OPR%2F128.0.0.0%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40filembad
+
+trojan://9880cba6-7260-4eab-a446-d9f4b02b28bd@198.41.215.93:443?hiddify=1&sni=cdn.shayan.cyou&type=grpc&alpn=h2&fragment=10-100%2C50-200%2Ctlshello&path=yXkmtzg0OFD2kUOEM0lNXiDmhpG&host=cdn.shayan.cyou&serviceName=yXkmtzg0OFD2kUOEM0lNXiDmhpG&mode=gun&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&ech=AEX%2BDQBBrgAgACDj1dgwS8IygHFEYTxl4bnS3imzq5T44HLjx9lgfznpJAAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA%3D&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F144.0.0.0%20Safari%2F537.36%20OPR%2F128.0.0.0%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFhIVFRQLVRMUyB8IEBmaWxlbWJhZCIsICJhZGQiOiAiMTk4LjQxLjIxNS45MyIsICJwb3J0IjogNDQzLCAiaWQiOiAiOTg4MGNiYTYtNzI2MC00ZWFiLWE0NDYtZDlmNGIwMmIyOGJkIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAieGh0dHAiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiY2RuLnNoYXlhbi5jeW91IiwgImFscG4iOiAiaDMiLCAicGF0aCI6ICIvMWlCbVg1SmFVd3NrZXdFWUVWcG9hamlLRDJGYUsiLCAidGxzIjogInRscyIsICJzbmkiOiAiY2RuLnNoYXlhbi5jeW91IiwgImZwIjogImNocm9tZSIsICJlY2giOiAiQUVYK0RRQkJyZ0FnQUNEajFkZ3dTOEl5Z0hGRVlUeGw0Ym5TM2ltenE1VDQ0SExqeDlsZ2Z6bnBKQUFFQUFFQUFRQVNZMnh2ZFdSbWJHRnlaUzFsWTJndVkyOXRBQUE9IiwgImNvcmUiOiAieHJheSIsICJleHRyYSI6ICJ7XCJoZWFkZXJzXCI6e1wiVXNlci1BZ2VudFwiOlwiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NC4wLjAuMCBTYWZhcmkvNTM3LjM2IE9QUi8xMjguMC4wLjBcIixcIlByYWdtYVwiOlwibm8tY2FjaGVcIn19In0=
+
+vmess://0654d64d#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
