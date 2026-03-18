@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://xdo3nl5y-c2al-5upw-2kfs-srhscua9ojse@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@81.19.137.83:8080?type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://711f56b0-0d4c-4516-bea6-0e963749928c@mos-drywall.shop:443?type=tcp&security=reality&sni=my-rebar.shop&fp=chrome&flow=xtls-rprx-vision&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
 
 trojan://wivdrgke-2677-4f2r-cb6g-o76intq87s3c@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -9999,4 +9993,10 @@ vless://d694ae9d-adb3-494e-90b7-4eee10c7bb8d@13.229.107.38:46929?type=tcp&encryp
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://cf85488a-6baf-4da8-9364-1628ed9e2b41@star.fast-uploader.net:6002?type=tcp&encryption=none&host=cafeariel.ir&path=%2F&headerType=http&quicSecurity=none&serviceName=&security=&fp=firefox#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@15.224.60.191:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.60.191:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.224.60.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
