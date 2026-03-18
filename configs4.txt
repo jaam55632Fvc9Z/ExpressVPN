@@ -26,3 +26,11 @@ vless://e4824791-cd81-43fa-81f5-5bac83eb8566@89.169.130.209:443?security=reality
 
 vless://e100a774-bd63-4d61-8a43-6db1acfa89fb@91.98.80.2:8880?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQ2ROUElmMTdpNjgyMXVtQjJoZ0lF@104.192.227.163:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://3fce3b0d-0b92-4e92-9a78-18051dd648b4@45.136.59.44:13344?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=DC71RjKr16drr8gqK8QhEuCVLpkbBfUfPb9Far8Jkzo&sid=e2bd9802e29deb#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+trojan://biS%28YrwB,3L$@185.143.235.5:443?security=tls&sni=mydigipay.com&type=#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
