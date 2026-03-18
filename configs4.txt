@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://049f0970-4160-f0f1-9519-0e9349419709@mak3.vpsino.com:20960?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://167a74ef-6c90-4a07-ac3b-c870485796c2@uas.blackhoster.com:991?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://90956199-d1d6-455d-9371-1b2e83f24066@freak.gexar.top:45062?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -15,4 +13,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFNGZsNUJVcUxVcEM5cDhs@mandanishop.info:12512
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+trojan://telegram-id-directvpn@3.124.155.41:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.155.41:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.124.155.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+trojan://IL37892054@upright-rhino.rooster465.autos:443?allowInsecure=0&sni=upright-rhino.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
+
+trojan://IL37892054@apt-magpie.rooster465.autos:443?allowInsecure=0&sni=apt-magpie.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
 
