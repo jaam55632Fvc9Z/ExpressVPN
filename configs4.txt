@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.25.243:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40manVPN
-
 trojan://telegram-id-directvpn@15.236.16.104:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.16.104:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
@@ -23,4 +19,10 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFdTLU5vbmUgfCBA
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFdTLU5vbmUgfCBAdjJub2RlcyIsICJhZGQiOiAidC5jbm1qY24uY3lvdSIsICJwb3J0IjogIjE2NjE4IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MjM1NWJlMi1hZjYxLTRiM2ItODY2Yy1kM2M1ZWE4NzQ4YzUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogImZlYmNlMWQyOWE4YTRjNjhlMDE2ZTBiZWM4M2ZhMjQ1Lm1vYmdzbGIudGJjYWNoZS5jb20iLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
 vless://35b9becb-2488-447c-ad69-e839f2fc13c1@45.89.111.63:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300&sid=3ef8cdbc#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://f60698d0-61c7-4377-87b5-2ebdd1fceb36@blog.nodemodule.sbs:24162?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://79f65c76-2d95-480f-939a-7a7b1a35d9fc@farzandeiran.iransalar.top:45179?type=tcp&encryption=none&path=%2F&host=fast.com&headerType=http&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAieG0ubmZ0eWRyZWFtcy5pbyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjE4NjcxMzYtNTdmOS00ZDUyLWE3NTEtZDNmNGIwMWFkMzY5IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwMDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 
