@@ -30,3 +30,9 @@ vless://d1421bc8-d664-44a7-bd96-9657d5ee894d@freak.gexar.top:45062?security=none
 
 vless://1bfa7a1c-1587-490d-a626-2dc02262ea6e@freak.gexar.top:45062?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://d37c7e48-2a8d-432f-a3ce-8da4cc203b2c@77.83.245.135:34205?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@104.207.157.238:8443?security=tls&type=ws&path=%2Fdanfeng&host=chinam.sylu.net&alpn=http%2F1.1&sni=chinam.sylu.net&fp=random#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a@45.136.128.175:443?security=tls&encryption=none&headerType=none&type=tcp&sni=kzcdn1.suio.me#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
