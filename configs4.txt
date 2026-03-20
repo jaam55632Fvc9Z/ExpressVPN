@@ -12,3 +12,9 @@ vless://ec7a1b53-cf81-416a-93b7-ef91fd02b9f4@mellat.vhuma.com:443?security=none&
 
 vless://5c57e733-06fb-4ac5-d672-b6823f782577@79.175.136.84:47266?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://b74cd0fd-fb4c-4cda-9efe-ef383f88af7c@193.242.125.155:53646?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://telegram-id-privatevpns@18.159.140.89:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://5c57e733-06fb-4ac5-d672-b6823f782577@79.175.136.84:47266?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
