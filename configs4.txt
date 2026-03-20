@@ -18,3 +18,7 @@ vless://79ea8bf9-2710-4d9a-834d-ede69d7f1dd9@185.213.195.51:27253?type=tcp&secur
 
 vless://ee73ff6e-af32-43df-854e-754253bd1bd8@de-2-tun-single.starping1.fun:8083/?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40saministamm
 
+vless://cd87ea32-4b8e-4e38-ba43-652040511ed8@92.114.24.250:443?encryption=none&type=ws&host=api.meibourse.com&path=/no?ed%3D443&security=tls&fp=chrome&sni=api.meibourse.com&mux=8#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=1&host=#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
