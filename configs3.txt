@@ -4354,3 +4354,7 @@ trojan://telegram-id-privatevpns@35.181.241.230:22222?security=tls&alpn=http/1.1
 
 vless://42002c1d-7c00-487a-955c-d8970cecb611@91.92.182.230:5050?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://42002c1d-7c00-487a-955c-d8970cecb611@91.92.182.230:5050?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://ecbaf16f-f845-47aa-ab92-86963c8bcb9b@vip-meli5.nightgemshop.com:16019?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
