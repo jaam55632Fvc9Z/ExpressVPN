@@ -28,3 +28,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.241.230:22224?type=ws&securi
 
 trojan://telegram-id-privatevpns@35.181.241.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://42002c1d-7c00-487a-955c-d8970cecb611@91.92.182.230:5050?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
