@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://b11e7751-4758-4391-ad40-801bb005e848@srw5.radnet.click:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://df1dd9fd-7899-4ad0-a294-6b1e4af6fb05@192.168.1.1:80?security=none&encryption=none&host=nic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICIxODguMTIxLjExNi4xMTQiLCAicG9ydCI6IDgwODAsICJpZCI6ICIyNGM5ODIxYi00MTNkLTRjZWUtOGQ0NS1lNTZiNWRmNDMzMmQiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUifQ==
-
-vless://03745580-7ad9-42ef-b201-2685ebcc460c@shop.webchipro2.ir:7777?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://f8c2d687-c155-41a6-9f0c-0cd4629f5808@arad.zabuzabfr.ir:80?path=%2F&security=&encryption=none&host=arad.zabuzabfr.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJhbS5uZnR5ZHJlYW1zLmlvIiwgInBvcnQiOiAyMDAyLCAiaWQiOiAiZDI1MTRiMjUtNTg4OS00MDNlLTg3MWMtZmIxMGIwNWQxN2Y1IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIn0=
-
 vless://03745580-7ad9-42ef-b201-2685ebcc460c@shop.webchipro2.ir:7777?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAiMTg4LjEyMS4xMTYuMTE0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyNGM5ODIxYi00MTNkLTRjZWUtOGQ0NS1lNTZiNWRmNDMzMmQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
@@ -37,4 +25,18 @@ vless://ff7662c0-d71b-4aa1-afbf-b81dd2bc5972@185.143.233.200:443?path=%2F%3Fed%3
 vless://67f1aa9d-9a97-4599-a77b-0da1d3a27297@sp.appwordpresss.ir:8083?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://7b3faa86-82fb-4cf4-92d2-8fcd542902fa@simcard.parhamm1.ir:80?security=&encryption=none&host=mirror.arvancloud.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@15.224.128.206:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.128.206:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.224.128.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://7b3faa86-82fb-4cf4-92d2-8fcd542902fa@94.101.179.197:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=archive-azd1101.telewebion.ir&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
+
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@89.221.225.71:443?allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
+
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@185.151.146.40:443?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2nodes
+
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@85.237.206.249:443?allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2nodes
 
