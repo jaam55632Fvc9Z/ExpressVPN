@@ -3294,3 +3294,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.46.125:22224?type=ws&securit
 
 trojan://telegram-id-privatevpns@35.181.46.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://f7e22f6e-e287-3698-7c26-045cb8ad723f@cloud.vpsino.com:63822?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://56dba08f-d6ad-45b3-9005-31eba254fcfc@dl.fastprofsor.com:58148?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
