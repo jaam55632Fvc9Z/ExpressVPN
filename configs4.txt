@@ -14,3 +14,9 @@ vless://6053689d-39d6-4005-b1bd-c0dce854f429@103.27.157.202:9443?security=realit
 
 vless://f622d9f5-efd4-484c-957f-2f89852eb1f3@ult#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://a72f055b-8929-4947-bbcd-1eb567e1f69e@62.60.198.57:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://17f100d3-4b31-47f9-b8df-94d1a723d43e@140.248.155.104:443?path=%2F&security=tls&encryption=none&insecure=0&host=efixshop.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a28078e4-174f-43c8-8573-2a6301f08076@91.220.113.212:57719?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
