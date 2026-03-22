@@ -3414,3 +3414,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.15.225:22224?path=%2Ftelegram
 
 vless://c65f4a71-2f79-4e15-9ccc-8d518ddc1dde@91.247.171.108:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://telegram-id-privatevpns@51.45.15.225:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://30653465-3433-4137-b263-366365613466@198.62.62.159:443?mode=stream-up&path=%2Faparat-video%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=test.digikalacomaparatcom.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=test.digikalacomaparatcom.shop#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
