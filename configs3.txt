@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-privatevpns@18.194.236.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://f675187d-1f65-4ec6-889d-9b99990512ed@gz1-ts.nixarva.ir:443?security=none&encryption=none&host=bale.ai&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.236.215:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-trojan://telegram-id-directvpn@18.194.236.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4937?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://1d8120a6-15de-4001-92ad-eeaf8ba63699@pl.riotvpn.eu:80?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=obhod.riotvpn.eu#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://f967c0d8-a49a-4ad1-96f0-d7e08b9de1a7@45.90.74.46:443?security=reality&encryption=none&pbk=Lux-sMwNN6HLjuKigLQSLtThCAK-LeEu9fRuxcxu4RE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=aparat.com&sid=a9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@66.63.168.172:39738?&security=tls&fp=random&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=%2Fdanfeng#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2nodes
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxbEFhTWZTUHYyYzFTeXM5MjV6aldZ@185.212.149.195:55638#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2nodes
@@ -208,6 +192,8 @@ vless://9cde6dc4-d7af-4780-acaa-0ee36107c560@2.188.241.144:29332?security=none&e
 
 vless://29eb504a-f25f-4d5d-ac7f-d643ec83686e@starv1.meepo1.com:19971?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
+vless://f967c0d8-a49a-4ad1-96f0-d7e08b9de1a7@45.90.74.46:443?security=reality&encryption=none&pbk=Lux-sMwNN6HLjuKigLQSLtThCAK-LeEu9fRuxcxu4RE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=aparat.com&sid=a9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
+
 vless://424b84b4-cd57-42eb-b1e0-5b618ffcb822@109.95.67.200:25443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@fi.grizzlyvpn.work:443?type=tcp&security=reality&sni=fi.grizzlyvpn.work&fp=chrome&flow=xtls-rprx-vision&pbk=c3W9GpyDD3dKT_KPBn6X2eH4nvTX016JqmGRSGFrSF8&sid=1644d7de8a2d71bd#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2nodes
@@ -383,6 +369,8 @@ vless://8d893f78-c600-4354-9bc1-5f71ee2e0386@162.55.190.0:50219?security=none&en
 vless://49bfe74a-2a57-40f2-ad6e-39df3a0eb8de@162.55.190.0:433?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://1d8120a6-15de-4001-92ad-eeaf8ba63699@pl.riotvpn.eu:80?security=tls&encryption=none&alpn=h2,http/1.1&type=xhttp&sni=obhod.riotvpn.eu#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40configraygan
 
