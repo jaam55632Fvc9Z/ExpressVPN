@@ -1,6 +1,3 @@
-1773729327.416209|DirectVPN|trojan://telegram-id-directvpn@18.158.21.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-1773729327.416209|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.21.192:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
-1773729327.416209|PrivateVPNs|trojan://telegram-id-privatevpns@18.158.21.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 1773732030.951384|v2nodes|vless://5952ea01-0669-4f5e-8010-61f8abee3600@nl.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bDdOq3qmxktZkzTC1GoPmod0H4yYpCdMKQXiahg0iBk&security=reality&sid=1970a26157d7bf98&sni=nl.grizzlyvpn.work&type=tcp#🇳🇱[openproxylist.com] vless-NL
 1773733831.808692|filembad|vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.32.47:2053?path=%2FXIXVPN%3Fed&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#%40filembad
 1773733831.808692|filembad|vless://70ecfd5e-b439-410e-f1f5-68245522e0b8@85.133.214.37:443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%40filembad
@@ -2035,3 +2032,5 @@
 1774247725.232554|filembad|vless://6a74a3a0-71ee-4286-bbd5-91d977fc7e31@turbocdn.melonet.best:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn12.persianfilmdl.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn12.persianfilmdl.ir#%40filembad
 1774247725.232554|filembad|vless://a63da9b8-137a-d5f1-74b4-ff2e8073b3f4@cloud.vpsino.com:48324?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 1774247725.232554|filembad|vless://a63da9b8-137a-d5f1-74b4-ff2e8073b3f4@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+1774248030.335362|filembad|vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@s725.ccgfw.top:443?security=tls&sni=u710297ua16es725.ccgfw.top&allowInsecure=1&fp=random&type=tcp&flow=xtls-rprx-vision&encryption=none#%40filembad
+1774248030.335362|filembad|vless://14426333-11de-4573-8783-6b4cc43f537a@cdnirtr16.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1053?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir&path=/XIXVPN?ed=2560#%40filembad

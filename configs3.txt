@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@18.158.21.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.21.192:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@18.158.21.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@nl.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bDdOq3qmxktZkzTC1GoPmod0H4yYpCdMKQXiahg0iBk&security=reality&sid=1970a26157d7bf98&sni=nl.grizzlyvpn.work&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.32.47:2053?path=%2FXIXVPN%3Fed&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -22,7 +16,13 @@ vless://d1209ffb-c159-48d5-b40d-542ce11fc768@178.17.61.170:10121?flow=xtls-rprx-
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
 
+trojan://telegram-id-privatevpns@18.158.21.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.21.192:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
 vless://45686761-5a47-40c0-a982-a06233f9d64e@45.129.185.20:443?security=reality&flow=xtls-rprx-vision&sni=avito.ru&type=tcp&fp=chrome&pbk=vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY&sid=66681318313081d0#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@18.158.21.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 trojan://telegram-id-directvpn@15.188.103.210:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
@@ -3217,4 +3217,8 @@ vless://f3689c7c-d233-4fdb-b5ee-1bc8a65a637e@pl-waw-1.blook.network:443?type=tcp
 vless://fd325093-cdb5-4a73-980e-af2ec0444310@144.31.234.98:443?security=reality&sni=retn.net&fp=chrome&pbk=2s4DLPlhc3evv3LN-qV-nXdjQtJ7jQ35i--PE8JeeG4&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://6a74a3a0-71ee-4286-bbd5-91d977fc7e31@turbocdn.melonet.best:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn12.persianfilmdl.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn12.persianfilmdl.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@s725.ccgfw.top:443?security=tls&sni=u710297ua16es725.ccgfw.top&allowInsecure=1&fp=random&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://14426333-11de-4573-8783-6b4cc43f537a@cdnirtr16.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1053?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir&path=/XIXVPN?ed=2560#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
