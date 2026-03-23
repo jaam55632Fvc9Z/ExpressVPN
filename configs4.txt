@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@51.102.254.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.254.79:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@51.102.254.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://b61bbb10-5e11-45df-8a3f-c041f24b2156@85.133.197.111:19996?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://d366c868-1aa4-46f4-bf6d-62e6a430b1f7@185.143.233.5:80?path=%2Fgraphql%3Fed%3D30&security=none&encryption=none&host=dulphin111-90331252af-viv.apps.ir-central1.arvancaas.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://b29e21bd-d6d6-4a84-83b0-90cc9cbad5b5@ir.gafe-lorbad.ir:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZm1Ld25pb29OVmZ6c1pXeGxnUEpY@104.192.227.163:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://82990c58-26b7-4a75-81fe-66e63489e5e9@vip-meli3.nightgemshop.com:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -43,4 +31,12 @@ vless://a95ff2c7-d630-1ae4-946e-284a8177144a@srv-s0.netmaster.cam:802?type=ws&ho
 vless://0c73b02e-2d29-41e9-a464-1d4c54703f5b@simcard.parhamm1.ir:80?encryption=none&type=tcp&headerType=http&host=mirror.arvancloud.ir&path=/#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://0c73b02e-2d29-41e9-a464-1d4c54703f5b@simcard.parhamm1.ir:80?security=none&allowInsecure=0&encryption=none&type=tcp&host=mirror.arvancloud.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://17a9a4bc-96c5-48b3-a4c7-1132cd96a6a2@185.213.195.51:2222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://63e112a4-f7c5-497e-b060-22d0d289ea64@88.218.18.210:48666?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://63e112a4-f7c5-497e-b060-22d0d289ea64@88.218.18.210:48666?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://5bdc2b6d-7ab9-448f-adcf-7372c4685b03@vpn.dryorc.site:8080?type=ws&encryption=none&path=%2Fvpn&host=vpn.dryorc.site&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
