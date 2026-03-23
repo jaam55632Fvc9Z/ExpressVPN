@@ -20,3 +20,5 @@ vless://899d3db9-039e-9801-3d68-4f8ff4c18aa8@cloud3.vpsino.com:6344?security=non
 
 vless://026d3137-54d8-4d7b-90d8-a006b60f717e@178.173.148.25:55057?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.107:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=147135001195.sec22org.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
