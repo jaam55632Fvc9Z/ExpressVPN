@@ -38,3 +38,11 @@ vless://0b299bc2-70bd-2ab6-2e01-7bcfe570896f@cloud.vpsino.com:48324?security=non
 
 vless://0b299bc2-70bd-2ab6-2e01-7bcfe570896f@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vmess://eyJhZGQiOiAieG0ubmZ0eWRyZWFtcy5pbyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMGQxYTlmYWEtMjcyYy00MDUwLTg5MmMtNWE2MTFhOTc1NWI5IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwMDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+
+vless://a95ff2c7-d630-1ae4-946e-284a8177144a@srv-s0.netmaster.cam:802?type=ws&host=&security=none&sni=1&alpn=&path=&headerType=false#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://0c73b02e-2d29-41e9-a464-1d4c54703f5b@simcard.parhamm1.ir:80?encryption=none&type=tcp&headerType=http&host=mirror.arvancloud.ir&path=/#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://0c73b02e-2d29-41e9-a464-1d4c54703f5b@simcard.parhamm1.ir:80?security=none&allowInsecure=0&encryption=none&type=tcp&host=mirror.arvancloud.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
