@@ -20,3 +20,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXB
 
 vless://db3cf6e8-515a-47e0-8572-eb47bb611fb2@185.143.233.120:443?type=ws&security=tls&host=alef.ir.oadeflantrogm.realirshop.com&path=%2F%3Fed%3D443&sni=alef.ir.oadeflantrogm.realirshop.com&fp=randomized#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@35.181.217.149:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.217.149:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.181.217.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://e1a9ff20-1111-4f5a-a395-123456789abc@79.175.177.239:443?security=reality&encryption=none&pbk=h5qv72RabKBmp7LFCI8y_CcqpUzRYi_W9tWTdKnzTUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=a1b2c3d4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://508d2a9e-9b59-423d-a1db-c4f5217f1866@rc99.shekast.xyz:443?hiddify=1&sni=rc99.shekast.xyz&type=grpc&alpn=h2&path=npGftsQS14qEr9depcn&host=rc99.shekast.xyz&serviceName=npGftsQS14qEr9depcn&mode=gun&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://e45c6bc1-a7a2-46b5-a6ee-966886c7e43d@meeeliii.marzabarvana.com:5355?encryption=none&type=ws&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
