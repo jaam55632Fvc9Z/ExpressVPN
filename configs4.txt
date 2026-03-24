@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@35.181.217.149:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.217.149:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@35.181.217.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://e1a9ff20-1111-4f5a-a395-123456789abc@79.175.177.239:443?security=reality&encryption=none&pbk=h5qv72RabKBmp7LFCI8y_CcqpUzRYi_W9tWTdKnzTUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=a1b2c3d4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://508d2a9e-9b59-423d-a1db-c4f5217f1866@rc99.shekast.xyz:443?hiddify=1&sni=rc99.shekast.xyz&type=grpc&alpn=h2&path=npGftsQS14qEr9depcn&host=rc99.shekast.xyz&serviceName=npGftsQS14qEr9depcn&mode=gun&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
-
-vless://e45c6bc1-a7a2-46b5-a6ee-966886c7e43d@meeeliii.marzabarvana.com:5355?encryption=none&type=ws&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://be3bed8d-5cf6-460b-b2fc-2a0b94b2f890@meli.coffenet.shop:2083/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://e45c6bc1-a7a2-46b5-a6ee-966886c7e43d@meeeliii.marzabarvana.com:5355?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -39,4 +27,20 @@ vless://f335b77b-ca32-4f15-a72d-e7b480f1ce4b@t1.msljha8844.site:1050?encryption=
 vless://898f08d1-f64a-4cc1-8e70-5e9b3a2494dc@tun2.wopeq.com:921?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
 vless://18e35ca4-4b6e-43dd-9c28-b3ef89966821@mlh.mynethub99.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mlh.mynethub99.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40prrofile_purple
+
+vless://17f7f5d0-0b56-4fb6-905b-064df6db5752@92.114.24.195:443?mode=auto&path=%2Fapi%2F&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=api.meibourse.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://ffb10891-526b-43a6-a4d1-1ea61e0a3a6f@217.149.31.81:443?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=reality&pbk=07mSyG8LHbJZcq8cAydF4ehhnskG3GjdvhnKkSvRsgA&fp=chrome&sni=yandex.ru&sid=6d38c1f30520&spx=%2F#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
+vless://e7b0a4b2-b1b3-4b8e-b8a3-79422428f5c8@185.143.233.200:443?encryption=none&headerType=none&allowInsecure=0&type=ws&mux=true&security=tls&sni=alef.ir.oadeflantrogm.airasiadl.com&fp=randomized&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.airasiadl.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://b01456c6-34fc-4633-9037-1ae3f24b3aaf@aparatrat1.info:2083?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://dcc74510-ed17-4b06-9aef-149bed1214bb@185.143.233.235:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=pishparda.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://b1728ee9-483f-4e81-875e-8eaeb80523e1@185.143.234.200:80?encryption=none&host=www.aiteamplus.ir&mode=auto&path=%2Fw0A7arFCWfh1n07bLCPY2sRPzhX533AaYjLN3dxdP6R4zqg4VBCbbAHV49zjRZ2wBNooXj1s1PzkVhLL9h1gdLbpU5oPiC68mu8r&security=none&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://0b14ab9b-168e-1651-4197-4254eb866803@cloud3.vpsino.com:6344?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
