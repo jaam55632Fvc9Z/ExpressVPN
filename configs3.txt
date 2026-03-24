@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://3cc7c3a4-03a7-11f1-9bc0-0242ac110002@fr1.cyphervpn.pro:443?encryption=none&fp=chrome&pbk=FfpoYFgT2DmVE8wpXv0ncw9YTdVduwH3qetnke0LMDU&security=reality&sid=5bfa0c&sni=fr1.cyphervpn.pro&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://9bef38a5-31a7-4e36-af48-01697fae00a2@87.120.216.5:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=de6.krasivogame.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://658786e5-f302-48e2-b321-f4dc6da2a398@89.185.85.107:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdnv-img.perekrestok.ru&pbk=EdEtwDL3a_V9midkIqik19C3xo7VvefseGkDM5jBWGM&sid=ba34cbf836e99bf6#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
@@ -3513,4 +3511,14 @@ trojan://telegram-id-directvpn@18.159.228.130:22223?security=tls&alpn=http/1.1&h
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.228.130:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@18.159.228.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?path=%2FXIXVPN%3Fed&security=tls&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-007.mAxImA.DpDnS.OrG#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://50c3ed1a-c163-47b2-a1b8-2132dbc52a73@81.12.33.182:3070?security=none&allowInsecure=0&encryption=none&type=tcp&host=parsabr.com&path=/api/register/new/name/dav/response/cmV0aXJlZCBoZWxsbyBob3cgYXJlIHlvdSB0aGlzIGlzIG15IG5ldyBoZWFkZXIgd&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://cb64fc1c-b3bc-49b2-b69b-ccaa76ee0f72@v2_link_bot.yallda.org:55049?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://8f74d0e4-d94a-4f5d-b3c4-42e5e8d51600@104.20.37.37:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=vpnwindows.norhodi012.workers.dev&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?path=%2FXIXVPN%3Fed&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
