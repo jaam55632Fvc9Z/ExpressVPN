@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://e6d862ac-398b-4488-88e0-e5879923934d@81.12.34.37:8080?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&encryption=none&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&sni=broad-sky-9360.k7uztejf9ief.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
 vless://21915536-afb5-4a0c-b047-fcf549d3a173@185.125.103.147:443?security=reality&encryption=none&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&headerType=none&fp=chrome&type=tcp&sni=wikihow.com&sid=8bd29483ded126b4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
 
 vless://203b0744-f943-4bba-a8d2-cab635467c46@45.136.126.16:443?security=reality&encryption=none&pbk=_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d020b2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
@@ -1245,6 +1241,8 @@ vless://189ea856-be5f-4950-a27b-abf5fa386831@77.83.245.135:34205?encryption=none
 vless://ce13016c-bcea-4163-b840-d7e25b7046d0@83.166.232.169:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://459059e1-8827-4e7f-a979-c353543eeafe@85.193.82.212:40443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=max.ru&fp=randomized&sni=max.ru&pbk=9i3QE5zmmrr_kl0gO9P-knIp5XPlxsZcBjzrrKJlKSw&sid=58&spx=%2F#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&encryption=none&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&sni=broad-sky-9360.k7uztejf9ief.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
 
 vless://95a42097-7e32-4f61-92ad-96b905623259@185.143.234.5:443?path=%2F%3Fed%3D443&security=tls&encryption=none&host=alef.ir.oadeflantrogm.airasiadl.com&fp=randomized&type=ws&sni=alef.ir.oadeflantrogm.airasiadl.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -3675,4 +3673,12 @@ vless://1c8e42b0-8a2a-4a35-970d-5b28f6438978@46.38.138.39:7777?security=none&enc
 vless://42b8b0f3-cac0-49c4-8b84-4f0efbf902f7@185.143.233.234:443?security=tls&type=ws&headerType=&path=%2Fvoip&host=s1.pishparda.ir&sni=s1.pishparda.ir&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://42b8b0f3-cac0-49c4-8b84-4f0efbf902f7@185.143.233.233:443?security=tls&type=ws&headerType=&path=%2Fvoip&host=pishparda.ir&sni=pishparda.ir&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40FarazV2ray
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#%F0%9F%8C%90%20TCP-None%20%7C%20%40FarazV2ray
+
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@154.3.33.43:443#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40BrilliantGift
+
+ss://YWVzLTI1Ni1nY206OXBQS0oybVRkWnVRNlJPSnR5bHVtZllSR1M1ZUJxNzJnbzBoTTV6SDd4Zz0@83.222.8.148:23753#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
