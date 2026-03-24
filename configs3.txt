@@ -3592,3 +3592,9 @@ vless://a428d150-caaa-4fe6-ad0c-07445264a514@188.121.118.233:443?mode=auto&secur
 
 vless://a428d150-caaa-4fe6-ad0c-07445264a514@info:1?mode=auto&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20true%7D&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
+vless://577dea51-14fc-4475-8285-1ac06b59c60d@omgspacir.clearpa66thdata.shop:12825?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.228.130:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@18.159.228.130:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
