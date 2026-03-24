@@ -48,3 +48,7 @@ vless://ea2e7d29-3e67-4a55-8e24-eb350efa21c9@185.228.236.3:8083?encryption=none&
 
 vless://825947d4-fe13-42d2-8dad-299623e5a979@193.151.149.45:18699?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://a428d150-caaa-4fe6-ad0c-07445264a514@188.121.118.233:443?path=%2Fws%3Fed%3D400%26p%3Dmks&security=tls&encryption=none&fp=chrome&type=ws&sni=archive-azd1111.telewebion.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a428d150-caaa-4fe6-ad0c-07445264a514@188.121.118.233:443?path=%2Fws%3Fed%3D400%26p%3Dmks&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=archive-azd1111.telewebion.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
