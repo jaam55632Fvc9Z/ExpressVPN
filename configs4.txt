@@ -14,3 +14,15 @@ vless://4b8fe684-b384-4e80-9775-58bd37f13116@178.104.75.172:443?type=tcp&encrypt
 
 vless://9c53f85c-d9dd-46dd-8955-177479620865@93.126.18.151:7000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://4bfc91cd-428d-406e-9a94-24d81bce2581@simcard.parhamm1.ir:80?security=&encryption=none&host=mirror.arvancloud.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VEIyQTRxOHc0MkRZbG0rZFRaR3Z6NE1ETnh4TnFoL09zdkw3clM0U01JND06S2tuSDY3cVlTOTl4WTJoQXpQczY2ZGljckVLUkZvRHNwNkExWlZPVlZkWT0@193.151.141.100:24574/?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://4bfc91cd-428d-406e-9a94-24d81bce2581@simcard.parhamm1.ir:80?security=none&allowInsecure=0&encryption=none&type=tcp&host=mirror.arvancloud.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://3ea4b2e1-743b-426b-a64a-4fa466db2552@185.231.182.167:33189?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://7443fd4b-1f3b-53af-dabd-3ff69241f55a@[::ffff:5eb8:1f74]:58008?security=none&encryption=none&host=arvancloud.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
