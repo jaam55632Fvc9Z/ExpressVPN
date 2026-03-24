@@ -3642,3 +3642,5 @@ vless://e7b0a4b2-b1b3-4b8e-b8a3-79422428f5c8@185.143.233.200:443?path=%2F%3Fed%3
 
 trojan://telegram-id-privatevpns@35.181.217.149:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+vless://09f26a47-9953-4cd6-a83f-5265ff2f46a6@vip2.usertun.com:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
