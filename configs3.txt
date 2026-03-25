@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2nodes
-
-vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@193.109.120.119:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3u-RoUuzGFtfVwCbUJ4GxAhNUyR6DcyAzeyaSdNXG0A&security=reality&sid=8c&sni=est15.frostbot.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://ccd85f23-9105-37fd-96b9-9dcbc89ff3eb@s392.ccgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s392.ccgfw.top&path=&flow=&security=tls&sni=u710948u635fs392.ccgfw.top&serviceName=ssp&mode=gun&alpn=#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2nodes
 
 vless://19cb2ba5-d074-42d6-8400-6d9183514f48@151.243.101.25:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2nodes
@@ -2156,6 +2152,8 @@ vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@93.123.39.218:443?flow=xtls-rprx-vi
 
 vless://f3689c7c-d233-4fdb-b5ee-1bc8a65a637e@pl-waw-1.blook.network:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=q1GJ-cUUd4FGu0ZfsXosBvyzbJmpRHrZYMidWhAqMQI&sid=578dc0c4&sni=pl-waw-1.blook.network&spx=/#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@193.109.120.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=est15.frostbot.ru&pbk=3u-RoUuzGFtfVwCbUJ4GxAhNUyR6DcyAzeyaSdNXG0A&sid=8c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
 vless://fd325093-cdb5-4a73-980e-af2ec0444310@144.31.234.98:443?security=reality&sni=retn.net&fp=chrome&pbk=2s4DLPlhc3evv3LN-qV-nXdjQtJ7jQ35i--PE8JeeG4&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://6a74a3a0-71ee-4286-bbd5-91d977fc7e31@turbocdn.melonet.best:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn12.persianfilmdl.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn12.persianfilmdl.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -3835,4 +3833,8 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?allowInsecure=1&
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://35d1cad4-5b10-4ae6-8208-b8f6456c8fea@pars.mg-host.cfd:3060?type=ws&encryption=none&path=%2F&host=neshan.org&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://073d32b8-2d17-4fbc-912f-da3dfb95222d@sherkatnaft.lol:29704?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06QUF2bytCc2dwdnZSNWxKc2RRVTMydnJNWEw3WkFiWkpaZkVUQjdiZGRoUT0@toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:12407#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
