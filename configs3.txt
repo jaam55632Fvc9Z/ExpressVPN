@@ -3832,3 +3832,7 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?allowIn
 
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?allowInsecure=1&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://35d1cad4-5b10-4ae6-8208-b8f6456c8fea@pars.mg-host.cfd:3060?type=ws&encryption=none&path=%2F&host=neshan.org&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
