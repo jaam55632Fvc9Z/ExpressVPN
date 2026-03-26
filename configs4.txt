@@ -8,3 +8,13 @@ vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=%2F%3Fed%3D2048&se
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.25.243:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40manVPN
 
+trojan://telegram-id-directvpn@52.58.26.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.26.183:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@52.58.26.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?allowInsecure=1&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
