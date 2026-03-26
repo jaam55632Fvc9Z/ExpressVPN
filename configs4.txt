@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@13.37.25.182:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.25.182:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.37.25.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 vless://d08a63e7-dbea-4a36-a239-9f0b37a46b40@2.27.121.28:64000?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dlBsx7pNsGbUWcVaeIiXqPs4s8sENsJRzPGnsZ8CH0Q&security=reality&sid=cbfdda0fad80decc&sni=notion.so&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://1babf197-af69-406e-aae2-83c411ae979f@144.31.166.42:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300&security=reality&sid=3ef8cdbc&sni=google.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
@@ -31,4 +25,6 @@ vless://a6abf70b-f734-42e5-ace6-208e4d53d207@95.85.234.172:443?encryption=none&f
 vless://1d509c22-4e43-4067-9185-873ec5bb49da@de1.b762plus.shop:2013?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://3cd749d7-9f23-4727-9335-c66d37d28e9f@www.p4free.site:28722?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://98d8cefc-499a-4969-9a59-f03e947adf78@87.251.69.48:8443?allowInsecure=1&alpn=h2,http/1.1&encryption=none&security=tls&sni=at16.fastlanehosting.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20TCP-TLS%20%7C%20%40v2nodes
 
