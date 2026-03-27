@@ -30,3 +30,11 @@ vless://ca23e500-3670-40ac-8e5e-3f611da94180@snapp.ir:80?path=%2FFIRELINK&securi
 
 vless://4d0e0ed6-188a-43cd-a1ee-57c987a02e4b@snapp.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=kharidfollower.ir&fp=chrome&type=ws&allowInsecure=0&sni=kharidfollower.ir@vipV2rayNGnp#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
+trojan://telegram-id-directvpn@52.47.80.167:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.80.167:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@52.47.80.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://1fd68938-2120-418b-a1ec-6058ab7d55d1@104.105.21.164:443/?type=grpc&encryption=none&serviceName=&authority=&mode=multi&security=reality&pbk=0eUOkHYO_iijd1ZZd95qSmPuhXPKgevrcwbfPxnmj1g&fp=firefox&sni=www.telewebion.ir&sid=a891cd8147&spx=%2F#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
