@@ -40,3 +40,9 @@ vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@198.41.223.233:443?path=%2Frank&sec
 
 vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@162.159.152.20:443?path=%2Fgames%2Fcb%2Falbums&security=tls&encryption=none&insecure=0&host=edt2.btxst.eu.cc&type=ws&allowInsecure=0&sni=edt2.btxst.eu.cc#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@13.37.210.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.210.125:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.37.210.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
