@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@51.44.137.34:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.137.34:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@51.44.137.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://df413c57-1ba5-4abd-ad41-14a35d2d1910@m.speedmeysam.shop:39919?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://9fc7010e-32ec-4b79-9ce3-47d11b5e6746@simcard.parhamm1.ir:5066?encryption=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://9fc7010e-32ec-4b79-9ce3-47d11b5e6746@simcard.parhamm1.ir:80?encryption=none&type=tcp&headerType=http&host=mirror.arvancloud.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -72,7 +64,13 @@ vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048&s
 
 vless://095ec094-2a99-414d-b389-7007cd86e690@rocket.clearpa66thdata.shop:18273?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@51.44.137.34:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
 vless://1f55bdb2-c9ee-4e4f-b899-ba89f1d69d38@rocket.clearpa66thdata.shop:18273?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://telegram-id-privatevpns@51.44.137.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.137.34:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://52c6349b-6e39-4f5a-9741-6b217e248ea4@vatan.alphanet02.com:15502?security=none&encryption=none&host=web.rubika.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
