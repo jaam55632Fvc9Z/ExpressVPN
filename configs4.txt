@@ -20,3 +20,15 @@ vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@185.143.234.235:443?security=tls&al
 
 vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@185.143.233.235:443?encryption=none&type=ws&host=endpoint.parhamm2.ir&path=/&security=tls&fp=random&sni=endpoint.parhamm2.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@15.236.184.73:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.184.73:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.236.184.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://c9819793-895f-43ab-99dd-b28198b55b5b@vip2.syncbridge.site:50617?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@185.143.233.235:443?path=%2F&security=tls&encryption=none&insecure=0&host=endpoint.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=endpoint.parhamm2.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://09e485e1-241c-4d17-82b2-0dff1be3f61e@kvm.iranhosting.mom:55003?security=none&allowInsecure=0&encryption=none&type=ws&host=rubika.ir&path#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
