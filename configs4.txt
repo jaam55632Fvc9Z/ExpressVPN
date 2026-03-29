@@ -40,3 +40,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.2.6:22224?type=ws&security=tls
 
 trojan://telegram-id-privatevpns@3.78.2.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://78672fd9-2bad-46d6-80d7-eb8eed9cb927@185.143.233.232:443?path=%2Fvoip&security=tls&encryption=none&host=pishparda.ir&fp=chrome&type=ws&sni=pishparda.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
