@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://8de7627c-1995-41f7-93e6-7fd9715514a2@85.192.49.230:443?encryption=none&fp=chrome&pbk=VMMc3QkOG66O2cD0Ki36VOEDQxpGT5aK8KAwLGklJzw&security=reality&sid=c2&sni=www.google.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://ffb10891-526b-43a6-a4d1-1ea61e0a3a6f@217.149.31.81:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=07mSyG8LHbJZcq8cAydF4ehhnskG3GjdvhnKkSvRsgA&fp=chrome&spx=%2F&type=xhttp&sni=yandex.ru&sid=6d38c1f30520#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40VIPV2rayNGNP
-
-vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
 vless://d230f0f7-6826-4f8e-8dbb-69ee2c837358@24dc5c91924c5346.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=speedtest.net#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -1161,6 +1155,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDlhNzRhMS0zNjRmLTQ3ODgtYjQ0Zi1mYjE1MDEzZjY
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDlhNzRhMS0zNjRmLTQ3ODgtYjQ0Zi1mYjE1MDEzZjY5ZmI@e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23334#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDlhNzRhMS0zNjRmLTQ3ODgtYjQ0Zi1mYjE1MDEzZjY5ZmI@e4d7a1c2f3b80976a5e2c1d4b3f0a987.355cd.org:23401#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2nodes
+
+vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://c5f28348-2cd8-4e98-a819-2d5cbc6b9e53@voip9.divar.mom:55009?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.digikala.com&sid=c385&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
@@ -4195,4 +4191,8 @@ vless://c970f910-1103-446a-bdc8-a9cfb22381bf@uk2.darknet.run:443?encryption=none
 vless://8a281445-a0f2-415a-a5c3-ecf3f0b532ab@mim.md-teach.com:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=xgod2.moradi.online&fp=chrome&type=ws&allowInsecure=0&sni=xgod2.moradi.online#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAibWVsLnVzZHRiYW1hLmNvbSIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI3YWNiYmFiYi1lNWY4LTQ4YjgtOGM4Ni01Mjk2MjUwZjRjNjYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogODQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+
+vless://51a3cf5f-b4c2-4a24-a2d4-a39a9780715d@snapp.ir:80?path=%2F&security=none&encryption=none&host=bote.wpemdad.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://c970f910-1103-446a-bdc8-a9cfb22381bf@uk2.darknet.run:443?security=reality&encryption=none&pbk=Ex5SL2Cwz7NzfNzIPX0Wq2cQk4uGATNqgwkBDtDDk20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk2.darknet.run&sid=a1b223d4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
