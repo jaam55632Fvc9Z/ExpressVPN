@@ -44,3 +44,9 @@ vless://8acb5e30-1f8b-4e09-9dc8-faf26b57ff3b@185.189.58.195:38353?type=tcp&encry
 
 vless://6ca3af71-f1b0-46da-b64f-ac6ef4406596@199.195.254.136:443?type=ws&encryption=none&security=tls&host=199.195.254.136&path=/ws&sni=199.195.254.136&alpn=h2,http/1.1&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://fb23d24d-f90a-48fb-8bd7-8952b3795713@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D30&host=dulphin333-90331252af-viv.apps.ir-central1.arvancaas.ir&sni=dulphin333-90331252af-viv.apps.ir-central1.arvancaas.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://fb23d24d-f90a-48fb-8bd7-8952b3795713@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D30&host=dulphin111-90331252af-viv.apps.ir-central1.arvancaas.ir&sni=dulphin111-90331252af-viv.apps.ir-central1.arvancaas.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6e79dbef-d72f-4813-9808-93291762575e@104.19.98.49:2053?security=tls&encryption=none&insecure=0&host=eitaa.com&headerType=http&type=tcp&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
