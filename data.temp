@@ -1,9 +1,3 @@
-1774348526.844587|DirectVPN|trojan://telegram-id-directvpn@35.181.217.149:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-1774348526.844587|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.217.149:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-1774348526.844587|PrivateVPNs|trojan://telegram-id-privatevpns@35.181.217.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-1774348526.844587|filembad|vless://e1a9ff20-1111-4f5a-a395-123456789abc@79.175.177.239:443?security=reality&encryption=none&pbk=h5qv72RabKBmp7LFCI8y_CcqpUzRYi_W9tWTdKnzTUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=a1b2c3d4#%40filembad
-1774348526.844587|filembad|vless://508d2a9e-9b59-423d-a1db-c4f5217f1866@rc99.shekast.xyz:443?hiddify=1&sni=rc99.shekast.xyz&type=grpc&alpn=h2&path=npGftsQS14qEr9depcn&host=rc99.shekast.xyz&serviceName=npGftsQS14qEr9depcn&mode=gun&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls#%40filembad
-1774348526.844587|filembad|vless://e45c6bc1-a7a2-46b5-a6ee-966886c7e43d@meeeliii.marzabarvana.com:5355?encryption=none&type=ws&path=/#%40filembad
 1774349431.637019|filembad|trojan://telegram-id-privatevpns@18.159.228.130:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40filembad
 1774349431.637019|filembad|vless://be3bed8d-5cf6-460b-b2fc-2a0b94b2f890@meli.coffenet.shop:2083/?type=tcp&encryption=none&security=none#%40filembad
 1774350035.633242|filembad|vless://e45c6bc1-a7a2-46b5-a6ee-966886c7e43d@meeeliii.marzabarvana.com:5355?type=ws&encryption=none&path=%2F&host=&security=none#%40filembad
@@ -2799,3 +2793,10 @@
 1774866027.774467|filembad|vless://b8da92fc-f5e0-4f5a-b096-24095bb9b409@fast.pub-dev.ir:80?encryption=none&security=none&type=tcp#%40filembad
 1774866330.34829|VIPV2rayNGNP|vless://b818caa7-f834-4ba2-abd7-f52c5fafe791@monalisa-eco.raspinex.ir:80?path=%2F&security=none&encryption=none&type=ws#vipV2rayNGnp
 1774866330.34829|VIPV2rayNGNP|vless://223e5111-34b2-4a3b-8daa-36ae6e84d1f5@user11.ionosio.ir:2052/?type=ws&encryption=none&path=%2F&host=&security=none#%vipV2rayNGnp
+1774866928.968081|DirectVPN|trojan://telegram-id-directvpn@13.37.173.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+1774866928.968081|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.173.17:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+1774866928.968081|PrivateVPNs|trojan://telegram-id-privatevpns@13.37.173.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+1774866928.968081|filembad|vmess://eyJhZGQiOiJtZWwudXNkdGJhbWEuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjE4ODI0ZDRlLWU2MjItNDlmNy1iMDgyLWM5OWU1MWYwOGJkMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoiQGZpbGVtYmFkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+1774866928.968081|filembad|ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%40filembad
+1774866928.968081|filembad|vmess://eyJuZXQiOiJ0Y3AiLCJpZCI6IjE4ODI0ZDRlLWU2MjItNDlmNy1iMDgyLWM5OWU1MWYwOGJkMyIsImFkZCI6Im1lbC51c2R0YmFtYS5jb20iLCJob3N0IjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwicHMiOiJAZmlsZW1iYWQiLCJzY3kiOiJhdXRvIiwicGF0aCI6IiIsInBvcnQiOiI4NDQzIn0=
+1774866928.968081|filembad|ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQkhQRGJpTUhnN0FURzhqZzFVQlRKLWNxQlNKeERYVQ@vip.tekcloud.site:20900#%40filembad
