@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://750f9853-c182-37fa-82d3-9de3b7e48f89@cloud.vpsino.com:48324?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://c9cee867-a170-4af4-ac6b-da240f20b1e7@w1star.meepo1.com:2083?type=tcp&encryption=none&path=%2Fapi&headerType=http&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40BrilliantGift
-
-vless://c9cee867-a170-4af4-ac6b-da240f20b1e7@w1star.meepo1.com:2083?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://42b32d2f-42c1-4f63-a005-22ffbddcda53@188.114.98.0:443?&security=tls&alpn=http/1.1&sni=639073677236045352.mustang-perma.info&type=ws&headerType=none&host=639073677236045352.mustang-perma.info&path=%2Fxxfzrfws#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2nodes
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@n8mrcg006043yc6.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2nodes
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg007116sfa.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2nodes
@@ -277,6 +269,8 @@ vless://3d737761-5951-462e-86c1-ff921d9f9999@de-2.barryvpn.com:8443?security=rea
 vless://5238a315-4427-4915-a1de-4978e3029a1c@104.17.148.22:2096?path=%2FeyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&host=long-mode-2783.sepna114.workers.dev&type=ws&sni=loNg-modE-2783.SEpna114.WOrkERs.dEV#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
 vless://c9cee867-a170-4af4-ac6b-da240f20b1e7@w1star.meepo1.com:2083?security=tls&encryption=none&alpn=h2,http/1.1&headerType=http&fp=chrome&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
+
+vless://750f9853-c182-37fa-82d3-9de3b7e48f89@cloud.vpsino.com:48324?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.71.108:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
@@ -4281,4 +4275,6 @@ vless://86960033-8271-4847-a5f1-6a7a189e99e8@sv2.lagvpn.top:31936?type=tcp&secur
 vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.16.250.22:443?encryption=none&security=tls&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/XIXVPN?ed=2560&packetEncoding=xudp#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://6fee3115-e2db-4b44-b6f0-68cd4135da2f@172.233.160.243:443?type=xhttp&path=/XIXVPN?ed=2560&host=&mode=stream-one&security=none#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFdTLU5vbmUgfCBAdjJub2RlcyIsICJhZGQiOiAiMTY2Ljg4Ljk5LjgwIiwgInBvcnQiOiAiNjM1NCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNjEzOTUyZmEtOWExZS00OTQ0LWI4NWYtMzU4N2IzNTkyYjNhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpIiwgImhvc3QiOiAiIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
 
