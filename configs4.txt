@@ -30,3 +30,5 @@ trojan://telegram-id-privatevpns@63.179.40.43:22222?security=tls&alpn=http/1.1&h
 
 vless://f25eb463-e242-4fa9-b174-c305af3ab95e@kinopl20.dramatorg.net:443?allowInsecure=1&sni=kinopl20.dramatorg.net&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
 
+vless://1e09a466-723a-4627-b598-a334d02b7173@185.168.195.211:34190?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
