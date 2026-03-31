@@ -1,5 +1,3 @@
-1774435829.307754|filembad|vless://5aae2234-d8c3-05fe-184d-48c4dacc5ba2@cloud3.vpsino.com:6344?security=none&type=tcp&headerType=none&path=%2F#%40filembad
-1774435829.307754|filembad|vless://16545df5-ccea-4802-a49c-afe878b26b46@dl.fastprofsor.com:58545?type=tcp&encryption=none&security=none#%40filembad
 1774437926.939091|filembad|vless://27eb0fca-8d45-4b8c-8bf2-a29451146f42@mahdi.netvip1.ru:2087?encryption=none&type=ws&path=/&security=none#%40filembad
 1774437926.939091|filembad|vless://d2840316-b7ff-0e6e-2904-aed6dc4b4c03@cloud.vpsino.com:48324?security=none&type=tcp&headerType=none&path=%2F#%40filembad
 1774437926.939091|filembad|vless://3445138a-d30d-4b7b-ba80-0875c3b60d41@connected3.starpo3.ir:8080?security=&type=tcp&path=/&headerType=http&host=&encryption=none#%40filembad
@@ -2972,3 +2970,9 @@
 1774953327.522381|DirectVPN|trojan://telegram-id-directvpn@15.237.136.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 1774953327.522381|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.136.31:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 1774953327.522381|PrivateVPNs|trojan://telegram-id-privatevpns@15.237.136.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+1774954230.178961|V2rayng_Fast|vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a&path=****/XIXVPN****?ed=2560#V2rayng_Fast
+1774954230.178961|V2rayng_Fast|trojan://telegram-id-directvpn@15.237.136.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#V2rayng_Fast
+1774954230.178961|V2rayng_Fast|trojan://telegram-id-privatevpns@15.237.136.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#V2rayng_Fast
+1774954230.178961|V2rayng_Fast|vless://7cc8cd28-0311-43b4-9b7f-223b3afb4635@snapp.ir:80?encryption=none&type=ws&host=ar.liarashop.ir&path=/&security=none#V2rayng_Fast
+1774954230.178961|filembad|trojan://telegram-id-directvpn@15.237.136.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40filembad
+1774954230.178961|filembad|trojan://telegram-id-privatevpns@15.237.136.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40filembad
