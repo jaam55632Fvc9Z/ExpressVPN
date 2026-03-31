@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@3.69.71.108:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.71.108:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@3.69.71.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw==@154.53.60.212:80?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&sni=config_free33#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -72,9 +66,15 @@ vless://c6052e1b-7b23-d427-12d6-1148d5fa4d99@cloud.vpsino.com:48324?security=non
 
 vless://c6052e1b-7b23-d427-12d6-1148d5fa4d99@cloud3.vpsino.com:6344?security=none&type=tcp&headerType=none&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@3.69.71.108:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.71.108:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
 vless://841c739c-8cf9-4d0d-919f-3cc924ddfa60@185.143.234.5:443?encryption=none&headerType=none&allowInsecure=0&type=ws&mux=true&security=tls&sni=alef.ir.oadeflantrogm.mapircdn.com&fp=randomized&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.mapircdn.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://86a0b881-10a8-0541-151f-d161aa99380a@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+trojan://telegram-id-privatevpns@3.69.71.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206SjVLcXRZaEpicFpBTWNvQlIyNHhtdkxnZThEZmRoMWpWTXZBVXhrcWRITT06YjdGRVJLcGdZMXJVams5cXNPVHdVNXEzOVRVS3QybXhvSDN2UHlOSGQvMD1AOTEuMjIwLjExMy4yMTQ6MzQyNjI=#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
