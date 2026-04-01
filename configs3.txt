@@ -4474,3 +4474,5 @@ vless://6f02f9ba-0bf3-4b24-9ce8-a669ce9305e5@s10.x2fast.top:443?path=%2F&securit
 
 vless://c45ccb5a-d8a4-4f42-820e-d293702b3e86@172.66.43.66:8880?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2_mod_shop
 
+vless://96333d44-254e-4180-92c8-c35d95529ab2@new.sordo.store:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=new.sordo.store&fp=chrome&type=ws&allowInsecure=1&sni=new.sordo.store#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
