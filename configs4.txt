@@ -52,3 +52,13 @@ vless://6f02f9ba-0bf3-4b24-9ce8-a669ce9305e5@s10.x2fast.top:443?path=%2F&securit
 
 trojan://b65cbe72-59e2-4011-a22b-760621b5921f@65.109.129.120:80?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fl.configasli.xyz#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+vless://86dbe19c-1b7f-47d9-8dab-2b5b899d6852@vip.coindrift.online:59640?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6f02f9ba-0bf3-4b24-9ce8-a669ce9305e5@s10.x2fast.top:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=s10.x2fast.top&fp=chrome&type=ws&allowInsecure=0&sni=s10.x2fast.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://7ea871b7-25b4-4170-94d3-06b493c76aae@185.143.233.5:80?type=ws&encryption=none&path=%2F&host=dl-house.milkywayservice.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://d49b76ff-de4c-4efb-84a1-8fe649748c94@95.164.3.121:443?encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://LVoVGVoj5xgSUXMS6eIm22x6@45.39.241.51:23326?type=ws&security=none&host=45.39.241.51&path=/ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
