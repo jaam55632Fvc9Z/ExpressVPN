@@ -10,3 +10,7 @@ vless://6474f608-e5aa-4f81-8a2b-600d10c257da@varzesh3.com:80?security=none&allow
 
 vless://33cd19bf-0dd8-4b13-8ff2-81014491ad2d@37.202.245.200:39923?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://33cd19bf-0dd8-4b13-8ff2-81014491ad2d@37.202.245.200:39923?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6474f608-e5aa-4f81-8a2b-600d10c257da@varzesh3.com:80?path=%2Fir&security=none&encryption=none&host=m3.y101.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
