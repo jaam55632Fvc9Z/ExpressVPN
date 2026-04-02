@@ -16,3 +16,5 @@ vless://364811bc-5994-4fc3-a54c-0594fc508fee@193.151.134.247:8080?type=ws&encryp
 
 vless://21a1ca9a-8d28-424f-adbc-2e2ab3926025@193.151.134.247:8080?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://a991f8b1-32f5-4120-ae71-cc4a18dcda1a@servers.xvon.in:101?encryption=none&type=tcp&security=tls&fp=chrome&sni=servers.xvon.in&alpn=h3,h2,http/1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigX2ray
+
