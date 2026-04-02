@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@15.236.83.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.83.28:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@15.236.83.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://9b9fca9a-c567-4910-bccf-204458396cb9@gemini.vhuma.com:65?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://9b9fca9a-c567-4910-bccf-204458396cb9@pm5.vhuma.com:443?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://f1eb7fed-bc91-4285-9e7f-23d941a0204a@www.speedtest.net:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&sni=www.felafel.org#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
-
-vless://bf263367-bb63-4663-b4a1-34946107a72e@45.144.49.116:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5qvcOTHr_izGbsRz-j2xC3BMMdugFMsl7MnANjzwZ0I&sid=b2a1c97a38&sni=www.apple.com&spx=/#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?security=reality&sni=vk.ru&type=grpc&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sid=b5#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
-
 vless://9d7c1761-90de-48d1-8eda-31410ac8e848@dl.io-laptop.ir:8443?mode=auto&path=%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=dl.io-laptop.ir`#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f1.hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=1&host=app-core-01.secoxi.site&type=ws&allowInsecure=1&sni=uiuyoyw.secoxi.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -40,9 +24,13 @@ vless://4c003bc1-6e72-40d4-8b9b-0e814e315336@snapp.doctor:80?path=%2F&security=n
 
 vless://f037673d-25d6-4e82-ab08-bdbaf9208df6@snapp.ir:80?path=%2F&security=none&encryption=none&host=dl.avenflow.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+trojan://telegram-id-privatevpns@15.236.83.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@15.236.83.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 trojan://dpk0mll1-z7uo-pla1-g9yb-52t77jd30g5y@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
@@ -81,6 +69,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001222869.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2nodes
 
 vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@S1.LoadBalance.LAT:9090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40manVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.83.28:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1SVdDWGZCZW9qYXJWZTl2aTMzTzJqYmx0eUVxRnRHag==@vip.tekcloud.site:20900#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -1203,6 +1193,8 @@ trojan://jsjkb4df-6ipu-nhuh-vpg0-6krt5jzjz3xi@127.0.0.1:1080?security=tls&type=t
 trojan://v8xufsz9-v755-wbc5-nep5-bst9w0u75pxj@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://h7fv5h2w-3mee-9yny-1at6-k1avg1mr08tk@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?type=grpc&security=reality&sni=vk.ru&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sid=b5#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40Trick_mobil
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?type=tcp&security=reality&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
 
