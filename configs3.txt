@@ -4666,3 +4666,5 @@ vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@38.244.154.200:443?encryption=none&
 
 vless://69025202-5091-4893-8930-f530c6fe50e2@3.70.201.52:25332?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://6d4b256d-c230-4f52-bdca-7868ad873d03@185.168.195.211:30272?type=tcp&encryption=none&security=tls&sni=185.168.195.211&alpn=h2,http/1.1&fp=chrome#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
