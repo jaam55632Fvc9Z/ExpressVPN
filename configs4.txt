@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://43488128-319e-f480-64ea-0acdc712e2a8@136.244.93.228:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=a1b2c3d4e5f67890&sni=www.booking.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://43488128-319e-f480-64ea-0acdc712e2a8@95.179.236.230:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&security=reality&sid=98c3d62ba1c26863&sni=www.argos.co.uk&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://43488128-319e-f480-64ea-0acdc712e2a8@51.159.99.137:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3mzvB6oezGe8hhBCVkXs4HIH1nkiPc3QCMurERaB_Ro&security=reality&sid=b87063a35aaa942e&sni=www.cdiscount.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&security=reality&sid=b87063a35aaa942e&sni=www.booking.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.239.4:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@178.17.51.45:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://95e3615d-d9b9-4daa-9f40-501413e39a6c@mlh.mynethub99.top:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=mlh.mynethub99.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@38.180.219.80:2083?path=%2Ftrojan-ws&security=tls&insecure=1&host=xo.e0f.cx&type=ws&allowInsecure=1&sni=xo.e0f.cx#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -91,4 +79,12 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@saas.sin.fan:443?security=tls&encry
 vless://281ca528-3ea5-4a4d-b531-818f6b4e785d@req.playshoptv.com:443?security=reality&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2_mod_shop
 
 vless://5c2aa8fc-abb9-471f-b192-4811d800185b@193.151.134.247:8080?security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2_mod_shop
+
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@206.245.131.135:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=h32.1.beROzHA.IR&fp=ios&type=ws&sni=h32.1.beROzHA.IR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40manVPN
+
+vless://be91a34d-6faf-43b6-a70b-14e12e5cf973@209.38.243.0:2025?mode=gun&security=reality&encryption=none&authority=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&pbk=hQhLQS4IVfzjFrTD5unsIJJDfEcJrXQgDezwjMxL8x0&fp=random&type=grpc&sni=journalofbigdata.springeropen.com&sid=a0d3059a#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40manVPN
+
+vless://74bc3bfe-72b9-4466-8169-1019a41fe3e6@new.idbedam.com:1000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
