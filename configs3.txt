@@ -4908,3 +4908,7 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?encryption=none&se
 
 vless://31eae391-cf60-47da-abe7-fb490aef74a4@tun2.maroon.sbs:51766?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://d6adc82e-3ce6-4724-9c87-8c03896b771e@79.175.177.239:443?mode=auto&path=%2FRG6JfRJMmEhgU45R5JhWm&security=tls&alpn=h2&encryption=none&extra=%7B%22downloadSettings%22%3A%7B%22address%22%3A%2279.175.177.239%22%2C%22network%22%3A%22xhttp%22%2C%22port%22%3A443%2C%22security%22%3A%22tls%22%2C%22tlsSettings%22%3A%7B%22allowInsecure%22%3Atrue%2C%22alpn%22%3A%5B%22http%2F1.1%22%5D%2C%22fingerprint%22%3A%22chrome%22%2C%22serverName%22%3A%2279.175.177.239%22%7D%2C%22xhttpSettings%22%3A%7B%22extra%22%3A%7B%22headers%22%3A%7B%7D%7D%2C%22host%22%3A%2279.175.177.239%22%2C%22mode%22%3A%22auto%22%2C%22path%22%3A%22%2FRG6JfRJMmEhgU45R5JhWm%22%7D%7D%7D&host=79.175.177.239&fp=chrome&type=xhttp&sni=79.175.177.239#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://4d7d908e-8f43-4cec-861b-ce3e4a300731@mirror12.virgool.best:55012?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.digikala.com&sid=c385#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
