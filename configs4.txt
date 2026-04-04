@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.115:2053?path=/XIXVPN?ed=2560&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://9f1c30f7-7a6d-4e12-97ee-bb2d3207c104@94.183.170.239:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=kian.khorostime.ir&type=xhttp&sni=ir-cdn-dl-07.khorostime.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICIxOTMuMTUxLjEzMi44NiIsICJwb3J0IjogMTI0NzQsICJpZCI6ICIwY2QxOTk4MC1kYmNmLTRlZmUtYTNiMS0zZmFkODIyYTg5NjYiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUifQ==
-
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@149.33.0.109:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://e36a9359-1098-4100-8ee4-f15497203975@85.159.229.84:443?type=tcp&security=reality&fp=chrome&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&sid=93&sni=www.google.com&spx=/#%F0%9F%87%AE%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
@@ -55,4 +49,12 @@ trojan://telegram-id-directvpn@51.44.53.220:22223?security=tls&alpn=http/1.1&hea
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.53.220:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@51.44.53.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://f82a22f3-c406-4224-89b7-a8cd1be49bc7@myrt7rt8e5w5gfdfEerh8.maral-pc.site:442?type=tcp&path=%2F&host=91.245.229.1&headerType=http&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://5e2b5500-d2fb-44c1-8cec-8def7a4347c5@94.183.165.146:443?encryption=none&security=reality&sni=aparat.com&fp=firefox&pbk=ize-uZeKIdCj8aB2Lc9zrzQqKLLOeJ1i2klMjyGznjU&sid=280fd83aff&type=grpc&authority=&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm&mode=gun#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://d14b400f-6497-4ea9-bc3d-6247e38250cd@37.202.226.61:43456?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b99341e1-fe1b-4996-8c38-83a43f7431b2@iran.halawar.com:51976/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
