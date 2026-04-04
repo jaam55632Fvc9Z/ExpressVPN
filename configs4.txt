@@ -10,3 +10,9 @@ vless://35adf9b2-fa34-4983-a204-09da456448e1@185.143.233.68:443?encryption=none&
 
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@5.83.218.19:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.115:2053?path=/XIXVPN?ed=2560&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://9f1c30f7-7a6d-4e12-97ee-bb2d3207c104@94.183.170.239:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=kian.khorostime.ir&type=xhttp&sni=ir-cdn-dl-07.khorostime.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICIxOTMuMTUxLjEzMi44NiIsICJwb3J0IjogMTI0NzQsICJpZCI6ICIwY2QxOTk4MC1kYmNmLTRlZmUtYTNiMS0zZmFkODIyYTg5NjYiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUifQ==
+
