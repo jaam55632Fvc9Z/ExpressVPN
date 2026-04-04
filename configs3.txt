@@ -4884,3 +4884,7 @@ vless://d14b400f-6497-4ea9-bc3d-6247e38250cd@37.202.226.61:43456?security=none&e
 
 vless://b99341e1-fe1b-4996-8c38-83a43f7431b2@iran.halawar.com:51976/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://35adf9b2-fa34-4983-a204-09da456448e1@185.143.233.68:443?path=%2F&security=tls&encryption=none&insecure=0&host=backend.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=@vipV2rayNGnp#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+trojan://telegram-id-privatevpns@51.44.53.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=vipV2rayNGnp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40VIPV2rayNGNP
+
