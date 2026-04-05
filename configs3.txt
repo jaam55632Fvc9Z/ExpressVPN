@@ -5128,3 +5128,7 @@ vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@78.158.166.180:2096?path=%2Fapi%2Fv
 
 vless://bae25e29-437c-4d9f-9729-35254270ecf0@188.121.125.121:2000?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://fd9a715b-340f-45d8-9296-c172e413bb87@arvancloud.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=ai.faloweram.ir&type=ws&allowInsecure=0&sni=ai.faloweram.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_iran
+
+vless://6fb4c229-6f9a-449a-a533-9f2a8040c71c@185.238.140.212:443?security=reality&encryption=none&pbk=gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2_mod_shop
+
