@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJzdGFyLnJlYXRhLmlyIiwgInBvcnQiOiAyMjU3MywgImlkIjogIjg5ZjI0OGI0LThlNzMtNDRhNC1hNTlhLTk1OGViZDg3ODYzOCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSJ9
-
-trojan://telegram-id-directvpn@51.45.34.33:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.34.33:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@51.45.34.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://c537d85a-cd0c-40d7-bb39-6ef10d3f1a5a@79.175.167.196:4041?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://6cf22f1e-01b0-4f0d-8cbf-c4e275434150@simcard.parhamm1.ir:5066?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://c537d85a-cd0c-40d7-bb39-6ef10d3f1a5a@79.175.167.196:4041?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40tik7net_vpn
 
 vless://ec486464-46c8-4f80-acc1-a3ccdcf01744@178.173.252.228:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6OvNu3z9uVh1Br6hIOQOz4Qai7xuykdjcvtqiLqNRUs&security=reality&sid=95fe9eef&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40VIPV2rayNGNP
@@ -69,4 +57,6 @@ vless://ec486464-46c8-4f80-acc1-a3ccdcf01744@169.40.2.244:443?encryption=none&fl
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@194.87.106.31:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://43488128-319e-f480-64ea-0acdc712e2a8@193.238.152.60:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ICj0tYvWTiCM0Q47ddC3pTQ9APwk9tS9_i2gWC_dZRA&security=reality&sid=a1b2c3d4e5f67890&sni=www.github.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://6fb4c229-6f9a-449a-a533-9f2a8040c71c@185.238.140.212:443?security=reality&encryption=none&pbk=gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40VIPV2rayNGNP
 
