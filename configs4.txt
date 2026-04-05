@@ -52,3 +52,9 @@ vless://04689163-8793-4b21-be82-04371ea739ac@snapp.ir:80?security=none&type=ws&h
 
 vless://04689163-8793-4b21-be82-04371ea739ac@snapp.ir:80?security=none&type=ws&headerType=&path=%2F&host=arc.liarashop.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@3.77.109.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.109.217:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.77.109.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
