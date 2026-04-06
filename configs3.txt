@@ -5540,3 +5540,7 @@ trojan://telegram-id-privatevpns@15.188.46.103:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@18.156.97.29:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+vless://d7f7416a-5a88-4e49-9b08-bf0763ac1be7@185.143.234.120:443?encryption=none&headerType=none&allowInsecure=0&type=ws&mux=true&security=tls&sni=alef.ir.oadeflantrogm.iranaircdn.com&fp=randomized&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.iranaircdn.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://c8f9c1d5-00e1-4d7c-bfb0-cd5f5eba93d5@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
