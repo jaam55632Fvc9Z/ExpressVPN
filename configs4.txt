@@ -34,3 +34,21 @@ vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?allowInsecure=1&encryp
 
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@13.38.177.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.177.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.38.177.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://240925a4-b26f-4327-ba4e-d9df35e80394@a-m.iran-mehrbu.ir:2020?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://55b0463c-e27f-455b-a25a-70123297b9f4@69.84.182.20:443?path=%2Fws&security=tls&encryption=none&host=rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&sni=rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://d4823211-1431-4572-89a4-3e2d2b4dbe5c@v2.pcjxq.digital:12069?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://f0263f50-27b8-4612-95c2-06679e0ec89a@185.143.233.235:8080?path=%2Fwss%3Fed%3D2048&security=none&encryption=none&host=fr.battledns.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://095dac4-3550-498e-bfe0-971dacdcfa185.143.234.235:80?security=nne&encryption=none&hosi.idcnr.top&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://406f85b2-a099-4104-82b2-b843833fb2f5@188.121.106.138:10449?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
