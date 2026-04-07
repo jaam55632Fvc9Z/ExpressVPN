@@ -66,3 +66,11 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#%F0%9F%8C%90%20
 
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@85.208.108.63:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sid=#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@18.156.124.169:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.124.169:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@18.156.124.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://250b63c4-ebd7-4afb-96b0-4b2129cb839c@s1.foroshgah12.ir:2098?type=tcp&encryption=none&security=reality&pbk=5NjjTVzoNUIsndhLwYDHbqMKpeFDkZYUjq6RGAD77io&fp=chrome&sni=www.aparat.com&sid=789a&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
