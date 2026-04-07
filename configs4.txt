@@ -30,3 +30,7 @@ vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.16.211:80/?type=ws&encryptio
 
 vless://1b7ef0bd-e763-46cb-92fa-26369a0366fa@37.152.189.74:4431?security=none&allowInsecure=0&encryption=none&type=ws&host=live-azd1102.telewebion.ir&path=#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://0f9e6afc-135c-4548-a43d-689950a3682d@hawa.preghost3.ir:56077?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&allowinsecure=0&type=grpc&serviceName=aparat-stream&sni=hawa.preghost3.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://0f9e6afc-135c-4548-a43d-689950a3682d@hawa.preghost3.ir:56077/?type=grpc&encryption=none&serviceName=aparat-stream&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=hawa.preghost3.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
