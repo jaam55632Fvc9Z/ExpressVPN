@@ -5920,3 +5920,5 @@ vless://8ea37d0a-df5f-4daf-8905-fe4e0a6a79b8@94.101.187.242:10567/?type=tcp&encr
 
 vless://8ea37d0a-df5f-4daf-8905-fe4e0a6a79b8@94.101.187.242:10567?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
