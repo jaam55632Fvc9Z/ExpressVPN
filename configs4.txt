@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@51.45.56.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.56.96:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@51.45.56.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?path=%2F%3Fed&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://47cb5726-b426-1a8c-d83e-9c13c7b90251@pro.vpsino.com:20493?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://33342145-fde9-4096-9199-da0c57e9fefa@omranpanl.pointspeed.ir:80?path=%2F&security=none&encryption=none&host=omran.pointspeed.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
@@ -35,4 +27,6 @@ vless://33342145-fde9-4096-9199-da0c57e9fefa@omranpanl.pointspeed.ir:80?path=%2F
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJcdTA2YTlcdTA2Y2NcdTA2MzFcdTA2NDUgXHUwNjJmXHUwNjQ3XHUwNjQ2XHUwNjJhIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICJcdTA2YTlcdTA2Y2NcdTA2MzFcdTA2NDUgXHUwNjJhXHUwNjQ4IFx1MDZhOVx1MDY0OFx1MDY0Nlx1MDYyYSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIlx1MDZhOVx1MDZjY1x1MDYzMVx1MDY0NSBcdTA2MmFcdTA2NDggXHUwNmE5XHUwNjM1XHUwNjJhIiwgInBhdGgiOiAiXHUwNmE5XHUwNmNjXHUwNjMxIFx1MDYzNFx1MDYyZlx1MDZjYyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjAifQ==
 
 vless://f88fc142-cd33-47bc-a2cb-bf657a9922b4@final.digitalldns.com:8443?security=none&encryption~~=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://-bf657a9922b4@final.digitalldns.com:8443?security=none&encryption~~=~~none~~&~~headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
