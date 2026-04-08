@@ -6092,3 +6092,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.184.47:22224?type=ws&securit
 
 trojan://telegram-id-privatevpns@35.181.184.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@shenbaoluo1.zqjsqapi.com:443?type=ws&encryption=none&host=shenbaoluo1.zqjsqapi.com&path=/proxy&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=shenbaoluo1.zqjsqapi.com#%F0%9F%87%A7%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2nodes
+
+vless://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443?path=/46.232.122.240%3A8000&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=ivory.qzz.io&%3Btype=ws&%3Bsni=ivory.qzz.io#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
