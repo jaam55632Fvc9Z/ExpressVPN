@@ -44,3 +44,7 @@ trojan://telegram-id-privatevpns@35.157.169.92:22222?security=tls&alpn=http/1.1&
 
 vless://f374a660-2dc5-11f1-9ec5-baabcd4be2cd@104.194.158.108:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=cafe01234567&sni=www.apple.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@49.13.171.76:8444?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
