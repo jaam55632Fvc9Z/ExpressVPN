@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://b4533604-a36e-44d1-a8ab-043df362ba8f@new.idbedam.com:1000?mode=multi&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40v2_mod_shop
-
-vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2_mod_shop
-
 vless://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f2.hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=app-core-02.secoxi.site&type=ws&allowInsecure=0&sni=uiuyoyw.secoxi.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://4d713dcb-790d-43d5-bd71-7ed4171b15b6@188.114.99.0:443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cpt.aptel.site&fp=chrome&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -289,6 +285,10 @@ vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?security=reality&
 vless://6dbfe3a2-e04c-4aae-a3d7-a6aef2a3bdc2@new.idbedam.com:1000?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%8C%90%20GRPC-None%20%7C%20%40configraygan
 
 vless://0774543d-0271-4ba9-804d-5bac8f6de9cf@a-m.iran-mehrbu.ir:2000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://b4533604-a36e-44d1-a8ab-043df362ba8f@new.idbedam.com:1000?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%8C%90%20GRPC-None%20%7C%20%40configraygan
 
 vless://24f7eec5-fd6e-43d9-ab7e-0c048f21ddb8@Arvancloud.ir:2082?path=%2F&security=none&encryption=none&host=Cd.bede-baqbon-bilbezane.store&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
 
@@ -6157,4 +6157,6 @@ vless://79149019-5abe-46f9-91ae-e1e7d1d2c408@dns.dressforida.monster:443?type=tc
 vmess://eyJhZGQiOiAidjEyLmhkYWNkLmNvbSIsICJhaWQiOiAiMCIsICJob3N0IjogIm1meW91c2hlbmcubmwuZXUub3JnIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjMwODEyIiwgInBzIjogIlx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyBUQ1AtTm9uZSB8IEB2Mm5vZGVzIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2nodes
+
+trojan://e4895ea3-7b4a-3f46-ba5a-44ac4a691635@fbxt0765gh0pielsss.ftisthebest.com:56251?allowInsecure=0&sni=fbxt0765gh0pielsss.ftisthebest.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2nodes
 
