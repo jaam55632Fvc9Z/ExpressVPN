@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://5b77fb18-cece-4759-9a81-571f1be53e0c@fin5.frostbot.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&security=reality&sid=92463ae1603044&sni=vk.com&type=tcp#%F0%9F%87%B2%F0%9F%87%A9%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://a67510b4-6f51-4108-a236-5a8cfada2a3b@yz.g3h.ir:1405?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://19f3a750-e0a7-4210-ad3e-694892266e44@vip.securnetwork.lol:8443?security=none&allowInsecure=0&encryption=none&type=tcp&host=fast.com&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -6005,4 +6003,12 @@ trojan://telegram-id-privatevpns@51.45.56.96:22222?security=tls&alpn=http/1.1&he
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?path=%2F%3Fed&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://47cb5726-b426-1a8c-d83e-9c13c7b90251@pro.vpsino.com:20493?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://33342145-fde9-4096-9199-da0c57e9fefa@omranpanl.pointspeed.ir:80?path=%2F&security=none&encryption=none&host=omran.pointspeed.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://33342145-fde9-4096-9199-da0c57e9fefa@omranpanl.pointspeed.ir:80?security=none&allowInsecure=0&encryption=none&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://33342145-fde9-4096-9199-da0c57e9fefa@omranpanl.pointspeed.ir:80?encryption=none&security=none&type=httpupgrade&path=%2F#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://33342145-fde9-4096-9199-da0c57e9fefa@omranpanl.pointspeed.ir:80?encryption=none&type=httpupgrade&security=none#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
 
