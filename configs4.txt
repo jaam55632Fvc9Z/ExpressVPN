@@ -30,3 +30,21 @@ vless://e2950340-b6cf-4f84-9b33-ee2301c73357@ww.gooldiran.ir:8880?type=ws&encryp
 
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
+trojan://telegram-id-directvpn@13.37.25.98:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.25.98:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.37.25.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://436636ed-50f1-4a0e-baee-c938afdfdd8b@185.143.233.235:443?path=%2F&flow=&type=ws&host=sps3s.shahramcloud.com&security=tls&sni=nobitex.ir&allowInsecure=0&fp=firefox#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://436636ed-50f1-4a0e-baee-c938afdfdd8b@185.143.233.235:443?path=%2F&security=tls&encryption=none&insecure=0&host=sps3s.shahramcloud.com&fp=firefox&type=ws&allowInsecure=0&sni=nobitex.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://ddacf964-d3f9-4b6b-bd4b-4a614251eac2@185.143.234.129:443?path=%2F&security=tls&encryption=none&insecure=0&host=streamapi.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=streamapi.parhamm2.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://ddacf964-d3f9-4b6b-bd4b-4a614251eac2@185.143.234.134:443?path=%2F&security=tls&encryption=none&insecure=0&host=endpointapi.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=endpointapi.parhamm2.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://ddacf964-d3f9-4b6b-bd4b-4a614251eac2@185.143.234.129:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=streamapi.parhamm2.ir&sni=streamapi.parhamm2.ir&fp=random#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://d768d950-995d-4c31-a100-61c36d41a130@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
