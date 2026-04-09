@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://biS%28YrwB%2C3L%24@185.143.235.5:443?security=tls&sni=mydigipay.com&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
 trojan://telegram-id-directvpn@3.72.196.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
@@ -6073,4 +6071,10 @@ vless://789db5da-ddf5-4922-b55a-8e91ea34b6a6@193.151.130.62:15011?security=none&
 vless://b2548603-1030-4f26-854e-a8c8db2880f0@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
 vless://4561c5b4-0e58-4b90-96e0-4f7bcea077fe@n1.linkinfo.cloud:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://07d1c69c-950f-42cf-ba17-07e21631f7e4@final.usdtbama.com:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://471640c1-8d5c-4c31-8aba-4a0c5148cd3f@omranpanl.pointspeed.ir:80?type=httpupgrade&encryption=none&path=%2F&host=omran.pointspeed.ir&security=none#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40BrilliantGift
+
+vless://b2548603-1030-4f26-854e-a8c8db2880f0@185.143.234.235:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vixon.portab.org&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
