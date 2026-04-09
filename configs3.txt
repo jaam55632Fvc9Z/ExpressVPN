@@ -1,26 +1,8 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://a22b6df1-2639-4f78-a0fe-13886acd8115@185.189.58.195:29059?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://d0208a6a-737c-42fd-82e1-c997698987de@185.143.233.200:443?encryption=none&headerType=none&allowInsecure=0&type=ws&mux=true&security=tls&sni=alef.ir.oadeflantrogm.airasiadl.com&fp=randomized&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.airasiadl.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@193.233.253.77:8443?security=reality&encryption=none&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=cafe01234567#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://32d692f0-d104-4dc2-aa83-f62756686acc@opnt1.ashboard.ir:443?path=%2F109.73.205.8%3D443&security=tls&encryption=none&host=gulfblue.qzz.io&type=ws&sni=gulfblue.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.130.37:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=secdn12.melodramaonline.net#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-trojan://telegram-id-directvpn@18.193.170.62:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.170.62:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://27f142d8-4ed4-5608-ac23-d0b47f4ee4cb@2.59.219.201:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=7wwQRVkoMP2NGEF_4T1q4sPfwy8_MVcRlDQ21cf3dgs&sid=3eb0d908b9fcdbdb&sni=dell.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://423d0fbd-72c9-4dba-83ce-335f6835bd07@185.143.233.200:80?type=ws&encryption=none&path=%2F&host=asd.parsimas.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://e9eb8cdf-51b8-4bca-9151-542cf49d2eab@mail.pastelluna.ir:333?type=xhttp&encryption=none&path=%2F&host=mci.ir&mode=stream-one&security=reality&pbk=_6SUxteWLbB6oLA0s8FKwuuhi9HYx0dRHNfcYUejzzE&fp=chrome&sni=aparat.com&sid=60&spx=%2F#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
-
 trojan://telegram-id-directvpn@18.193.170.62:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://e9eb8cdf-51b8-4bca-9151-542cf49d2eab@mail.pastelluna.ir:333?mode=stream-one&path=%2F&security=reality&encryption=none&pbk=_6SUxteWLbB6oLA0s8FKwuuhi9HYx0dRHNfcYUejzzE&host=mci.ir&fp=chrome&spx=%2F&type=xhttp&sni=aparat.com&sid=60#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.170.62:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -654,6 +636,8 @@ vless://55b16a95-0e0d-430f-9235-3d69a862947f@new.idbedam.com:1000?security=none&
 
 vless://7bbcc147-4352-4fed-bb2c-82ab60989575@193.202.10.99:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AB6wH4gz73w4F0Fdt8RlJTiNWY9BJKn9NOUwPQPVjg4&security=reality&sni=www.google.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@193.233.253.77:8443?security=reality&encryption=none&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=cafe01234567#%F0%9F%87%A9%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2nodes
+
 ss://b4e9234c-4517-400b-ac85-4e4b37657838@iribnewreport.watch-out.ir:443?path=%2Fj%2F47164&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://25f43cbe-e8df-47f9-b0a6-c43e27279393@31.47.45.124:56052?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -695,6 +679,8 @@ vless://67722bba-1fae-47c8-9dd8-04794e182474@partners.dissertationhelpspecialist
 trojan://XPsK3oaIv8@snapp.ir:80?type=ws&path=%2F&host=ft.bazisazy.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://fccb6bb0-b502-4237-8f28-d94dabb31a5b@m2.lionets.nl:443?mode=gun&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.8IFFtZy-287KnJTY7v03edhP0CFZh9oGJGFdKEnO7j4&authority=m2.lionets.nl&insecure=0&fp=chrome&type=grpc&serviceName=m2.lionets.nl&allowInsecure=0&sni=m2.lionets.nl#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.130.37:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=secdn12.melodramaonline.net#%F0%9F%87%B8%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
 
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40manVPN
 
