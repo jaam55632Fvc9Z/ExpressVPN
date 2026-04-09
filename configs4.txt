@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://675769ee-40d7-4b7e-9bf7-6598ee7c07e7@185.143.233.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.iranaircdn.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.iranaircdn.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://4ae961fe-4c68-224a-3592-73783c9d14df@cloud.vpsino.com:48324?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://4ae961fe-4c68-224a-3592-73783c9d14df@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://2204306a-76c2-478e-90fe-dcdfe4a1bc8a@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://8e00b493-d5a7-499b-a778-8d6cdd67700c@bmi.ir:80?path=%2F&security=none&encryption=none&host=bip-07b3ffd0cc-redo.apps.ir-central1.arvancaas.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
 vless://432a058c-f33b-4b15-a222-858e8dfb99bd@185.143.234.200:80?mode=auto&path=%2Fw0A7arFCWfh1n07bLCPY2sRPzhX533AaYjLN3dxdP6R4zqg4VBCbbAHV49zjRZ2wBNooXj1s1PzkVhLL9h1gdLbpU5oPiC68mu8r&security=none&encryption=none&host=www.aiteamplus.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
@@ -51,4 +39,10 @@ vless://1bbb0321-12b5-4d47-98a1-14d291b05085@devers.amozesh-kade.ir:2053?type=xh
 vless://34704650-eb3b-4294-978b-9c70d6df5f55@v2.pcjxq.digital:20666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://64d56fff-6fef-4bf4-8ec0-2e90f51cad33@snapp.ir:443?security=tls&type=ws&headerType=&path=%2Flogin%2Fget%2F3929429349.rar%2Ffortnite&host=database-cbv.persianstorebnd.ir&sni=database-cbv.persianstorebnd.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://fdfb2965-5754-45b8-afb2-70baef8e874a@snapp.ir:443?security=tls&type=ws&headerType=&path=%2Flogin%2Fget%2F3929429349.rar%2Ffortnite&host=database-cbv.persianstorebnd.ir&sni=database-cbv.persianstorebnd.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAidmVyc28ubGVnaW9uLWJvdC5zaXRlIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaHR0cC8xLjEiLCAiZnAiOiAiIiwgImhvc3QiOiAidmVyc28ubGVnaW9uLWJvdC5zaXRlIiwgImlkIjogIjc5ODg3MjMzLTJlM2UtNDhhMi1hOThhLWEyM2M3OTY2NDFmMiIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bS8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidmVyc28ubGVnaW9uLWJvdC5zaXRlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+
+vmess://eyJhZGQiOiAidmVyc28ubGVnaW9uLWJvdC5zaXRlIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaHR0cC8xLjEiLCAiZnAiOiAiIiwgImhvc3QiOiAidmVyc28ubGVnaW9uLWJvdC5zaXRlIiwgImlkIjogIjMyNGY2MWQ0LTQyZDktNDQwZS1iM2Q4LWY0OTQ3NjE4MzYwMSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bS8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidmVyc28ubGVnaW9uLWJvdC5zaXRlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 
