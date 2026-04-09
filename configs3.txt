@@ -6156,3 +6156,7 @@ vless://cb026873-8ea0-4676-a9f2-403d736fbd2e@188.114.98.0:8080?path=%2Fws&securi
 
 vless://cd80104d-75ee-4372-8b2a-e641829dfd00@104.21.11.130:2083?path=%2Fer%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=tala.sap-lotmarx.ir&fp=chrome&type=ws&allowInsecure=0&sni=tala.sap-lotmarx.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://f4df06ad-dc0c-4818-b9b6-cfc240b25498@188.114.98.0:443?encryption=none&type=ws&host=Sepah.network&path=/emamali&security=tls&fp=chrome&sni=Sepah.network&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=DOFF.mehrsazi.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
