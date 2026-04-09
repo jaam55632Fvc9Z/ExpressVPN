@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@51.44.87.80:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.87.80:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@51.44.87.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://32279e08-a2e5-431d-8add-924e8cdecd22@st1.uwuwiak.ir:2001?security=none&encryption=none&headerType=none&type=tcp@RezZonez#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://c661d355-3d79-438e-b8d9-0d210965ac06@cluder.zan67.fun:80?type=ws&encryption=none&path=%2Fek%2Firinn%2Flive%2F1080p%2F&host=live-azd1102.telewebion.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://bdf784f4-c4d4-4bfd-80ec-2200e2a6a992@185.218.139.56:44?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://bdf784f4-c4d4-4bfd-80ec-2200e2a6a992@185.218.139.56:44?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -49,4 +39,6 @@ vless://cb56b114-dfa0-4074-94af-44ea23149905@37.152.189.74:4431?path=%2Fek%2Firi
 vless://cb026873-8ea0-4676-a9f2-403d736fbd2e@188.114.98.0:8080?path=%2Fws&security=&encryption=none&host=test.tuozs.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?sni=zh.hollowspot.ir&security=tls&type=ws&path=/&host=zh.hollowspot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1ae7ac4a-b9ad-40b9-984f-605dcb6a7d30@185.143.234.1:80?security=none&allowInsecure=0&encryption=none&type=ws&host=ir-st.ge9.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
