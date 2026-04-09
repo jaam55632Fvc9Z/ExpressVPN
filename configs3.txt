@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
-
 vless://9c9356a7-edbc-4e12-b566-c8f1f3df550d@193.151.134.247:8080?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40tik7net_vpn
 
 vless://7250610a-b2e4-4e1d-9855-cda1a4fcbb93@193.151.134.247:8080?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40tik7net_vpn
@@ -2731,6 +2729,8 @@ trojan://4js4twxf-sor2-qsbw-89x9-3ztvh0m5fofu@127.0.0.1:4080?security=tls&type=t
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
 
 trojan://rwm1aukb-k29x-7frm-fvy4-iglfmhs78iq1@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
@@ -6181,4 +6181,6 @@ vless://9fb7a1cc-5f37-483b-a222-69f7b8fd7363@185.143.233.235:80?path=%2Fir&secur
 vless://9fb7a1cc-5f37-483b-a222-69f7b8fd7363@185.143.234.235:80?path=%2Fir&security=none&encryption=none&host=v1.y103.ir&fp=chrome&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://4d8c8017-ae06-40cc-9a09-7fdde4161081@185.143.234.235:80?encryption=none&type=ws&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.225.72.238:2096?path=%2F&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
