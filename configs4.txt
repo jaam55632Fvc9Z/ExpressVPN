@@ -40,3 +40,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.25.240:22224?type=ws&security=
 
 trojan://telegram-id-privatevpns@3.76.25.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&security=tls&encryption=none&insecure=0&host=de02.abvpn.ru&type=ws&allowInsecure=0&sni=de02.abvpn.ru#%F0%9F%8C%90%20WS-TLS%20%7C%20%40saministamm
+
