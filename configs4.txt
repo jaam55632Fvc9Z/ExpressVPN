@@ -16,3 +16,7 @@ vless://jina@20.218.137.249:443?security=tls&encryption=none&headerType=none&fp=
 
 vless://4139900c-fd66-4880-bc7e-183093f11945@ok.myextraordinary.ir:8080?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b74c9ec4-b96c-4a60-bb29-1ae0891a5148@188.121.125.121:3000?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
