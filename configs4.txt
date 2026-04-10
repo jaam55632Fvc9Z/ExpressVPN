@@ -82,3 +82,11 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@188.114.98.0:443?path=%2F109.120.18
 
 trojan://rmXWalDesivbP8npZPa3S5Mj@185.189.58.195:37976?type=tcp&security=tls&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40irmeliy
 
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@188.114.98.0:443?path=%2F51.89.23.94%3D8443&security=tls&encryption=none&insecure=1&host=afrcloud07.mmv.kr&type=ws&allowInsecure=1&sni=joinProxyVPN11.afrcloud07.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@188.114.98.0:443?path=%2F135.125.234.148%3D2053&security=tls&encryption=none&insecure=1&host=afrcloud07.mmv.kr&type=ws&allowInsecure=1&sni=joinProxyVPN11.afrcloud07.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://9caaef79-39cc-4c00-bcfb-411e4fd28919@162.159.234.249:443?hiddify=1&sni=cdn3.shayan.cyou&type=xhttp&alpn=h3&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&padsize=50-200&path=%2FYAIb93ZcNf9TH3lEYEVpoajiKD2FaK&host=cdn3.shayan.cyou&encryption=none&fp=chrome&core=xray&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F144.0.0.0%20Safari%2F537.36%20OPR%2F128.0.0.0%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&headerType=none&allowInsecure=true&insecure=true&security=tls&ech=AEX%2BDQBBdgAgACAvzukD87isAsPCtnt3usHL%2BSb9mSV5tSkTHl0UMH9qIAAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA%3D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.24.66.98:80?path=%2F%3Fed&security=none&encryption=none&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
