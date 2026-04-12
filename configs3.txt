@@ -6468,3 +6468,11 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwg
 
 vless://e6778144-471a-4cbc-acd0-a18be7f675b0@packetnet.vianabeauty.ir:45359?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@13.39.249.232:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.249.232:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.39.249.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://181ae5ba-0be0-4f00-be30-14451a33bd35@89.124.93.150:443?encryption=none&fp=chrome&pbk=vXAimBeAoXT5Jpmpx13fT-mUOCVO_qWy0xlNNT4PABM&security=reality&sid=de72&sni=yahoo.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
