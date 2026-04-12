@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@3.121.58.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.58.242:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@3.121.58.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 vless://3cee0b95-8e4d-41e8-813a-1fc7ac8c5cec@NullNetwork.vianabeauty.ir:45359?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://8fc836e4-f72f-40d7-8a55-8677324a2079@185.143.234.122:80?path=%2F&security=none&encryption=none&host=S4.koremusic.ir&typ=ws#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -35,4 +29,8 @@ vless://2842a942-ee1a-4ca3-bc39-fac3ef6bd9b1@104.25.84.45:443?security=tls&encry
 vless://a2b5ed44-6d39-4a41-97e1-c643508d73d9@cf.mtpmio.com:2053?path=api%3Fed%3D1024&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=api.mtpmio.com&fp=firefox&type=ws&allowInsecure=0&sni=api.mtpmio.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:2053?path=%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://5db4fb64-d99f-4745-b550-9e937bd2f448.66.202.57:443?security=tls&encryption=none&insecure=1&host=steep-poetry-829c.false-mossy-caucus.workers.dev&type=ws&allowInsecure=1&sni=steep-poetry-829c.false-mossy-caucus.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://cab4f3fb-0f59-477e-b5d2-9e2c36d966e7@185.143.234.120:443?encryption=none&headerType=none&allowInsecure=0&type=ws&mux=true&security=tls&sni=alef.ir.oadeflantrogm.realirshop.com&fp=randomized&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.realirshop.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
