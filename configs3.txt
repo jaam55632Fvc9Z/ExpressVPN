@@ -6590,3 +6590,5 @@ vless://dd56fd37-a37e-4c25-bca0-da09c11c200b@185.255.95.247:443?type=ws&encrypti
 
 vless://b5821fd6-692d-4d97-9c55-d74a3fba200d@185.255.95.247:27781?type=tcp&encryption=none&security=tls&sni=185.255.95.247&alpn=h2,http/1.1&fp=chrome#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+vless://2491c11c-b958-4553-96f7-1aaa7cad8320@153.80.249.101:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=T9-LNstrlOx3Bme7jREFDfDcvgYt3YGUpkTH4Uhwlws&security=reality&sid=4da040bb05be9f47&sni=dl.google.com&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
