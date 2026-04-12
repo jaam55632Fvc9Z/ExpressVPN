@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@194.87.106.31:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://a33bf5d1-ca1b-4dff-9620-9c7673bd0342@srv2.panahga.ir:2083?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=srv2.panahga.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
 vless://ec486464-46c8-4f80-acc1-a3ccdcf01744@169.40.2.244:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6OvNu3z9uVh1Br6hIOQOz4Qai7xuykdjcvtqiLqNRUs&security=reality&sid=95fe9eef&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&security=reality&sid=9b4fc5a116efd6c8&sni=www.aliexpress.com&type=tcp#%F0%9F%87%B7%F0%9F%87%B4%20TCP-Reality%20%7C%20%40v2nodes
@@ -111,6 +107,8 @@ trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&heade
 vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?allowInsecure=1&encryption=none&host=rayan-007.nastaran.dpdns.org&path=%2F&security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a33bf5d1-ca1b-4dff-9620-9c7673bd0342@srv2.panahga.ir:2083?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=srv2.panahga.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://c3319fd7-627b-4ac2-a883-0bee53d15757@snapp.ir:80?path=%2F&security=none&encryption=none&host=arc.liarashop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40PewezaVPN
 
