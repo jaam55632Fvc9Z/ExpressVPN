@@ -66,3 +66,11 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.184.253:22224?type=ws&securit
 
 trojan://telegram-id-privatevpns@13.39.184.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://dc0b9256-42d2-4409-b2c9-69f3a7fcea5d.10.249.93:21724?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6db749b7-bc80-4d2d-8738-bb296a242e02.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://95tguyDtPydNyzAV1HK-2g.azadiconfig.top:443?security=tls&sni=backfall.azadiconfig.top&fp=chrome&allowInsecure=0&type=ws&path=/blog#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://11388a7f-e3ef-4abf-b076-c537401f035e.18.12.149:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=backfall.azadiconfig.top&path=/app&sni=backfall.azadiconfig.top&fp=firefox#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
