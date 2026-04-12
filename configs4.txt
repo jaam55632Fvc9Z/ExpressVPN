@@ -12,3 +12,9 @@ vless://b6c07d52-0288-4005-9634-b5d4bd661535@94.101.177.169:80?security=none&enc
 
 vless://ea88fbc4-2796-4023-9a83-8bba36a99fa5@5.34.212.197:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iR4h542dbRHwxopBjLdsnUR85ZaCKV7dJ75BbtJxvkY&security=reality&sid=11d85609e96cb024&sni=google.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@3.121.58.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.58.242:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.121.58.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
