@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://a5972f80-aaeb-4f3f-92eb-0a602f00db63@104.17.135.117:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ordi.theatak.com&fp=firefox&type=ws&sni=ordi.theatak.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
-
 vless://f820db63-9d1e-4a5f-bea8-bf4697e96a80@185.143.233.235:80?encryption=none&type=ws&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://Parsashonam@127.0.0.1:40443?path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -75,4 +73,8 @@ trojan://telegram-id-privatevpns@35.180.106.44:22222?sni=trojan.burgerip.co.uk&p
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@125.227.233.197:2083?type=ws&security=tls&path=/&sni=1-bhn.pages.dev&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Trick_mobil
 
 vless://ffa58ffd-1b0b-408e-9ff9-759795bf8f9b@185.232.155.203:8586?encryption=none&type=tcp&headerType=http&host=soft98.ir&path=/#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&authority=/v2rayNplus&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
 
