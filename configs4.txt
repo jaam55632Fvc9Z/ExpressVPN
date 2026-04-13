@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://cc49ff13-bb0d-476e-ae08-41dfd79a9d37@188.114.98.0:80?encryption=none&host=cdn2095.dgclix.ir&path=/&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2nodes
-
-vless://5c77ac78-b854-5a67-b6c8-03959d3af80e@31.56.206.248:443?encryption=none&fp=chrome&pbk=x_WnKY7vhIbGa7Ji1-atMYaxRqv96UO0Hfxb19IiHU0&security=reality&sid=ffffffffff&sni=www.apple.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@94.241.175.25:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sid=9a4c1d8f2e3b4a11&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://4cc545b9-1343-48fd-b5e2-aaf37216f48d@nl.pfvpn.cfd:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZhjnYVxJjlHqRng99rliQCf1kYo--OF7DvEiNzNpTys&security=reality&sid=3a3023cac1da&sni=max.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
@@ -79,4 +75,16 @@ vless://16c91836-34a1-42fd-9ecd-66ce78f2745b@abr.superip.ir:2082?security=none&t
 vless://16c91836-34a1-42fd-9ecd-66ce78f2745b@abr.superip.ir:2086?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=tu.bi6x.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://16c91836-34a1-42fd-9ecd-66ce78f2745b@abr.superip.ir:2086?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd2.phill-up.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://cc9edff4-cbff-4bf2-b1fa-8e7543e27fcd@Abmive1.abmivenaser-18.ir:8080?authority=&encryption=none&security=none&serviceName=&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+vless://66674a64-1a54-43bd-9ebe-4c0db903fcf0.idbedam.com:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a459d41f-5f3b-4123-9676-8374db27279d.ir:80?path=%2Fws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://db3df5e2-231c-44c6-83ff-7afe8a154fcc.imap33.site:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cp.dsdivar.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@104.18.32.47:443?path=%2Fdb10248afdcb0daf&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=s6.oboob.cn&type=ws&allowInsecure=0&sni=s6.oboob.cn#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAic3Rhci5yZWF0YS5pciIsICJpZCI6ICIyNTdiYjRkMS1iMmNlLTRkMmItYjkzMC0xNjM0MzE1OGQ3MjUiLCAibmV0IjogInRjcCIsICJwb3J0IjogMjkzOTAsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
