@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://Nova-Proxy@104.18.12.149:443?path=%2F%3Fed&security=tls&insecure=1&host=small-morning-2668.drusavm.workers.dev&type=ws&allowInsecure=1&sni=small-morning-2668.drusavm.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2RAY_VMESS_free
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@188.114.96.6:2053?security=tls&sni=hio-awx.pages.dev&allowInsecure=1&type=ws&path=/&host=hio-awx.pages.dev&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.13.149:443?security=tls&sni=y6-3cj.PAgES.DEV&allowInsecure=1&type=ws&path=/&host=y6-3cj.PAgES.DEV&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-trojan://8r%3C%5B9'l6hAO%238ZQi@172.64.149.54:2096?security=tls&sni=Koma-YT.PAGeS.Dev&allowInsecure=1&type=ws&path=/tr&host=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 trojan://1710442808@104.18.12.149:443?path=%2F&security=tls&insecure=1&host=subb.nrshop198.workers.dev&type=ws&allowInsecure=1&sni=subb.nrshop198.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2RAY_VMESS_free
 
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&host=2026.hhhhh.eu.org&type=ws&sni=2026.hhhhh.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
@@ -181,4 +171,20 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?security=tls&all
 vless://06ef598c-1555-4887-b3f9-08214a2f6792104.17.72.206:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://067dff14-33ff-4ba5-926a-6a464fbe0485@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@3.73.216.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.216.159:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.73.216.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://fff03d01-86a7-4695-80d9-95f9b16a5f5c@sourceforge.net:443?path=%2F&security=tls&encryption=none&host=edgetunn-cfm.pages.dev&type=ws&sni=edgetunn-cfm.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:443?path=%2F&security=tls&alpn=http%2F1.1&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2053?sni=sni.111000.v6.navy&host=sni.111000.v6.navy&type=ws&security=tls&path=%2F&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2096?sni=sni.111000.indevs.in&host=sni.111000.indevs.in&type=ws&security=tls&path=%2F&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?sni=sni.111000.indevs.in&fp=chrome&host=sni.111000.indevs.in&type=ws&security=tls&path=%2F&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
