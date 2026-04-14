@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d2f66ace-8e0e-4cd4-bafe-d6a126bcd127@star.fast-uploader.net:6004?security=&encryption=none&host=cafeariel.ir&headerType=http&fp=firefox&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
 ss://YWVzLTEyOC1nY206YzFlOTMxNDItZDA5Mi00YmM2LTg3MjMtMDM1MmFlNmIxZDc0@mn.qwer-cn.org:10920#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40v2nodes
 
 vless://8cc9715a-951d-463d-87f4-ad871d3d67dd@vip.gxnetshop.ir:6000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -53,6 +51,8 @@ vless://a2c49c4a-46d9-485d-bbf1-a19a0fba69af@78.157.42.130:13772?security=&encry
 ss://YWVzLTI1Ni1nY206NW1DSDQ2MjRRZmxPMWNGUg@185.111.156.33:80#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://e449514a-2c1e-6d74-83c6-0b8407951c31@188.121.121.161:63822?security=none&type=tcp&headerType=none&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
+vless://d2f66ace-8e0e-4cd4-bafe-d6a126bcd127@star.fast-uploader.net:6004?security=&encryption=none&host=cafeariel.ir&headerType=http&fp=firefox&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://e8690cd5-d8ea-4ef3-8200-d425f95290ad@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=none&encryption=none&host=live-azd1102.telewebion.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
@@ -6725,4 +6725,16 @@ vless://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@staticdelivery.nexusmods.com:443?&s
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@dnew.cc:443?path=%2F&security=tls&encryption=none&host=2-4jq.pages.dev&fp=chrome&type=ws&sni=2-4jq.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@172.64.149.54:8443?path=%2F&security=tls&encryption=none&insecure=0&host=Kingdom.turbooo-server.com&type=ws&allowInsecure=0&sni=Kingdom.turbooo-server.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1a909c30-9a8b-4be7-8aa7-70907e80fbc8@104.18.16.56:443?path=%2F&security=tls&encryption=none&insecure=0&host=tr.lottery2027.sbs&fp=chrome&type=ws&allowInsecure=0&sni=tr.lottery2027.sbs#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+
+vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@104.16.80.73:8443?path=%2F&security=tls&encryption=none&host=superconducting.turboo-server.space&type=ws&sni=superconducting.turboo-server.space#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://5322a333-f9cc-4bc7-a2de-f711e7d546ac@best.textile-shoping.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=de.xn--fjqyexxidv2znoe9rk1n8agb1e05q.com&path=%2F&security=tls&sni=de.xn--fjqyexxidv2znoe9rk1n8agb1e05q.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2&sni=sni.111000.dynv6.net&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+
+vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@104.16.80.73:8443?path=%2F&security=tls&encryption=none&insecure=0&host=superconducting.turboo-server.space&type=ws&allowInsecure=0&sni=superconducting.turboo-server.space#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
