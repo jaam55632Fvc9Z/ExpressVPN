@@ -7340,3 +7340,31 @@ vless://OT2IjoPNkN0yuGHqgW5UCLbtBvRdMIcbm3HBNgM3vhWs+jFppRS+31NJ/fVFz4CtrVNx/kjr
 
 vless://0MjmftR+zFRgSKXKGhsdSBAwjkjycTjRyNv+leMoo2kfbusyC3GOQ8fOqFx0bAN3N1AZJ3bsFMgQfeoYVKbiXq21E1/yfab2CxB4nhXWrUeZMWSPTNXDtqjgqV746ED+zLG9GciVbDxfvoZV1L/9/RGh8eJeU84N+/UWu4bZPThWB+s6Y8VBiW3ueoLnOvwCQuLzDNFQXzpYAijH+U5nyEvZqIBGjbg9en2r5btHjuZHawt+1wnFGG249xOvfi223rvNTxqQOd47yT9Ioveff9SbrJ2Kv8Q2wiC5EUNbaHjdRgE6erF1FVLzZwnIPCMinB+NFVTnyov3MSus9K+XTKUjNeYO60dx36kWV0Voxu9mW0TccFzjQByhcObMfFPe84n/PL/Z44vaNlwhOKyHMVDJmnJoC5Bbyv2IkUQZzgjXzQ0JoCmerAzO7sf6iL5s3Zh4nPqDkfczTZKANNJsPQ==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@15.236.148.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.148.165:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.236.148.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://716fdeaf-f256-4101-a329-fbfd60ed11ad@104.18.16.56:8443?path=%2FeyJqdW5rIjoidmt6M1NUYVkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=b721hjg7h3m87ddmr6xo5ok3w8w2trbf.l67671355.workers.dev&type=ws&allowInsecure=0&sni=b721HJg7h3m87ddmr6xo5OK3W8W2tRbf.L67671355.WOrKERS.dEv#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2RAYROZ
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.152.23:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vip.yaml7.ggff.net#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://501e461e-02f6-4293-8334-d6ba7c076dd9@104.18.16.56:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=cdn.dns.xn–q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn–q9jyb4c#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.152.23:80?path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://b60e5c32-3d4e-425c-a785-a36cd0621a72@172.64.152.23:443?path=%2F&security=tls&encryption=none&insecure=0&host=S4-f45.pAGeS.DeV&type=ws&allowInsecure=0&sni=S4-f45.pAGeS.DeV#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40RzChanel111&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:2053?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://f190acf5-d6d6-4a26-97b2-88205d703d2f@104.18.16.56:80?security=none&allowInsecure=0&encryption=none&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40&security=&encryption=none&host=vip.yaml7.ggff.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40FreeConffning&security=&encryption=none&host=vip.yaml7.ggff.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
