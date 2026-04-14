@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=69#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40manVPN
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://da7715bd-7051-4194-82e7-9afbeb2665ef@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=&encryption=none&host=live-azd1102.telewebion.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
-
-vless://b1ac23fb-b336-4d37-a3c0-64b29c4ef3a4@s2.tehranionliine.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
-
-vless://06e27e58-997a-499e-9a19-71d4980aaabf@snapp.ir:8080?path=%2F&security=none&encryption=none&host=download2erfan.sudoserver.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
-
-vless://b1ac23fb-b336-#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://ba3c849d-7ad5-4a4b-9432-a7509cbbf8b4@194.225.130.67:5050?encryption=none&type=ws&host=www.letterbox.ir&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 trojan://telegram-id-directvpn@51.45.56.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.56.96:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
@@ -21,6 +7,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.56.96:22224?type=ws&security=
 trojan://telegram-id-privatevpns@51.45.56.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?path=%2F%3Fed&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://06e27e58-997a-499e-9a19-71d4980aaabf@snapp.ir:8080?path=%2F&security=none&encryption=none&host=download2erfan.sudoserver.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40NormanV2ray
 
 vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=%2Fmovie&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
@@ -191,6 +179,8 @@ vless://5bf88bd3-b914-450e-a125-d84f76989183@185.143.234.235:80?type=ws&encrypti
 vless://e5933eb3-2aa8-4f20-b622-92677bf618f8@snapp.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=cdn.siilaam.online&fp=chrome&type=ws&allowInsecure=0&sni=info.siilaam.online#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://524a6bb1-3c35-4c70-9db6-b6da8de2e96c@185.143.233.5:80?encryption=none&security=none&type=ws&host=outnika.snappfoodi.ir&path=%2Fapi%2Fv2#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=69#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40manVPN
 
 vless://aa4e1b2b-2ed5-41af-b306-ed43a9ff5dc3@45.159.148.180:2053?path=%2Fpath&security=none&encryption=none&host=google.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40manVPN
 
@@ -2383,6 +2373,8 @@ vless://b5a726ed-946c-4fbc-9a80-16ef50e9efdc@packetnet.vianabeauty.ir:46054?type
 vless://00a67355-135d-4dad-a8cd-6c5dfd6513e6@packetnet.vianabeauty.ir:46054?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://dc88a37a-ca3e-4b2b-b52a-f44f074fa479@packetnet.vianabeauty.ir:46054?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b1ac23fb-b336-4d37-a3c0-64b29c4ef3a4@s2.tehranionliine.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://6e4a7fad-01eb-4f1c-be37-8b77d923696f@NullNetwork.vianabeauty.ir:41635?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -7455,4 +7447,14 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?encryption=none&sec
 vless://f41889e1-d40c-4634-9e24-6fc9457b20dc@vip3-nightgemshop.sap-tanbol.ir:80?encryption=none&host=vip3-nightgemshop.sap-tanbol.ir&path=%2F&Arayaraz=V@security=n#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.88.67.37:2053?allowInsecure=1&encryption#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&encryption=none&pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a20a8fdc#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40manVPN
+
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B7%20GRPC-None%20%7C%20%40manVPN
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&typr#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%config_free33&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
