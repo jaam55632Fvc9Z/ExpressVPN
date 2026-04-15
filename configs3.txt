@@ -7788,3 +7788,5 @@ vless://e6e62041-221c-46b2-b313-c2d131e74dd6@tun2-vip.apbxz.com:43187?security=&
 
 vless://e9b5e97e-e042-4a0d-ad47-4149352db54f@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VPNConectd
 
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayNG_SPDNet
+
