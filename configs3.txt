@@ -1,27 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@13.37.25.98:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.25.98:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.37.25.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://e2950340-b6cf-4f84-9b33-ee2301c73357@ww.gooldiran.ir:8880?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://436636ed-50f1-4a0e-baee-c938afdfdd8b@185.143.233.235:443?path=%2F&flow=&type=ws&host=sps3s.shahramcloud.com&security=tls&sni=nobitex.ir&allowInsecure=0&fp=firefox#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://436636ed-50f1-4a0e-baee-c938afdfdd8b@185.143.233.235:443?path=%2F&security=tls&encryption=none&insecure=0&host=sps3s.shahramcloud.com&fp=firefox&type=ws&allowInsecure=0&sni=nobitex.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ddacf964-d3f9-4b6b-bd4b-4a614251eac2@185.143.234.129:443?path=%2F&security=tls&encryption=none&insecure=0&host=streamapi.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=streamapi.parhamm2.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ddacf964-d3f9-4b6b-bd4b-4a614251eac2@185.143.234.134:443?path=%2F&security=tls&encryption=none&insecure=0&host=endpointapi.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=endpointapi.parhamm2.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://f574f477-f176-42f8-ae22-059c5aa6a773@mmdlinks00420.temp.veraspeed.ir:80?encryption=none&security=none&type=ws&host=byebye.22.avenflow.ir&path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://ddacf964-d3f9-4b6b-bd4b-4a614251eac2@185.143.234.129:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=streamapi.parhamm2.ir&sni=streamapi.parhamm2.ir&fp=random#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://d768d950-995d-4c31-a100-61c36d41a130@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://1fb21f60-22b2-11f1-8d30-2ddfba49052f@185.143.234.235:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=c-1.jservices.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdG4wODNicXZzLXlDdnFwZGRteDBtVVBxVXBfN0xaaA%3D%3D@5.160.47.215:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -455,6 +433,8 @@ vmess://eyJhZGQiOiAidmVyc28ubGVnaW9uLWJvdC5zaXRlIiwgImFpZCI6ICIwIiwgImFscG4iOiAi
 vless://82849133-de8c-48ef-8479-ec67859c58e8@45.159.148.34:8585?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAibWVoaS5pYW1tZWhyYWIuc2JzIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3NDYwOWIwZi02Y2UwLTRlZmItYTlhOS1jMDBhODI1ZTM1NjUiLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzY4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+
+vless://e2950340-b6cf-4f84-9b33-ee2301c73357@ww.gooldiran.ir:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://1bbb0321-12b5-4d47-98a1-14d291b05085@devers.amozesh-kade.ir:2053?type=xhttp&security=tls&path=%2F&host=&mode=auto&sni=devers.amozesh-kade.ir&allowInsecure=1&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40BrilliantGift
 
@@ -7655,4 +7635,6 @@ vless://eb956c00-6dcf-4836-87b0-e77c99f6582a@snapp.ir:80?path=%2F%3Fed%3D2080&se
 vless://3d4b1d0b-9430-4ca5-872f-c9c1c23bf4a9@panel.motabarimshaknakon.xyz:44846?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://00ca1851-50a2-4dcb-b795-2a2e51289d44@185.143.235.200:80?path=%2Farvancloud.ir&security=none&encryption=none&host=lifeeadmin.pointspeed.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://4b73e0dc-2c73-4332-ab1e-0d53c9a92ef0@snappfood.ir:80?type=ws&encryption=none&path=%2Fws&host=cdnisfucka.drnimaamini.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
