@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://4e51ff80-b37a-455b-bb28-4627a80b7d05@81.12.54.14:8443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://4e51ff80-b37a-455b-bb28-4627a80b7d05@2.144.7.216:8443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 trojan://telegram-id-directvpn@3.65.163.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.163.13:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
@@ -25,4 +21,8 @@ vless://e8996c52-f9cb-4395-947f-d2972b877f88@81.12.54.14:8443?encryption=none&ty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPN3pac0tjb0VsX3Q2bUNfdG9qbE13@si.sanflow.ir:108#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPN3pac0tjb0VsX3Q2bUNfdG9qbE13.sanflow.ir:108#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://78c5b6bd-1cb6-463c-bcba-9f17ef70c85b@104.18.13.229:8880?encryption=none&host=square-frost-8d11.9660004.workers.dev&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
