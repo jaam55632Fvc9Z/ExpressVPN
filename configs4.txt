@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@51.44.56.66:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.56.66:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@51.44.56.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 vless://2601740f-12a1-4e61-ba12-4e84915f5ed8@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40planB_net
 
 vless://a6830dd0-6fcd-47cc-8d01-f909b3318a03@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40planB_net
@@ -13,4 +7,8 @@ vless://a6830dd0-6fcd-47cc-8d01-f909b3318a03@185.143.233.235:80?security=none&en
 vless://2279f0dc-f127-4d28-980d-1e6cfad60955@185.143.233.5:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=alef.ir.oadeflantrogm.abrmahanair.com&path=/?ed%3D443&sni=alef.ir.oadeflantrogm.abrmahanair.com&fp=randomized#%F0%9F%8C%90%20WS-TLS%20%7C%20%40EmKavpn
 
 vless://0fc605b1-1e04-49c4-bdef-2f4c21cd1a23@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
+vless://3e49bc02-675b-4dcd-b9fe-61dd56e6b907@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=enzo.amirenzohost.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40prrofile_purple
+
+vless://d428091c-e6eb-48f9-9a07-b44eb886ac90@nl.cdnjst.org:443?allowInsecure=1&encryption=none&security=tls&serviceName=downloads&sni=nl.cdnjst.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-TLS%20%7C%20%40v2nodes
 
