@@ -7576,3 +7576,7 @@ vless://0ddfc8ce-745e-44f6-97d2-aaeeadbaaec8@srvusjrp.samanidempire.org:443?type
 
 vless://d8df9d97-f195-443d-81c7-78801ec7d091@camp.nahidapp.com:443?path=%2Fverso&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://5f12e894-5230-4ae4-a70d-389ae4052a3e@snapp.ir:8080?security=&type=ws&path=%2Fpath&host=vip.elmovipservice.ir&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://config_uxer@52.214.235.82:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
