@@ -7676,3 +7676,5 @@ trojan://telegram-id-privatevpns@51.44.188.122:22222?security=tls&alpn=http/1.1&
 
 vless://33def33b-3bf0-490d-bfd9-5582390968f0@94.101.178.172:35880?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40VPNConectd
 
+vless://98d2d0e2-fbab-4e52-ab93-12bf56c98aaf@185.143.234.235:80?encryption=none&type=ws&host=vixon.portab.org&allowInsecure=1#%F0%9F%8C%90%20WS-None%20%7C%20%40saministamm
+
