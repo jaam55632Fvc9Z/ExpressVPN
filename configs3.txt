@@ -7638,3 +7638,7 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.22:7443?allowInsecure=1
 
 vless://651a858c-2975-4b96-96b7-82745b38714c@94.101.185.27:443/?security=tls&allowInsecure=0&encryption=none&type=ws&host=api.frest.ir&path=/WITH_CHACHA20_POLY1305_SHA256&sni=api.frest.ir&fp=chrome&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://7b08458c-c0ee-4db1-bf85-6b63e1acd77a@pro.iranianshp.ir:45242?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c7ca095e-2b95-41e6-9a73-f09a32981dc6@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
