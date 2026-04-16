@@ -42,3 +42,13 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@198.41.202.5:443?path=/%3Fed%3D2048
 
 vless://3155ba1f-80c1-4a80-8ff0-6fe990b61757@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://f6fc842c-b590-4620-b536-57bb7229378e@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40YamYamProxy
+
+vless://3894c79f-de62-461a-a0d3-694b8b9e067a@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://7ab18390-3449-4420-8893-290298ad8c20@188.114.98.0:443?path=%2F%3Fed%3D2560&security=tls&host=dark-silence-711e.amirtaja.workers.dev&fp=random&type=ws&sni=dark-silence-711e.amirtaja.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@198.41.202.5:443?path=/%3Fed%3D2048&%3Bsecurity=tls&%3Bencr#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://4e37b74a-771b-43ea-b8d8-979bd74371a7@185.143.234.235:2082?encryption=none&type=ws&path=%2Fapi&host=free.nazincup.irAcure#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
