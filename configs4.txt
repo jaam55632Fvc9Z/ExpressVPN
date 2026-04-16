@@ -70,3 +70,11 @@ vless://4b7ae2ae-0220-4c72-a4e7-fc252415108a@arvan2.un1ty.ir:80?encryption=none&
 
 vless://5c5fd440-327d-4749-a940-98b08cb10cad@194.59.171.217:14774?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40saministamm
 
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40irmeliy
+
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40irmeliy
+
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40irmeliy
+
+vless://ef760990-03c6-44b2-82c7-440d9a997bd4@194.59.171.217:14774?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40irmeliy
+
