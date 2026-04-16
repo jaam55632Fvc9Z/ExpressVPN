@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://b4d2cb44-6eaf-48e7-adcb-5a7c49bddd8d@104.18.203.232:2095?path=/&%3Bsecurity=none&%3Bencryption=none&%3Bhost=aaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.Iran-Check-Host-server-sitesssssssssssssssssssssss--sssssssssss.com&%3Btype=ws#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@198.41.202.5:443?path=/%3Fed%3D2048&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=3k.pureboy.eu.org&%3Bfp=chrome&%3Btype=ws&%3Bsni=3k.pureboy.eu.org#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://3155ba1f-80c1-4a80-8ff0-6fe990b61757@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://f6fc842c-b590-4620-b536-57bb7229378e@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40YamYamProxy
 
 vless://3894c79f-de62-461a-a0d3-694b8b9e067a@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -41,4 +35,16 @@ vless://6a6ad1f3-241d-48ef-832e-a7535dcf27aearvancloud.ir:80?path=%40TunizoNET&s
 vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=webassets.cafebazaar.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@15.188.240.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.240.231:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.188.240.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://bbf06aeb-a941-4e78-9315-3c554f1fdafa@snapp.ir:8880?encryption=none&host=rpsvpn.xchitozx.org&path=%2Fyavarehamishemomen&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://ec068d66-2d14-4e43-9319-6ac66ec93b35@arvancloud.ir:80?type=ws&encryption=none&path=%40TunizoNET&host=enzo.amirenzohost.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6fe29e70-19ac-4023-bed0-0aae08dff6f5@arvancloud.ir:80?type=ws&encryption=none&path=%40TunizoNET&host=enzo.amirenzohost.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
