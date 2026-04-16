@@ -62,3 +62,15 @@ vless://db5a8d71-b3f3-4e5c-a2a9-e7f78c9d141c@185.146.173.185:2095?path=/&%3Bsecu
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.59:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.239.72.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://caa3af29-3b04-4099-9772-c64a1b7cca34@195.66.27.165:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.16.73:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://21a7b997-ae3a-4532-899f-fd705fd0efe5@87.107.191.238:40612?encryption=none&type=tcp&allowInsecure=1#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://aac5791b-14ab-45ae-96cf-746eaf096d91@abr.superip.ir:2095?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://aac5791b-14ab-45ae-96cf-746eaf096d91@abr.superip.ir:2082?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
