@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://425b8647-a037-489f-a905-5dc4561e18ea@hw1.poshakjadid.click:993?path=%2F&security=tls&encryption=none&type=ws&sni=hw1.poshakjadid.click#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://b027b090-7fd9-4fe8-b234-f71382d81bfa@185.81.97.136:443?security=reality&allowInsecure=0&encryption=none&type=xhttp&path=/api/v2/stream&sni=aparat.com&sid=0eec4cf90d&fp=chrome&pbk=06VArulxNLGtWd-trz9uW7IDxJuCCoNHpZpaH3xv-Vs&spx=/&mode=auto#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
 
 vless://8833d369-c1ec-4c1c-e7ad-39c40b520ccd@3.76.99.181:48091?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -71,4 +69,14 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:2096?path=%2F&security
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?path=%2F&security=tls&encryption=none&insecure=1&host=juzi.qea.ccwu.cc&type=ws&allowInsecure=1&sni=juzi.qea.ccwu.cc#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@172.66.3.201:443?path=%2F&security=tls&encryption=none&insecure=1&host=juzi.qea.ccwu.cc&type=ws&allowInsecure=1&sni=juzi.qea.ccwu.cc#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@15.236.251.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.251.22:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.236.251.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://3be173d0-06d0-4631-a491-4945449ed28e.59.171.217:14774?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://cacf5c2a-1631-4978-8a95-a11066e6c2d8@FBI.Mj-NetPlus.com:21171?encryption=none&type=tcp&security=none&headerType=none&fp=chrome&spx=/#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
