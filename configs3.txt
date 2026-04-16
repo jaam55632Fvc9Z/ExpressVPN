@@ -7562,3 +7562,7 @@ vless://fa8c67b9-7dfe-4282-9611-57f8955c6bd3@185.206.94.228:22408?encryption=non
 
 vless://324cd796-08cf-40e7-b987-bfa709480aaa@2.144.4.185:443?path=%2Fgraphql&security=tls&encryption=none&insecure=0&host=v5.smartyevent.click&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40AloConfig_com
 
+vless://603460f9-6109-4bd5-952c-01a458e764ed@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=an.8lack.ir&sni=an.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://2af29d77-7f1a-4b3d-bf95-c6534add1819@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
+
