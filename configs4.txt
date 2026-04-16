@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://5c18e4d4-dd49-4afd-8dcd-3a64f847f0ec@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://7aae7e24-3f3d-4292-87e9-ca9ae57770d8@87.236.208.78:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&pbk=q0XMaYnC1R89bvyzZeQaJvsP_cev4Ya_l0QYbNo89CA&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://56b0d306-92bb-4145-ab9e-92df453c6a0a@8.6.112.0:8443?mode=stream-one&path=%2Fjavidnaman&security=tls&encryption=none&insecure=0&host=upndown.kermanshahi.org&fp=chrome&type=xhttp&allowInsecure=0&sni=upndown.kermanshahi.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://9fcba658-fd4c-4a5e-9ed5-b44f038e8ecb@193.151.138.64:25001?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://cd9fb580-d65d-4454-abcd-1666f6402952@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://337582a5-3705-11f1-953f-dc08fb041e0d@5.252.20.47:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A7rUZxACVEZDLxE5yl0bwplc6HMl2XBDasR9X8hy-CA&security=reality&sid=ca6b5dd0&sni=nl2.gosocial.today&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.57.43:443/?type=ws&encryption=none&flow=&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=sni.111000.cc.cd&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
@@ -31,4 +21,10 @@ vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.149.114.75:8443?security=reality
 vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=%2F&security=tls&encryption=none&host=kamalnet.pages.dev&fp=chrome&type.Vrapaws@#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.57.43:443?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&insecure=1&host=sni.111000.cc.cd&type=ws&allowInsecure=1&sni=sni.111000.cc.cd#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@3.66.203.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.203.131:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.66.203.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
