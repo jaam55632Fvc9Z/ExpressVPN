@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://c2bf8051-3fce-4e16-b10c-ca15176136b5@fuckrc.enhanzy.com:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://ac2168c8-1912-49c0-9234-f44da7b5feca@185.18.215.39:654?mode=auto&path=%2F&security=reality&encryption=none&pbk=3mQeQUkReeFHyM7vL2pJMQrTlIBGo8IVxu6g8b_Boh4&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=36ad67cc19a4cfe2#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40BrilliantGift
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.84.183.222:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -43,4 +41,10 @@ vless://c4a4f6b6-8cda-4fc7-8d1f-996c180fe297@185.143.234.235:80?encryption=none&
 vless://c316aeaa-50a9-44e8-a264-b51bb0ddd495@ev4.lifeekala.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://422696ef-3a26-11f1-8d30-2ddfba49052f@c-1.jservices.ir:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=c-1.jservices.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@18.195.189.105:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.189.105:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@18.195.189.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 

@@ -7792,3 +7792,9 @@ vless://c316aeaa-50a9-44e8-a264-b51bb0ddd495@ev4.lifeekala.ir:80?path=%2F&securi
 
 vless://422696ef-3a26-11f1-8d30-2ddfba49052f@c-1.jservices.ir:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=c-1.jservices.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@18.195.189.105:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.189.105:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@18.195.189.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
