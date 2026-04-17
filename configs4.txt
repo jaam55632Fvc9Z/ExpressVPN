@@ -44,3 +44,7 @@ vless://90dfcb60-c2a7-4d1d-828b-755247bfc2bb@81.12.93.4:1700?security=none&encry
 
 vless://90dfcb60-c2a7-4d1d-828b-755247bfc2bb@81.12.93.4:1700?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40cpy_teeL
 
+vless://28f9018a-b1c7-4e85-be8c-d9f450ed88ed@joker.preghost.ir:45807?security=tls&encryption=none&type=grpc&sni=joker.preghost.ir&fp=chrome&serviceName=aparat-stream&alpn#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://28f9018a-b1c7-4e85-be8c-d9f450ed88ed@joker.preghost.ir:45807?security=tls&encryption=none&type=grpc&sni=joker.preghost.ir&fp=chrome&serviceName=aparat-stream&alpn=h2,http/1.1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40vasl_bashim
+
