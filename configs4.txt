@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://9a58741b-b9d2-41d6-9910-d5ea4fce6139@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://43457127-ee2f-439f-bfd0-54c515043804@sub.starfast.site:443?security=none&encryption=none&host=www.filimo.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@82.117.245.166:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -57,4 +55,14 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&en
 vless://2dc38362-7399-44a0-bf39-c2c7e8a57143@127.0.0.1:40443?encryption=none&security=tls&sni=vip.p1store.store&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=vip.p1store.store&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://16dfea20-9892-40eb-9130-20664ab11eaa@185.143.233.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org&allowInsecure=1#%F0%9F%8C%90%20WS-None%20%7C%20%40irmeliy
+
+trojan://telegram-id-directvpn@3.123.49.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.49.45:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.123.49.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?security=tls&headerType=none&type=tcp&sni=jp2-8sb.6121999.dpdns.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://bf0c97f4-4e38-4396-8f2f-d93f448875fb@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=none&encryption=none&host=live-azd1102.telewebion.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
