@@ -84,3 +84,5 @@ trojan://humanity@172.64.152.23:443?path=/assignment&%3Bsecurity=tls&%3Binsecure
 
 vless://86f27dea-c64f-4a8d-85c1-b850d4720b13@188.121.110.228:777/?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://17b2e180-72fa-4244-9ec1-d6338d16656d@193.233.208.31:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=XrXK3qb2CKCBP80Vkg3WfNBB4gpy4YOADmQ7mhHfDWE#%F0%9F%87%AC%F0%9F%87%A7%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
+
