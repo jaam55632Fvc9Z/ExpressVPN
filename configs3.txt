@@ -7836,3 +7836,5 @@ vless://f3310e97-4d64-4ee0-a3e1-4a3b5c9178fa.ir:80?path=%2F&security=none&encryp
 
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?encryption=none&type=ws&host=hio-awx.pages.dev&path=/&security=tls&fp=chrome&sni=hio-awx.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40AloConfig_com
 
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=hio-awx.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=hio-awx.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
