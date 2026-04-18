@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d864e5de-9907-404b-8d84-01f802a7caa1@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2RFA
-
-vless://b0f5a97b-a540-47d8-a8af-4e84e4773806@a-m.iran-mehrbu.ir:3349?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2RFA
-
-vless://55758da0-47f4-4e47-87a5-b8908afc48bf@104.18.12.149:8080?path=%2Fws&security=none&encryption=none&host=zire4rakhtealbalo.hosseincapri.sbs&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40YamYamProxy
-
-vless://a62c40a2-ce60-4790-b6c5-c7a1e13ccb2d@104.18.12.149:443?path=%2Ftest%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Clu.servert1op.ir&fp=chrome&type=ws&sni=Clu.servert1op.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40YamYamProxy
-
-vless://c9e8702e-a8ee-4e65-adf8-8dce8254fb14@a-m.iran-mehrbu.ir:3348?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-trojan://telegram-id-privatevpns@35.157.47.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
 vless://c9e8702e-a8ee-4e65-adf8-8dce8254fb14@a-m.iran-mehrbu.ir:3348?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://f1b6f91d-a1f3-42b1-9ed1-572c5d322cde@smartwiew.totalwarseriesgameserver.ir:2001?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -482,6 +470,8 @@ vmess://eyJhZGQiOiAia29zX25hbmVfVHJ4X2ZhaGFtLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAi
 
 vless://37815f4c-84eb-4463-b745-9ebeb902d9d5@snapp.ir:2095?type=ws&encryption=none&path=%2F&host=str9.xfastvip.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+trojan://telegram-id-privatevpns@35.157.47.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
+
 vless://cab4f3fb-0f59-477e-b5d2-9e2c36d966e7@185.143.233.120:443?encryption=none&headerType=none&allowInsecure=0&type=ws&mux=true&security=tls&sni=alef.ir.oadeflantrogm.iranaircdn.com&fp=randomized&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.iranaircdn.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
 
 vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80?path=%2F&security=none&encryption=none&host=dsfr.parsimas.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
@@ -657,6 +647,8 @@ vless://a61466ef-41c0-4613-99a8-af2e8364b2c6@104.18.12.149:443?security=tls&encr
 vless://10efeee0-ecb4-4f58-85e9-893781252585@104.18.12.149:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=www.soonteam.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@104.18.12.149:2053?security=tls&encryption=none&headerType=none&type=tcp&sni=itfgnf-hkjkhfmhghf-hjmngb.infinitecreativehorizons.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://a62c40a2-ce60-4790-b6c5-c7a1e13ccb2d@104.18.12.149:443?path=%2Ftest%3Fed%3D2560&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Clu.servert1op.ir&fp=chrome&type=ws&sni=Clu.servert1op.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
