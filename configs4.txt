@@ -38,3 +38,11 @@ trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&hos
 
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.118:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://c692f613-4365-4f6b-84e0-608b9eca72d7@vip1.lifeekala.ir:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9df1a806-e305-4a80-b03b-860bcad00442@8.6.112.0:80?path=%2FXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn%3Fed%3D2560&security=none&encryption=none&host=sni.111000.dynv6.azazilvpn.sbs&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9df1a806-e305-4a80-b03b-860bcad00442@8.6.112.0:80?encryption=none&type=ws&path=%2FXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn%3Fed%3D2560&host=sni.111000.dynv6.azazilvpn.sbs&allowInsecure=1#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
