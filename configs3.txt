@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@35.157.47.55:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.47.55:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@35.157.47.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://88cb60e0-d0b3-474a-bc09-c0d7e2a7d9e2@37.152.189.74:4431?security=none&allowInsecure=0&encryption=none&type=ws&host=live-azd1102.telewebion.ir&path=/ek/irinn/live/1080p/#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
-
-vless://3c206223-acec-423e-9df5-c89a8c5bc0fd@NullNetwork.vianabeauty.ir:44100?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://48c53df3-3eee-4fa0-962f-3874481b8b73@NullNetwork.vianabeauty.ir:44100?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://2a5c4eb6-840c-458d-8fbd-2b9167d8fd97@NullNetwork.vianabeauty.ir:44100?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://72fdd090-9fb8-404d-a65e-8639d605e2ee@NullNetwork.vianabeauty.ir:44100?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://03b84228-5a46-4b1f-a852-b5c678c0b3f1@NullNetwork.vianabeauty.ir:44100?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://c9e8702e-a8ee-4e65-adf8-8dce8254fb14@a-m.iran-mehrbu.ir:3348?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://316370c3-4018-4dc1-b96c-942f54f04d7c@NullNetwork.vianabeauty.ir:44100?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -39,6 +21,8 @@ vless://d864e5de-9907-404b-8d84-01f802a7caa1@185.143.233.235:80?security=none&en
 vless://b0f5a97b-a540-47d8-a8af-4e84e4773806@a-m.iran-mehrbu.ir:3349?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2RFA
 
 vless://c9e8702e-a8ee-4e65-adf8-8dce8254fb14@a-m.iran-mehrbu.ir:3348?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://telegram-id-privatevpns@35.157.47.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://f1b6f91d-a1f3-42b1-9ed1-572c5d322cde@smartwiew.totalwarseriesgameserver.ir:2001?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -8247,4 +8231,14 @@ vless://fbe53dec-fd4a-4b5b-8259-c04bbd118d94@net.ulteracrypto.site:14971?type=tc
 vless://47d149e3-8ba6-07d0-b91f-3dd9771fa7cc@khamenei.ir:443?encryption=none&type=tcp&security=tls&sni=vaja.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://56c0d5d5-bb71-495a-8c59-ce7736a6c5ba@ip.iran.mobileemdad.top:8080?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://57045854-cbe4-4c7f-9846-0ce097b0d8fc@net.ulteracrypto.site:14971?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://47d149e3-8ba6-07d0-b91f-3dd9771fa7cc@khamenei.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=vaja.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://7a9118ed-2e88-4b47-9b49-c4b38c60458f@help.stardaata.ir:8080?path=%2Fget-users%2Fall&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9a8bd0da-2067-440d-b06d-f064b98cb4ba@193.151.150.44:8080?encryption=none&type=ws&path=%2F&allowInsecure=1#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
