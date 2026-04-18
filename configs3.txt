@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d4d29f9d-63b2-439a-bcff-dcea1f7acef6@packetnet.vianabeauty.ir:44100?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://8434d9f1-48df-44b8-8a3d-7e099511423b@packetnet.vianabeauty.ir:44100?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-ss://2022-blake3-aes-256-gcm:YTMwMDc2NzRlZjQ1NGNmZmIwMTRmMTZjNTljODViZDk%3D%3AYzA0YmZjOWQxNjFjNGM0YTgzZWIwZWZlZGNmMzAyYWY%3D@v-black.emvpb.com:4436#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://5cb8de1e-4c4d-45f1-b0e8-be5a1cbffa41@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-ss://2022-blake3-aes-256-gcm:YTMwMDc2NzRlZjQ1NGNmZmIwMTRmMTZjNTljODViZDk%3D%3AYzA0YmZjOWQxNjFjNGM0YTgzZWIwZWZlZGNmMzAyYWY%3D-black.emvpb.com:4436#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 trojan://telegram-id-directvpn@13.39.184.253:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.184.253:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
@@ -8417,4 +8407,10 @@ vless://14aeee66-501d-4f93-811b-9e2732dbe00f@telegram.nexoraservre1.top:48563?se
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40manVPN
 
 vless://ba4ff40f-bf83-4ecf-87b6-afdb8be99420@snapp.ir:80?encryption=none&type=ws&path=%2F&host=ar.liarashop.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@15.188.200.62:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.200.62:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.188.200.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
