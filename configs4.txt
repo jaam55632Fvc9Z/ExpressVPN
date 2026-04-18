@@ -22,3 +22,21 @@ vless://6b6e30a9-da34-40c8-8436-fe9677ec6bb9@104.18.13.149:80?mode=auto&path=%2F
 
 vless://0a3de2ff-8eea-45b4-ba98-d824c5a89f8c@net.ulteracrypto.site:14971?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@63.179.16.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.16.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@63.179.16.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://1575ff65-75c5-4ca9-8d73-35a9d0d72671@net.ulteracrypto.site:14971?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6d955bba-2c26-42f0-ab6d-9cbe9d709a0a@net.ulteracrypto.site:14971?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://57045854-cbe4-4c7f-9846-0ce097b0d8fc@net.ulteracrypto.site:14971?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://fbe53dec-fd4a-4b5b-8259-c04bbd118d94@net.ulteracrypto.site:14971?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://47d149e3-8ba6-07d0-b91f-3dd9771fa7cc@khamenei.ir:443?encryption=none&type=tcp&security=tls&sni=vaja.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://56c0d5d5-bb71-495a-8c59-ce7736a6c5ba@ip.iran.mobileemdad.top:8080?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
