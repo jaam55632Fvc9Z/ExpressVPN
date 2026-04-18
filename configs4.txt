@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://ec7749b1-e30b-4ecd-82de-68de19332b4f@ventohost.cfd:8443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/service/gold-installments&sni=ventohost.cfd&fp=chrome&alpn=http/1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.239.245.250:443?path=%2Ft.me%2FSEPANTEC&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&t#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
@@ -91,4 +89,6 @@ vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&hos
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?security=tls&%3Bencryption=none&%3Binsecure=1&%3Btype=tcp&%3BallowInsecure=1&%3Bflow=xtls-rprx-vision&%3Bsni=deu549.worldbypass.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://d49e3615-2eca-4015-80d6-5ebc856e7721@p.ar-panelar.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=p.ar-panelar.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.5:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
