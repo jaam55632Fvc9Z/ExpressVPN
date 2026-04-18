@@ -36,3 +36,21 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.146.12.230:443?path=/?ed=2560&T
 
 vless://a8846b47-4eb9-4646-a69c-c04de0c1a798@185.143.233.250:8880?path=%2F&security=&encryption=none&host=mah.zabuza.ir&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
+vless://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@63.141.128.188:443?&security=tls&fp=ios&sni=d2-de1.djwstlsweb.top&type=ws&headerType=none&host=d2-de1.djwstlsweb.top&path=%2Fdjjc%2Fde1#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2nodes
+
+vless://28952684-9265-4582-abba-acb01efb060e@snapp.ir:80?path=%2F&security=none&encryption=none&host=bnb.shekarriz-lorestan.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://28952684-9265-4582-abba-acb01efb060e.ir:80?path=%2F&security=none&encryption=none&host=bnb.shekarriz-lorestan.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://f80df640-5bf9-4d7a-94c3-9edfe65b2e4c@vpn.duravex.net:1188/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://f80df640-5bf9-4d7a-94c3-9edfe65b2e4c@vpn.duravex.net:1188?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://dc85ac0c-4708-42c2-aab7-8c82e1a5b0ba.143.233.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d.6.112.0:2096?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f.82.136.188:443?path=%2F&security=tls&encryption=none&type=ws&sni=webassets.cafebazaar.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://7690bc4b-3970-4346-834e-aeec0b7e08ca@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=dom.amirenzohost.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
