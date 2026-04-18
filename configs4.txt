@@ -48,3 +48,7 @@ vless://913c6074-a747-492b-a7e9-5abfcad6369d@171.22.181.107:443?encryption=none&
 
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?allowInsecure=1&encryption=none&host=d23iuljn5k9z1j.cloudfront.net&path=/&security=tls&sni=d23iuljn5k9z1j.cloudfront.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2nodes
+
+vless://33cbb80a-ef05-4474-90bf-fafd42dae5b3@iranmod.preghost3.ir:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
