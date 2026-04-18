@@ -114,3 +114,11 @@ trojan://telegram-id-privatevpns@3.65.185.26:22222?security=tls&alpn=http/1.1&he
 
 vless://b6bca8dc-5b34-4b8a-a29f-240230dfc7ec@45.82.138.240:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
 
+trojan://telegram-id-v2rayvpnchannel@3.65.185.26:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://bcaa6b28-e329-4b31-a4a7-5d658ac6b23f@172.64.149.54:8443?security=tls&type=ws&headerType=&path=%2F&host=&sni=ssltest.theatak.com&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://bce6cee2-c3bc-40ea-89b4-fb5de15c5d38@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://1484231e-118b-4826-8d8e-cd8f901eb098@Dotc.psdgold.st:24484?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
