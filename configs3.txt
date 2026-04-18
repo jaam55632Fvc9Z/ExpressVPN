@@ -8386,3 +8386,13 @@ trojan://humanity@127.0.0.1:40443?security=tls&sni=www.calmloud.com&allowInsecur
 
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&allowInsecure=true&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1be792ed-21ba-4faf-98fd-8b7ea3abce3a@37.152.185.81:8080?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://38715482-05f5-4ea0-aebf-60d3b8c71f30.21.0.128:443?allowInsecure=1&encryption=none&host=myserviran.serviran.workers.dev&path=%2F%3Fed&security=tls&sni=myserviran.serviran.workers.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://84e6d5ee-dc00-403f-af24-e67fec2986d8@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=en.8lack.ir&fp=firefox&type=ws&sni=en.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://05dff0a9-89ee-4515-a3d2-1498ee83e901@snapp.ir:80?path=%2F&security=none&encryption=none&host=sv1-dl.persianmusics.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
