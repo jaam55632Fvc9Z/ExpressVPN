@@ -166,3 +166,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://4e3744b3-243c-4263-93fc-b6ca0f9b0e25@snapp.ir:80?type=ws&encryption=none&path=%2F&host=n1.abantrust.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
