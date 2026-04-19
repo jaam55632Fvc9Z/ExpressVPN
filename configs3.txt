@@ -9114,3 +9114,5 @@ vless://8fb96bb9-431a-4c42-8175-ce1704edd706@aparatrat1.info:2083?type=tcp&secur
 
 vless://4bef3438-d590-4d6c-b23c-7ecaaf17b156@127.0.0.1:1010?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://2a61f3d1-7546-4f9a-9e04-29a72bad8dfb@persimmon-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir:443?path=%2Fvless&security=tls&alpn=http%2F1.1&encryption=none&host=persimmon-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&sni=persimmon-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
