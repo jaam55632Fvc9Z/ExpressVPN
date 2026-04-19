@@ -36,3 +36,7 @@ vless://4bef3438-d590-4d6c-b23c-7ecaaf17b156@127.0.0.1:1010?security=none&encryp
 
 vless://2a61f3d1-7546-4f9a-9e04-29a72bad8dfb@persimmon-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir:443?path=%2Fvless&security=tls&alpn=http%2F1.1&encryption=none&host=persimmon-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&sni=persimmon-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://172bc59e-ddbd-4e21-83ee-223f5cb5ea2d@vpn.ulteracrypto.site:46310?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://98033e67-a689-48ca-8163-528854c6dfb3@snapp.ir:443?path=%2F&security=tls&encryption=none&host=kilo.v9n.ir&fp=chrome&type=ws&sni=kilo.v9n.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
