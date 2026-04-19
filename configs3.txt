@@ -8902,3 +8902,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:8443?security=tls&allowIn
 
 vless://0b67dcdf-8a09-4429-b422-efac8038d31f@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dn.8lack.ir&fp=firefox&type=ws&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://82fd3cc0-8d47-49a5-9e88-842df419a031@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
