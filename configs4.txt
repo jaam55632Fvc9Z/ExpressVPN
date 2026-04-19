@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@35.181.218.32:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.218.32:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@35.181.218.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://ef5f7313-9505-4c37-a263-06c182846825@188.213.198.239:52420?security=none&encryptio#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://5874ce17-1e4a-4cf5-b67e-c88da6194616@172.67.181.144:443?path=/eyJqdW5rIjoicHFDN0R3VG1PTmZVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=royal-limit-4b1c.rosomo9596.workers.dev&fp=chrome&type=ws&sni=rOYAl-LiMIt-4B1C.ROSomO9596.workerS.deV#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -51,4 +43,6 @@ vless://c6b615a8-d901-4eef-82dd-54a44ee9abd9@188.114.98.0:443?path=%2F&security=
 vless://526a6c4e-8d37-44fa-8903-5c6abfff117f@iran.getmoein.shop:45893?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://b34c99c2-99e6-411f-9cfc-751f61a8c285@85.198.13.99:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
