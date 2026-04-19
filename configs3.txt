@@ -1,16 +1,12 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://cce0ac71-a6c4-4811-8a03-84b4861a32e0@185.97.119.175:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&authority=/v2rayNplus&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
-
 vless://4fff113e-49d2-4416-bb76-664048316e1b@snapp.ir:80?path=%2F&security=none&encryption=none&host=gm.borna-otbas.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
 vless://eb48344a-4b61#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://4fff113e-49d2-4416-bb76-664048316e1b@snapp.ir:80?type=ws&host=gm.borna-otbas.ir&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://cce0ac71-a6c4-4811-8a03-84b4861a32e0@185.97.119.175:80?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -9303,4 +9299,14 @@ vless://9ed6b20d-2324-481f-b3f9-597733d5efa9@s4.tehranionliine.ir:80?security=no
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.240.15.210:4432?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://caf9d5f7-77f2-4033-823e-d55a1996fc4a@185.241.208.70:30047?&type=ws&headerType=none&path=%2F#%F0%9F%87%B5%F0%9F%87%B1%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://9ed6b20d-2324-481f-b3f9-597733d5efa9@s4.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@nekopingbot.thisiswe.uno:2053?security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://68ee25ac-514e-4e00-81ed-67a0ba23954a@104.18.32.47:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=ed6geslk00b6rndj55k65gj8mbdjuoxi.pages.dev&path=/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ==&security=tls&sni=ed6geslk00b6rndj55k65gj8mbdjuoxi.pages.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://070a3730-a7d0-448a-9203-f46235109515@voltage.socialxxmedia.site:8889?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZGFyeGhpbnRlYW0uYnJhdm8tc2l4LmlyIiwgImlkIjogIjIyNTdkNGIxLTgyYzUtNDA4OS1hNDRjLThjMDhhYjAzZTUxNSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
