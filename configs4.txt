@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://061da3a1-0b8a-4abe-a739-8b33ae5519c4@abr.superip.ir:2052?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=library.phill-up.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://74c5af8f-1801-42a2-99ae-f3e5b7f3258a@non.zabuzabfr.ir:8880?path=%2F&security=none&encryption=none&host=non.zabuzabfr.ir&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
-
-vless://51eded9f-c532-4e46-98de-d2a3b13c61d1@185.143.234.5:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.mahanmapcdn.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.mahanmapcdn.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://22ec6553-5c69-47d0-978e-8ffaeeede13a@snapp.ir:80?path=%2F&security=none&encryption=none&host=sv1-dl.persianmusics.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://63e#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://e29ddb7f-9b5b-4fe0-b3f4-bf3b2cacfd6d@185.143.235.212:443?security=tls&type=ws&headerType=&path=%2Fdownload&host=downloadnl.injavasmas.ir&sni=downloadnl.injavasmas.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e29ddb7f-9b5b-4fe0-b3f4-bf3b2cacfd6d@185.143.235.212:443?path=%2Fdownload&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=downloadnl.injavasmas.ir&fp=chrome&type=ws&allowInsecure=1&sni=downloadnl.injavasmas.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e29ddb7f-9b5b-4fe0-b3f4-bf3b2cacfd6d@185.143.235.212:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=downloadnl.injavasmas.ir&path=/download&sni=downloadnl.injavasmas.ir&fp=chrome&alpn=h2,h3,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://eb97cef7-315b-4d01-b415-1a2d009fb4bb@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=&encryption=none&host=live-azd1102.telewebion.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://e54182e3-9a42-40ab-889f-817f39d22393@anten.ir:2086?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=webmail.timeclassic.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
-
 trojan://telegram-id-directvpn@51.45.12.237:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.12.237:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
@@ -109,4 +89,6 @@ vless://12e96a06-0953-4f56-969a-4cf539eba3b6@arvancloud.ir:80?path=%40TunizoNET&
 vless://fb44dfd1-d94c-4863-8c55-ffea17feaba9@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://b195f3a7-d369-45f1-bc29-e7ccce055826@snapp.ir:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=kilo.v9n.ir&fp=chrome&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://dcb7f770-7ee2-400c-b89e-efeebc51bf2a@2.144.6.243:50818?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Va3lSho
 
