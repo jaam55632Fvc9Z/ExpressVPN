@@ -9146,3 +9146,9 @@ ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA==@154.26.155.172:443#%F0%9F%87%B8%F0
 
 vless://3c3a6cdf-1cca-4549-af25-6374dcf379e3@193.233.128.247:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
+vless://2a319eef-48bd-4312-919e-8c930ade1c4f@37.202.231.72:51732?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://89e808ca-ac12-4e05-a646-61024931c213@5.202.8.222:2053?path=%2Fapi%2Fv1%2Fuuid%2F98c0df5e-213f-41cb-82ab-b3b4bca54d0b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=e7e9fdcb-9b1d-40c1-b79c-439d55ac44bf.ensf.top&type=ws&allowInsecure=0&sni=e7e9fdcb-9b1d-40c1-b79c-439d55ac44bf.ensf.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+
+vless://ca3f80bd-a13e-42f2-90fe-c909ca12b6f4@trailers.sv1.cdn.yoozmovie.com:16771?type=tcp&encryption=none&path=%2F&host=google.com&headerType=http&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
