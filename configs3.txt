@@ -9010,3 +9010,11 @@ vless://67d8882d-9008-4547-8374-b3a3c5863de2@packetnet.vianabeauty.ir:44100?secu
 
 vless://c1080ce0-65d4-4d8b-882f-42f48a3e4c85@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@35.181.218.32:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.218.32:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.181.218.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://ef5f7313-9505-4c37-a263-06c182846825@188.213.198.239:52420?security=none&encryptio#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+

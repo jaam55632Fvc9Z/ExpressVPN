@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6a8ffc4d-10db-4fbf-8add-a97a5a243dd0@188.114.98.0:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=cpt1.digitstocks.ir&fp=android&type=ws&sni=MS_sw4ef8fbe32d12bf08-sfX.digitstocks.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4e175cc8-f895-4dcd-a937-de84acc53aa6@mhaz.talesh.top:1377/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://0844ceed-af3c-46cd-9d29-2295309a1701@107.148.64.154:10507?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GwBhOiy3pLa73zga-wmG07xRfiI71_A9VDi-DiHeBWk&security=reality&sid=9153&sni=img14.360buyimg.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://893f2a91-3f02-43a0-b92e-4998eac382e2@85.198.10.89:21376?encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -53,4 +49,12 @@ vless://6ab0e28d-c8ec-41be-a059-85ba21e28efb@packetnet.vianabeauty.ir:44100?secu
 vless://67d8882d-9008-4547-8374-b3a3c5863de2@packetnet.vianabeauty.ir:44100?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://c1080ce0-65d4-4d8b-882f-42f48a3e4c85@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@35.181.218.32:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.218.32:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.181.218.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://ef5f7313-9505-4c37-a263-06c182846825@188.213.198.239:52420?security=none&encryptio#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
