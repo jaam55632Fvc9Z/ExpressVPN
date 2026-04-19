@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://bb01fc6c-de57-4b2e-8b22-8480736d20d1@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://1ec9f7ac-64ab-4172-a0db-c30006c4ba49@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.18.12.149:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2096/?type=ws&encryption=none&flow=&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&security=tls&sni=sni.jpmj.dev&allowInsecure=1&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -32,7 +28,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.37.70.3:443?encryption=none&sec
 
 vless://63e7247a-83e8-4149-9c76-46f9703de759@snapp.ir:8080?path=%2F&security=none&encryption=none&host=arv.liarashop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
+vless://bb01fc6c-de57-4b2e-8b22-8480736d20d1@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
 vless://e9583921-daa0-47f6-b709-34144a91fa8b@packetnet.vianabeauty.ir:45359?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://1ec9f7ac-64ab-4172-a0db-c30006c4ba49@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
 vmess://eyJhZGQiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ2MnJheS5jb2RlZnlpbmMuY29tIiwgImlkIjogIjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3N3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 
@@ -9177,4 +9177,10 @@ ss://bm9uZTo3OTE1ZTNmMS1kNWJmLTQ1ZGMtYTc3Zi0zNDQyZDE5MTkwZmU@snappfood.ir:80#%F0
 ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@202.85.76.170:13223#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://trojan@152.53.60.198:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://0811c2b2-505e-4e00-bd87-d7ff1b496c18@varzesh3.com:443?path=%2Fcategories&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=lezzatnova.ir&fp=chrome&type=ws&allowInsecure=0&sni=lezzatnova.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
