@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@13.36.75.195:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.75.195:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.36.75.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://5c1b9ecc-e085-443a-8c3e-804459e91700@arvancloud.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=dom.amirenzohost.ir&path=@TunizoNET#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://c99e6bc9-af06-401a-99c8-7ba99a814e99@vpn.ulteracrypto.site:46310?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#%F0%9F%87%AA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@pq-India1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B3%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -127,4 +115,8 @@ vless://803455f1-d54a-49ee-a4e9-a4f3b6324d67@snapp.ir:443?path=%2F&security=tls&
 trojan://ecd5e68e-92a5-4f85-afe1-1775ec84bf54@5.239.245.250:443?security=tls&headerType=none&type=tcp&sni=empty.node#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://95ad47ac-df62-486b-813c-f50b34eba5c7@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://c4c4e727-c3a4-46de-8359-e77c5c8cc7e4@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=bn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://94ba23f4-5825-4f57-ab7e-0702a9f8acee@185.143.233.235:80?type=ws&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
