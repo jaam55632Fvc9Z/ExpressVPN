@@ -8836,3 +8836,11 @@ vless://5a05f838-574a-45a8-89c1-2b4b7762f532@vpn.ulteracrypto.site:46310?type=tc
 
 ss://ss#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c46f4762-dfa2-4b6a-8699-239922420d8f@159.194.220.127:443?security=none&type=xhttp&headerType=&path=%2F&host=&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#%F0%9F%87%B8%F0%9F%87%AA%20XHTTP-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyektKMzl0d2NDbVJ5d1Y5NlRrWG9B@159.194.220.127:8388#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://c46f4762-dfa2-4b6a-8699-239922420d8f@159.194.220.127:2087?security=none&type=grpc&headerType=&serviceName=vlessgrpc&authority=&mode=gun#%F0%9F%87%B8%F0%9F%87%AA%20GRPC-None%20%7C%20%40v2ray_configs_pool
+
