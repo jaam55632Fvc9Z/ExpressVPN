@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@13.36.92.214:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.92.214:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.36.92.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://651a858c-2975-4b96-96b7-82745b38714c@172.64.152.23:443?path=%2FWITH_CHACHA20_POLY1305_SHA256&security=tls&alpn=http%2F1.1&encryption=none&host=api.frest.ir&fp=chrome&type=ws&sni=api.frest.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
-
-vless://bb01fc6c-de57-4b2e-8b22-8480736d20d1@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
-
-vless://651a858c-2975-4b96-96b7-82745b38714c@172.64.152.23:443?path=%2FWITH_CHACHA20_POLY1305_SHA256&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=api.frest.ir&fp=chrome&type=ws&allowInsecure=0&sni=api.frest.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40saministamm
-
-vless://189962be-bd64-4b3d-945a-e3d1982b4112@37.32.27.85:80?encryption=none&type=ws&host=a1.supreme-xfast.ir&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
-
-vless://f927b65c-854e-44a1-8699-354d74262fbd@c.cjclub.ir:17400?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -47,6 +31,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.150.35.240:8443?security=tls&enc
 vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&encryption=none&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40saministamm
 
 vless://79630c5e-501b-4b75-ac5a-645a94e9432c@FBI.Mj-NetPlus.com:21171?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://189962be-bd64-4b3d-945a-e3d1982b4112@37.32.27.85:80?encryption=none&type=ws&host=a1.supreme-xfast.ir&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40irmeliy
 
 vless://2928d9a9-691f-4b74-8ae0-30eb4cab5101@FBI.Mj-NetPlus.com:21171?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -117,6 +103,8 @@ vless://6c1a80af-a398-4619-99a4-6abe4e702478@NullNetwork.vianabeauty.ir:44100?ty
 vless://22d1fc2b-f396-4c42-8bf9-c1a37d02d4a6@37.32.27.85:80?type=ws&encryption=none&path=%2F&host=a1.supreme-xfast.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://2c3e2c41-4395-4df3-e788-cb9cc82beceb@81.12.27.93:52722?security=none&type=ws&path=%2F@VpcConfigs#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://651a858c-2975-4b96-96b7-82745b38714c@172.64.152.23:443?path=%2FWITH_CHACHA20_POLY1305_SHA256&security=tls&alpn=http%2F1.1&encryption=none&host=api.frest.ir&fp=chrome&type=ws&sni=api.frest.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://dfd5d111-8e7d-4382-b50a-fdbd804e035b@s3.tehranionliine.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
@@ -247,6 +235,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:804#%F0%9F
 vless://40afa553-1745-4f62-a380-4163c7bb4870@restless-dew-894b.amirhost4.workers.dev:443?allowInsecure=1&encryption=none&host=restless-dew-894b.amirhost4.workers.dev&security=tls&sni=restless-dew-894b.amirhost4.workers.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990?#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
+
+vless://651a858c-2975-4b96-96b7-82745b38714c@172.64.152.23:443?path=%2FWITH_CHACHA20_POLY1305_SHA256&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=api.frest.ir&fp=chrome&type=ws&allowInsecure=0&sni=api.frest.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VPNConectd
+
+vless://f927b65c-854e-44a1-8699-354d74262fbd@c.cjclub.ir:17400?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VPNConectd
 
 vless://fea604a8-aca6-4bbc-b74f-4362dbe737d1@snapp.ir:8880?path=%2F&security=none&encryption=none&host=dl600tobi.sudoserver.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
@@ -643,6 +635,8 @@ vless://d2d0f796-edb0-427a-af32-ae360679f9e7@172.66.1.143:443?path=%2F&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzR3gwVVdtQ2YyNjc0QUVOTDFjdkx3@si.sanflow.ir:108#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://d5ac69a7-d886-4efd-85c#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://telegram-id-privatevpns@13.36.92.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
 
 vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=69#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40manVPN
 
@@ -8947,4 +8941,6 @@ trojan://telegram-id-privatevpns@51.44.101.255:22222?security=tls&alpn=http/1.1&
 ss://YWVzLTI1Ni1nY206ZENvUm9GejBpNnBqY1NhRGRLUWZ0eC9Bd0F6R1JGMHZWZ0lzLzNhbU1oQT0=@87.107.108.223:50401?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.253.174:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.64.152.100:443?encryption=none&type=ws&security=tls&path=%2F&host=hio-awx.pages.dev&sni=hio-awx.pages.dev&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
