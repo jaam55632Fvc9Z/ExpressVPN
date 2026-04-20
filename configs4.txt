@@ -70,3 +70,11 @@ vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=&e
 
 vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=modily.net&sid=8c01e365&fp=chrome&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40cpy_teeL
 
+trojan://telegram-id-directvpn@18.193.0.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.0.159:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@18.193.0.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg0011499tl.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2nodes
+
