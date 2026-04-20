@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#%F0%9F%87%AE%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@15.135.165.225:80#%F0%9F%87%A6%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.27.215.92:80#%F0%9F%87%A6%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -63,4 +59,18 @@ vless://ec36a054-47c4-435a-9077-295be12bf834@de-race.connfull.org:8880?path=%2Fc
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@129.146.48.121:2052?&security=tls&sni=snippet.danfeng.dedyn.io&type=ws&headerType=none&host=snippet.danfeng.dedyn.io&path=%2Fdanfeng#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://eb247f4b-3170-4d04-b2e8-af1ae8db2bb6@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
+
+vless://942ea1f0-6f0a-a7f9-579d-428509fe1ed2@hmt.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.190#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://59536b5c-a132-44b7-bc68-f22f01922964@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=powerro#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://8b5e6060-3be3-4354-86e6-a756c4aca941@vpn.ulteracrypto.site:46310?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.211:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2053?encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
