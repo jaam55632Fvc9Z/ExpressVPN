@@ -130,3 +130,9 @@ vless://9f1d913e-837f-45b3-bda3-cd4ebfffd3be@185.143.233.5:443?encryption=none&t
 
 vless://ebaf12a0-5cff-4900-bde9-92d6570fcaaf@s10.x2fast.top:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=s10.x2fast.top&fp=chrome&type=ws&allowInsecure=0&sni=s10.x2fast.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://9f1d913e-837f-45b3-bda3-cd4ebfffd3be@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=cn.8lack.ir&sni=cn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VPNConectd
+
+vless://5c8060ef-ceb2-4934-bde3-bc364980075f@185.143.233.5:80?encryption=none&type=ws&path=%2Fgraphql%3Fed%3D30&host=dl.smartnetworktools.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://fa71d899-d2af-415a-a248-538cd1611de2@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=cdngraph.newmew.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
