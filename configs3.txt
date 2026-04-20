@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?path=%2F&security=tls&alpn=http%2F1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTFlYWZkZmZkOWE4MWUw@154.205.134.155:11651#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://e9c520a1-8988-4577-bc10-825a42c9773f@md5.apizedbdb.pro:8443?mode=auto&path=%2Fapi%2F%3Fref%3Dsupervoid&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&host=snime01.apizedbdb.pro&fp=chrome&type=xhttp&allowInsecure=0&sni=snime01.apizedbdb.pro#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2ray_confiig
-
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:443?security=tls&sni=sni.111000.dynv6.net&alpn=http%2F1.1&allowInsecure=1&type=ws&host=sni.111000.dynv6.net&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2ray_confiig
-
-vless://ab1cd516-40d4-43a4-abbf-1d6f9887c237@104.18.12.149:80?path=%2Fir&security=&encryption=none&host=pc40.8sm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2ray_confiig
-
-vless://b3ade6dc-2765-48a3-b501-62d84a5e11e8@104.18.16.56:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nezora.cloudshop-azure-pz1.icu&fp=chrome&type=xhttp&allowInsecure=0&sni=nezora.cloudshop-azure-pz1.icu#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2ray_confiig
-
-vless://e9c520a1-8988-4577-bc10-825a42c9773f@md5.apizedbdb.pro:8443?encryption=none&type=xhttp&mode=auto&host=snime01.apizedbdb.pro&path=/api/?ref%3Dsupervoid&security=tls&fp=chrome&sni=snime01.apizedbdb.pro&alpn=h2,http/1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
 vless://469cdccd-a1ed-423d-ace5-647b5b673ac3@104.17.71.206:80?encryption=none&security=none&type=xhttp&host=cdnt.brwakhanbarin.ir&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
 vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&security=none&type=ws&host=DOFF.mehrsazi.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -81,6 +65,8 @@ vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=/&security=tl
 vless://ecb790d4-36ca-4dfc-a142-b3a395d1c50d@codepen.io:443?path=/ld%3Fed%3D2048&%3Bsecurity=tls&%3Balpn=h2%2Chttp/1.1&%3Bencryption=none&%3Bhost=ad1.xiqpanelz.com&%3Bfp=chrome&%3Btype=ws&%3Bsni=ad1.xiqpanelz.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://ab1cd516-40d4-43a4-abbf-1d6f9887c237@104.18.12.149:80?path=%2Fir&security=none&encryption=none&host=pc40.8sm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://b3ade6dc-2765-48a3-b501-62d84a5e11e8@104.18.16.56:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nezora.cloudshop-azure-pz1.icu&fp=chrome&type=xhttp&allowInsecure=0&sni=nezora.cloudshop-azure-pz1.icu#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40irmeliy
 
 vless://75b4aaf0-ba89-446c-8eb6-de73cfd8821c@104.18.12.149:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=000113.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ServerNett
 
@@ -9571,4 +9557,6 @@ vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@82.38.63.246:8443?encryption=none&f
 vless://0ccbac2a-7645-4ea2-89bf-efb8bf58f96b@81.12.54.14:8080?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://0ccbac2a-7645-4ea2-89bf-efb8bf58f96b@81.12.54.14:8080?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Telegram-Parsashonam@8.6.112.0:443?mode=auto&%3Bpath=/&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=test.atlasw.ir&%3Btype=xhttp&%3BallowInsecure=0&%3Bsni=test.atlasw.ir#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
 
