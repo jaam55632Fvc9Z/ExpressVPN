@@ -82,3 +82,7 @@ vless://4c2cf83e-1a4de-47cb-b459-bc8bd04f2a997@185.143.233.5:443?encryption=none
 
 vless://036cfa36-85a6-4964-b38c-4bfdd06d6e3e@th.gostargate.top:49961/?encryption=none&flow=&type=tcp&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40Blue_star_Vip
 
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@139.84.235.99:443?type=ws&encryption=none&host=1-jk1.pages.dev&path=%2F&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=1-jk1.pages.dev#%F0%9F%87%BF%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9bc43d33-6d90-420d-869a-6d4f69b28c4c@160.119.251.91:4430?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%BF%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
