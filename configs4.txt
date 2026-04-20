@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://c5992ba6-8ecb-4a2f-b95f-548bf2793949@150.251.138.132:54443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=ya.ru&type=tcp#%F0%9F%87%A7%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://udgoj#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://119e6e4d-bd43-4cf3-956e-29df88adb4f1@vr.vppsn.top:34827?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://d50dd749-5480-41f2-9d4a-f48e35c6a500@vpn.ulteracrypto.site:46310?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -33,4 +29,8 @@ vless://036cfa36-85a6-4964-b38c-4bfdd06d6e3e@th.gostargate.top:49961?security=no
 vless://fa54d4b8-8b1f-48c6-a31b-f841e8ce7589@snapp.ir:80?type=ws&encryption=none&path=%2F&host=cd.quiizlet.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://4d0fa316-d088-4ab2-8b5a-0c9727cba189@snapp.ir:8080?path=%2F&security=&encryption=none&host=vip.city-zen.ir&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://787cf1a1-f3ac-4cac-89cd-8b4ed3d267ca@185.143.233.235:80?type=httpupgrade&encryption=none&path=%2Fback&host=s101.tireks.site&security=none#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://343288a4-50c1-456a-8742-98bbacaa2951@snapp.ir:80?path=%2F&security=none&encryption=none&host=mail.zivotra.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
 
