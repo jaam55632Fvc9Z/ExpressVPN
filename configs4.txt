@@ -54,3 +54,9 @@ vless://203b0744-f943-4bba-a8d2-cab635467c46@45.136.126.16:443?security=reality&
 
 vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+vless://360ae1cc-71f7-4019-9c49-9be6bc812ad6@tr2.masterdadeh.ir:80?type=ws&security=none&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://420e2e32-95d1-43b1-a971-6a9fe27db106@185.143.233.5:443?encryption=none&type=ws&host=an.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=an.8lack.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://420e2e32-95d1-43b1-a971-6a9fe27db106@185.143.233.5:443?encryption=none&type=ws&host=en.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=en.8lack.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
