@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#%F0%9F%87%AA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?security=tls&sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://c11dcd35-7e7e-74be-4d82-f3a3d05290e8@hmt.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.190&alpn=&path=/&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://ee59c60a-ea5e-4f18-90a5-1c980f1babfa@snapp.ir:80?path=%2F&security=none&encryption=none&host=fonix.musicritmic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://edee4f16-3c8e-11f1-8d78-bc24110a77a6@yofree.top:443?type=tcp&security=reality&pbk=AWyicEDYi7KB3qzo8OEvEd1HK0gZhCHAENBd_buyhQk&fp=chrome&sni=yofree.top&sid=fa2f&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://281a5a7c-6530-4cd6-b0f2-a2666e6c3b36@104.31.16.65:2096?mode=gun&%3Bsecurity=tls&%3Bencryption=none&%3Btype=grpc&%3Bsni=tel.v-2rayngvpn.sbs#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://ugfhg#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://e73587b2#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#%F0%9F%87%AE%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -45,4 +27,36 @@ vless://049c7987-33ff-451a-b096-d941501e07e8@snapp.ir:80?path=%2F&security=none&
 vless://59536b5c-a132-44b7-bc68-f22f01922964@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://59536b5c-a132-44b7-bc68-f22f01922964@185.143.234.235:80?encryption=none&spx=@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt&type=ws&path=%2F&host=vixon.portab.org#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://y5ksiyyh-rwe5-syhh-z4jg-ros64kelb4i3@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://lyhe4kuk-973i-hjb5-7jv2-lwzc7djc17dr@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://rip756jl-gnqa-mpkw-uygj-0p4s7d89hs7s@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.29:443?sni=sni.111000.dynv6.net&peer=sni.111000.dynv6.net&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://edfku1kh-d3ar-tpuz-v2bk-ljnk2z3sip3n@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://wb37031n-dvf1-0sjn-noch-3rol6ml3wdgy@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://pipj0oqq-8x9u-v94h-39v3-yjoss2a3fn6f@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.203:38388#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.70.207.97:990#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+trojan://qoej0z0t-hgbv-82rn-vv4n-v0xysff0074m@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://pqql8jpq-2d1z-ln2r-pddl-bptazq5mjark@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://b6smj7cd-px80-tsd7-qte2-8fr2rl2hs61g@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@52.192.212.50:80#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+vless://ec36a054-47c4-435a-9077-295be12bf834@de-race.connfull.org:8880?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&host=racevpn.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
