@@ -32,3 +32,17 @@ trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type
 
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?security=tls&sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://c11dcd35-7e7e-74be-4d82-f3a3d05290e8@hmt.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.190&alpn=&path=/&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ee59c60a-ea5e-4f18-90a5-1c980f1babfa@snapp.ir:80?path=%2F&security=none&encryption=none&host=fonix.musicritmic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://edee4f16-3c8e-11f1-8d78-bc24110a77a6@yofree.top:443?type=tcp&security=reality&pbk=AWyicEDYi7KB3qzo8OEvEd1HK0gZhCHAENBd_buyhQk&fp=chrome&sni=yofree.top&sid=fa2f&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://281a5a7c-6530-4cd6-b0f2-a2666e6c3b36@104.31.16.65:2096?mode=gun&%3Bsecurity=tls&%3Bencryption=none&%3Btype=grpc&%3Bsni=tel.v-2rayngvpn.sbs#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://ugfhg#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e73587b2#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
