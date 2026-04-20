@@ -18,6 +18,8 @@ vless://ba260030-6e0d-4168-950f-01fca2fac670@red.nahidapp.com:443?security=tls&a
 
 vless://eb247f4b-3170-4d04-b2e8-af1ae8db2bb6@185.143.234.235:80?type=ws&security=none&host=vixon.portab.org&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
 vless://1a8b603a-537f-cd90-8c53-aa944d2243d3@hmt.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.190&alpn=&path=/&headerType=http#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -85,4 +87,16 @@ vless://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443?allowInsecure=1&e
 vless://6de04a86-d013-40a0-95c0-893aa35ff674@193.162.129.155:13252?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 ss://aknd#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://jsn#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://B#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://jsns#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://913c6074-a747-492b-a7e9-5abfcad6369d@171.22.181.107:443?security=reality&encryption=none&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk.milas.click&sid=4fa44664f6a566d3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://746bd30f-7144-410c-aa8b-1d70fcfbc465@star.p40.site:15565?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://add991ee-c455-404a-bad3-7d1dd900d565@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=fn.8lack.ir&fp=firefox&type=ws&allowInsecure=1&sni=fn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vaslbemonim7
 
