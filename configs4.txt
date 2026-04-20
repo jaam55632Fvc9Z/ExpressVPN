@@ -82,3 +82,7 @@ vless://40e1b62b-6245-4ec0-b57d-6dc4190db762@185.143.234.235:8080?path=%2F&secur
 
 vless://4fcac76e-03ab-40eb-b508-60512ef81de4@2.144.20.233:22782?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://40e1b62b-6245-4ec0-b57d-6dc4190db762@185.143.234.235:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=io.binping.lol&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://c3e1befb-69d5-492a-a5c4-3b8b57149535@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=io.binping.lol&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
+
