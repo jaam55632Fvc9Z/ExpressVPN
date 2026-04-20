@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://8d4b9b9b-a20f-4ae0-b5fb-1651201a0620@94.184.10.119:1010?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://036cfa36-85a6-4964-b38c-4bfdd06d6e3e@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://fa54d4b8-8b1f-48c6-a31b-f841e8ce7589@snapp.ir:80?type=ws&encryption=none&path=%2F&host=cd.quiizlet.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://4d0fa316-d088-4ab2-8b5a-0c9727cba189@snapp.ir:8080?path=%2F&security=&encryption=none&host=vip.city-zen.ir&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
@@ -141,4 +137,10 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?security=tls&allo
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.176:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3Ftelegram&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 ss://ai#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://75ca8f99-22ed-4753-a8d0-8bb80fce5fb3@212.80.24.230:11886?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://0eb745de-ebf8-4ad0-ab5f-26e592430563@185.176.58.146:42511?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=147.karbalatv.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://87910336-4b66-45c2-9346-9fa6a7620087@net.ulteracrypto.site:14971?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40SPARTAN_YT
 
