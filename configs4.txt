@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://bfc0c242-4b39-403b-b04c-6d51c707e989@vpn.ulteracrypto.site:34303?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://142e8693-e884-475d-80c8-8cd637b13493@94.241.140.25:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&security=reality&sid=8bcfe256cf216fd8&sni=apple.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://5628f888-c08a-4a1b-84d6-9632e8ee982a@cdn2.whitepol4.ir:2095?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://85728541-6fdb-4a1a-995b-d1f2b3c855aa@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws #%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://e4e01127-2266-4587-8e44-d124afbd5a9f@joker.preghost.ir:45807?encryption=none&type=grpc&security=tls&serviceName=aparat-stream&sni=joker.preghost.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40BrilliantGift
-
-vless://2647ff4a-031a-409d-ac0a-f1e2cfe201ac@joker.preghost.ir:45807?encryption=none&type=grpc&security=tls&serviceName=aparat-stream&sni=joker.preghost.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40BrilliantGift
-
-vless://0841a9e4-527e-4790-936d-9117779a6b82@amozesh.klyroshop.ir:80/?type=ws&encryption=none&path=%2F&host=amozesh.klyroshop.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://d54a1f24-78bc-4ddc-9938-d9251be6d20d@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=fn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=fn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://d54a1f24-78bc-4ddc-9938-d9251be6d20d@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=bn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://307adab5-37c3-4a8a-acd8-6d17af20c457@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -111,4 +93,14 @@ vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@104.17.111.184:443?path=%2F&securit
 vless://6202b230-#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@104.17.111.184:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=zh.hollowspot.ir&type=ws&flow=xtls-rprx-vision&sni=zh.hollowspot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiZWNvLnN3YWd2aXAuc2JzIiwgImlkIjogImE3M2VlMzk3LTU2MzUtNGFhYy1iNzQ1LTExNjIzMjU3NjJiOCIsICJuZXQiOiAidGNwIiwgInBvcnQiOiA5MDIwLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@104.17.110.184:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&flow=xtls-rprx-vision&sni=zh.hollowspot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://56aa470a-0dd1-4fea-9ce4-d01fe0fe3fe0@golden.alisecvice.ir:8080?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://1d509c22-4e43-4067-9185-873ec5bb49da@de2.b762plus.shop:2015?security=&encryption=none&host=zula.ir&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@104.17.110.184:443?encryption=none&flow=xtls-rprx-vision&type=ws&host=zh.hollowspot.ir&path=/&security=tls&sni=zh.hollowspot.ir&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
