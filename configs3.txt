@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?sni=sni.111000.v6.navy&host=sni.111000.v6.navy&type=ws&security=tls&path=%2F&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:2096?sni=sni.jpmj.dev&host=sni.jpmj.dev&type=ws&security=tls&path=%2F%3Fed%3D2560&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-vless://2601740f-12a1-4e61-ba12-4e84915f5ed8@185.143.234.235:80?host=vixon.portab.org&security=none&type=ws&path=%2F&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
-
 vless://3b7acae0-e742-4062-b5e2-3f66e742c298@dl2.pcapps.ir:8080?security=none&type=tcp&headerType=http&path=%2F&host=testspeed-foreign.tci.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://3b7acae0-e742-4062-b5e2-3f66e742c298@dl2.app9.ir:8080?security=none&type=tcp&headerType=http&path=%2F&host=testspeed-foreign.tci.ir#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40BrilliantGift
@@ -3125,6 +3119,8 @@ trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&h
 vless://f2b933d7-f18f-4eb8-afd2-1099bead9205@haikino.nahidapp.com:443/?type=ws&encryption=none&path=%2Fh1%2F&host=&security=tls#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&security=reality&sid=775eb6408888248e&sni=www.ebay.com&type=grpc#%F0%9F%87%B8%F0%9F%87%A6%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
@@ -9305,4 +9301,12 @@ vless://b93a3c44-478a-4d64-989e-4602ccc5e184@87.107.146.145:14371?type=tcp&encry
 vless://f24bd99f-c4fe-b913-3b4d-dcfb86c1b3cd@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185 .226.94.198#%F0%9F%8C%90%20WS-None%20%7C%20%40NormanV2ray
 
 vless://f24bd99f-c4fe-b913-3b4d-dcfb86c1b3cd@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQ3FiTElyRXJsSG1XbnVRcDNpR0pB@109.69.23.18:8388#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://f9c2c183-4d60-4724-bff8-1c5a5582a17b@panel.motabarimshaknakon.xyz:44846?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://5db86533-32b7-4233-a21c-02888a924cbb@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiMTA0LjE4LjEyLjE0OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ3d3cuc29vbnRlYW0udG9wLiIsICJpZCI6ICI3NWUwMzUyNi04Mzg3LTRkMTAtYTEyOS1iNTEyNTYzYjMxYjYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAieGh0dHAiLCAicGF0aCI6ICJAVnBuQ29ubmVjdHMiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgWEhUVFAtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInYiOiAiMiJ9
 
