@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
-
 vless://9fcba658-fd4c-4a5e-9ed5-b44f038e8ecb@193.151.138.64:25001?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40saministamm
 
 vless://9fcba658-fd4c-4a5e-9ed5-b44f038e8ecb@193.151.138.64:25001?security=&encryption=none&headerType=none&type=tcpsaministamm#%F0%9F%8C%90%20TCP-None%20%7C%20%40VPNConectd
@@ -2837,6 +2835,8 @@ vless://a2a7636b-25d9-4f83-941c-ba88cef9e2e2@102.37.155.79:443?type=xhttp&encryp
 vless://199d56de-ae02-45fe-881e-fc4069d51599@185.143.233.234:8080?path=%2F&security=none&encryption=none&host=ux.onyxshoes.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#%F0%9F%87%A7%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
 
@@ -9613,4 +9613,12 @@ vless://1238b47f-e4f3-472a-8515-cd4603a6175e@185.81.97.7:443?security=&encryptio
 vless://4b3c6602-8166-43b6-8b8a-cebb8eca2ff9@185.143.233.235:8080?type=httpupgrade&encryption=none&path=%2Ffront&host=s101.tireks.site&security=#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80/?type=ws&encryption=none&flow=&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45312#%F0%9F%87%BB%F0%9F%87%B3%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://752e3187-78e9-4dd2-ab19-b54ecb3b3bee@91.92.190.38:443?mode=auto&path=%2F52412%2Fxhttpcf&security=tls&encryption=none&host=nl.z3df1lter.uk&fp=random&allowinsecure=1&type=xhttp&sni=nl.z3df1lter.uk#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40BrilliantGift
+
+vless://34586585-0aec-4d47-820b-a43af785f8e0@news1.anush.top:9811?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=news1.anush.top#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://1238b47f-e4f3-472a-8515-cd4603a6175e@185.81.97.7:443?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
