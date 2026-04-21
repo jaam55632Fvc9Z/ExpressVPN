@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.152.2:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.238:443?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.167.25.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&security=tls&sni=sni.111000.cc.cd&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9ddbe9f3-41e8-463a-8b31-01ebed0e771a@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=mail.frontendev.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://9e685fe3-e0f9-482d-939c-200a3f89b363@172.64.145.38:8443?path=%2F%3Fed%3D2560fp%3Dchrome&security=tls&alpn=http%2F1.1&encryption=none&host=vyznthvt7f5fr.zjde5.de5.net&fp=chrome&type=ws&sni=vyznthvt7f5fr.zjde5.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=%2Fmovie&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=0&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://2c1b906c-5e76-18f7-358c-13ebfb9f8c9e@meli.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.198&alpn=&path=/&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -55,4 +45,8 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ1LjE1LjE3MC4yMzciLCAicG9ydCI6IDgwLCAiaWQiOiAi
 vless://c3c20db7-d32b-454a-9843-ec22d064a842@104.21.41.131:443?encryption=none&security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&path=%2F-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F%3Fed%3D2047#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://decda534-1aea-4d1d-97fe-81c3b89d6fa8@snapp.ir:80?type=ws&encryption=none&security=none&sni=s4.limitless-cloud.ir&alpn=http%2F1.1&fp=chrome&path=%2Fgraphql%3Fed%3D2560&host=s4.limitless-cloud.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://f2cba4bd-a99e-4351-aa05-a8c660cee2fb@snapp.ir:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=p.pavps.ir&path=/w#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
+
+vless://b06ab6e3-4e83-49eb-9c16-43e952302f76@ite.pishvatech.lol:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
 
