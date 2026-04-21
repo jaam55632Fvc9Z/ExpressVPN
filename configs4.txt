@@ -16,3 +16,7 @@ vless://def615c2-97dc-4fe8-99f4-ad997cefee78@185.143.234.200:8080?type=ws&host=g
 
 vless://e625faf6-65a5-42d0-a055-8dd72197c6fa@m15.lionets.nl:443?mode=gun&security=reality&encryption=none&authority=m15.lionets.nl&pbk=Pk92SQz2EO9sgMJ-RkWPf-mojyKTkhV2WmuPtrlDACk&fp=firefox&spx=%2FdvzCDJKZw2M49v5&type=grpc&serviceName=m15.lionets.nl&sni=aparat.com&sid=5da535243e#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
 
+vless://c5a90ccd-1862-4677-a938-cede79bd7784@2.144.15.65:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=000113.SHop&fp=chrome&type=ws&sni=000113.SHop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.77.213.238:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
