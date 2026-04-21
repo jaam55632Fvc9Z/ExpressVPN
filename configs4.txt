@@ -26,3 +26,5 @@ trojan://telegram-id-privatevpns@18.194.103.215:22222?security=tls&alpn=http/1.1
 
 vless://1ba68295-bc56-4af3-929b-255426db2312@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=s2.limitless-cloud.ir&fp=chrome&type=ws&sni=s2.limitless-cloud.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40mtproto_proserver
 
+vless://3df69e7e-2010-4b2f-aa94-ebde0366c977@94.101.179.129:56658?type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
