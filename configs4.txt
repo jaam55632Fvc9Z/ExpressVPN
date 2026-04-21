@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8e5e1e54-73a2-0bc3-aa01-785776e43627@hmt.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.190&alpn=&path=/&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAiNjIuMy40Mi40NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMjQ3YTgwYTMtYTRmMy00ZDVkLWIyOTUtNDEwMTU3ZGFlYWRiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
-vless://68de6324-55f3-463b-a43d-dc45cf3374f9@SnaPP.ir:80?path=%2Fsecv&security=none&encryption=none&host=bat.abanservers.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.29:2053?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@91.149.237.36:19081#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40v2nodes
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFdTLU5vbmUgfCBAdjJub2RlcyIsICJhZGQiOiAia3IwMS5hMGEueHl6IiwgInBvcnQiOiAiMTk1NjgiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjY0MTUwMGJmLTkyZjktNDcyMC1lMmU3LTU3OWE4ZjdkYmIwNCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2N0djEzLm0zdTgiLCAiaG9zdCI6ICJrcjAxLmEwYS54eXoiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
@@ -83,4 +73,12 @@ vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1O
 trojan://auto@172.67.213.48:443?sni=esetsecuritylicense2.wawafec355.workers.dev&peer=esetsecuritylicense2.wawafec355.workers.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 vless://30379a2b-5a0d-4dc4-8806-5f5dda19e36c@snapp.ir:80?type=ws&encryption=none&path=%2F&host=br.dbrun-gorsap.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
+vless://307adab5-37c3-4a8a-acd8-6d17af20c457@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=fn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=fn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://307adab5-37c3-4a8a-acd8-6d17af20c457@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=cn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1db81ed5-5ebc-44d2-9714-e113bde04d8d@pg.nexorainnovationhub.ir:80?encryption=none&type=ws&path=%2F&host=a43fgh.restaurantnetwork.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3ecc45e3-c1d6-42b2-9538-d4dc5bb27e69@185.143.233.5:443?encryption=none&type=ws&host=fn.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=fn.8lack.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
