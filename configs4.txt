@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@13.36.75.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.75.60:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.36.75.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://5be7e481-c711-4b74-964e-bbd4453fe138@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=dn.8lack.ir&sni=dn.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VPNConectd
-
-vless://8315764d-56f7-4c1a-b00d-04229c5b9119@snapp.ir:80?path=%2F&security=none&encryption=none&host=sv2-dl.persianmusics.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://5be7e481-c711-4b74-964e-bbd4453fe138@185.145.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=dn.8lack.ir&sni=dn.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://5be7ilee481-c711-4b74-964e-bbd4453fe138@185.145.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=dn.8lack.ir&sni=dn.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://a03db0df-02e9-466c-a668-4b5c8209f237@verso.nahidapp.com:443?path=%2Fvl%2F&security=tls&alpn=http%2F1.1&encryption=none&host=verso.nahidapp.com&type=ws&sni=verso.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.160.144:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://b6bef810-5bf1-45e8-883f-997f32f7a642@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -89,4 +73,8 @@ vless://b8abb64d-d7be-47d1-a0d5-ef8070a02489@varzesh3.com:2082?path=%2Fbestvpnxc
 vless://b93a3c44-478a-4d64-989e-4602ccc5e184@87.107.146.145:14371?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://ea227ffd-be0c-4acd-a70c-9b6b4777d862@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJ0eXBlIjogIm5vbmUiLCAiaGVhZGVyVHlwZSI6ICJub25lIiwgImFscG4iOiAiIiwgIm5ldCI6ICJ0Y3AiLCAiZGV2aWNlSUQiOiAiIiwgImFpZCI6ICIwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJiNmMzM2NlOS04MTM2LTRmYTYtYTRkZC05ZWZhOTQzMDg4NDYiLCAidGxzIjogIm5vbmUiLCAiYXV0aG9yaXR5IjogIiIsICJzbmkiOiAiIiwgInNlcnZpY2VOYW1lIjogIm5vbmUiLCAiZnAiOiAiIiwgInNlZWQiOiAiIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBhdGgiOiAiIiwgImhvc3QiOiAiIiwgInYiOiAiMiIsICJmcmFnbWVudCI6ICIiLCAibW9kZSI6ICIiLCAiZXh0cmEiOiAiIn0=
+
+vless://0bf566d5-5b89-4d2d-bf90-32fc508f4f0c@arvan1.un1ty.ir:80?path=%2Fjesuschrist&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
