@@ -9610,3 +9610,7 @@ vless://d914fd2e-df97-41b7-b436-7125b41da864@94.101.180.77:43769?mode=auto&path=
 
 vless://1238b47f-e4f3-472a-8515-cd4603a6175e@185.81.97.7:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vasl_bashim
 
+vless://4b3c6602-8166-43b6-8b8a-cebb8eca2ff9@185.143.233.235:8080?type=httpupgrade&encryption=none&path=%2Ffront&host=s101.tireks.site&security=#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80/?type=ws&encryption=none&flow=&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
