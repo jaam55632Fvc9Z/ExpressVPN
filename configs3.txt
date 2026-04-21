@@ -9086,3 +9086,7 @@ vless://a02891ca-5a17-40b6-8095-79721a4c1669@193.5.44.160:4040?type=tcp&encrypti
 
 vless://056285d5-9dde-fdc4-106c-a89110082276@tr.tehranionliine.ir:80?type=ws&host=&security=none&sni=185.226.94.188&alpn=&path=/&headerType=http#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://206d462c-2da2-47e2-b4ab-7b307aff30e8@81.12.54.14:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
