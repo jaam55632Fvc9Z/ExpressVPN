@@ -20,3 +20,7 @@ vless://215aa031-cf41-4ec9-9fb4-e7ac4ecf84e4@185.143.233.235:80?encryption=none&
 
 vless://767b9339-2a16-409a-bd2d-4e78b729b725@185.143.233.93:80?security=none&allowInsecure=0&encryption=none&type=ws&host=bfdd606a6cc8d61793edf084.nvimu.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
 
+vless://e17b17ee-f5bf-b8d9-01c0-1d01e4cd6f9c@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.188#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://0eb745de-ebf8-4ad0-ab5f-26e592430563@185.176.58.146:42511?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=147.karbalatv.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
