@@ -102,3 +102,17 @@ vless://42026dab-fe60-4155-8edb-a917ee5e7dee@link2x11580.temp.veraspeed.ir:80?pa
 
 vless://bc4037b3-20b9-4ee3-858e-99412f740a85@s2.tehranionliine.ir:80?encryption=none&type=ws&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
 
+trojan://telegram-id-directvpn@13.39.164.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.164.242:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.39.164.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://bbf5a85a-e565-405a-b5f7-b201f7222d8e@vip.gxnetshop.ir:1131?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://bbc4875c-c790-4e50-63f9-27064a648726@meli.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.198&alpn=&path=/&headerType=http#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://1a4eabb3-14cf-40e2-9a12-49880a887718@uk.playshoptv.com:25212?encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://13effd6c-0ac1-429e-8df6-bf1f87638c2b@vpn.ulteracrypto.site:34303?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
