@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://2601740f-12a1-4e61-ba12-4e84915f5ed8@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
-
 vless://2279f0dc-f127-4d28-980d-1e6cfad60955@185.143.233.5:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=alef.ir.oadeflantrogm.abrmahanair.com&path=/?ed%3D443&sni=alef.ir.oadeflantrogm.abrmahanair.com&fp=randomized#%F0%9F%8C%90%20WS-TLS%20%7C%20%40EmKavpn
 
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@5.180.52.53:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
@@ -39,6 +37,8 @@ vless://bd8c5fce-aec8-458d-bb41-7c442250a353@snapp.ir:80?encryption=none&host=Da
 vless://e7b0908a-199a-440e-8a99-6b3963c893e0@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2RFA
 
 vless://c6a12a94-4804-494e-93eb-8364f258959b@link2x12493.temp.veraspeed.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=byebye.22.avenflow.ir&path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://2601740f-12a1-4e61-ba12-4e84915f5ed8@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://5f12e894-5230-4ae4-a70d-389ae4052a3e@snapp.ir:8080?path=%2Fpath&security=none&encryption=none&host=vip.elmovipservice.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
@@ -9199,4 +9199,16 @@ vless://6fb4c229-6f9a-449a-a533-9f2a8040c71c@185.238.140.212:443?security=realit
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.57.33.95:56509/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2FZed_NetMeli-Zed_NetMeli-Zed_NetMeli-Zed_NetMeli-Zed_NetMeli-Zed_NetMeli&security=tls&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://9725de0c-0510-4d35-991c-6bed82aea72a@gys.pishvatech.lol:2082?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://37967372-8968-4079-8c2a-3e404e0eea00@verso.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fvl%2F&host=verso.nahidapp.com&sni=verso.nahidapp.com&fp=&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.57.33.95:56509?path=%2FZed_NetMeli-Zed_NetMeli-Zed_NetMeli-Zed_NetMeli-Zed_NetMeli-Zed_NetMeli&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6ec3c40c-d02e-4c2c-6c00-265575739a38@meli.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.198&alpn=&path=/&headerType=http#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiNDQ0IiwgImlkIjogIjQxMzdhZmY4LWZkNDYtNDgyYi1hMDY2LTg3ZGQyMjExNGI5YiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
+
+vless://24de4d05-042e-416f-9a4c-89926ad5ea52@gys.pishvatech.lol:2082?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
