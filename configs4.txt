@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtcG9seTEzMDU6QVJUdzk0aXM2Szc2UlY3MXZ6MHozTzMz@185.189.58.195:30901?type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://3ce89525-9ea6-4a0c-9b01-90c0f4763831@ite.pishvatech.lol:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://46aafe3b-328e-499c-bc01-d0a135f3f2c4@snapp.ir:80?path=%2F&security=none&encryption=none&host=sv2-dl.persianmusics.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.57.33.95:56509?path=%2F%3Fed%3D2560%26Telegram%20%40i10VPN&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40i10VPN
-
 vless://a0484828-8bd5-4dfa-b600-7c1c21b3df43@185.143.235.200:80?path=%2Farvancloud.ir&security=none&encryption=none&host=ahmadn6.pointspeed.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
 
 vless://e4520a3d-c017-4cb1-90d3-2d3b0aeca4ae@snapp.ir:80?path=%2F&security=none&encryption=none&host=sv2-dl.persianmusics.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
@@ -143,4 +135,8 @@ vless://061139bc-e301-4d61-ab5e-9a499baa5001@sub.mkmovie.ir:443?type=ws&encrypti
 vless://5be7ilee481-c711-4b74-964e-bbd4453fe138@185.145.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://63b2cafd-3ba3-4f81-83bf-769646ba028c@speedtest.kenargozar.com:8088?mode=gun&security=reality&encryption=none&pbk=TPJnRnX2QIzZpDq5rk1EQMuYpH9hgTBCEPSYsuWEI2s&fp=chrome&spx=%2Flive&type=grpc&serviceName=aparat-stream&sni=www.aparat.com&sid=e59fc4d65a4ef287#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40AloConfig_com
+
+vless://5be7ilee481-c711-4b74-964e-bbd4453fe138@185.145.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dn.8lack.ir&fp=firefox&type=ws&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://bea7a5db-bb02-4bcd-bece-62832eb1bc94@146.185.242.30:1488?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&packetEncoding=xudp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
