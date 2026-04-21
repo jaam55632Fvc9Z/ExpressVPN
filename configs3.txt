@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://9fcba658-fd4c-4a5e-9ed5-b44f038e8ecb@193.151.138.64:25001?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40saministamm
-
 vless://9fcba658-fd4c-4a5e-9ed5-b44f038e8ecb@193.151.138.64:25001?security=&encryption=none&headerType=none&type=tcpsaministamm#%F0%9F%8C%90%20TCP-None%20%7C%20%40VPNConectd
 
 vless://23918d37-10c4-4531-b1eb-8f6ef2be09f6@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=&encryption=none&host=live-azd1102.telewebion.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
@@ -135,6 +133,8 @@ vless://1c45e98c-8a4a-45e7-acc5-3a3cc962f463@144.31.220.136:25565?encryption=non
 vless://09d12e6b-c25b-4c78-bc5d-99941c52177e@snapp.ir:80?path=%2F&security=none&encryption=none&host=ar.liarashop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
 vless://05632886-f2b2-4409-bb8a-d85b64891fe0@185.143.235.200:80?type=httpupgrade&encryption=none&path=%2F&host=omran.pointspeed.ir&security=none#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40V2rayng_Fast
+
+vless://9fcba658-fd4c-4a5e-9ed5-b44f038e8ecb@193.151.138.64:25001?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://50596360-2c3e-4f73-ba68-b8605604065d@188.121.105.159:7965?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40V2rayng_Fast
 
@@ -9623,4 +9623,14 @@ vless://34586585-0aec-4d47-820b-a43af785f8e0@news1.anush.top:9811?mode=auto&path
 vless://1238b47f-e4f3-472a-8515-cd4603a6175e@185.81.97.7:443?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://fa2c5c03-4a4f-41da-a2aa-2d9c9e33d96e@snapp.ir:2095?security=none&allowInsecure=0&encryption=none&type=ws&host=p.pavps.ir&path=/w#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
+
+vless://5faf7545-0783-4ee2-8841-dad0c66303ae@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://5f31d0e1-5f5f-4103-8ec6-3484e394259a@ir9.cdnk1.cfd:443?path=%2Ftime&security=tls&encryption=none&insecure=0&host=ir9.cdnk1.cfd&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://691f5f17-b9dc-4b11-bc64-d66524e13bba@185.143.233.5:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=an.8lack.ir&path=/chat?ed%3D128&sni=an.8lack.ir&fp=firefox&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://71237bbf-d30f-4c14-962a-f6c36047db57@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://fa2c5c03-4a4f-41da-a2aa-2d9c9e33d96e@snapp.ir:2095?encryption=none&security=none&type=ws&path=%2Fw&host=p.pavps.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
