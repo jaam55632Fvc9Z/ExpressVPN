@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQ3FiTElyRXJsSG1XbnVRcDNpR0pB@109.69.23.18:8388#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://f9c2c183-4d60-4724-bff8-1c5a5582a17b@panel.motabarimshaknakon.xyz:44846?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://5db86533-32b7-4233-a21c-02888a924cbb@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAiMTA0LjE4LjEyLjE0OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ3d3cuc29vbnRlYW0udG9wLiIsICJpZCI6ICI3NWUwMzUyNi04Mzg3LTRkMTAtYTEyOS1iNTEyNTYzYjMxYjYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAieGh0dHAiLCAicGF0aCI6ICJAVnBuQ29ubmVjdHMiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgWEhUVFAtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInYiOiAiMiJ9
-
 vless://fc7132e6-6943-424c-84bc-adbb60398a93@snapp.ir:80?path=%2Fapp1&security=none&spx=@mtproto_proserver&encryption=none&host=cdn.yeksanstudio.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40mtproto_proserver
 
 vless://bbf5a85a-e565-405a-b5f7-b201f7222d8e@vip.gxnetshop.ir:1131?security=none&spx=@mtproto_proserver&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40mtproto_proserver
@@ -69,4 +61,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 vless://b8387d7b-9e70-4501-a02f-32556d5d1cb9@rocket.monitengtor.ir:18?encryption=none&fp=chrome&host=mci.ir&mode=stream-one&path=%2F&pbk=ZAX7MUaiACd4LOVJmoaxfe5lhRKmhSk54DAafIHqlD4&security=reality&sid=68&sni=www.aparat.com&spx=%2F9rJZkn53X70lZb8&type=xhttp#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWnhLcjZWaFpKWGZLYlh2dWM2T3E3@103.205.140.115:443#%F0%9F%87%AE%F0%9F%87%B3%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://e0807685-f1ba-43a7-8257-c2e107091adc@ursa.linkinfo.cloud:8080?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://humanity@www.ignitelimit.com:443?path=%2FAssignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
