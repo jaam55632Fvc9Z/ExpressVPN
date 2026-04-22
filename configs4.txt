@@ -18,3 +18,7 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=
 
 vless://7ab8a2f2-5706-4d49-971f-7c358f2b7c77@vzbw.piko-network.top:1433?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://7f630b41-d7a3-4187-9992-10a127178b83@snapp.ir:80?type=ws&path=%2F&host=api.shallmod.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://92bb7147-6248-43ab-a835-60ceca4b3476@snapp.ir:80?type=ws&encryption=none&security=none&sni=s4.limitless-cloud.ir&alpn=http%2F1.1&fp=chrome&path=%2Fgraphql%3Fed%3D2560&host=s4.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
