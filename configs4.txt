@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://a0e45755-3319-5145-0d75-8b700c36c72e@meli2.masterdadeh.ir:80?encryption=none&type=ws&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://a94382d7-c8f0-43f0-a2f5-b9f7dbd340ff@mmdi23.storm1.ir:80?path=%2F&security=none&encryption=none&host=mmdi23.storm1.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://7be2fd67-0ee7-4c3c-ad03-ffabe94668c4@cdn.mizbanertebatfarda.ir:2052?encryption=none&type=ws&host=cdn.mizbanertebatfarda.ir&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://02c7761e-c213-4beb-8b6f-880369693061@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007147vhp.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2nodes
-
-vmess://eyJhZGQiOiAiem9yZi5tYXJ6eG94LmJpeiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJhcGFyYXQuY29tIiwgImlkIjogIjllM2JhMzdmLTE4MTEtNDYyYi04OTk2LTRiNzgyZWZiZDFlYiIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMTQyOTgiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
-
-vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@172.64.149.54:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://69df32c6-0e86-451d-bc8e-05e7abc603fc@188.121.123.73:443?encryption=none&type=ws&security=tls&path=%2Fws%3Fed%3D400&sni=plus.sabavision.com&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ==@195.58.49.220:10990#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2nodes
 
 vless://a28b874b-a4e8-4c22-b118-39aabe2ec737@vpn.ulteracrypto.site:34303?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -89,4 +73,18 @@ vless://d229bc5d-b9ed-4591-897c-442cca6f67cd@cloudinohost.com:443?encryption=non
 vless://f392ccbe-6287-4cf8-97fc-243d91e8db57@node5.telegavpn.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=node5.telegavpn.org&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://3fbeee46-a4ef-4979-afe4-08046405a888@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@114.25.12.94:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.34.173:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://d229bc5d-b9ed-4591-897c-442cca6f67cd@cloudinohost.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=cloudinohost.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://d229bc5d-b9ed-4591-897c-442cca6f67cd@cloudinohost.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&spx=@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=cloudinohost.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6cc07d82-6ea0-4903-b1c2-44e931220101@snapp.ir:8880?path=%2Fw&security=none&encryption=none&host=k1.tabdealtech.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://df302938-11fa-4324-8e58-feaf2bda4062@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=s.linuwebtunnel.site&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
 
