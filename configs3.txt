@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://253afe7a-f5e8-41f3-bca4-ca5bb46984ce@94.101.179.129:27216?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40AloConfig_com
-
-vless://11ab8c9b-81c4-4e9d-81d5-4c85a5a53d29@94.101.179.129:27216?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40AloConfig_com
-
-vless://89ef7c61-1b74-4160-a12a-de728e69e6ca@94.101.179.129:27216?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40AloConfig_com
-
-vless://60fe616d-ce4c-455c-955d-eaf1975d9932@94.101.179.129:27216?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40AloConfig_com
-
-vless://616db6a6-24b8-4d1f-8234-72bfb44fac80@94.101.179.129:27216?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40saministamm
-
-vless://2d56eba5-a249-41e0-b0b0-09c51c82bdf4@94.101.179.129:27216?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40AloConfig_com
-
 vless://65abbd31-79d4-4f53-b381-bfb3aac91596@94.101.179.129:27216?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://6336897d-07ff-410e-85ea-e6614a2b7e3d@94.101.179.129:27216?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -9999,4 +9987,16 @@ ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw==@154.53.60.212:80#%F0%9F%87%BA%F0%9
 vmess://eyJhZGQiOiAiY2RuMS53aGl0ZXBvbDQuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImFmNGJhOGFiLTFhYmUtNDQyOC1hOWZlLWViMWFjYzQzM2M5MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
 vless://4ef2392a-be3d-4051-9f97-f3038b0b44b0@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://1234567890@64.188.70.233:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://1234567890@164.90.166.120:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://de26ab4b-9855-4029-9b1a-c92a6f1a261d@m.yamahas.ir:2086?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://feeaa761-58ac-4657-8d9f-82410a9d6342@m.yamahas.ir:2086?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://172a0817-9da7-4403-a9b1-0afe5e74857a@anten.ir:2086?encryption=none&type=ws&path=%2F&host=shop2.plusself.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZGFyeGhpbnRlYW0uYnJhdm8tc2l4LmlyIiwgImlkIjogImY0NTMwYTZjLWZlYjUtNDhjMy1iOTQzLThmYWY2OTgzZGJjYiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
