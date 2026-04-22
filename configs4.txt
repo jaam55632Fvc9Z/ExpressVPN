@@ -30,3 +30,7 @@ vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJh
 
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&headerType=none&type=tcp&allowInsecure=1&sni=hio-awx.pages.dev#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.162.153:52006?security=tls&encryption=none&alpn=http/1.1&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://75807638-6f19-0a28-ae08-38492ee85c88@178.72.162.156:52006?security=tls&encryption=none&alpn=http/1.1&headerType=none&allowinsecure=1&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
