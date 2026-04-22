@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://9d55fbb7-6529-48ec-9b07-9ff8390f670f@yellow.zenitsu.network:8080?path=%2F&security=none&encryption=none&host=yo.trmas-gs.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
-
-vless://5db4380f-d244-413f-8145-b727096c70e9@s1.foroshgah12.ir:443?security=reality&encryption=none&pbk=pWCYKDJmbj_WlLTNtzRdY78yxkhkhYUjvQgeLNNdcBM&headerType=none&fp=chrome&spx=%2FTpH5m6pEWwe40vd&type=tcp&sni=www.aparat.com&sid=309efc3cb053f9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
-
-vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?encryption=none&security=tls&sni=webassets.cafebazaar.ir&allowInsecure=1&type=ws&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-vless://0bf4123e-057c-4133-b71b-ec186a194a11@45.142.188.104:443?flow=&type=grpc&mode=gun&serviceName=&security=tls&sni=d4.8.hiid.us&alpn=http/1.1,h2&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
-
 vless://f44aa5c9-1fe5-4976-a9f1-bd0dbf53a945@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://6a6ad1f3-241d-48ef-832e-a7535dcf27ae@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=enzo.amirenzohost.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -403,6 +395,8 @@ vless://b47d4ed0-39a9-479f-870d-15466383de5b@188.121.117.145:42009?encryption=no
 vless://65ea4681-21ad-47a3-9589-de4864135ee1@shop.shadowroute.site:443?alpn=h2%2Chttp%2F1.1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://a0f7fda1-82d7-4044-b288-79cc587eb707@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VPNConectd
+
+vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?encryption=none&type=ws&security=tls&path=%2F&sni=webassets.cafebazaar.ir&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VPNConectd
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.13.31:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sany.tara132.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=sany.tara132.workers.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -9929,4 +9923,12 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.78.140.238:2096?allowInsecure=1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.2:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://r137979f@162.159.153.212:2087?allowInsecure=1&fp=chrome&host=sheleqaz.emotionreza.workers.dev&path=%2F&sni=sheleqaz.emotionreza.workers.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://4f080af6-1121-40a8-a44f-f19e748264b8@arvancloud.ir:2095?path=%2Fstream&security=none&encryption=none&host=hosting.linuweb.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
