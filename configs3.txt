@@ -1,16 +1,8 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://3b80a4b4-187a-49b0-a52c-5c455c41ba98@194.59.171.217:14774?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://a2053fc4-7daf-4a78-a53e-394a483c13db@pish152.manikhan.ir:22470/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://123#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://a2053fc4-7daf-4a78-a53e-394a483c13db@pish152.manikhan.ir:22470?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://3b80a4b4-187a-49b0-a52c-5c455c41ba98@194.59.171.217:14774?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_cartel
 
 vless://14aa8d67-ca0f-4fd5-94fd-9030b73d6416@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=bn.8lack.ir&sni=bn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -252,7 +244,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d.239.245.250:443?path=%2F&security=t
 
 vless://dc5d42e7-cc8e-489e-8e8b-2f49a674a232@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&host=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
 trojan://humanity@127.0.0.1:40443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&host=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.gossipglove.com&type=ws&path=/assignment&host=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?security=tls&sni=sni.111000.v6.navy&type=ws&path=/&host=sni.111000.v6.navy&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -9961,4 +9957,6 @@ vless://6f685616-1775-4f8d-999e-e213f1da3bab@snapp.ir:80?encryption=none&host=ph
 vless://5b022cd3-c5e6-47e8-9538-cc18d4300c94@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://2f580cb9-9886-416a-8bb1-489615724a8f@m.yamahas.ir:8080?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?path=%2Fwsv%2F0cc731b9-0375-4590-aeaa-7e2611a149fe&security=tls&encryption=none&host=black.fullmargintraders.com&type=ws&sni=black.fullmargintraders.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
