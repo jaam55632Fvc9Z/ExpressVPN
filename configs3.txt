@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://4e37b74a-771b-43ea-b8d8-979bd74371a7@185.143.234.235:2082?encryption=none&type=ws&path=%2Fapi&host=free.nazincup.ir&allowInsecure=1#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://735327c8-34f3-40cf-ad6e-313f81a15cd9@verso.nahidapp.com:443?path=%2Fvl%2F&security=tls&encryption=none&alpn=http%2F1.1&host=verso.nahidapp.com&type=ws&sni=verso.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://d7567f4e-70d5-48f4-99a4-bd70d5c0a902@verso.nahidapp.com:443?path=%2Fvl%2F&security=tls&encryption=none&alpn=http%2F1.1&host=verso.nahidapp.com&type=ws&sni=verso.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://aa15753f-4ec4-4850-b771-19a60b5b5b28@video.ir.temas-lomat.ir:55399?type=tcp&encryption=none&security=None#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://e27b7b53-6810-47ac-b5a5-eb89c4a22aed@snapp.ir:2082?encryption=none&security=none&type=ws&host=rpsvpn3.xchitozx.org&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.19:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.101.164:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -23,6 +13,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?allowInsecure=1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@swiss-2.illusion-vpn.ru:52000?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KXqoXRnGxHCnTT17cRpFRhKNj_3km3DnWEJ5L3FtSwg&security=reality&sid=edd8887128ea&sni=music.yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://e27b7b53-6810-47ac-b5a5-eb89c4a22aed@snapp.ir:2082?path=%2F&security=none&encryption=none&host=rpsvpn3.xchitozx.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VPNConectd
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.208.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -9865,4 +9857,8 @@ vless://f29d392a-47b1-4090-9a0f-e2764e3fa16c@185.143.233.5:443?encryption=none&t
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=none&spx=@mtproto_proserver&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40mtproto_proserver
 
 vless://4a86f341-72e3-4d3a-91c0-47d4385f6a0e@link-dl.mizbanertebatfarda.ir:2095?path=%2F&security=none&spx=@mtproto_proserver&encryption=none&host=link-dl.mizbanertebatfarda.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40mtproto_proserver
+
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@95.85.248.69:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-None%20%7C%20%40v2ray_configs_pool
+
+vless://9ba66255-31c1-4fa3-94bc-45993046a985@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&host=vitallife.gg&fp=chrome&type=ws&sni=vitallife.gg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40saministamm
 
