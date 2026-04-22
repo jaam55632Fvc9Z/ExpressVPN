@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://4b3c6602-8166-43b6-8b8a-cebb8eca2ff9@185.143.233.235:8080?type=httpupgrade&encryption=none&path=%2Ffront&host=s101.tireks.site&security=#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
-
-vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80/?type=ws&encryption=none&flow=&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45312#%F0%9F%87%BB%F0%9F%87%B3%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://752e3187-78e9-4dd2-ab19-b54ecb3b3bee@91.92.190.38:443?mode=auto&path=%2F52412%2Fxhttpcf&security=tls&encryption=none&host=nl.z3df1lter.uk&fp=random&allowinsecure=1&type=xhttp&sni=nl.z3df1lter.uk#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40BrilliantGift
@@ -63,4 +59,12 @@ vless://386435f8-5be6-456d-923e-8e10445b2fae@ww.boldtest.ir:8880?path=%2F&securi
 vless://6945bbc9-a6b4-4dc2-b70d-4e6dc069a1be@ir2.cdnk1.cfd:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=ir2.cdnk1.cfd&path=/time&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 ss://domai25#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6d4cb2d5-8b60-4fe5-b143-e766598ba91c@94.101.181.201:23630?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://8c25cc0f-df46-43c2-97cb-a2fe0090c08e@post.exitping.store:433?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=post.exitping.store&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://11df9495-a9c3-44a5-90e8-0b6660db0266@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAic2hvcC5vbmxpbmVzaXRlLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzZlODhlMmItYmU3YS00Y2FlLTlmY2MtMmY2MzU0MDJhZDUzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIxMzEiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 

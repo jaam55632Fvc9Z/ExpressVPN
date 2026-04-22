@@ -9672,3 +9672,11 @@ vless://6945bbc9-a6b4-4dc2-b70d-4e6dc069a1be@ir2.cdnk1.cfd:443?security=tls&allo
 
 ss://domai25#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://6d4cb2d5-8b60-4fe5-b143-e766598ba91c@94.101.181.201:23630?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://8c25cc0f-df46-43c2-97cb-a2fe0090c08e@post.exitping.store:433?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=post.exitping.store&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://11df9495-a9c3-44a5-90e8-0b6660db0266@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAic2hvcC5vbmxpbmVzaXRlLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzZlODhlMmItYmU3YS00Y2FlLTlmY2MtMmY2MzU0MDJhZDUzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIxMzEiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+
