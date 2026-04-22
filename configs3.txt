@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://2b8d9d73-0031-42f9-9914-c8c579e087cb@104.18.12.149:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=fire.rezazzz.ir&path=/movie&security=tls&sni=fire.rezazzz.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2nodes
-
 vless://4e37b74a-771b-43ea-b8d8-979bd74371a7@185.143.234.235:2082?encryption=none&type=ws&path=%2Fapi&host=free.nazincup.ir&allowInsecure=1#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://735327c8-34f3-40cf-ad6e-313f81a15cd9@verso.nahidapp.com:443?path=%2Fvl%2F&security=tls&encryption=none&alpn=http%2F1.1&host=verso.nahidapp.com&type=ws&sni=verso.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -2511,6 +2509,8 @@ vless://68ae8dc5-2da7-4219-a729-2ce95594498d@ger1bot-ws.headerip.com:80?encrypti
 vmess://eyJhZGQiOiAiY2RuLm1pZGFzbmV0LndvcmsiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidGVzdC5taWRhc25ldC53b3JrIiwgImlkIjogIjliNzgzOTJjLWM3MDktNGM0Zi1hN2YwLWMyYWM4ZDc4ZDAzMCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
 vless://18905bbd-7e1d-4587-8789-7067e9a77532@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://2b8d9d73-0031-42f9-9914-c8c579e087cb@104.18.12.149:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=fire.rezazzz.ir&path=/movie&security=tls&sni=fire.rezazzz.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://3103f950-3394-40c1-bdd5-11fda55edf52@snapp.ir:80?path=%2F%3Fed%3D2080&security=&encryption=none&host=1.jojo.avenflow.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9853,4 +9853,16 @@ vless://7c8c4cfc-75b6-4860-84f6-048a6c126b21@snapp.ir:8080?type=ws&encryption=no
 vless://c058037e-cbc9-44ec-86f1-1dfd04c72311@snapp.ir:8080?path=%2F&security=none&encryption=none&host=hi.jahansportmarkazi.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://92a8a96e-4de6-409f-9944-d4be6cf4996b@www.arvancloud.ir.arashmidoos.ir:32419?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://274d467d-e309-478c-917e-0a69d2e5e927@snapp.ir:8080?path=%2F&security=none&encryption=none&host=hi.jahansportmarkazi.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://dd71eeaa-f2dc-4f75-be6b-31faec132917@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=en.8lack.ir&sni=en.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://f446f81e-6a23-4198-88b5-071b312f598c@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=cn.8lack.ir&sni=cn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://f29d392a-47b1-4090-9a0f-e2764e3fa16c@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=bn.8lack.ir&sni=bn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=none&spx=@mtproto_proserver&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40mtproto_proserver
+
+vless://4a86f341-72e3-4d3a-91c0-47d4385f6a0e@link-dl.mizbanertebatfarda.ir:2095?path=%2F&security=none&spx=@mtproto_proserver&encryption=none&host=link-dl.mizbanertebatfarda.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40mtproto_proserver
 
