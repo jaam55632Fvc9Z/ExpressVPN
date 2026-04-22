@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://b2564646-0732-4799-bcca-69b6e2811236@snapp.ir:8880?encryption=none&type=ws&path=%2F&host=dl600tobi.sudoserver.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://e685919e-39e1-11f1-8d30-2ddfba49052f@c-2.jservices.ir:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=c-2.jservices.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://db5a8d71-b3f3-4e5c-a2a9-e7f78c9d141c@185.146.173.185:2095?path=/&%3Bsecurity=none&%3Bencryption=none&%3Bhost=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&%3Btype=ws#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.59:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.239.245.250:443?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.239.72.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://caa3af29-3b04-4099-9772-c64a1b7cca34@195.66.27.165:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
@@ -713,6 +703,8 @@ vless://b9b507ae-ec2c-436f-9085-b0e1389732b7@arvancloud.ir:80?type=ws&encryption
 vless://eff7f741-5bbd-46ae-bf5d-d49a6d27a682.ir:80?path=%2F&security=none&encryption=none&host=sv1-dl.persianmusics.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://0844bea6-dc52-48c3-9f30-1c2f02dec016@panel.motabarimshaknakon.xyz:15928?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://1cd5fa1a-fae9-45a3-a4b8-2bc636ec0952@185.143.234.200:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/w0A7arFCWfh1n07bLCPY2sRPzhX533AaYjLN3dxdP6R4zqg4VBCbbAHV49zjRZ2wBNooXj1s1PzkVhLL9h1gdLbpU5oPiC68mu8r&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40AloConfig_com
 
 vless://3#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -9999,4 +9991,12 @@ vless://4f080af6-1121-40a8-a44f-f19e748264b8@arvancloud.ir:2095?path=%2Fstream&s
 vless://51ba639b-4c83-2f8d-2515-903f4f8b0291@tr.tehranionliine.ir:80?type=ws&host=&security=none&sni=185.226.94.188&alpn=&path=/&headerType=http#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
 
 vless://3c852590-49d8-d3c3-abbf-a3c64ad89cd2@tr.tehranionliine.ir:80?path=%2F&security=&encryption=none&type=ws&sni=185.226.94.188#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnNurmal
+
+vless://d229bc5d-b9ed-4591-897c-442cca6f67cd@cloudinohost.com:443?encryption=none&type=ws&security=tls&path=%2F&sni=cloudinohost.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZGFyeGhpbnRlYW0uYnJhdm8tc2l4LmlyIiwgImlkIjogIjJmODE3NzUyLTFjMzQtNGYxNC05NGQ1LTExYjY0ZTIwOTMxMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+
+vless://8a8d396e-5663-82e1-75c4-4af7c6fdea14@tr.tehranionliine.ir:80?type=ws&host=&security=none&sni=185.226.94.188&alpn=&path=/&headerType=http#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://d229bc5d-b9ed-4591-897c-442cca6f67cd@cloudinohost.com:443?encryption=none&type=ws&security=tls&path=%2F&sni=cloudinohost.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
