@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://400d08e2-3672-4b27-8d52-4b2a7963231a@server-meli-vip.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&type=ws&sni=dev.twistsparrow.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://7ab8a2f2-5706-4d49-971f-7c358f2b7c77@vzbw.piko-network.top:1433?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://7f630b41-d7a3-4187-9992-10a127178b83@snapp.ir:80?type=ws&path=%2F&host=api.shallmod.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://92bb7147-6248-43ab-a835-60ceca4b3476@snapp.ir:80?type=ws&encryption=none&security=none&sni=s4.limitless-cloud.ir&alpn=http%2F1.1&fp=chrome&path=%2Fgraphql%3Fed%3D2560&host=s4.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -39,4 +33,12 @@ vless://18ae0557-10ed-4353-a58a-75dbfdccbe8d@cdn2.whitepol4.ir:2095?path=%2F&sec
 vless://64a7af8d-1e48-42d9#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://b25b2456-74ac-4a1a-af91-f6d31f9a2254@residentofresourceslumaforluma.x-armi.bond:6969?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=iraq.luma-network.site#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://3ab2a89d-12a4-423e-9322-dfbd294331b9@185.239.1.185:443?type=xhttp&encryption=none&path=%2Fapi%2Fv2%2Fstream&host=&mode=auto&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ir.netbaz.dpdns.org#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@fast2.mrsf.ir:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=PAS1.gLobAl.sSl.Fastly.nEt&fp=firefox&type=xhttp&allowInsecure=1&sni=mikishop.xyz#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b6b7bbeb-f493-4034-b7ae-d8cf1399c66a@arvancloud.ir:80?type=ws&path=%2F&host=parmin10.passer01.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
