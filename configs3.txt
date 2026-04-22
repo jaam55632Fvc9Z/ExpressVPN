@@ -9966,3 +9966,19 @@ trojan://1234567890@95.85.233.44:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&
 
 vless://1454a693-503b-3ec1-5347-120ed30012c9@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fe932fca-7359-47a0-b191-4a8c2d48186d@ursa.linkinfo.cloud:2082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://1454a693-503b-3ec1-5347-120ed30012c9@meli.masterdadeh.ir:80?encryption=none&type=ws&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://8e2fe5e1-f2f6-4f7b-9eb7-e0a0dee94ccf@188.121.126.201:2086?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJhZGQiOiAidTguaHV2aWNsb3VkLmNvbSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNjc5NjYxMWItMjYwZS00ZDYzLTkwMTYtMjBjMjdiMTJlNDIwIiwgInR5cGUiOiAiIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidGxzIjogInRscyIsICJzbmkiOiAidTguaHV2aWNsb3VkLmNvbSIsICJwYXRoIjogIi82Nzk2NjExYi0yNjBlLTRkNjMtOTAxNi0yMGMyN2IxMmU0MjAiLCAiaG9zdCI6ICJ1OC5odXZpY2xvdWQuY29tIn0=
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.21:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+

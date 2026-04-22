@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://8adf1bd9-c0f9-45e2-ac98-f2d5ed16b439@194.48.198.140:53994?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
-
-vless://fcfac74b-4da6-4ce4-b2ac-0b89c395de2d@37.32.27.85:80?type=ws&encryption=none&path=%2F&host=a1.supreme-xfast.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
-
-vless://8644fbcd-cb65-4012-99d6-2876d980afd0@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://183c709e-060c-4c3c-9982-b4412393702b@yas.masterdadeh.ir:80?type=ws&security=none&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vmess://eyJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJzY3kiOiAiYXV0byIsICJpZCI6ICJhZjRhODQ2ZS05YTViLTQyNGMtODM2OS1hNDEyN2YzYmQ1ZjUiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiODA5NiJ9
 
 vless://a20450e5-b173-4c8c-bbca-fadef628f37a@snapp.ir:8080?path=%2F&security=none&encryption=none&host=hi.jahansportmarkazi.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -97,4 +89,20 @@ trojan://1234567890@109.122.198.64:443?security=tls&sni=kfm-bn0.pages.dev&type=w
 trojan://1234567890@95.85.233.44:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://1454a693-503b-3ec1-5347-120ed30012c9@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fe932fca-7359-47a0-b191-4a8c2d48186d@ursa.linkinfo.cloud:2082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://1454a693-503b-3ec1-5347-120ed30012c9@meli.masterdadeh.ir:80?encryption=none&type=ws&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://8e2fe5e1-f2f6-4f7b-9eb7-e0a0dee94ccf@188.121.126.201:2086?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJhZGQiOiAidTguaHV2aWNsb3VkLmNvbSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNjc5NjYxMWItMjYwZS00ZDYzLTkwMTYtMjBjMjdiMTJlNDIwIiwgInR5cGUiOiAiIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidGxzIjogInRscyIsICJzbmkiOiAidTguaHV2aWNsb3VkLmNvbSIsICJwYXRoIjogIi82Nzk2NjExYi0yNjBlLTRkNjMtOTAxNi0yMGMyN2IxMmU0MjAiLCAiaG9zdCI6ICJ1OC5odXZpY2xvdWQuY29tIn0=
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.21:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
