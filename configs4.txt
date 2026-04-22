@@ -58,3 +58,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.65:8443?allowInsecure=1&
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.250.137.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://557ac2fb-849b-4e31-ba04-8a4b767f1f00@snapp.ir:80?path=%2Fstatus&security=none&encryption=none&host=p6.cdnir.org&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
