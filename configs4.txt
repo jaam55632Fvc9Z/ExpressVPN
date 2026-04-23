@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B9%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://088fe6ca-bc9d-45a0-ab96-cbb2c4cb0e90@185.206.95.196:443?encryption=none&type=ws&security=tls&path=%2F&sni=webassets.cafebazaar.ir&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://63318066-2aec-41d2-8f6c-eced13d04cd0@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://fafd6a83-06eb-4199-bc69-bd447f420e08@arvancloud.ir:80?path=@TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
-
-vless://b9c5f438-a69a-4aad-ea2b-b98d0bc48cbd@94.183.241.26:33553?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-ss://jshz#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://6bf05128-a13f-400e-8ddf-04ff7734da89@185.143.233.120:443?path=%2Fwss%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=server.irangroupz.ir&type=ws&allowInsecure=0&sni=server.irangroupz.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://55e39670-53fd-468f-9270-b372e487f687@snapp.ir:80?path=%2F&security=none&encryption=none&host=s.linuwebtunnel.site&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -81,4 +67,8 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206d1RKQlFXSDFhL1BjeHBKWkphRFNNdlZTU2FpZHU2c1R
 vless://c3ad5721-0d89-4c88-80f0-a29da163d105@thany.tech:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cloudinohost.com&fp=chrome&type=ws&allowInsecure=0&sni=cloudinohost.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiQHZhc2xfYmFzaGltIiwic2N5IjoiYXV…#%F0%9F%8C%90%20TCP-None%20%7C%20%40vasl_bashim
+
+trojan://1234567890@74.119.192.89:2083?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:443?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
