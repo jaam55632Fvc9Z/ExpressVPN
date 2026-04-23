@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://9c53f695-eb63-475c-b11f-e64fa828020d@185.143.234.235:443?path=%2Fdata&security=tls&encryption=none&insecure=0&host=lbank.trpn.ir&type=ws&allowInsecure=0&sni=cndnt.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://110172ad-7869-432b-ace5-1701c5858c55@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dn.8lack.ir&fp=firefox&type=ws&sni=dn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://110172ad-7869-432b-ace5-1701c5858c55@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bn.8lack.ir&fp=firefox&type=ws&sni=bn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://e1b4d474-a6ac-4930-92ad-f8a5ae04b104@185.143.232.253:80?path=%2F&security=&encryption=none&host=na.theboys1.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiQENvbmZpZ1gycmF5INqG2YbZhNmF2YgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9@VIPV2rayNGNP#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
-vless://7a766d6e-85b6-454b-a0bb-b1381d73c8bb@snapp.ir:80?encryption=none&type=ws&path=%2F&host=trx.noventa.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://b6131f5c-ad81-4e21-9c71-b49a8fd709a5@185.143.233.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vmess://eydhZGQnOiAnc2VydmVyYWRkcmVzcy5kb21haW4uY29tJywgJ2FpZCc6ICcwJywgJ2FscG4nOiAnJywgJ2ZwJzogJycsICdob3N0JzogJ3NlcnZlcmFkZHJlc3MuZG9tYWluLmNvbScsICdpZCc6ICc4YjI3YmY3NS0zOGQ1LTQ0MDktODlkYy1kNWM0NGI1NzdhZmMnLCAnaW5zZWN1cmUnOiAnMCcsICduZXQnOiAnd3MnLCAncGF0aCc6ICcvc2Vjb2xvZ2lzdCcsICdwb3J0JzogJzQ0MycsICdwcyc6ICdAU1BFRURTX1ZQTjEt8J+puCcsICdzY3knOiAnYXV0bycsICdzbmknOiAnc2VydmVyYWRkcmVzcy5kb21haW4uY29tJywgJ3Rscyc6ICd0bHMnLCAndHlwZSc6ICctLS0nLCAndic6ICcyJ30=#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 trojan://1234567890@138.124.24.229:443?type=ws&security=tls&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=kfm-bn0.pages.dev&sni=kfm-bn0.pages.dev&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://caf75a11-49ed-4675-8857-5189bad216d8@voip7.divar.mom:55007?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.amazon.com&sid=c385#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40cpy_teeL
@@ -125,4 +109,8 @@ vless://db9fbd02-85dc-43c2-b30e-c142991944e3@vpn2.ulteracrypto.site:22102?type=t
 vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZGFyeGhpbnRlYW0uYnJhdm8tc2l4LmlyIiwgImlkIjogImMyNzIzOTQ3LWVkMDYtNDU2MC1hYmU3LTQxMjBkYzE4OGI1NSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 
 vless://b73c2d6f-5343-4236-851b-e8552190ef42@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiZG4udG9yb250b21vdmllLmNvbSIsICJhaWQiOiAiMCIsICJpZCI6ICJhOWQ2ZGM4NS0xZGYzLTQyODItYmRlZi1hNjUyOGM5ZDQ3NzgiLCAibmV0IjogInRjcCIsICJwb3J0IjogODA4MCwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+
+vless://a7c507c1-d738-46ca-9d34-534b94972131@185.143.2#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
