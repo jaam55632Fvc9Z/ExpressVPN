@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6bf05128-a13f-400e-8ddf-04ff7734da89@185.143.233.120:443?path=%2Fwss%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=server.irangroupz.ir&type=ws&allowInsecure=0&sni=server.irangroupz.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://55e39670-53fd-468f-9270-b372e487f687@snapp.ir:80?path=%2F&security=none&encryption=none&host=s.linuwebtunnel.site&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://d9a8d670-ca99-4536-b0ad-d7573e3a0077@vpn2.ulteracrypto.site:22102?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://30b215e7-9a5d-4744-af87-62deb482a4f0@snapp.ir:80?path=%2F&security=none&encryption=none&host=dl700tobi.sudoserver.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://a15ac382-ca0a-edfa-bbd6-88a6ef09272b@pari.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.204#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -81,4 +75,6 @@ vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@partner.zoom.us:8443?path=%2F&secur
 vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@ev.zoom.us:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=darknet-free.alexid.org&fp=chrome&type=ws&sni=darknet-free.alexid.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.31.19.131:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://753396b5-e67c-441c-b62b-2a6c23b0b468@gosuslugiru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=node12.telegavpn.org&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
