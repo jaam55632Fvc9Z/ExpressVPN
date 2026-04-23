@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d7f67e94-aa9e-4454-b1cf-ce522a0d2728@sweden.gandopaneel.ir:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40v2nodes
-
 trojan://1234567890@161.35.207.2:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://1234567890@84.75.76.8:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A8%F0%9F%87%AD%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -113,4 +111,10 @@ vless://c4e20d58-4518-4feb-8f5c-cb5c4dd27330@home.asanpaf.ir:8443?security=none&
 vless://c4e20d58-4518-4feb-8f5c-cb5c4dd27330@95.38.242.216:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://75234028-f094-4e4b-b2f1-2e203b3dfec0@thany.tech:8880?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cloudinohost.com&fp=chrome&type=ws&allowInsecure=0&sni=cloudinohost.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B9%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://088fe6ca-bc9d-45a0-ab96-cbb2c4cb0e90@185.206.95.196:443?encryption=none&type=ws&security=tls&path=%2F&sni=webassets.cafebazaar.ir&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
