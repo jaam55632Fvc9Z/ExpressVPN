@@ -64,3 +64,15 @@ vless://a2772ce5-647f-4967-835a-135ed9701422@185.143.234.235:80?path=%2F&securit
 
 vless://b67d4b74-b97e-39b0-3d76-29551f6b1976@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.188#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@15.224.68.33:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.68.33:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.224.68.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://ac94930e-264f-4494-a3d0-ae4b8c67cbcb@171.22.27.131:28988?type=tcp&encryption=none&path=%2F&host=speedtest.net&headerType=http&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://aeddbbbd#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://44275012-0810-4a43-9dbd-64b4f09004d9@185.206.95.196:443?type=ws&path=/&security=tls&fp=chrome&sni=webassets.cafebazaar.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
