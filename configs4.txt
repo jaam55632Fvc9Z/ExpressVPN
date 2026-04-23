@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://653684fd-954e-4ba2-b72d-a6f81aa619db@185.143.233.220:8080?security=none&allowInsecure=0&encryption=none&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
-
-trojan://1234567890@51.195.49.216:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0T0xjaVcyc1FIVTJZQ0tQWkpQVklI@46.246.93.107:12138#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://f392ccbe-6287-4cf8-97fc-243d91e8db57@193.233.128.247:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 trojan://1234567890@64.188.97.153:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%87%A6%F0%9F%87%B1%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -31,4 +23,10 @@ vless://695c1382-9237-4d09-b64a-c8bd3fe67214@bop.ghoststeven.site:15565?security
 vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecu#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://803f67ef-ddef-42c9-42e8-08de9887846b@ir20.novalynxhub.online:53112?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://f55ec9a4-f150-4ba6-993b-f81cefc3c4b1@91.217.166.3:33960?type=xhttp&path=%2F&host=&mode=auto&security=none#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://79cd4b43-bde7-4ff7-9bec-2de06dc77bc9@snapp.ir:8080?path=%2F&security=none&encryption=none&host=dlsoft.exmester.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://abc9ab03-1aff-46dd-9945-5c867486975e@snapp.ir:8880?encryption=none&type=ws&path=%2F&host=m1.deltamarket8.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 

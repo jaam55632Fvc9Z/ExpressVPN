@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
-
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=/&security=tls&sni=juzi.qea.ccwu.cc&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://fd2c95b1-f48e-4d44-9b53-f5560f2eaae4@16.170.148.222:443?security=reality&%3Bencryption=none&%3Bpbk=CzY9QJ1b2czWQHd5LwmghJhn_A-_fozAc2geAM7zk28&%3BheaderType=none&%3Bfp=chrome&%3Bspx=/&%3Btype=tcp&%3Bflow=xtls-rprx-vision&%3Bsni=www.speedtest.net#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 trojan://telegram-id-privatevpns@51.45.0.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2nodes
@@ -9999,4 +9993,10 @@ vless://695c1382-9237-4d09-b64a-c8bd3fe67214@bop.ghoststeven.site:15565?security
 vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecu#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://803f67ef-ddef-42c9-42e8-08de9887846b@ir20.novalynxhub.online:53112?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://f55ec9a4-f150-4ba6-993b-f81cefc3c4b1@91.217.166.3:33960?type=xhttp&path=%2F&host=&mode=auto&security=none#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://79cd4b43-bde7-4ff7-9bec-2de06dc77bc9@snapp.ir:8080?path=%2F&security=none&encryption=none&host=dlsoft.exmester.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://abc9ab03-1aff-46dd-9945-5c867486975e@snapp.ir:8880?encryption=none&type=ws&path=%2F&host=m1.deltamarket8.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
