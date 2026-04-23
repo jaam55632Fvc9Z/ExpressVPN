@@ -34,3 +34,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.234.9:443?path=%2F%3Fed%3D256
 
 vless://1768c71a-27d9-4a01-a1e8-5888e4ff0319@vpn.ulteracrypto.site:34303?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://a2772ce5-647f-4967-835a-135ed9701422@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6a0e628b-e689-4c00-8a6e-e039ac7db08d@free-server.techsonic.ggff.net:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
