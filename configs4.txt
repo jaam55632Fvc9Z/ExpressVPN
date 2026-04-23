@@ -56,3 +56,9 @@ trojan://telegram-id-privatevpns@35.157.155.174:22222?security=tls&alpn=http/1.1
 
 vless://#%F0%9F%8C%90%20TCP-None%20%7C%20%40irmeliy
 
+trojan://telegram-id-v2rayvpnchannel@35.157.155.174:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://754fb143-ae08-4edf-b66d-2d1d9f764ed8@snapp.ir:8080?encryption=none&type=ws&path=%2Flalaland&host=ehsanhd.nhdnet.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://754fb143-ae08-4edf-b66d-2d1d9f764ed8@snapp.ir:8080?path=%2Flalaland&security=none&encryption=none&host=ehsanhd.nhdnet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+

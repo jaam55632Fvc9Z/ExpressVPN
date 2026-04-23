@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://651a858c-2975-4b96-96b7-82745b38714c@0.0.0.0:40443?encryption=none&security=tls&sni=api.frest.ir&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=api.frest.ir&path=%2FWITH_CHACHA20_POLY1305_SHA256#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://57f7d8bb-5ba8-402c-ad26-14fdc23f2f6d@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vip.azmabekaraziz.shop&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://116980b3-d4dc-49cc-acae-30c08766b060@85.133.197.114:2083?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 trojan://110aadd4-3f93-42b0-91f5-bc526655ff50@127.0.0.1:40443?security=tls&sni=hd.kalbod.info&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=AEX%2BDQBB3gAgACC7nBrvkwpxvS%2BKhMdEX%2BRHPqVn8h7dkznNgBnP32qBaAAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA%3D&type=ws&host=hd.kalbod.info&path=%2FTHMHCA0ud2RTFMZ2d5abTYJ15#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://e52f64b4-61ac-4a17-8f67-a1e233f7eb66@snapp.ir:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=reevan.ir&fp=firefox&type=ws&allowInsecure=0&sni=reevan.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -9999,4 +9993,10 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.155.174:22224?type=ws&securi
 trojan://telegram-id-privatevpns@35.157.155.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
 vless://#%F0%9F%8C%90%20TCP-None%20%7C%20%40irmeliy
+
+trojan://telegram-id-v2rayvpnchannel@35.157.155.174:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://754fb143-ae08-4edf-b66d-2d1d9f764ed8@snapp.ir:8080?encryption=none&type=ws&path=%2Flalaland&host=ehsanhd.nhdnet.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://754fb143-ae08-4edf-b66d-2d1d9f764ed8@snapp.ir:8080?path=%2Flalaland&security=none&encryption=none&host=ehsanhd.nhdnet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
