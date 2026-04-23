@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@swiss-2.illusion-vpn.ru:52000?type=tcp&security=reality&sni=music.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=KXqoXRnGxHCnTT17cRpFRhKNj_3km3DnWEJ5L3FtSwg&sid=edd8887128ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.29.208:443?type=ws&security=tls&path=/&sni=3-9sp.pages.dev&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Trick_mobil
-
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.8.201:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-trojan://uum3s4vv-p2en-ylcw-z45a-3sljr3sf2kir@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
 trojan://j3lekkon-kyye-has5-qjer-shrb8g7ydwbu@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://l9kttqlg-ugae-3gv1-ofw2-npqaheomdkrb@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -9999,4 +9991,12 @@ vless://17b214e7-7113-436e-9b28-04710d64b642@snapp.ir:80?path=%2F&security=none&
 vless://9fd6f7f7-a50d-4bcd-b31e-5050e2265967@185.143.233.222:2052?security=none&allowInsecure=0&encryption=none&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJoZWFkZXJUeXBlIjogIm5vbmUiLCAibW9kZSI6ICIiLCAiZGV2aWNlSUQiOiAiIiwgIm5ldCI6ICJ0Y3AiLCAiYWRkIjogIjE4NS4xMS44OS4zOCIsICJwYXRoIjogIiIsICJzZXJ2aWNlTmFtZSI6ICJub25lIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInYiOiAiMiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAic2VlZCI6ICIiLCAiaWQiOiAiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwgInBvcnQiOiAiMTI4MDkiLCAidHlwZSI6ICJub25lIiwgImZyYWdtZW50IjogIiIsICJhaWQiOiAiMCIsICJleHRyYSI6ICIiLCAiaG9zdCI6ICIifQ==
+
+vless://653684fd-954e-4ba2-b72d-a6f81aa619db@185.143.233.220:8080?security=none&allowInsecure=0&encryption=none&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+trojan://1234567890@51.195.49.216:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0T0xjaVcyc1FIVTJZQ0tQWkpQVklI@46.246.93.107:12138#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://f392ccbe-6287-4cf8-97fc-243d91e8db57@193.233.128.247:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
