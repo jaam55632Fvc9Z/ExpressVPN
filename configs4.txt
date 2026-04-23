@@ -44,3 +44,21 @@ vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?security=none&al
 
 vless://55b8d5cd-5304-4c24-88d7-0cf075723374@dalton.nightwolf.shop:56227?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
 
+vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.39.125.115:2053?security=tls&encryption=none&host=tristandeng.cc.cd&fp=chrome&type=ws&sni=tristandeng.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ebf7d712-7690-4028-81f7-616c106cfd5f@79.117.121.85:35766?security=reality&encryption=none&pbk=JrsNPt4yDyRcLO2-eL0VkVlPBSM2Cp19iDl-A-enrS8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=738b3ed2#%F0%9F%87%AA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?security=reality&encryption=none&pbk=vDKgmefC_2JaSrrvQSsb7DU3KBeKUlXG1V0vgdjv_i4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gpuopen.com&sid=0a856e071790b1#%F0%9F%87%A8%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://75da9ef9-6cb3-4552-89e2-7d42c70cdae4@185.221.199.113:443?security=reality&encryption=none&pbk=1Jje6R1ebZt89tdljyfPJzVdWr_DnLwTkh8TTCsp10I&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=f516ec3a856e1999#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.242.215.37:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=&fp=chrome&type=tcp&sni=www.autodesk.com#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.97.158:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=&fp=chrome&type=tcp&sni=cdn-dynmedia-1.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.117.76:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=&fp=chrome&type=tcp&sni=prod.adobeccstatic.com#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.12.38:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=&fp=random&type=tcp&sni=api.digital-help-prd.autodesk.com#%F0%9F%87%B9%F0%9F%87%AD%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.117.111:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=&fp=chrome&type=tcp&sni=wcs.adobe.com#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
