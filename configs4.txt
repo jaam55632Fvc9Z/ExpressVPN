@@ -26,3 +26,7 @@ vless://898c5aa6-95ad-4b53-8cec-023b842796f0@85.133.145.139:9998?encryption=none
 
 vless://9721ad05-c44c-4969-9b51-8e8e28d26d61@rfiksma.top:54186?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://3c852590-49d8-d3c3-abbf-a3c64ad89cd2@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.188#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
