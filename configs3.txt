@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://e4e1d819-9143-48b2-a206-f78e680083a6@185.143.234.235:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://75807638-6f19-0bb8-ae08-38492ee85c88@212.92.101.195:52006?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?encryption=none&type=ws&path=%2F%2B%40ProxyVPN11&host=vip.yaml7.ggff.net&allowInsecure=1#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://a0e3e48b-d8d0-430a-9615-c3411317d58f@final.usdtbama.com:8443?encryption=none&type=tcp&allowInsecure=1#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -9999,4 +9995,8 @@ vless://78c5b6bd-1cb6-463c-bcba-9f17ef70c85b@104.18.13.229:8880?encryption=none&
 vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&host=iioo.iioou.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://78c5b6bd-1cb6-463c-bcba-9f17ef70c85b@www.visa.com.sg:8880?encryption=none&host=square-frost-8d11.9660004.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?security=&encryption=none&host=leecher56.matinheydri.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.20:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
