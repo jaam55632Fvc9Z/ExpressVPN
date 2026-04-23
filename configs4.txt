@@ -120,3 +120,9 @@ vless://07073d7f-5eb8-4fbf-8877-7a62f72568ef@panel2.seyhellodigi.com:443?path=%2
 
 vmess://aeddbbbd-ad95-49e8-ee31-7cacc7ede117@185.11.89.38:12809?encryption=auto&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40cpy_teeL
 
+trojan://1234567890@194.164.198.156:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0e2dfbdb-94a2-4c1f-8e93-e027912a8d38@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://64a09c34-fbf2-48ff-977f-8e912c8ec2fb@arvancloud.ir:80?encryption=none&type=ws&path=%2Fed%3D2048&host=cdn-7ecec1db8c-ff.apps.ir-central1.arvancaas.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
