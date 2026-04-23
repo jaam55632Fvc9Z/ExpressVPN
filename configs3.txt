@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://c4a4f6b6-8cda-4fc7-8d1f-996c180fe297@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://25bb2218-07c5-47ee-b9e4-d2de5aa4ea64@ips.cf.mobileemdad.top:443?security=tls&type=xhttp&headerType=&path=%2Fcloudapi&host=dl.mobileemdad.top&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=dl.mobileemdad.top&fp=chrome&alpn=h2#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://1cd5fa1a-fae9-45a3-a4b8-2bc636ec0952@185.143.234.200:80?mode=auto&security=none&encryption=none&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
 vless://3df69e7e-2010-4b2f-aa94-ebde0366c977@94.101.179.129:56658?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://9d1d512b-2495-4d24-91ec-b831a69db09e@abr.superip.ir:2082?encryption=none&type=ws&path=%2F&host=konkorii.mashhadmasaleh.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -4385,6 +4379,8 @@ vless://3c3a6cdf-1cca-4549-af25-6374dcf379e3@193.233.208.31:443?encryption=none&
 vless://8fb96bb9-431a-4c42-8175-ce1704edd706@aparatrat1.info:2083?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://4bef3438-d590-4d6c-b23c-7ecaaf17b156@127.0.0.1:1010?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://2a61f3d1-7546-4f9a-9e04-29a72bad8dfb@persimmon-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir:443?path=%2Fvless&security=tls&alpn=http%2F1.1&encryption=none&host=persimmon-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&sni=persimmon-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -9999,4 +9995,8 @@ trojan://1234567890@109.120.155.164:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages
 vless://8e4eb711-d633-4750-99dd-282b792500ca@194.124.250.34:1443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Jfnv1o-d5SM87897Ji5pblMU_pdi-cY91J9QWRj801M&sid=305214#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
 
 vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDTE9VREZMQVJFTkVUIFx1MjUwNyAxMDQuMTcuMTM3LjEyNyIsImFkZCI6IjEwNC4xNy4xMzcuMTI3IiwicG9ydCI6NDQzLCJpZCI6IjQ3ZWFiMGRlLTk3ZjktNDliZS1mMmYzLTJlNGViMTcyNjhlNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImhrLm5pc2tha293c2tpLmdnZmYubmV0IiwicGF0aCI6Ii9hYSIsInRscyI6InRscyIsInNuaSI6ImhrLm5pc2tha293c2tpLmdnZmYubmV0In0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=decdn7.suio.me#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
