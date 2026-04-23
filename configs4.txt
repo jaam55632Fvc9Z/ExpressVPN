@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ad609b0c-606a-49b7-89e3-b54c1544a1fc@ww.gooldiran.ir:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=%2F&security=&encryption=none&host=ss.oppobot.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://5cc27145-3ca0-4b18-91bc-9638620f2220@speedtest.kenargozar.com:5080?type=grpc&encryption=none&serviceName=aparat-stream&authority=&security=reality&pbk=yY7N40FFumin7HlCWlM8mPlk1M926DWULpmVGTtrUSI&fp=chrome&sni=www.aparat.com&sid=532edf&spx=%2Flive#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40AloConfig_com
-
 vless://4278a814-4a82-4b9b-8092-0ba60a3fb2f6@193.151.153.47:34661?security=&type=tcp&encryption=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://6fc0c363-cdb6-44a2-9490-d11c584e79a2@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -45,4 +39,20 @@ vless://44794a5c-cc7b-42a5-9a81-b5da54f0ba60@tun.ashahan.ir:8080?type=tcp&securi
 vless://a2772ce5-647f-4967-835a-135ed9701422@185.143.234.235:80?path=%2F&security=none&spx=@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://b5f996d5-d7c5-4ab6-b694-3d1886519b0f@ww.iwantmoney.ir:8880?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
+
+vless://ad734e45-ff8f-4dbc-915b-7749ec3dd3f8@185.143.233.200:443?encryption=none&headerType=none&allowInsecure=0&type=ws&mux=true&security=tls&sni=alef.ir.oadeflantrogm.realirshop.com&fp=randomized&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.realirshop.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://415e33da-668c-432a-b0b6-c6be26993426@185.143.233.235:80?encryption=none&type=ws&headerType=none&path=%2F&host=knet-prime.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@63.182.246.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.246.38:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@63.182.246.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://cf9f1dfb-24c7-417e-b2ad-48580f47590a@dai.wikm.ir:41366?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAic25hcHAuaXIuYm1pLmlyLm1vYmF0by1tb2JpbGUuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImV4Y29pbm8uY29tIiwgImlkIjogIjgyMGE5ZTQyLWUxOGQtNDNlNC04NTlmLWQxYzJmNmI4NjAwYSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLzZEUDU3Um0ycjg3cjJoVWc2bDIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
 
