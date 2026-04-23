@@ -38,3 +38,5 @@ vless://89e808ca-ac12-4e05-a646-61024931c213@87.236.208.39:8443?security=tls&all
 
 vless://e93bdad8-f021-4a3f-c6ef-02d5a5da1fd3@94.101.191.194:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://1234567890@138.124.230.45:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B3%F0%9F%87%B4%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
