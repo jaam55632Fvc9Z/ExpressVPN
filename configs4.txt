@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://1234567890@157.230.110.242:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://2de164d0-6e09-4801-9d19-c56997598068@arvancloud.ir:8080?encryption=none&type=ws&path=%2F&host=fn1.dresstol.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAiYW5ldHdvcmsuc3BhY2UiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjNjZWU0NWZkLTYwOTctNGYwMS04YzcwLTMwYjAyOTFkZmI4ZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvc3RyZWFtIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQGZpbGVtYmFkIiwgInNjeSI6ICIiLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://07073d7f-5eb8-4fbf-8877-7a62f72568ef@panel2.seyhellodigi.com:443?path=%2Fapi%2Fadd%2F2qnYtSDZhdin2KYsdiqINmB24zZhNiq2LEg2YbaqdmG&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=panel2.seyhellodigi.com&fp=chrome&type=ws&allowInsecure=0&sni=panel2.seyhellodigi.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NormanV2ray
@@ -95,4 +89,10 @@ vless://63318066-2aec-41d2-8f6c-eced13d04cd0@arvancloud.ir:80?path=%40TunizoNET&
 vless://fafd6a83-06eb-4199-bc69-bd447f420e08@arvancloud.ir:80?path=@TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
 ss://jshz#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6bf05128-a13f-400e-8ddf-04ff7734da89@185.143.233.120:443?path=%2Fwss%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=server.irangroupz.ir&type=ws&allowInsecure=0&sni=server.irangroupz.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://55e39670-53fd-468f-9270-b372e487f687@snapp.ir:80?path=%2F&security=none&encryption=none&host=s.linuwebtunnel.site&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d9a8d670-ca99-4536-b0ad-d7573e3a0077@vpn2.ulteracrypto.site:22102?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
