@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJoZWFkZXJUeXBlIjogIm5vbmUiLCAibW9kZSI6ICIiLCAiZGV2aWNlSUQiOiAiIiwgIm5ldCI6ICJ0Y3AiLCAiYWRkIjogIjE4NS4xMS44OS4zOCIsICJwYXRoIjogIiIsICJzZXJ2aWNlTmFtZSI6ICJub25lIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInYiOiAiMiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAic2VlZCI6ICIiLCAiaWQiOiAiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwgInBvcnQiOiAiMTI4MDkiLCAidHlwZSI6ICJub25lIiwgImZyYWdtZW50IjogIiIsICJhaWQiOiAiMCIsICJleHRyYSI6ICIiLCAiaG9zdCI6ICIifQ==
-
 vless://653684fd-954e-4ba2-b72d-a6f81aa619db@185.143.233.220:8080?security=none&allowInsecure=0&encryption=none&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
 trojan://1234567890@51.195.49.216:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -29,4 +27,8 @@ vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJh
 vless://bab0d3c3-dc60-405e-8b4a-666b11948330@snapp.ir:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=freept-1.followon.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://695c1382-9237-4d09-b64a-c8bd3fe67214@bop.ghoststeven.site:15565?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=aparat-stream&allowInsecure=0&sni=bop.ghoststeven.site#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecu#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://803f67ef-ddef-42c9-42e8-08de9887846b@ir20.novalynxhub.online:53112?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
