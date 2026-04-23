@@ -18,3 +18,19 @@ vless://003e0981-a987-4de8-b315-12e80f95ba72@vpn.ulteracrypto.site:34303?type=tc
 
 vless://7b4fa04e-864a-457d-88fb-716ec6e8a2ab@dbot.veracore.ir:443?path=%2Fstarlink&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dbot.veracore.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://6a0e628b-e689-4c00-8a6e-e039ac7db08d@free-server.techsonic.ggff.net:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=viber.com#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6a0e628b-e689-4c00-8a6e-e039ac7db08d@free-server.techsonic.ggff.net:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fac62eac-1eec-4260-a991-0cac2f8745a3@partner.zoom.us:80?type=ws&encryption=none&path=%2F%40Tech_Sonic&host=free-server.techsonic.ggff.net&security=none#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6a0e628b-e689-4c00-8a6e-e039ac7db08d@free-server.techsonic.ggff.net:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.com#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f08fd73b-6ec6-4bc5-80ec-34d3fa6cc6d5@1.9.reflecion.shop:35116?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://72cc064f-32ed-4069-9d93-5adc780de344@vpn.ulteracrypto.site:34303?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.234.9:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.latonyamadeline.ndjp.net&allowinsecure=0&type=ws&sni=sni.latonyamadeline.ndjp.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1768c71a-27d9-4a01-a1e8-5888e4ff0319@vpn.ulteracrypto.site:34303?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
