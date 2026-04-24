@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://21a5ab3c-5299-4f69-97e2-0f592a2421d6@185.143.235.200:80?type=ws&encryption=none&path=%2F&host=wiki.mastervps.ir&security#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://80142166-81f7-eb0b-4972-5069b98530fb@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.204#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://f3df4019-ff3f-4781-a7f7-c693e3efd200@s1.tehranionliine.ir:80?encryption=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://f0d954ef-65b5-3959-54f4-925e0d16c562@meli.masterdadeh.ir:80?encryption=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://a7c507c1-d738-46ca-9d34-534b94972131@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=an.8lack.ir&sni=an.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9d15a8d0-4f2e-902e-a354-b146a901e846@meli2.masterdadeh.ir:80?encryption=none&type=ws&path=%25#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://c3634ed8-9bb2-41f9-4ccc-12b96b1d6254@pari.masterdadeh.ir:80?encryption=none&type=ws&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
-
-vless://5f56e66d-c9ad-485f-9e23-1a1400ca8b9f@fe.numsubaca.wfft.ir:40500/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40AloConfig_com
-
 vless://11bec923-734e-4831-87a5-d50d9ec97692@185.143.234.235:80?type=ws&encryption=none&path=%2F&host=koko.axyno.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 trojan://1234567890@45.137.70.180:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -99,4 +83,10 @@ vless://a2aa9012-57c4-4e7f-9a1d-018ed0292f2b@snapp.ir:80?encryption=none&host=tr
 vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOGRkNjFjYTMtZjY3MC00YzBiLWI3N2MtMDVkZjg1ZDAxYjhmIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwNTYxIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3Z#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://d134e959-783c-4ef9-a10b-f63285ce10de@snapp.ir:8080?path=%2F&security=none&encryption=none&host=dnsdivar.khanumjan.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJpZCI6ICJmOWFhM2I1NC02OWM4LTQyZTktYTAzNC04ZjUzYTBhMDQ5M2QiLCAiZnAiOiAiIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjgwIiwgInBhdGgiOiAiLyIsICJhdXRob3JpdHkiOiAiIiwgInNuaSI6ICIiLCAiaGVhZGVyVHlwZSI6ICIiLCAiZXh0cmEiOiAiIiwgImZyYWdtZW50IjogIiIsICJ0bHMiOiAibm9uZSIsICJhZGQiOiAic25hcHAuaXIiLCAidHlwZSI6ICJub25lIiwgImRldmljZUlEIjogIiIsICJtb2RlIjogIiIsICJob3N0IjogImRhcnhoaW50ZWFtLmJyYXZvLXNpeC5pciIsICJhbHBuIjogIiIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJzZWVkIjogIiIsICJzZXJ2aWNlTmFtZSI6ICJub25lIiwgImFpZCI6ICIwIiwgInYiOiAiMiJ9
+
+vless://34c4aa70-2a68-4754-b74e-5a336877af6e@bop.ghoststeven.site:442?type=grpc&encryption=none&serviceName=aparat-stream&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=bop.ghoststeven.site#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
 
