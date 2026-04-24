@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://YWVzLTI1Ni1nY206YXAxc3JuRmRJQzV2SnhJWFpORFM0VGF6QXliZHZPV2dPMWJXUWFjMHlnST0@85.239.55.136:39118#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://1c45e98c-8a4a-45e7-acc5-3a3cc962f463@144.31.220.136:25565?encryption=none&fp=chrome&pbk=n00VSaVEImUfNI-8882Ecum-Er2KIHLg32Y-MWQGeh8&security=reality&sni=hypixel.net&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://fcad92ee-688b-4364-9470-81f9066439cd@vpn2.ulteracrypto.site:22102?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://7e132209-3593-45be-bdf6-ddcee2983e5f@fe.numsubaca.wfft.ir:40500/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://6008a694-040a-4dd3-9508-c8c3dec65ea8@37.255.172.89:443?encryption=none&type=xhttp&security=tls&path=%2F52412%2Fxhttpcf&host=het.btkhomtoro.shop&mode=auto&sni=het.btkhomtoro.shop&alpn=h2%2Chttp%2F1.1&fp=random&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vasl_bashim
-
 vless://0bce4463-a929-4c8e-95d5-f88b6018fdfe@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://785836a7-45fe-4e0c-aa17-28d5909b7585@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -173,4 +163,12 @@ trojan://gRhMxPMmod@cc.websooj.site:443?path=%2Fheh&security=tls&alpn=http%2F1.1
 vless://c9ab194f-3af6-4da1-88e5-a99ad6356c5f@snapp.ir:80?encryption=none&type=ws&path=%2F&host=test.packser.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://a300snwpb-0d7a-496f-8e97-0b0ajs0ncbff55d@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=cn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://9195c65b-8d1b-40cc-aef0-7c9acabb1d2b@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://245bf0fd-e3c8-443b-ba1f-9c8ced2d86da@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://245bf0fd-e3c8-443b-ba1f-9c8ced2d86da@arvancloud.ir:80?path=%40Nvp_Hours&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ac43d6ae-23d0-41b6-adc3-4bcebff3922e@protecttwo.starmizban.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=protecttwo.starmizban.com&fp=chrome&type=ws&sni=protecttwo.starmizban.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
