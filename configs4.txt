@@ -64,3 +64,7 @@ vless://c4b8bde3-8926-47d9-8e8b-a32e7578557f@emg2.mohimobileservice.ir:2095?path
 
 vless://c5e6f1c5-59f1-aba7-30e8-236e4b84863b@x1.nexconn.pro:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none&security=tls&type=ws&path=/ray#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?allowInsecure=0&sni=ako.pagate.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
