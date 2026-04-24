@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://e3d66b69-2c95-4e5d-9389-31842035ae25@snapp.ir:80?encryption=none&type=ws&headerType=none&path=%2F&host=knet-prime.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://2a3caff5-2106-4368-97e9-9026ec2f1df3@myrt7rt8e5w5gfdfEerh8.maral-pc.site:442?type=tcp&path=%2F&host=91.245.229.1&headerType=http&security=none&encryption=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://20769715-3264-454f-b917-895fb7336f2f@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -39,4 +37,6 @@ trojan://1234567890@162.19.243.185:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@25.26.27.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 ss://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiVGVsZWdyYW0gOiBAU29ja3NQcm94eSDwn42DIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://ce545593-b8bb-4414-9c7f-c8edd4b4ed93@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=cyrusshield.frontendev.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
