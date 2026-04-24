@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://81405887-5b05-430a-bfc0-8ba7c388d4ae@185.143.233.235:8080?encryption=none&type=ws&host=test.zerocdn.online&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.188.107.135:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://302f726e-248d-42f9-9d51-dce04d6e6b10@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=an.8lack.ir&sni=an.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://c0660c7f-f8d8-4998-a804-bfe998f0afa6@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://df2c17c1-baf1-4d4f-b90c-c06c4e289d4e@vitallife.gg:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=vitallife.gg&path=%2Fwp-content%2Fcachecache&security=tls&sni=vitallife.gg&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://6527c443-0d4d-45c3-a60b-fbf45a759d90@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vitallife.gg&fp=chrome&type=ws&allowInsecure=0&sni=vitallife.gg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-trojan://pIcE09Ekk9@45.82.137.236:37958?type=tcp&security=none&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAiY2RuLmlwLXN0YXRpYy5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiRklOMDAzLm1pZGFzbmV0LndvcmsiLCAiaWQiOiAiYTkzMTFmZjItMTRiZi00YmE2LTg2MDEtNDIwMjhhN2UzYTg0IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
-
 vless://f035a750-b811-4234-a612-6c9fa472878c@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vmess://eydhZGQnOiAnY2RuLmlwLXN0YXRpYy5jb20nLCAnYWlkJzogJzAnLCAnYWxwbic6ICcnLCAnZnAnOiAnJywgJ2hvc3QnOiAnRklOMDAzLm1pZGFzbmV0LndvcmsnLCAnaWQnOiAnYTkzMTFmZjItMTRiZi00YmE2LTg2MDEtNDIwMjhhN2UzYTg0JywgJ2luc2VjdXJlJzogJzAnLCAnbmV0JzogJ3dzJywgJ3BhdGgnOiAnLycsICdwb3J0JzogJzgwJywgJ3BzJzogJ0BTUEVFRFNfVlBOLdqp2KfZhtin2YQt2b7YtNiq24zYqNin2YYt2K3YqtmF2Kct2KzZiNuM2YYt2KjYtNuM2K8nLCAnc2N5JzogJ2F1dG8nLCAnc25pJzogJycsICd0bHMnOiAnJywgJ3R5cGUnOiAnLS0tJywgJ3YnOiAnMid9#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -91,4 +75,10 @@ vless://238e8056-f60c-492a-bbd2-45a41d78d942@185.143.233.5:80?path=%2Fgamescore%
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.132.185:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+trojan://telegram-id-privatevpns@15.237.12.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.12.135:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@15.237.12.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
