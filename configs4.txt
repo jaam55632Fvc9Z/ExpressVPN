@@ -76,3 +76,11 @@ ss://fhdbdc#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://d0dd17ff-5d9f-49fb-983d-e8d8f8c16171@snapp.ir:80?path=%2Fgraphql&security=none&encryption=none&host=qs1.limitless-cloud.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://9c7317bd-6aba-48e1-8fd3-2d4db912a248@camp.nahidapp.com:443?path=%2Fhaikino&security=tls&encryption=none&host=camp.nahidapp.com&type=ws&sni=camp.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://20265484-fc33-42d4-a598-00eaa4eb8178@db.farstele.com:2052?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://22ef145a-aa80-4bfa-8519-2635c63ce851@kilb.simbaaa.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.simbaaa.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://9c7317bd-6aba-48e1-8fd3-2d4db912a248@camp.nahidapp.com:443?path=%2Fhaikino&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
