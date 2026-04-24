@@ -60,3 +60,7 @@ vless://d7f67e94-aa9e-4454-b1cf-ce522a0d2728@172.232.208.147:443#%F0%9F%87%AE%F0
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.238:2096?path=@mtproto_proserver&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mtproto_proserver
 
+vless://c4b8bde3-8926-47d9-8e8b-a32e7578557f@emg2.mohimobileservice.ir:2095?path=%2Fsamfw&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://c5e6f1c5-59f1-aba7-30e8-236e4b84863b@x1.nexconn.pro:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
