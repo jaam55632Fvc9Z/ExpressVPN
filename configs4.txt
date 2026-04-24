@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://478f8833-d7a0-4c5d-9751-7df6bd72f1ec@zir.alihapps3.aghanami.ir:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://f9998c34-81b3-481f-b1b5-2858e6ef0b30@185.143.233.5:80?security=none&allowInsecure=0&encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&type=ws&host=cdn2.restaurantworld.ir&path=/gamescore?ed%3D128#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://02f5fa55-0f73-4b04-8adb-ce59bc7ac467@185.143.233.122:2052/?type=ws&encryption=none&path=%2F&host=app.v16.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?type=ws&host=d.nsa03.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://gRhMxPMmod@89.42.139.102:443?path=%2Fheh&security=tls&alpn=http%2F1.1&insecure=0&host=cc.websooj.site&fp=chrome&type=ws&allowInsecure=0&sni=cc.websooj.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://12c045b6-d5a8-42e9-a975-cf4d10ebc617@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiY2QyNGU1Y2YtMTYyNS00NzE5LTlkM2EtNGU5ZTZiN2M0YTViIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwMjI3IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
 ss://tdu76#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 trojan://1234567890@82.21.117.137:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -95,4 +79,8 @@ vless://20769715-3264-454f-b917-895fb7336f2f@trex.nahidapp.com:443?path=/vless-w
 vless://09a429d9-6ffa-43f3-8b3a-c634dbdda94d@151.240.151.202:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=db04ce8bdb8900f1#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://0d7d4da8-e6cd-494e-9bc5-05f0a332a214@185.143.233.235:80?type=ws&host=d.nsa03.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+ss://ffjfnfnfc#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://f6eec03e-2d8a-4bc9-a45b-5d157c9dafad@s3.evansocial.top:28695?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=s3.evansocial.top&fp=chrome&mode=auto&alpn=h2,http/1.1&extra=%7B%0A%20%20%22easy_connecting%22%20:%20%22100-1000%22%0A%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
