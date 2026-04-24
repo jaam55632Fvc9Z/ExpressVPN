@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d4db42fc-351d-48a2-ac8b-b67446bffb33@snapp.ir:80?encryption=none&type=ws&path=%2F&host=sv1-dl.persianmusics.site&allowInsecure=1#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://10dac7d1-f30a-436b-80da-4f19c1f22ffb@net.ulteracrypto.site:14971?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 trojan://humanity@127.0.0.1:40443?mux=&path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&muxConcurrency=-1&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 trojan://telegram-id-directvpn@13.37.187.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
@@ -9999,4 +9995,8 @@ vless://d19b31c4-b574-41a7-9ee4-5cbec97b72fc@trex.nahidapp.com:443?path=%2Fvless
 vless://ded718e8-98e2-48fc-a2e4-d48cb3d987f8@cdn.mizbanertebatfarda.ir:2052?path=%2F&security=none&encryption=none&host=cdn.mizbanertebatfarda.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAiMTcyLjY3LjE2NC4xMjUiLCAiYWlkIjogMCwgImhvc3QiOiAib3BsZzEuY2ZjZG4yLnh5eiIsICJpZCI6ICJjNWEyZDdiOC1iZjg0LTRmOTctODU3Ny1iOWI4N2YyYmFhZjciLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0FVSUtOOEFVIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgV1MtVExTIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+
+vless://95ca5718-bb12-4735-81e7-775e01b8f310@185.189.58.195:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.239.245.250:443?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
