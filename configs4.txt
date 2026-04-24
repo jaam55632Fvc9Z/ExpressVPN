@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://f035a750-b811-4234-a612-6c9fa472878c@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eydhZGQnOiAnY2RuLmlwLXN0YXRpYy5jb20nLCAnYWlkJzogJzAnLCAnYWxwbic6ICcnLCAnZnAnOiAnJywgJ2hvc3QnOiAnRklOMDAzLm1pZGFzbmV0LndvcmsnLCAnaWQnOiAnYTkzMTFmZjItMTRiZi00YmE2LTg2MDEtNDIwMjhhN2UzYTg0JywgJ2luc2VjdXJlJzogJzAnLCAnbmV0JzogJ3dzJywgJ3BhdGgnOiAnLycsICdwb3J0JzogJzgwJywgJ3BzJzogJ0BTUEVFRFNfVlBOLdqp2KfZhtin2YQt2b7YtNiq24zYqNin2YYt2K3YqtmF2Kct2KzZiNuM2YYt2KjYtNuM2K8nLCAnc2N5JzogJ2F1dG8nLCAnc25pJzogJycsICd0bHMnOiAnJywgJ3R5cGUnOiAnLS0tJywgJ3YnOiAnMid9#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://1fd37238-68c5-4717-a7fe-a09280d605d2@cloudinohost.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=cloudinohost.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://a55cad09-6530-436e-aed9-dab91e98cb2a@snapp.ir:80?encryption=none&type=ws&path=/&host=nice.jahansportmarkazi.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -81,4 +77,12 @@ trojan://telegram-id-privatevpns@15.237.12.135:22222?security=tls&alpn=http/1.1&
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.12.135:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://telegram-id-directvpn@15.237.12.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://bbb57005-cdc0-4f6a-a790-fed979726487@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1039e31b-f0c7-4131-a9aa-8063a527d315@xrv1.ecomax1.ir:80?path=/&security=none&encryption=none&host=pall-30f0cdfcf1-cloud.apps.ir-central1.arvancaas.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsRm5LNWx0Mk12SE9FZnNxZGIybGlEUktFb3F5QjQ2YlMzTCs4aDdkQU1jPQ@vodcezuser.vipstarone.com:15152#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiMjAyMDkiLCAiaWQiOiAiMTNiZjM5OTgtMGFlYS00ZTc1LWE3YmEtMzljZWNjOTcyZTE5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
 
