@@ -28,3 +28,15 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.131.101.135:443?&security=tls&sn
 
 vless://e3b8b349-d445-48cc-8372-8eb3cdbbe7e9@snapp.ir:80?encryption=none&type=ws&path=%2F&host=gp.shsoft.store#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://daa69be9-efdb-4ba9-8aee-7b5d2b4cdedb@185.143.234.5:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.mapircdn.com&sni=alef.ir.oadeflantrogm.mapircdn.com&fp=randomized&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://daa69be9-efdb-4ba9-8aee-7b5d2b4cdedb@185.143.234.5:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.mapircdn.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.mapircdn.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ceee2891-f0fe-498a-9e38-9616fc55f37d@185.143.233.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.airasiadl.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.airasiadl.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9b5399aa-cd0c-4a32-90e5-69da5a9d5dae@185.143.233.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://3b8aeeb4-5a70-4a0b-8e88-c62415ec03af@185.143.234.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrmahanair.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrmahanair.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9b5399aa-cd0c-4a32-90e5-69da5a9d5dae@185.143.233.120:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.abrirmahan.com&sni=alef.ir.oadeflantrogm.abrirmahan.com&fp=randomized&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
