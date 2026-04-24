@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://0a3de2ff-8eea-45b4-ba98-d824c5a89f8c@net.ulteracrypto.site:14971?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-trojan://telegram-id-directvpn@63.179.16.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.16.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@63.179.16.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://1575ff65-75c5-4ca9-8d73-35a9d0d72671@net.ulteracrypto.site:14971?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://6d955bba-2c26-42f0-ab6d-9cbe9d709a0a@net.ulteracrypto.site:14971?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://57045854-cbe4-4c7f-9846-0ce097b0d8fc@net.ulteracrypto.site:14971?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://fbe53dec-fd4a-4b5b-8259-c04bbd118d94@net.ulteracrypto.site:14971?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://47d149e3-8ba6-07d0-b91f-3dd9771fa7cc@khamenei.ir:443?encryption=none&type=tcp&security=tls&sni=vaja.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://56c0d5d5-bb71-495a-8c59-ce7736a6c5ba@ip.iran.mobileemdad.top:8080?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -9999,4 +9983,20 @@ vless://10904a2c-d7e6-473c-b33b-7fb4dcfe0bad@trex.nahidapp.com:443?path=%2Fvless
 vless://b6c102e8-dc72-4d80-9dbd-1c7b185cacf7@lite.lootmaster.ir:2082?flow=&host=lite.lootmaster.ir&path=%2F&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://8347f26d-ac87-4fe2-bf7f-d7662c4aaa84@snapp.ir:80?type=ws&encryption=none&path=%2F&host=br.dbrun-gorsap.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
+vless://81405887-5b05-430a-bfc0-8ba7c388d4ae@185.143.233.235:8080?encryption=none&type=ws&host=test.zerocdn.online&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.188.107.135:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://302f726e-248d-42f9-9d51-dce04d6e6b10@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=an.8lack.ir&sni=an.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c0660c7f-f8d8-4998-a804-bfe998f0afa6@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://df2c17c1-baf1-4d4f-b90c-c06c4e289d4e@vitallife.gg:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=vitallife.gg&path=%2Fwp-content%2Fcachecache&security=tls&sni=vitallife.gg&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6527c443-0d4d-45c3-a60b-fbf45a759d90@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vitallife.gg&fp=chrome&type=ws&allowInsecure=0&sni=vitallife.gg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://pIcE09Ekk9@45.82.137.236:37958?type=tcp&security=none&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiY2RuLmlwLXN0YXRpYy5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiRklOMDAzLm1pZGFzbmV0LndvcmsiLCAiaWQiOiAiYTkzMTFmZjItMTRiZi00YmE2LTg2MDEtNDIwMjhhN2UzYTg0IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
 
