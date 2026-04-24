@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ef422f11-ed96-4188-98fe-17611ea297ef@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@72.57.78.146:8443?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Flives&security=tls&sni=edt2.btxst.eu.cc&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@173.230.151.159:443?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Fstream%2Fads&security=tls&sni=edt2.btxst.eu.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://e6c05419-9338-44fc-926d-918c55bacf44@89.22.228.118:443?allowInsecure=1&encryption=none&security=tls&sni=secdn13.dramatorg.net&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://b992e978-6a29-45e4-beef-6ef7dcbd4d6a@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://47ea8cc3-b08b-424e-92dd-280e976e153c@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -79,4 +71,6 @@ vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://ecfb6715-08f4-4c20-9d9d-f9a46abff493@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=an.8lack.ir&fp=firefox&type=ws&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://370b73c3-4b64-46c1-a426-23041c559054@ir1.topti.top:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://ebf7d712-7690-4028-81f7-616c106cfd5f@79.117.121.85:35766?security=reality&encryption=none&pbk=JrsNPt4yDyRcLO2-eL0VkVlPBSM2Cp19iDl-A-enrS8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=738b3ed2#%F0%9F%87%AA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
