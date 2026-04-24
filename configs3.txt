@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ad39e228-35a9-4629-a16a-d66a97654225@150.241.230.85:52554?security=reality&encryption=none&pbk=DCnaVqwxfGF3d7LDHqFKYtlyGw2l6LsbxPvphK776Gc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6b4bdb32#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:2096?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/&sni=webassets.cafebazaar.ir&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2ray_confiig
@@ -2111,6 +2107,8 @@ vless://a2#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2053?security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://65ea4681-21ad-47a3-9589-de4864135ee1@shop.shadowroute.site:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=ws&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=%2Fdownloader.php&security=tls&encryption=none&host=windy.adaspoloandco.com&fp=chrome&type=ws&sni=windy.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9997,6 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?type=tcp&encryp
 vless://c7f5851b-f15b-4e12-abdb-c469351d9f69@hahahairanwebvpn.shop:22244?type=xhttp&encryption=none&path=%2F&host=&mode=stream-one&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=hahahairanwebvpn.shop#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBWYTNsU2hvIiwNCiAgImFkZCI6ICIxODUuMTEuODkuMzgiLA0KICAicG9ydCI6ICIxMjgwOSIsDQogICJpZCI6ICJhZWRkYmJiZC1hZDk1LTQ5ZTgtZWUzMS03Y2FjYzdlZGUxMTciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Va3lSho
+
+vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiQHNhbWluaXN0…#%F0%9F%8C%90%20TCP-None%20%7C%20%40saministamm
 
