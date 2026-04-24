@@ -56,3 +56,11 @@ vless://b4343366-2ef3-447e-8719-ab162668312d@v2.v2zone2.shop:443/?type=tcp&encry
 
 vless://0f79accd-a664-42d1-a7f2-decedc097ee8@p.ar-panelar.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=p.ar-panelar.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
+vless://ff1ee9fd-f3d1-402d-842d-e4d5783bc257@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://461f2895-b406-4b9b-b2a1-97cce4730f7d@185.143.233.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://461f2895-b406-4b9b-b2a1-97cce4730f7d@185.143.233.235:80?security=none&allowInsecure=0&encryption=none&type=ws&host=d.nsa03.com#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://0a79b8d7-b991-4677-afb3-715d718f5cce@ips.cf.mobileemdad.top:443?mode=auto&path=%2Fcloudapi&security=tls&alpn=h2&encryption=none&insecure=0&host=dl.mobileemdad.top&fp=chrome&type=xhttp&allowInsecure=0&sni=dl.mobileemdad.top#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
