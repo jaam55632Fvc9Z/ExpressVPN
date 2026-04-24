@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d9b32b40-53bb-4a90-b4e8-e4f8a68647cc@arvancloud.ir:80?type=ws&encryption=none&path=%40TunizoNET&host=dom.amirenzohost.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://3f6e9fc6-90ac-4137-8bb9-f29be4f0843c@45.82.138.240:80?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://89e808ca-ac12-4e05-a646-61024931c213.97.116.193:2053?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv1%2Fuuid%2F98c0df5e-213f-41cb-82ab-b3b4bca54d0b&host=e7e9fdcb-9b1d-40c1-b79c-439d55ac44bf.ensf.top&sni=e7e9fdcb-9b1d-40c1-b79c-439d55ac44bf.ensf.top&alpn=http%2F1.1&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-ss://a#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 ss://aبخدا#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -405,6 +397,8 @@ vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.40.139:443?allowInsecure=1&e
 vless://f8fcf9f9-b690-4595-b9c4-222d785cb3de@185.143.233.235:443?encryption=none&security=tls&sni=nobitex.ir.cdnlx11u.shahramcloud.com&insecure=0&allowInsecure=0&type=ws&host=nobitex.ir.cdnlx11u.shahramcloud.com&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://65ea4681-21ad-47a3-9589-de4864135ee1@shop.shadowroute.site:443?encryption=none&security=tls&alpn=h2%2Chttp%2F1.1&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0ddfc8ce-745e-44f6-97d2-aaeeadbaaec8@srvusjrp.samanidempire.org:443?encryption=none&host=srvusjrp.samanidempire.org&path=/afb18b42&security=tls&sni=srvusjrp.samanidempire.org&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://8d0e5f7e-f5a6-478e-9b82-e2d380f5e476@185.143.234.235:2095?path=%2Fapi&security=none&encryption=none&host=d.nazincup.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9993,10 @@ vless://ebf7d712-7690-4028-81f7-616c106cfd5f@79.117.121.85:35766?security=realit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZmpjdGloaUhyck43eVNMUUpjZXp3@92.119.166.104:1080#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WVRNd01EYzJOelJsWmpRMU5HTm1abUl3TVRSbU1UWmpOVGxqT0RWaVpEaz06WlRKak5UVXpNelEwTkdaaU5HSTNNbUZpWW1Sa05EaGxaak5pTkdaak16WT0@v-brown.emvpb.com:4436?type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@15.224.33.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.33.14:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.224.33.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
