@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none&security=tls&type=ws&path=/ray#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?allowInsecure=0&sni=ako.pagate.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://47d149e3-8ba6-07d0-b91f-3dd9771fa7cc@khamenei.ir:443?encryption=none&type=tcp&security=tls&headerType=none&sni=vaja.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://aa4f3efd-7efa-4a36-9275-ab7a9534c5f2@185.143.233.5:80?path=%2Fgamescore%3Fed%3D128&security=none&encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&host=cdn3.restaurantworld.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -59,4 +55,14 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2096?encryption=none&
 trojan://8r%3C%5B9%27l6hAO%238ZQi@185.208.79.214:443?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://ed908005-fba1-40f1-ae00-42f77575c35c@khan10.tarfandgallery.sbs:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=khan10.tarfandgallery.sbs#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiNDUuMTUuMTg1LjE3IiwgImhvc3QiOiAiNDUuMTUuMTg1LjE3IiwgImlkIjogImM1MDNhOTZhLWEyZjUtNDg0Ny1hMzFmLTIwYzE3ZWNmM2JlNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJwcyI6ICJcdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZmEgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+vless://5050193d-1a82-4fea-933d-994083bae6a7@anten.ir:80?path=%2F&security=none&encryption=none&host=ss.linuwebtunnel.site&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@185.208.79.214:443?type=ws&security=tls&path=%2Ftr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://127db1b3-ed8d-4221-b231-ca45035b98d5@185.143.233.5:80?type=ws&security=none&host=cdn2.restaurantworld.ir&path=%2Fgamescore%3Fed%3D128#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://ggvdd#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
