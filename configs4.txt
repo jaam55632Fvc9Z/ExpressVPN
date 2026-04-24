@@ -78,3 +78,7 @@ vless://34963411-b011-48d4-821d-c82b94fd1aed@185.143.233.235:80?type=httpupgrade
 
 vless://1c998bff-2247-4ece-9248-72becbe082b9@my.verifyfa.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=my.verifyfa.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://cd5f2963-3c61-4983-9507-65fe76e224d6@new.nexusteam.site:2086?path=%2F&security=none&encryption=none&host=New.nexusteam.site&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#%F0%9F%87%B8%F0%9F%87%A6%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
+
