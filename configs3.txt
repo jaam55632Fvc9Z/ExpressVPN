@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://82e5c454-df73-4774-ba3c-0a3d0e483c86@arvancloud.ir:80?type=ws&encryption=none&path=%40TunizoNET&host=dom.amirenzohost.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiAicHQtbmdpbngtdGVoLWVjZjM5ZDE4YzktcnJodnAuYXBwcy5pci10aHItYmExLmFydmFuY2Fhcy5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMWJkZGI1YmEtZDhkMy00NDVmLWQ4ZDEtOTVlYjZlNTAxZmE1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcGkvZGlyZWN0IiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBAQWxpZW5WUE5zIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
@@ -9999,4 +9997,6 @@ vless://c9d398cd-ea40-4ed6-95dd-990a116aa5d9@snapp.ir:8080?encryption=none&secur
 vless://36381022-b372-4bb4-a382-ec40a8e2db2b@snapp.ir:8080?encryption=none&security=none&type=ws&host=cm.programming-coding.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 ss://hdjdjfdd#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://UUID@google.com:443?encryption=none&type=ws&security=tls&path=%2F&host=google.com&sni=google.com&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 

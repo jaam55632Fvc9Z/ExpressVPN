@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://6fe0b9b2-8caa-4e5e-9f65-e10990628d05@n1.b760plus.shop:19977/?type=tcp&encryption=none&path=%2F&headerType=http&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40VPNConectd
-
-vless://2ae36cda-3cca-4ead-831e-80000308bf91@185.213.165.81:12019?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://7df89ef5-6e93-4116-a43e-3d0bf76256cb@t1.arshiaspeed.shop:2082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 ss://dhdhdbd#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -59,4 +53,6 @@ vless://c9d398cd-ea40-4ed6-95dd-990a116aa5d9@snapp.ir:8080?encryption=none&secur
 vless://36381022-b372-4bb4-a382-ec40a8e2db2b@snapp.ir:8080?encryption=none&security=none&type=ws&host=cm.programming-coding.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 ss://hdjdjfdd#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://UUID@google.com:443?encryption=none&type=ws&security=tls&path=%2F&host=google.com&sni=google.com&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
