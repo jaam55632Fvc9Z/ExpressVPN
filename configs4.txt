@@ -88,3 +88,19 @@ vless://156dc0ca-c73d-42d5-b0ee-5f820e9110af@193.233.128.247:443?encryption=none
 
 vless://bc2d585d-c3f7-4e39-b68d-d6e4320fe2f8@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=bn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://478f8833-d7a0-4c5d-9751-7df6bd72f1ec@zir.alihapps3.aghanami.ir:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://f9998c34-81b3-481f-b1b5-2858e6ef0b30@185.143.233.5:80?security=none&allowInsecure=0&encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&type=ws&host=cdn2.restaurantworld.ir&path=/gamescore?ed%3D128#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://02f5fa55-0f73-4b04-8adb-ce59bc7ac467@185.143.233.122:2052/?type=ws&encryption=none&path=%2F&host=app.v16.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?type=ws&host=d.nsa03.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://gRhMxPMmod@89.42.139.102:443?path=%2Fheh&security=tls&alpn=http%2F1.1&insecure=0&host=cc.websooj.site&fp=chrome&type=ws&allowInsecure=0&sni=cc.websooj.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://12c045b6-d5a8-42e9-a975-cf4d10ebc617@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiY2QyNGU1Y2YtMTYyNS00NzE5LTlkM2EtNGU5ZTZiN2M0YTViIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwMjI3IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
