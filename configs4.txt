@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTRhNmZkMjIwOWY2MmE3@185.67.125.109:11201#%F0%9F%87%AE%F0%9F%87%B3%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.52.69:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://836eee65-b1d4-46fc-a19f-fa5ee8713b29@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=d.nsa03.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cHVZYVliYTkxRHlfbmhqUG5PbE1R@172.236.150.119:51515#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -37,4 +33,8 @@ vless://038a5046-282a-4f63-bfe5-bdbb3877d305@finite-node.rtxconfigz.com:443?path
 vless://ma79yoFB4daySooDtnReLaT3P3rLgpB4ElccymTUw+B8RsccccMz3L2/DWWC/UFwlX/ihiK5XDCNXVwSuzsgal15CFONfJbVuAE+ASW4YuzzvfIXtQwvyEU4Y0wHy1cr+b/6hX4lSziQIWAr1kFWINKkjUo++ExvuUBICXxJM25QxyTps+YZNkrUsg49MNfJVMDLhfR3sro6mk+qvYctXSX4wzAPdHnaAfWJA+KVI+s=#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+vless://46144235-a781-49bd-82ce-4ed4c979e863@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=/chat?ed=128&host=bn.8lack.ir&sni=bn.8lack.ir&fp=chrome&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://30992b71-498b-4520-9886-e564350950fc@185.143.232.211:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=app.parhamm2.ir&sni=app.parhamm2.ir&fp=random#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
