@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://20769715-3264-454f-b917-895fb7336f2f@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://09a429d9-6ffa-43f3-8b3a-c634dbdda94d@151.240.151.202:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=db04ce8bdb8900f1#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://0d7d4da8-e6cd-494e-9bc5-05f0a332a214@185.143.233.235:80?type=ws&host=d.nsa03.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 ss://ffjfnfnfc#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://f6eec03e-2d8a-4bc9-a45b-5d157c9dafad@s3.evansocial.top:28695?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=s3.evansocial.top&fp=chrome&mode=auto&alpn=h2,http/1.1&extra=%7B%0A%20%20%22easy_connecting%22%20:%20%22100-1000%22%0A%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -55,4 +49,8 @@ ss://joon#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 vless://80c0e863-f2ea-4735-acf6-8037fb0f08cd@snapp.ir:80?encryption=none&type=ws&path=%2F&host=n1.abantrust.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://e4a6ab9d-0efc-483d-9d4a-b08c398b2932@snapp.ir:2086?encryption=none&host=esirps1046.xchitozx.org&path=%2Frpsvpn&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3b982263-ca65-4a79-99ec-dc666d7cc780@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=cyrusshield.frontendev.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://YWVzLTI1Ni1nY206WVdTdy82YU42N0ZPNXlkLzRQTis4dWFZZjBYUUFJdmVyY0lzWWgya2JJND0@sub-1.iranlink.pro:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 

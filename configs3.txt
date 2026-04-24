@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@141.101.121.196:443?allowInsecure=1&encryption=none&host=blackshadow.dpdns.org&path=%2F44.209.52.7-443&security=tls&sni=blackshadow.dpdns.org&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.155.209:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.187.251:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sant.atira-40.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=sant.atira-40.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#%F0%9F%87%A6%F0%9F%87%B9%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@141.148.153.223:36818?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Fshop%2Fnovels%2Fmobile&security=tls&sni=edt2.btxst.eu.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://656bb400-3b7a-47e3-94b0-0362f3865072@172.64.153.235:8443?path=%2Fsocks5%3A%2F%2F128.140.46.169%3A13482&security=tls&encryption=none&insecure=1&host=socks5.revil-time3.workers.dev&type=ws&allowInsecure=1&sni=socks5.revil-time3.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -1023,6 +1015,8 @@ vless://a185570c-7dbc-4da8-adef-0c2369b4aaa2@185.143.234.235:80?security=none&en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.217:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.14:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.14:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -6006,6 +6000,8 @@ vless://f2a73750-3087-48ff-a763-1348c15dce68@162.159.152.4:443?allowInsecure=1&e
 
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.242.55:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.36.20:2083?allowInsecure=1&encryption=none&host=newwk1.f1w.de5.net&path=%2F&security=tls&sni=newwk1.f1w.de5.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.179.10:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9995,8 @@ ss://joon#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 vless://80c0e863-f2ea-4735-acf6-8037fb0f08cd@snapp.ir:80?encryption=none&type=ws&path=%2F&host=n1.abantrust.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://e4a6ab9d-0efc-483d-9d4a-b08c398b2932@snapp.ir:2086?encryption=none&host=esirps1046.xchitozx.org&path=%2Frpsvpn&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3b982263-ca65-4a79-99ec-dc666d7cc780@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=cyrusshield.frontendev.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://YWVzLTI1Ni1nY206WVdTdy82YU42N0ZPNXlkLzRQTis4dWFZZjBYUUFJdmVyY0lzWWgya2JJND0@sub-1.iranlink.pro:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
