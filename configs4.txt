@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://b5f89da5-26c4-48bd-91ae-d9e71e27c7e2@vpn2.ulteracrypto.site:22102?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://9779e130-9c85-45f1-8b1b-1b28a558aaa5@protecttwo.starmizban.com:443?security=tls&sni=protecttwo.starmizban.com&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=protecttwo.starmizban.com&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://04fa65ad-5178-49c0-b679-a5442e3bfe78@185.143.234.235:80?flow=&host=d.nsa03.com&type=ws #%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://68a2347f-93ed-4109-bd69-526a1ec58c22@khan10.tarfandgallery.sbs:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=khan10.tarfandgallery.sbs#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -55,4 +51,8 @@ vless://1238fe18-3eca-40a9-ae7c-04994ff061f9@pg.nexorainnovationhub.ir:80?encryp
 vless://a55cad09-6530-436e-aed9-dab91e98cb2a@snapp.ir:80?encryption=none&type=ws&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://b4e11b5a-1d1e-4adf-f75b-235f528264bd@s1.resacoonline.com:3350?security=&encryption=mlkem768x25519plus.native.0rtt.1HDx9EXUsgazQ-K3uni1JVLon8YiObYytJcdFbNsmXs&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a2aa9012-57c4-asd-9a1d-018ed0292f2b@snapp.ir:80?path=%2F&security=none&encryption=none&host=trx.noventa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://156dc0ca-c73d-42d5-b0ee-5f820e9110af@193.233.230.196:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
