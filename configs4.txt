@@ -70,3 +70,11 @@ vless://e7f#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://f20de03b-c016-45cd-a6e2-d73713fa1fe0@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://a34a5f3e-e9fa-40a6-f3af-2984adbd701b@178.104.118.247:2087?encryption=none&security=none&sni=178.104.118.247&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://bc848c62-4e54-4f6f-ac4f-501f4a9f7c9a@arvancloud.ir:80?type=ws&encryption=none&path=%40TunizoNET&host=ri.amirenzohost.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://8109d4a8-7466-4fa3-fd1a-968880548bc5@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://04fa65ad-5178-49c0-b679-a5442e3bfe78@185.143.234.235:80?type=ws&host=d.nsa03.com#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
