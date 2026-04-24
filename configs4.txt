@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://1234567890@77.110.96.220:443?type=ws&security=tls&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=kfm-bn0.pages.dev&sni=kfm-bn0.pages.dev&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://43488128-319e-f480-64ea-0acdc712e2a8@86.54.82.239:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xzCEjrybgdtiyOYNKgEAEWzHjvsE2Pkj198_Ch1gZ2U&security=reality&sid=41427aa565e28984&sni=store.steampowered.com&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 trojan://n5ix4FcMQYENMQPL%2BYKbvyJ8nZ84%2BbNTsj@82.26.155.199:10369?type=tcp&security=tls&headerType=none&sni=fra4.chasem2026sud.com&fp=chrome&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -19,4 +17,28 @@ vless://836eee65-b1d4-46fc-a19f-fa5ee8713b29@185.143.234.235:80?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cHVZYVliYTkxRHlfbmhqUG5PbE1R@172.236.150.119:51515#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://7c5d2adf-4a0d-2224-5918-6907b5f595a0@tr.tehranionliine.ir:80?type=ws&host=&security=none&sni=185.226.94.188&alpn=&path=/&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://872adab9-dab5-4e01-a975-aa2ac673cbcc@finite-node.rtxconfigz.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=youtube.com#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://cf7600e5-5619-4cff-b938-ae095b438f86@finite-node.rtxconfigz.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=www.netflix.com#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@finite-node.rtxconfigz.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=telegram.us#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ce2aa2ab-d893-43c2-ae4c-5b45eb74d49f@finite-node.rtxconfigz.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=tiktok.com#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a5d740d3-2af5-49c2-bfca-f0983456f5fc@finite-node.rtxconfigz.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=web.whatsapp.net#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f64ff901-72ad-4aee-9425-10d6c07a8c50@varzesh3.com:80?type=ws&encryption=none&path=/26250&host=ir5.mhazanservice.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YmZlZTEzODhlOTYwNTM3@51.89.117.154:11201#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://3c03e9c9-88e2-404d-bfef-e4fcf29a29e3@finite-node.rtxconfigz.com:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5d3edd3f-7e6a-4c3d-a00e-9723c42cb2b4@centurylink.es:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=finite-node.rtxconfigz.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://759700eb-59a9-4523-9b65-1fe196e00b99@support.zoom.us:8080?path=/&security=none&encryption=none&host=finite-node.rtxconfigz.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://038a5046-282a-4f63-bfe5-bdbb3877d305@finite-node.rtxconfigz.com:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=api.zoom.us#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
