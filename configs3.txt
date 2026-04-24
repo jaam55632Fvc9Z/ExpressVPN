@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQ1YjgzNTE5LTljNGYtNDA1Mi1hMTFiLTAyZTAxN2I2MzZkNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAzNjcwMywgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInBzIjogIlx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://63b05f16-2a71-47e6-a070-cc94f9ee76bc@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://86cd31bd-1b9e-4ed7-a6b0-d4a1f24bb34d@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=none&encryption=none&host=live-azd1102.telewebion.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://c6b78a83-b85c-6805-915f-645f18273501@hmt.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.190#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://ad0cd125-beb2-42fd-9317-fe64d8b92d4b@devers.amozesh-kade.ir:2053?type=xhttp&security=tls&path=%2F&host=&mode=auto&sni=devers.amozesh-kade.ir&allowInsecure=1&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -9999,4 +9985,18 @@ vless://f20de03b-c016-45cd-a6e2-d73713fa1fe0@185.143.234.235:80?path=%2F&securit
 vless://668bb3a4-a7b2-4d81-a46a-618ec28877e1@protecttwo.starmizban.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=protecttwo.starmizban.com&fp=chrome&type=ws&allowInsecure=0&sni=protecttwo.starmizban.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiMjAyMjYiLCAiaWQiOiAiZWIwOGYzMDctYTE0OC00YmVkLTg2MGEtZDg0YjQxNGVlNDU3IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+
+vless://11959797-cfb6-4735-a536-1e8a94ea2ba6@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=an.8lack.ir&sni=an.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fa1a1752-135d-4c5a-b800-df520e09310c@185.143.233.235:80?type=httpupgrade&encryption=none&path=%2Fback&host=s101.tireks.site&security=none#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@107.174.36.103:443?&security=tls&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5050193d-1a82-4fea-933d-994083bae6a7@anten.ir:80?path=%2F&security=&encryption=none&host=ss.linuwebtunnel.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
+
+vless://35bd688d-efed-436a-b414-9aa86c37c781@protecttwo.starmizban.com:443?security=tls&sni=protecttwo.starmizban.com&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=protecttwo.starmizban.com&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://995a5ba6-40c6-4b83-ac5c-f5b547eb4546@185.143.233.5:80?path=%2Fgamescore%3Fed%3D128&security=none&encryption=none&host=cdn4.restaurantworld.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://fe487cc9-048e-4f6e-a9e3-32bd4c0b83e4@As.dlsp-ir.com:8443?security=tls&encryption=none&headerType=http&fp=randomized&type=tcp&sni=As.dlsp-ir.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
