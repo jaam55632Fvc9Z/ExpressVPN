@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://57045854-cbe4-4c7f-9846-0ce097b0d8fc@net.ulteracrypto.site:14971?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://47d149e3-8ba6-07d0-b91f-3dd9771fa7cc@khamenei.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=vaja.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://7a9118ed-2e88-4b47-9b49-c4b38c60458f@help.stardaata.ir:8080?path=%2Fget-users%2Fall&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -9999,4 +9997,6 @@ vmess://eyJhZGQiOiAiY2RuLmlwLXN0YXRpYy5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAi
 vless://f035a750-b811-4234-a612-6c9fa472878c@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vmess://eydhZGQnOiAnY2RuLmlwLXN0YXRpYy5jb20nLCAnYWlkJzogJzAnLCAnYWxwbic6ICcnLCAnZnAnOiAnJywgJ2hvc3QnOiAnRklOMDAzLm1pZGFzbmV0LndvcmsnLCAnaWQnOiAnYTkzMTFmZjItMTRiZi00YmE2LTg2MDEtNDIwMjhhN2UzYTg0JywgJ2luc2VjdXJlJzogJzAnLCAnbmV0JzogJ3dzJywgJ3BhdGgnOiAnLycsICdwb3J0JzogJzgwJywgJ3BzJzogJ0BTUEVFRFNfVlBOLdqp2KfZhtin2YQt2b7YtNiq24zYqNin2YYt2K3YqtmF2Kct2KzZiNuM2YYt2KjYtNuM2K8nLCAnc2N5JzogJ2F1dG8nLCAnc25pJzogJycsICd0bHMnOiAnJywgJ3R5cGUnOiAnLS0tJywgJ3YnOiAnMid9#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://1fd37238-68c5-4717-a7fe-a09280d605d2@cloudinohost.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=cloudinohost.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
