@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://f5631a01-0c5c-4e1c-aa6a-175f8771c66a@194.59.170.64:443?security=reality&allowInsecure=0&encryption=none&type=xhttp&path=/api/v2/stream&sni=aparat.com&sid=0eec4cf90d&fp=chrome&pbk=06VArulxNLGtWd-trz9uW7IDxJuCCoNHpZpaH3xv-Vs&spx=/&mode=auto#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
-
-vless://b0bbad3e-0778-4f9c-ba43-45f3db630ac0@a.iup.ir1-one.ir:80?encryption=none&type=ws&path=%2Fdl%3Fed%3D2048#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://0a8e2b9a-0c59-4ae7-b585-aca1d964f661@snapp.ir:80?path=%2Fpayment&security=none&encryption=none&host=shop.nexorastartuphub.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://5377335c-508c-42e9-9e20-1f6c1eebed03@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://c5e56203-ad14-409e-bfee-d242e92fa5a2@out1.un1ty.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9991,12 @@ vless://c9239de0-f011-4ac2-8743-061ec502553f@us1bot-ws.headerip.com:80?path=%2F&
 ss://ksjsks#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fs.narton.ir:80?encryption=none&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&host=mitivpn-s1.global.ssl.fastly.net#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://ca683ff2-5d4b-4d3a-8802-a3f790801604@185.143.233.235:80?security=none&encryption=none&host#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://75ac7622-a866-4912-9cbd-61003184b7ea@joker.preghost.ir:45807?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=aparat-stream&sni=joker.preghost.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://4788d995-a7b5-4be2-add5-12da6a802aba@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a2fec978-abed-4f2d-b147-7aaab3bb6f47@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fn.8lack.ir&fp=firefox&type=ws&sni=fn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
