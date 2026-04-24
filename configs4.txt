@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://836eee65-b1d4-46fc-a19f-fa5ee8713b29@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=d.nsa03.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cHVZYVliYTkxRHlfbmhqUG5PbE1R@172.236.150.119:51515#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://7c5d2adf-4a0d-2224-5918-6907b5f595a0@tr.tehranionliine.ir:80?type=ws&host=&security=none&sni=185.226.94.188&alpn=&path=/&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -37,4 +35,8 @@ vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?encryption=non
 vless://46144235-a781-49bd-82ce-4ed4c979e863@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=/chat?ed=128&host=bn.8lack.ir&sni=bn.8lack.ir&fp=chrome&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://30992b71-498b-4520-9886-e564350950fc@185.143.232.211:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=app.parhamm2.ir&sni=app.parhamm2.ir&fp=random#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://629e6419-e3eb-4d6b-a09f-81fbdf26029b@free.clourana.lol:46421?type=tcp&security=none&encryption=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://30992b71-498b-4520-9886-e564350950fc@185.143.232.211:443?encryption=none&security=tls&sni=app.parhamm2.ir&fp=random&insecure=1&allowInsecure=1&type=ws&host=app.parhamm2.ir&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
