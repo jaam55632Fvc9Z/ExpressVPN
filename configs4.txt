@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.246.152.159:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://1234567890@138.124.87.163:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B2%F0%9F%87%A9%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.144.154:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.59.201:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.58.43.93:2006?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.23:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -107,4 +99,16 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.134:443?allowInsecure=1&e
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://41312f71-8ef8-4087-8bae-ede9c1636473@185.143.233.5:80?path=%2Fgamescore%3Fed%3D128&security=none&encryption=none&host=cdn3.restaurantworld.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40NormanV2ray
+
+trojan://telegram-id-directvpn@15.236.78.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@15.236.78.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.78.92:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b0004444-f0c0-4df6-a1f5-d7a0bc962e3b@pishroserv.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://11974e38-f00c-41db-8e27-d86d1a4ed8ed@vpn2.ulteracrypto.site:22102?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidmlwMi5hcmlhdGFrcG95YW4uaXIiLCAiaWQiOiAiZDFmOWE5ZjMtMTcyNS00YTU1LWI5MGItYTRhZmU5MjEzNWEzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RhayIsICJwb3J0IjogIjgwODAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
