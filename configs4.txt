@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://66aef30d-15e1-478b-949b-f48202dc9674@ikco.ikcosales.shop:2052?type=ws&security=none&path=/&host=#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://43488128-319e-f480-64ea-0acdc712e2a8@45.77.66.142:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=0c1553316a645758&sni=www.zalando.de&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://41822a16-114f-448c-9b59-efd7098bb959@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=an.8lack.ir&fp=firefox&type=ws&sni=an.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vaslbemonim7
-
-vless://d2a6b762-c2d2-4202-816b-615ff1813041@185.143.233.235:80?encryption=none&type=ws&path=%2F&host=d.nsa03.com#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5z#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -85,4 +77,14 @@ ss://fjdjf#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 vmess://eyJhZGQiOiAiMTcyLjIzMy4xNy43NiIsICJ2IjogIjIiLCAicG9ydCI6IDIyMzI0LCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFRDUC1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
 vless://9adc4114-18c3-4c31-9ef7-b35e87c9d499@pl-dp-01.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=chrome&security=reality&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=50e09046c0c00159&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%B4%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://ab0ec5aa-8e21-46b7-9a88-d960a70de80c@arvancloud.ir:80?encryption=none&type=ws&path=%40TunizoNET&host=ri.amirenzohost.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://0a01f9ec-ff41-455a-8890-922962cdc077@arvan1.un1ty.ir:80?encryption=none&type=ws&path=%2Fjesuschrist#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://91cd6a0a-7472-4fb6-b8bc-4d55e6984b4e@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://dxjdf#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhaWQiOiAiMCIsICJ0eXBlIjogIm5vbmUiLCAic2VydmljZU5hbWUiOiAibm9uZSIsICJhbHBuIjogIiIsICJtb2RlIjogIiIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAiZnAiOiAiIiwgImhlYWRlclR5cGUiOiAiaHR0cCIsICJob3N0IjogImFwYXJhdC5jb20iLCAicGF0aCI6ICIvIiwgInYiOiAiMiIsICJwb3J0IjogIjI2MjYwIiwgInRscyI6ICJub25lIiwgInNlZWQiOiAiIiwgImFkZCI6ICJ4b3NyLm1hcnp4b3guYml6IiwgImlkIjogIjUzZTU5OTViLTcwYmYtNGZlNi05YWMzLWRjM2Y5NzEwYjZiZCIsICJuZXQiOiAidGNwIiwgImZyYWdtZW50IjogIiIsICJleHRyYSI6ICIiLCAic25pIjogIiIsICJkZXZpY2VJRCI6ICIifQ==
 
