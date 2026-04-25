@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@www.glassdoor.com:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@www.udemy.com:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@www.visa.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@gur.gov.ua:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@www.zsu.gov.ua:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@www.wto.org:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@xn--b6gac.eu.org:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@www.baipiao.eu.org:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://d1ac41ce-5222-4b0b-9920-0483dcc2f5aa@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoi24zYp9mF4oCM24zYp9mFIiwic2N5IjoiYXV0byIsInNuaSI6IiI…#%F0%9F%8C%90%20TCP-None%20%7C%20%40YamYamProxy
@@ -99,4 +83,6 @@ trojan://telegram-id-directvpn@3.75.103.136:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@3.75.103.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.103.136:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ff6d6f8e-79f2-441e-ac39-bc3406f86e5c@khan10.tarfandgallery.sbs:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=khan10.tarfandgallery.sbs#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
