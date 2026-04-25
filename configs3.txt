@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://trojan@152.53.200.98:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.222:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://fe751dc2-c5ad-4289-943d-7999b8edfbad@37.152.189.74:4431?security=none&encryption=none&host=live-azd1102.telewebion.ir&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://6025eff1-4803-4692-880c-376e0ed6101e@vpn.ulteracrypto.site:46310?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://3f20d466-ad83-4aea-8576-5c06229cb7cd@vpn.ulteracrypto.site:46310?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://b5dcff61-60b6-4b8e-96cf-3b1eefe738b3@or2.pasargadser.ir:8880?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -9999,4 +9987,16 @@ vless://ce9b4057-ad76-473b-83ff-a1f94b065a5a@sub.syncbridge.site:46260?security=
 vless://8a116384-ce5c-4590-9497-474a1d61d23e@94.183.176.56:14693?flow=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://fac25dd0-fec5-7052-aba0-4fafa709eedb@meli2.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.205#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRWpCbVlSSDJpX0FwV3FkYTRpM19R@93.183.82.116:8388#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://7a54baa9-1555-433e-b921-c592e235b235@Wow2.preghost2.ir:1919?type=grpc&encryption=none&serviceName=aparat-stream&authority=&security=reality&pbk=EEQlgy7X7yrY9ya7kvb8axnj5r2aSIx97Vd-3PJKmwg&fp=chrome&sni=www.oracle.com&sid=3c8cd007c4aa&spx=%2F#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://4f670290-#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://8a116384-ce5c-4590-9497-474a1d61d23e@94.183.176.56:14693?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiMjAyNTciLCAiaWQiOiAiMmFjMGQxODYtMmE3MC00NzUzLTlkYTEtMmI4MmVmMjcxNTBhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
 
