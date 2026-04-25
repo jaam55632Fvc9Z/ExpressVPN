@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2053?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://596b9630-6d8e-436e-bced-6d2a00a4e714@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bn.8lack.ir&fp=firefox&type=ws&sni=bn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6a208d0f-4470-49cd-9dad-e340d45607b8@vpn2.ulteracrypto.site:22102?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://596b9630-6d8e-436e-bced-6d2a00a4e714@185.143.233.5:443?alpn=h2%2Chttp%2F1.1&flow=&fp=firefox&host=bn.8lack.ir&path=%2Fchat%3Fed%3D128&security=tls&sni=bn.8lack.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -93,4 +87,10 @@ vless://c1c0e6f8-10a2-4cb8-ba7d-4743fb0658ae@pg.nexorainnovationhub.ir:80?path=%
 vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@104.21.75.235:443?allowInsecure=1&encryption=none&host=ancient-heart-60c5.dpccgizieb.workers.dev&path=%2FeyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IkB2YXNsX2Jhc2hpbSIsInNjeSI6ImF…#%F0%9F%8C%90%20TCP-None%20%7C%20%40vasl_bashim
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://2727ge#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
