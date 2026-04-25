@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6fd9f786-d974-49d0-b5c4-397678de69a2@185.214.74.210:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://f2c0c6d2-8681-47c2-8eaf-f5d69523ad08@snapp.ir:80?path=%2F&security=none&encryption=none&host=gamefa.yeksanplus.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://92ad2fea-c522-4652-ab12-b712abfe097a@new.nexusteam.site:2086?path=%2F&security=none&encryption=none&host=New.nexusteam.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 trojan://1234567890@185.65.202.222:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiAiY2h1bmNoZW9uMDMuemdqb2suY29tIiwgImFpZCI6IDAsICJob3N0IjogImNodW5jaGVvbjAzLnpnam9rLmNvbSIsICJpZCI6ICI4MWQ1Y2FjNC1kMDM5LTQ4NzQtOWEyMC1jMzkxZjU4MDAxMmQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
@@ -77,4 +69,10 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?security=&encrypti
 vless://5929e7f5-cc32-4ef6-9711-44d767b80ca2@varzesh3.com:80?path=%2F&security=none&encryption=none&host=nobody.panivo.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759/?encryption=none&flow=&host=telewebion.com&type=tcp&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://ceb70fc0-4886-4462-9651-d53b6367846d@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ceb70fc0-4886-4462-9651-d53b6367846d@snapp.ir:80?encryption=none&type=ws&path=%2FFIRELINK&host=firelink.arian-go-internet.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://c81b98e9-c4f7-4408-8be8-9855904db095@v5.game2dns.xyz:260?encryption=none&type=tcp&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
