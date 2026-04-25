@@ -82,3 +82,7 @@ vless://97e3659b-5bdf-4dcb-a4ef-40beb0476740@snapp.ir:8080?path=%2F&security=&en
 
 vless://c3739d3f-86ff-266e-e534-398eba1e8d87@meli.masterdadeh.ir:80?encryption=none&type=ws&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
 
+vless://ff9ff5e8-e324-4587-ab4b-6c678f932c00@snapp.ir:443?path=%2Fnewbelahbelah&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nia.ramlike.ir&fp=chrome&type=ws&allowInsecure=0&sni=nia.ramlike.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://db5be784-057e-45d2-b28c-56daeb8fc1e9@snapp.ir:80?type=ws&encryption=none&path=/wss&host=vah.pianostock.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
