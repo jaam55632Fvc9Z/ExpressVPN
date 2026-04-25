@@ -88,3 +88,13 @@ vless://00efd6e7-fa77-4659-bacf-4dca0df54022@185.143.234.235:443?encryption=none
 
 vless://f84ba18b-ea4c-46dd-b9ef-1edd6454351e@185.143.233.5:443?path=chat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=cn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://00efd6e7-fa77-4659-bacf-4dca0df54022@185.143.234.235:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=shoping.arianrah.ir&fp=chrome&type=ws&allowInsecure=1&sni=shoping.arianrah.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ee61e2aa-1b92-4238-89d0-42e5e90ef772@arvancloud.ir:80?encryption=none&type=ws&path=%2Fws&host=app.s7r.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ee61e2aa-1b92-4238-89d0-42e5e90ef772@arvancloud.ir:80/?type=ws&encryption=none&host=app.s7r.ir&path=%2Fws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+ss://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://422626ed-fcc3-4229-9391-1067c500beee@snapp.ir:80?type=ws&encryption=none&path=%2F&host=br.dbrun-gorsap.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40VPNConectd
+
