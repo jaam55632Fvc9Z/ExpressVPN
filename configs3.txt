@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#%F0%9F%87%B2%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?security=reality&encryption=none&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://ef1c4a4d-a6a5-4911-aa71-fe47030ae81f@qlt.clinicboalisina.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://98033e67-a689-48ca-8163-528854c6dfb3@snapp.ir:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=kilo.v9n.ir&path=/&sni=kilo.v9n.ir&fp=chrome&alpn=h2,h3#%F0%9F%8C%90%20WS-TLS%20%7C%20%40AloConfig_com
 
 vless://6fe354c4-3c00-11f1-8d78-bc24110a77a6@yofree.top:443?type=tcp&security=reality&pbk=AWyicEDYi7KB3qzo8OEvEd1HK0gZhCHAENBd_buyhQk&fp=chrome&sni=yofree.top&sid=fa2f&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ ss://jsh#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 vless://rha#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://-0d7a-496f-8e97-0bbc33bff55d@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=in.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=in.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://06bd9c2d-4380-46ce-a877-a3f3f95f35b1@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://b6bcaffd-d587-4a2a-8eea-0abca16ca439@w.kelimanjaro.ir:8080?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 

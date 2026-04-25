@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://b588b62b-c6b5-45d5-8fc1-00bc04263672@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d2a6b762-c2d2-4202-816b-615ff1813041@185.143.233.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://8ec730ce-9ad9-4062-a039-5e44709f1842@snapp.ir:80?encryption=none&host=Mq.cantiner-cloud.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidmlwMi5hcmlhdGFrcG95YW4uaXIiLCAiaWQiOiAiZDFmOWE5ZjMtMTcyNS00YTU1LWI5MGItYTRhZmU5MjEzNWEzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RhayIsICJwb3J0IjogIjgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFdTLU5vbmUgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://aa4e1b2b-2ed5-41af-b306-ed43a9ff5dc3@45.159.148.180:2053?path=%2Fpath&security=none&encryption=none&host=google.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40manVPN
-
 vless://609d03b3-d331-4a29-baf2-de14b65c6499@pishroserv.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://ff6d6f8e#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -85,4 +73,10 @@ ss://jsh#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 vless://rha#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://-0d7a-496f-8e97-0bbc33bff55d@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=in.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=in.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://06bd9c2d-4380-46ce-a877-a3f3f95f35b1@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://b6bcaffd-d587-4a2a-8eea-0abca16ca439@w.kelimanjaro.ir:8080?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
