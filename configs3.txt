@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://a04cfb12-96f6-4a47-9fa5-f9b7a8c4aa58@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.156.229:443?encryption=none&security=tls&sni=sss.yaml7.ggff.net&type=ws&host=sss.yaml7.ggff.net&path=%2F%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&security=reality&sid=775eb6408888248e&sni=www.ebay.com&type=grpc#%F0%9F%87%B8%F0%9F%87%A6%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
 trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ vless://c3739d3f-86ff-266e-e534-398eba1e8d87@meli.masterdadeh.ir:80?encryption=n
 vless://ff9ff5e8-e324-4587-ab4b-6c678f932c00@snapp.ir:443?path=%2Fnewbelahbelah&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nia.ramlike.ir&fp=chrome&type=ws&allowInsecure=0&sni=nia.ramlike.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://db5be784-057e-45d2-b28c-56daeb8fc1e9@snapp.ir:80?type=ws&encryption=none&path=/wss&host=vah.pianostock.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogInd3dy5hcnZhbmNsb3VkLmlyIiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiYjNmZGZmNjAtYmE4Ny00YmFhLTgxZWYtZTU4Y2ZiYzRmOGRiIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0bHMiOiAibm9uZSIsICJwYXRoIjogIi9hcmlhIiwgImhvc3QiOiAidmlwNi5hcmlhdGFrcG95YW4uaXIiLCAicHMiOiAiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFdTLU5vbmUgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
+
+vless://56687501-ec5b-4207-8513-8c7eebe5341e@snapp.ir:8080?path=%2F&security=&encryption=none&host=cm.programming-coding.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMWVkN2M3ZDAtZTNjNi00NDdmLWE1ZTMtNjEwNDA0MWY1Yzc5IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwMjkzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
