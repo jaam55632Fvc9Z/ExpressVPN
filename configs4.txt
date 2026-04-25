@@ -68,3 +68,13 @@ vless://c0115318-705b-4778-8e55-3d5a5466047d@188.121.103.155:80?path=%2F&securit
 
 vless://1338aeef-022c-4d2d-9caf-d6e1875c5b05@digi.licenzo.ir:13095?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://-0d7a-496f-8e97-0bbc33bff55d@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=in.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=in.8lack.irTelegram%20%3A%20%40BestProxyTel1%20%F0%9F%8D%83#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?flow=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://-0d7a-496f-8e97-0bbc33bff55d@185.143.233.5:443?flow=&type=ws&host=in.8lack.ir&path=/chat?ed%3D128&security=tls&sni=in.8lack.ir&alpn=http/1.1,h2&fp=firefox&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://dff00258-e156-48f8-accd-1dd775e2716e@185.143.233.235:80?encryption=none&type=ws&path=%2F&host=d.nsa03.com#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://f01de3e1#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
