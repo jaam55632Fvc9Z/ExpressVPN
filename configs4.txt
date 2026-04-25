@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://4f525ca8-7d3b-47b4-bc03-af4f3d02d34a@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://a298335d-8dc7-4212-977a-3613f22fcf9c@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://5c3ece4a-7d1b-44bc-8f6e-0914d91c6604@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://7d4f9ad9-060e-4f12-b957-f4bdee8ed62f@new.sordo.store:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=new.sordo.store&fp=chrome&type=ws&sni=new.sordo.store#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://3c458a8c-d2d5-48b1-8af6-5d7f1cb9f0f8@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ff6d6f8e-79f2-441e-ac39-bc3406f86e5c@khan10.tarfandgallery.sbs:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=khan10.tarfandgallery.sbs****#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://c998db4c-fa61-4869-9156-867887d6aba8@parbam.baaq-yas.ir:2096?path=/index.html&security=tls&encryption=none&host=parbam.baaq-yas.ir&fp=chrome&type=ws&sni=parbam.baaq-yas.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://aa463fe9-23db-41e6-8616-cf7145f92b53@ikco.ikcosales.shop:2052?type=ws&security=none&path=/&host=#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -61,4 +49,12 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.173.104.200:2053?encryption=none
 ss://hddhd#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 ss://djdnd#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.173.104.235:2053?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Ah2RATqXH4j_aGMv5NyH3Q@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://BxceQaOe@43.199.206.175:4886?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0eaf3b49-a57a-48e3-a256-a6da117ea828@vpn2.ulteracrypto.site:22102?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
