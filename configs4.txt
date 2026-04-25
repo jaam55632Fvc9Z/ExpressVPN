@@ -78,3 +78,11 @@ vless://7c9594ae-6bbf-4430-a39b-4def77db322a@46.34.163.235:43588?encryption=none
 
 vless://3d377b6e-0417-4ec5-8e5d-80891786d43b@phont.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://9c53f695-eb63-475c-b11f-e64fa828020d@185.143.234.235:443/?type=ws&encryption=none&host=lbank.trpn.ir&path=%2Fdata&security=tls&sni=cndnt.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://17606277-8f7b-460b-9648-14de821432a3@94.101.180.77:43769?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://17606277-8f7b-460b-9648-14de821432a3@94.101.180.77:43769?mode=auto&path=%2F&security=&encryption=none&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://ffde1e9b-d89c-4777-8900-e3a51ee9d495@protecttwo.starmizban.com:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=protecttwo.starmizban.com&path=/&sni=protecttwo.starmizban.com&fp=chrome&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
