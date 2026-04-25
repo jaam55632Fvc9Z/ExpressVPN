@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiQFRST1dFUl9ORVdzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ%3D%3D#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
 trojan://telegram-id-directvpn@3.75.103.136:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://telegram-id-privatevpns@3.75.103.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -55,4 +53,6 @@ vless://aa463fe9-23db-41e6-8616-cf7145f92b53@ikco.ikcosales.shop:2052?path=%2F&s
 vless://db3df5e2-231c-44c6-83ff-7afe8a154fcc@new.imap33.site:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cp.dsdivar.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://0ef362b4-ef25-44b2-b2cc-051d5c9b696e@p.ar-panelar.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=p.ar-panelar.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://50fe1ff7-b948-4059-9c97-a405cb19cf40@89.167.49.101:443?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40v2ray_configs_pool
 
