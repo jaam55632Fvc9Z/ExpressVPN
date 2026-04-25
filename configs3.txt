@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.19.173.68:2053?security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&headerType=none&type=tcp&allowInsecure=1&sni=hio-awx.pages.dev#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://b8b01773-36b1-4b49-9bd0-6249f52345b4@63.141.128.22:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=misty-tooth-78ca.fobogah414-e7b.workers.dev&headerType=none&type=tcp&allowInsecure=1&sni=MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://98df14e1-e3f0-4476-879a-9bd654f0492f@ir.lapnice.shop:2080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9991,12 @@ vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwg
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://aa4e1b2b-2ed5-41af-b306-ed43a9ff5dc3@45.159.148.180:2053?path=%2Fpath&security=none&encryption=none&host=google.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40manVPN
+
+vless://609d03b3-d331-4a29-baf2-de14b65c6499@pishroserv.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ff6d6f8e#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://jshz#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://ce9b4057-ad76-473b-83ff-a1f94b065a5a@sub.syncbridge.site:46260?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
