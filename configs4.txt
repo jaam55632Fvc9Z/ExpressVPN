@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@8.6.112.0:443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&security=tls&sni=2026.hhhhh.eu.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://6836c246-e9b2-41a2-8702-4d880cbd4938@185.143.233.5:80?path=%2Fgamescore%3Fed%3D128&security=none&encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&host=cdn3.restaurantworld.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://47f6d0e6-b50c-468c-b8cd-81472869927f@blubank.sb24.ir:8080/?type=ws&encryption=none&path=%2F&host=kabi.kimjo.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://6836c246-e9b2-41a2-8702-4d880cbd4938@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&type=ws&host=cdn4.restaurantworld.ir&path=/gamescore?ed%3D128&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -85,4 +77,12 @@ vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality
 vless://f2c0c6d2-8681-47c2-8eaf-f5d69523ad08@snapp.ir:80?path=%2F&security=none&encryption=none&host=gamefa.yeksanplus.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://92ad2fea-c522-4652-ab12-b712abfe097a@new.nexusteam.site:2086?path=%2F&security=none&encryption=none&host=New.nexusteam.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://1234567890@185.65.202.222:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiY2h1bmNoZW9uMDMuemdqb2suY29tIiwgImFpZCI6IDAsICJob3N0IjogImNodW5jaGVvbjAzLnpnam9rLmNvbSIsICJpZCI6ICI4MWQ1Y2FjNC1kMDM5LTQ4NzQtOWEyMC1jMzkxZjU4MDAxMmQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@65.0.104.223:80#%F0%9F%87%AE%F0%9F%87%B3%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://hww#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
