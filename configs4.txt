@@ -48,3 +48,11 @@ vless://ff6d6f8e-79f2-441e-ac39-bc3406f86e5c@khan10.tarfandgallery.sbs:443?path=
 
 vless://c998db4c-fa61-4869-9156-867887d6aba8@parbam.baaq-yas.ir:2096?path=/index.html&security=tls&encryption=none&host=parbam.baaq-yas.ir&fp=chrome&type=ws&sni=parbam.baaq-yas.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://aa463fe9-23db-41e6-8616-cf7145f92b53@ikco.ikcosales.shop:2052?type=ws&security=none&path=/&host=#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://aa463fe9-23db-41e6-8616-cf7145f92b53@ikco.ikcosales.shop:2052?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://db3df5e2-231c-44c6-83ff-7afe8a154fcc@new.imap33.site:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cp.dsdivar.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://0ef362b4-ef25-44b2-b2cc-051d5c9b696e@p.ar-panelar.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=p.ar-panelar.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
