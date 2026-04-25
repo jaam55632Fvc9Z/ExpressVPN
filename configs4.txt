@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6c2d835d-57b0-4623-8eb4-db8704b8b9ee@185.143.232.201:80?path=%2F&security=none&encryption=none&host=sep.sofi98.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://00efd6e7-fa77-4659-bacf-4dca0df54022@185.143.234.235:443?encryption=none&type=ws&security=tls&path=%2F&host=shoping.arianrah.ir&sni=shoping.arianrah.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://f84ba18b-ea4c-46dd-b9ef-1edd6454351e@185.143.233.5:443?path=chat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=cn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://00efd6e7-fa77-4659-bacf-4dca0df54022@185.143.234.235:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=shoping.arianrah.ir&fp=chrome&type=ws&allowInsecure=1&sni=shoping.arianrah.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ee61e2aa-1b92-4238-89d0-42e5e90ef772@arvancloud.ir:80?encryption=none&type=ws&path=%2Fws&host=app.s7r.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -135,4 +129,14 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.184:443?allowInsecure=1&e
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.87:52006?sni=cluster-de-2.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTI1Ni1nY206NW1DSDQ2MjRRZmxPMWNGUg@185.111.156.33:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://1234567890@138.124.28.173:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://1234567890@138.124.32.120:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#%F0%9F%87%B1%F0%9F%87%B9%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://1234567890@138.124.32.0:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#%F0%9F%87%B1%F0%9F%87%B9%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss:///4f67029#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
