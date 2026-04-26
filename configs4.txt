@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://YWVzLTI1Ni1nY206NjNkN2MxNzUwNmQxZjQ4Yg@203.32.26.157:40120#%F0%9F%87%B0%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-v2rayvpnchannel@13.39.77.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 trojan://1234567890@104.20.6.134:443?type=ws&security=tls&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&host=kfm-bn0.pages.dev&sni=kfm-bn0.pages.dev&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://3407af8d-c2a1-4f9f-b2fa-22c9324bc7b2@188.114.98.0:443?type=ws&security=tls&path=%2F152.42.236.151-8443&host=alya.yumicftigarun.web.id&sni=alya.yumicftigarun.web.id&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -103,4 +99,8 @@ vless://a818d89a-7230-4b78-85a5-a9ae5c49e146@dzvl2pxz.darkube.ir:443?path=%2FBia
 vless://f0598df8-6bbe-46af-b705-3b7e458d5329@snapp.ir:8880?path=%2Fws%3Fed%3D2560&security=none&encryption=none&host=New1.legendperm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
 
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@176.98.186.50:443#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@77.239.108.36:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk&security=reality&sid=c6118398&sni=gateway.icloud.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://88d75faf-ffc5-4c3f-bcc4-566019490d6a@185.143.233.5:80?path=%2Fgamescore%3Fed%3D128&security=none&encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&host=cdn3.restaurantworld.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
