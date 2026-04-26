@@ -60,3 +60,15 @@ vless://49f58bb7-c295-4d4c-acde-343cf5d4918d@snapp.ir:8443?type=ws&encryption=no
 
 vless://4b7ad979-3e10-1c34-01ab-fea337389504@tr.tehranionliine.ir:80?encryption=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://7df30d4f-40d5-11f1-a6de-30e8d4bd279b@37.49.227.193:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=T6zoUTIKw5BMEvb5-GPicYK0a1nuXnbOEdKytLblizY&security=reality&sni=tradingview.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.66.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%A8%F0%9F%87%BC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A7%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5ba51cec-ada2-4c27-be7f-d8bb1043d4ba@vip.coindrift.online:43698?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c4363dfb-1759-4bb6-ab1f-ad47b2cff970@speed.purples.ir:80?path=%2F&security=none&encryption=none&host=speed.bidacom.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://04621bae#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
