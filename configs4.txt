@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://8f70e0f7-8d77-4661-80e9-defa9b55e1af@185.143.233.5:80?type=ws&encryption=none&path=%2F&host=emi.iransrvrs.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://d562d512-ceea-461c-903f-1a2ddea3b672@snapp.ir:80?type=ws&encryption=none&path=%2F&host=Noyek.nexoratechcenter.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://88d75faf-ffc5-4c3f-bcc4-566019490d6a@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&type=ws&headerType=none&path=%2Fgamescore%3Fed%3D128&host=cdn3.restaurantworld.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://367d2569-fa0b-4cb9-a580-419213ac7b0e@s2.tehranionliine.ir:80?type=ws&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://88d75faf-ffc5-4c3f-bcc4-566019490d6a@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&type=ws&headerType=none&path=%2Fgamescore%3Fed%3D128&host=cdn4.restaurantworld.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
-
 vless://04798b71-6b60-4679-a803-f1feb08f046d@pg.nexorainnovationhub.ir:80?path=%2F&security=none&encryption=none&host=a43fgh.restaurantnetwork.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.146.201.238:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%F0%9F%87%A8%F0%9F%87%BC%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -97,4 +87,16 @@ vless://e798c561-548c-48d0-843b-0d69e6738808@cdn.mizbanertebatfarda.ir:2052?encr
 vless://94a39ff0-e0ea-4429-8a02-e07d4b29074c@ite.pishvatech.lol:2052?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://942b59fb-8351-4bda-8d32-eab56328c2a0@snapp.ir:8880?path=%2Fws%3Fed%3D2560&security=none&encryption=none&host=New1.legendperm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@192.159.99.18:30086?type=grpc&serviceName=gprc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40v2ray_configs_pool
+
+trojan://77b19c69-9840-443d-a66b-f08c81b6950a@888.cloudflare.182682.xyz:443?sni=goog0419.bpusfaster2.top&type=ws&host=goog0419.bpusfaster2.top&path=/images#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://41059f05-0bed-44c8-85a6-7ed22f6f888d@Tapsi.ir:80?type=ws&encryption=none&path=%2Fcdn&host=vp.movizdl.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://9aa0246d-697b-4a6d-ab5a-ae32a4fd4f5a@Tapsi.ir:80?type=ws&encryption=none&path=%2Fcdn&host=vp.movizdl.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://cddf9efe-72ee-4b42-afae-3590d39b78df@Tapsi.ir:80?type=ws&encryption=none&path=%2Fcdn&host=vp.movizdl.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://77b19c69-9840-443d-a66b-f08c81b6950a@141.193.213.107:443?sni=sgeofho04.bpsg2026.top&type=ws&host=sgeofho04.bpsg2026.top&path=/images#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2nodes
 
