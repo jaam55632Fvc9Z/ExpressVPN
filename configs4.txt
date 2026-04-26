@@ -64,3 +64,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.144.190.230:443?encryption=none
 
 vless://6e455d93-fe46-4462-9514-ce7730f8ff41@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+ss://YWVzLTI1Ni1nY206c29tZS1zaW1wbGUta2V5@37.32.25.141:8403#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://55e9c531-83cd-4122-8cba-3b9b9e37f1a2@seyyed.nahidapp.com:443/?type=ws&encryption=none&flow=&host=seyyed.nahidapp.com&path=%2Fvless-ws&security=tls&sni=seyyed.nahidapp.com&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://36a69e01-9e30-47fd-982c-1111ed03fa7f@rfiksma.top:41051?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://Telegram-Parsashonam@104.18.13.149:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
