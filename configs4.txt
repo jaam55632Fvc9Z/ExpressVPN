@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg@154.12.242.150:80#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://1234567890@185.170.153.115:8443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://1234567890@77.110.96.220:443?sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%B8%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.152.227:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://913c6074-a747-492b-a7e9-5abfcad6369d@lv.milas.click:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&sni=&fp=chrome&flow=xtls-rprx-vision&sid=4fa44664f6a566d3&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY#%F0%9F%87%B1%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://344caaec-e3ce-4113-ab72-db2b59f9b5c4@gtmaws.zfym.online:42072?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=live.bilibili.com&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWQ3MjdjZC0zMzBiLTRlZGQtODkxMS03YzIyNGRmNmFmZDU@43.164.134.215:12386#%F0%9F%87%B0%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -63,4 +53,6 @@ vless://40afa553-1745-4f62-a380-4163c7bb4870@188.114.96.0:443?allowInsecure=1&en
 vless://b738ce99-ddaa-4eea-a3f6-2266e1cc961c@95.38.197.219:41379?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
 
 vless://a391a660-d6e5-49da-b729-b00b1cb932f0@sub1.fncs.ir:8080?type=ws&encryption=aes-128-gcm&path=%2Fv2ray&host=cdn1.fncs.ir&security=tls#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6a4a8930-d731-4a34-8506-fd406f73c769@pars.ertebate.ir:45874?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
