@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://610b4374-6c1b-43e6-ba7f-a89aba596db6@2.27.20.17:443?encryption=none&fp=chrome&pbk=N9YEtcvbXxG2GD8cLMlQT35HnX8cmvYPasnqtcBW_XY&security=reality&sid=131df166be01a436&sni=vpn.xorealis.com&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://18535741-e8b3-4b43-9348-785b55936751@ov-germany1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://d24e1b75-d80f-4818-d621-ee919ea71c16@94.183.149.168:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-ss://yfdhh#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://8d3b7b88-8ebf-448f-9862-056863fe3a8f@vpn.ulteracrypto.site:46310?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://d9711eee-9d02-f71b-43f2-f092032d0866@hmt.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
-
-vless://0319208b-2d77-2b51-cf35-49a85dc2175e@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.149:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
@@ -1485,6 +1471,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.57.33.95:56509?path=%2F%3Fed%3D25
 vless://a0484828-8bd5-4dfa-b600-7c1c21b3df43@185.143.235.200:80?path=%2Farvancloud.ir&security=none&encryption=none&host=ahmadn6.pointspeed.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
 
 vless://e4520a3d-c017-4cb1-90d3-2d3b0aeca4ae@snapp.ir:80?path=%2F&security=none&encryption=none&host=sv2-dl.persianmusics.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
+
+vless://73a4456a-0442-4550-8b4f-c719871a4eeb@chatgpt.com:443?security=tls&type=ws&host=011.electrocellco-cf-011.workers.dev&path=/eyJqdW5rIjoibWRiMjNWaUwxNHVWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMjE3LjE0Mi4yMzYuOTMiXX0=?ed=2560&sni=011.electrOCELlCO-CF-011.WorKERS.dEV&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://747cd523-cc32-4d7c-9943-fe661c6dc826@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -3032,6 +3020,8 @@ vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@58.176.95.46:443?&security=tls&fp=r
 
 trojan://1234567890@109.122.198.125:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 trojan://1234567890@185.218.137.126:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://1234567890@194.87.227.66:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -3221,6 +3211,8 @@ vless://4a86f341-72e3-4d3a-91c0-47d4385f6a0e@link-dl.mizbanertebatfarda.ir:2095?
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@95.85.248.69:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-None%20%7C%20%40v2ray_configs_pool
 
 vless://9ba66255-31c1-4fa3-94bc-45993046a985@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&host=vitallife.gg&fp=chrome&type=ws&sni=vitallife.gg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40saministamm
+
+vless://5238a315-4427-4915-a1de-4978e3029a1c@104.17.148.22:2096?allowInsecure=1&encryption=none&host=long-mode-2783.sepna114.workers.dev&path=%2FeyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&sni=loNg-modE-2783.SEpna114.WOrkERs.dEV&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
@@ -5355,6 +5347,8 @@ vless://75234028-f094-4e4b-b2f1-2e203b3dfec0@thany.tech:8880?path=%2F&security=t
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B9%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#%F0%9F%87%AA%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#%F0%9F%87%A6%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9993,10 @@ vless://1f14140e-3833-601c-97f4-130f06c7be9f@snapp.ir:2052?path=%2F%3Fed&securit
 vless://bafc879b-eeef-4317-ac47-8ec6c23335e9@50.7.90.230:443?security=reality&encryption=none&echfq=none&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://1f14140e-b6f4-607c-af20-6b60213bace4@snapp.ir:2052?path=%2F%3Fed&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://344caaec-e3ce-4113-ab72-db2b59f9b5c4@gtmaws.zfym.online:54961?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=xtls-rprx-vision&fp=edge&sni=live.bilibili.com&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://344caaec-e3ce-4113-ab72-db2b59f9b5c4@gtmaws.zfym.online:13557?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=xtls-rprx-vision&fp=edge&sni=live.bilibili.com&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1f141417-9378-6540-a641-a5141f9984ca@snapp.ir:2052?path=/?ed&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
