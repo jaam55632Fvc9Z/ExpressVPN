@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.11.87:443?security=reality&encryption=none&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=%2Fdanfeng&security=tls&encryption=none&host=snippet.danfeng.rr.kg&fp=chrome&type=ws&sni=snippet.danfeng.rr.kg#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://1234567890@134.209.252.112:2053?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://31a8def7-c9d5-4618-b592-b7dc621712b5@snapp.ir:80?path=%2F&security=none&encryption=none&host=test1232-a1c43e7893-test1.apps.ir-central1.arvancaas.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://bea22286-d688-41f4-ac0e-396ce531261f@snapp.ir:8880?path=%2Fws%3Fed%3D2560&security=none&encryption=none&host=New1.legendperm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://ee76e346-9388-4053-9884-f21d0e7a1393@snapp.ir:80?type=ws&encryption=none&path=%2F&host=z6.dovira.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://ea40e04c-417a-490e-9e96-3d34acda461d@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://b16f7f11-2f0c-4cd7-8bf7-8c47cd0a4a8a@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=gn.8lack.ir&sni=gn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -117,4 +105,20 @@ vless://c86ef57b-b3c4-7c8f-ca1e-914d95a5fba9@meli3.masterdadeh.ir:80?type=ws&hos
 vless://7cd3eb39-6296-4486-be35-4721472a898f@snapp.ir:80?path=%2F&security=none&encryption=none&host=ftp.zarping.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6ZGJITExpcnJCbW9mcCtxUjZYaE5RbEVZVnBaaS91Z0dENjYwK3JlUHlsMD0@sh.xoor.site:39729#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://19eb9a50-b978-415a-863f-3d2ee10fd217@varzesh3.com:80?path=/ws&security=&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d10ae072-35d5-46b6-8d44-750cd29c5f69@snapp.ir:80?type=ws&encryption=none&path=/&host=br.dbrun-gorsap.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAidXM3Ny5jb3dqdW1wLnNpdGUiLCAiYWlkIjogMCwgImhvc3QiOiAidXM3Ny5jb3dqdW1wLnNpdGUiLCAiaWQiOiAiMGJmMWNlYWQtYmRkNC00NjkyLWIzZDQtNjg2NmNjYjlmMzdhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAidXM3Ny5jb3dqdW1wLnNpdGUiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+vless://a818d89a-7230-4b78-85a5-a9ae5c49e146@dzvl2pxz.darkube.ir:443?encryption=none&type=ws&security=tls&path=%2F&host=dzvl2pxz.darkube.ir&sni=dzvl2pxz.darkube.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://62bc3662-5366-45ff-84d6-7218ddf5eddf@185.143.233.5:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=isna.ir%40Freedig_italcurrency#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.204.84:80?path=/%3Fed%3D2048&%3Bsecurity=none&%3Bencryption=none&%3Bhost=mahi.kosnanatfilterchi.eu.org&%3Btype=ws#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://957d0930-8730-4923-b58c-6c0d640418bd@151.101.0.10:80?mode=auto&path=/dl?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes":#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://9042affd-0ad3-4014-adbc-e52f00891ea2@199.241.32.132:26978?security=reality&encryption=none&pbk=n2w4hj7Q7wN6P21LSJJwIPitfYZbwWh5a2seJHH58SE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=28bf#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
