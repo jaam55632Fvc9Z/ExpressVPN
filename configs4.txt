@@ -20,3 +20,7 @@ trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=1&fp=
 
 vless://40afa553-1745-4f62-a380-4163c7bb4870@188.114.96.0:443?encryption=none&security=tls&sni=restless-dew-894b.amirhost4.workers.dev&fp=chrome&type=ws&host=restless-dew-894b.amirhost4.workers.dev&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzFiNDc3NGYtN2I0My00YzJlLWFkYzktYzAyYWIwNzUwNDk1IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwMzA1IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://9e36ec67-2638-4ebe-8b00-c6a8c1f2ea13@5.253.24.202:17032?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vasl_bashim
+
