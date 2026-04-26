@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@45.146.89.35:443#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://6d8a7ac6-e634-4875-8dbb-db5e92afcb64@snapp.ir:80?encryption=none&type=ws&security=none&host=cpi.lithiumnet.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 trojan://80N01np6LvDr1O2S71Wk4A@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.6.134:2052?encryption=none&host=index.0x14.workers.dev&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -53,4 +49,32 @@ vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028?security=none&encr
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.243.38.185:443?security=reality&encryption=none&echfq=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=cms.suse.net#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://7a0d8fb8-c1d1-4660-9d2c-65c665ae3ca1@snapp.ir:80?encryption=none&type=ws&path=%2F&host=cpi.lithiumnet.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://8just81o-8ep3-iy25-y3ro-8cvupq1xher9@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://63cip280-f1jm-y2pc-hos3-jtykzz6zjejn@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://i0b87bvg-wwlp-clwc-bksa-ohfb80r4ck6x@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://telegram-id-privatevpns@63.181.194.157:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://W6u8Tsa7Wh2q8wXQVbxJucgf7FFw3o2@::ffff:5eb8:1f32:443?security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev:8443?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://x9wg6zky-12nh-vpcc-wcfd-gmjj7xeoi68j@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://a94c8gyn-bdta-2sqi-j6wm-0ficso8v5kxs@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://gozhfyfc-xm8i-3rbn-pov4-7fhsy89ben7c@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://rual8pwl-pmhz-eb98-6u9r-2llcjntpa8wc@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://3t4tk2m8-uyi5-6vzr-7jpj-q2bq6qxareyk@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://bg7gnif7-hs3x-5tdb-4n3c-8d0tp1tq7lix@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTRURPIEdtYkggXHUyNTA3IDkxLjE5NS4yNDAuOTQiLCJhZGQiOiJ1OC5odXZpY2xvdWQuY29tIiwicG9ydCI6NDQzLCJpZCI6IjY3OTY2MTFiLTI2MGUtNGQ2My05MDE2LTIwYzI3YjEyZTQyMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InU4Lmh1dmljbG91ZC5jb20iLCJwYXRoIjoiLzY3OTY2MTFiLTI2MGUtNGQ2My05MDE2LTIwYzI3YjEyZTQyMCIsInRscyI6InRscyIsInNuaSI6InU4Lmh1dmljbG91ZC5jb20ifQ#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+vless://78ca4467-cf81-46c2-b534-771b2fd79841@Snappfood.ir:80?path=%2F&security=none&encryption=none&host=netsecureteam3.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
