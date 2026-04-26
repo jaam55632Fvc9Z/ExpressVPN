@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6f0fd578-e87e-4424-8af4-9de2e2fa47ab@vitamin.vezaratyorganic.shop:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://eb16e3cc-2cc6-41ff-8436-9680c0d626a0@arvancloud.ir:80?path=%40TunizoNET&security=&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://eb16e3cc-2cc6-41ff-8436-9680c0d626a0@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://1234567890@45.77.141.166:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://11a6d832-cac8-4ce4-a2f9-f0e87c4b6e35@shopcenter.lumavision.ir:8080?security=none&type=ws&headerType=&path=/graphql?ed=8080&host=shopcenter.lumavision.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://c65a8a4d-1891-4b7c-9070-5e2dbb2a9a6a@data.cloud-byte.ir:8888?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -101,4 +91,8 @@ vless://1f141433-37a4-6cd4-b606-37df766c6ff5@snapp.ir:2052?path=%2F%3Fed&securit
 vmess://eyJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJwb3J0IjogIjIwMzEwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJpZCI6ICI5ZjQwY2IxZC0wNmY0LTQ5MTQtYTYzNy1mYTBkYjY5Mzg3M2EifQ==
 
 vless://f1038624-e835-4884-8d8f-34b2eb8198c9@detail.barttary.ir:55802?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://ce63db4c-b3c4-4da8-90bf-b9cbb76861a0@vercel.com:443?type=xhttp&security=tls&sni=vercel.com&alpn=h2&fp=chrome&host=grand-short-auto-shahriar.vercel.app&path=/&mode=packet-up#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1d87268a-4680-467b-ba3e-a25d65ae8ef3@snapp.ir:80?encryption=none&security=none&type=ws&host=azargooon.ir&path=/profile#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
