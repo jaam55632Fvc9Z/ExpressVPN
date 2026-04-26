@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.132.238.109:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://a34a5f3e-e9fa-40a6-f3af-2984adbd701b@178.104.118.247:2087#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 vless://9adc4114-18c3-4c31-9ef7-b35e87c9d499@45.194.71.3:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=50e09046c0c00159#%F0%9F%87%A8%F0%9F%87%B4%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://5212e69c-78ce-4aa9-bab6-1bdabe89dfde@br-m247-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=chrome&security=reality&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=b4f3a05896b60039&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -53,4 +49,12 @@ vless://3ae99729-5326-4f70-937d-fcdc6910f9c7@freeyx.cloudflare88.eu.org:443?allo
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@138.124.32.188:30047?type=ws&host=&path=#%F0%9F%87%B1%F0%9F%87%B9%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://e432957d-309d-40b9-9f81-9f8ddce604b1@snapp.ir:80?path=%2F&security=none&encryption=none&host=pr.lovuu.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://1234567890@193.23.218.192:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4a7857f4-162a-46dd-8a30-a0700659c57e@185.143.233.200:80?path=%2F&security=none&encryption=none&host=refer.parsimas.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiQEhpZGRpZnlfTmV4dHR0IPCfkYjwn6uUINqp2KfZhtin2YQg2KrZhNqv2LHYp9mF24wg2YXYpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyI#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://5ba51cec-ada2-4c27-be7f-d8bb1043d4ba@vip.coindrift.online:43698?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
