@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://89f1abf6-ecda-42dd-8add-feb1b4d274cc@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://93eaa4ef-1034-460b-8262-52cacc58f8a4@185.208.79.246:8080?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://992680dd-0e55-4494-b828-7dc80361770a@185.208.79.246:8080?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://61d8131f-8d5b-4893-b8c2-014ed347755f@snapp.ir:80?encryption=none&host=cdn.softnetconnect.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
-
 vless://dd50e7ca-86d5-4c40-b758-b00caf8f65c7@arvancloud.ir:8080?path=%2Fpars%3Fed%3D2560&security=none&encryption=none&host=ss.sudoapt.cfd&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://2775067d-1649-4bf9-a54b-1be8066e83d8@104.20.6.134:443?path=%2F787%2Fa&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=forgive.zynixtoken.com&fp=chrome&type=ws&allowInsecure=1&sni=forgive.zynixtoken.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -69,4 +61,6 @@ vmess://eyJzZWVkIjogIiIsICJ0bHMiOiAibm9uZSIsICJwb3J0IjogIjgwODAiLCAidiI6ICIyIiwg
 vless://9c36d9a1-7683-4d91-89ba-f193536be053@vercel.com:443?encryption=none&security=tls&sni=vercel.com&insecure=0&allowInsecure=0&type=xhttp&host=vercel-xhttp-plum-seven.vercel.app&path=/mozzz&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.144.190.230:443?encryption=none&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6e455d93-fe46-4462-9514-ce7730f8ff41@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
