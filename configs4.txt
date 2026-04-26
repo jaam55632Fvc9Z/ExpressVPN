@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://lMuIQ6eNI1@snapp.ir:80?path=%2F&security=none&host=s1.sohrab172.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://a6abb3e2-ef75-8efe-ecf7-74d89ca0c2fd@meli3.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.200#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://7465a653-aa2e-4f05-8be9-151f82467778@snapp.ir:80?encryption=none&type=ws&security=none&host=cpi.lithiumnet.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=h32.1.beROzHA.IR&fp=ios&type=ws&sni=h32.1.beROzHA.IR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40manVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.25.243:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40manVPN
-
-trojan://telegram-id-directvpn@13.36.179.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.179.38:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-privatevpns@13.36.179.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://eaccdc8e-8423-4793-8589-cd1efd96b1b0@vpn2.ulteracrypto.site:22102?type=tcp&encryption=none&security=config#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://611f42ea-acc5-44fe-a642-0daae460a236@pconf.q2k.ir:80?path=%2F&security=none&encryption=none&host=a2pc.yooring.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -111,4 +95,12 @@ vless://16ee3d3a-9fc7-41e1-b456-406a796aabfe@snapp.ir:80?path=/&security=none&en
 vless://7e6fe32f-7202-4a86-b4c7-0896d62b9053@snapp.ir:80?path=/&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://132a2288-3ea5-488a-96db-9e94d0546756@snapp.ir:80?path=/&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://67c92700-c51e-4264-8a49-1f9df68762ed@mye.niaot.com:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=ios&insecure=0&sni=iosapps.itunes.apple.com&pbk=ltZKFdmt0LXSzGezkf4UlsTfuH7LEdT-gO5yflTmsxM&sid=fcd36f6e#%F0%9F%87%B2%F0%9F%87%BE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://4c8d5ac3-2edc-a449-3cd2-7cb20974530a@meli2.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.205#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiMTg1LjE0LjE2MC4zIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3YzE5YTBmMC1mZTM4LTQyNjYtODA2OC1iYjkwMTJkNTg2OTgiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+
+vless://606d956b-0184-43ac-b77e-988f05ce2969@37.32.25.35:58846?encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vaslbemonim7
 
