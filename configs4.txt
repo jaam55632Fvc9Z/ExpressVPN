@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://1f14145b-e142-69e4-be43-7d9cd95da52a@nl.folderchat.ir:8443?path=%2F%3Fed&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-ss://ue727wh#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://6836c246-e9b2-41a2-8702-4d880cbd4938@185.143.233.5:80?path=%2Fgamescore%3Fed%3D128&security=none&encryption=none&host=cdn4.restaurantworld.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 trojan://4y9EolxKJ2ku-hVwC1Wf8Q@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -55,4 +51,8 @@ vless://eb16e3cc-2cc6-41ff-8436-9680c0d626a0@arvancloud.ir:80?path=%40TunizoNET&
 trojan://1234567890@45.77.141.166:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://11a6d832-cac8-4ce4-a2f9-f0e87c4b6e35@shopcenter.lumavision.ir:8080?security=none&type=ws&headerType=&path=/graphql?ed=8080&host=shopcenter.lumavision.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://c65a8a4d-1891-4b7c-9070-5e2dbb2a9a6a@data.cloud-byte.ir:8888?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
