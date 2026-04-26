@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6373ae46-39d8-4655-b2c8-a44ae3d44caa@185.143.233.200:80?path=%2F&security=none&encryption=none&host=refer.parsimas.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://19dab13b-648f-49e8-8a70-0a838fbc6713@snapp.ir:80?encryption=none&type=ws&path=%2F&host=cdn.softnetconnect.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://90221ae7-61bd-4c07-9e74-fdc374057e5c@vip1.mamliserver.top:54014?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip1.mamliserver.top#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-trojan://1234567890@109.237.97.197:8443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d629ed91-bac3-4b44-8ab6-5aca8e599248@snapp.ir:80?path=%2F&security=none&encryption=none&host=cpi.lithiumnet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://f286118f-fce9-4cd6-85ce-5832180f2a66@snapp.ir:8080?type=ws&encryption=none&path=%2F&host=kootahkon.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://6b6e30a9-da34-40c8-8436-fe9677ec6bb9@104.18.13.149:80?mode=auto&path=%2F&security=none&encryption=none&host=soonteam.imsoon.io.&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
@@ -69,4 +59,6 @@ vless://ba98a6d4-24e7-46d9-8f5e-89ace2e7987c@abr.superip.ir:2095?encryption=none
 vless://57e4c9a4-2673-40ee-a37a-e12f5623c058@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://35156dde-434f-4602-a175-a3b7d3e9fbf5@varzesh3.com:80?path=%2Fws&security=&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://edec0222-8931-472a-a303-12bf1da3b543@198.169.1.193:443?encryption=none&type=xhttp&mode=auto&host=relay.vaslima.de&path=/eazyssh&security=tls&fp=chrome&sni=vercel.com&alpn=h2,http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
