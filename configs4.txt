@@ -104,3 +104,17 @@ vmess://eyJmcCI6IiIsImF1dGhvcml0eSI6IiIsImV4dHJhIjoiIiwiaG9zdCI6ImFjaGEzLmJhdHRs
 
 vless://3706352a-b02f-4c02-9de3-758a717b069a@iran.tungozarkaf.ir:42001?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://e2d4757d-18b3-448b-dcfa-fe0689f98fe2@pari.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.204&alpn=&path=/&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e2d4757d-18b3-448b-dcfa-fe0689f98fe2@pari.masterdadeh.ir:80?path=%2F&security=&encryption=none&type=ws&sni=185.226.94.204#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a0e9f786-e6fa-4493-b273-7acc0d166736@db.farstele.com:2053?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://d30c46c2-b7ab-4ae8-b955-60a47115630b@db.farstele.com:2053?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://jsh#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e2bbe681-2bda-486a-95fd-493f0a0f36ce@193.134.101.192:51072?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://f3e43e7e-9001-491b-a0fd-d7f8ab6f96c0@vercel.com:443?mode=auto&path=%2F43b05b5d011c&security=tls&encryption=none&host=xhttp-relay-omega.vercel.app&type=xhttp&sni=vercel.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
