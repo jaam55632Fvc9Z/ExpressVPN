@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.211.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%A7%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.155.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.38.227.155:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.254.78:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.153.191:2096/?type=ws&encryption=none&flow=&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.141.125:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.156.19.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@8.6.112.0:443?encryption=none&host=y6-3cj.PAgES.DEV&path=%2F&security=tls&sni=y6-3cj.PAgES.DEV&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://23418eb4-094d-41b2-b422-7e67a34dd566@81.12.54.64:34644?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://277d1e95-041f-428f-a432-ca7df7d77d56@95.38.197.219:41375?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -95,4 +79,6 @@ vless://7dd8e8f4-c805-7778-b64a-d934ec579754@meli2.masterdadeh.ir:80?type=ws&hos
 vless://a391a660-d6e5-49da-b729-b00b1cb932f0@sub1.fncs.ir:8080?type=ws&encryption=none&path=%2Fv2ray&host=cdn1.fncs.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://1f141296-8772-63ea-8a3d-0b61a0ea55b2@snapp.ir:2052?path=%2F%3Fed&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://9604cbe7-c4fd-4c50-95dd-85a867be235d@snapp.ir:2052?type=ws&encryption=mlkem768x25519plus.native.0rtt.ECIECwYi0advguJqryqgCnZ9iCJ6VLhn3pmwrsFyQ8MkkRNtz4QZgDABsEiZWXQXFNRFnciy3RdmRuM5Q7uDxFB5S8Ii-2OuktbGkQqVPSkSHCkXGls6ebBgootVNrA5YoJZClBHQ1tZOZyTFxZqEgK1UahuJflJOEEyqySfISGuXjE_51Mv-mkDK6wZilU_nKR9Z_JpnSmg_Lav3vZTobgDcVKaNfRvtuSmP8lzPmNDjjItbuCiAvcjR6lvGycBNEGkiqBGR3YAhswegqCRrWy2UhSvv_xY7NmTi8lbE4pYt9opmPVRQPWFiJxK_TqiNytDWWoHAFS1MRhUyqjGwjFaszHL0mW8YMwwSMOZTiAjaYhFv6IAwfgeYVdPKfi2pTpT4fZ#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
