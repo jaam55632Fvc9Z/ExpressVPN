@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://5ec33bc6-a3c1-4c7b-9593-9a4d8ec944ef@snapp.ir:2086?type=ws&encryption=none&path=%2F&host=nolan.starix.shop&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://af09c705-9f16-43cf-8a8b-c63e23f6a721@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=cn.8lack.ir&sni=cn.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://5304b6ae-9d5a-4235-a454-3b53b7ad0af5@185.143.233.5:80?type=ws&encryption=none&path=%2F&host=emi.iransrvrs.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://de8cb509-f827-4cf6-af98-1ee391993e95@snapp.ir:80?type=ws&encryption=none&path=/&host=we.4accidents.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eydhZGQnOiAnZG4udG9yb250b21vdmllLmNvbScsICdhaWQnOiAnMCcsICdhbHBuJzogJycsICdmcCc6ICcnLCAnaG9zdCc6ICcnLCAnaWQnOiAnMjIwNmRlM2ItNTNlZC00MDVhLTg5M2YtZjlhODNjOTZmZTkzJywgJ2luc2VjdXJlJzogJzAnLCAnbmV0JzogJ3RjcCcsICdwYXRoJzogJycsICdwb3J0JzogJzgwODAnLCAncHMnOiAnQFNQRUVEU19WUE4xLVxVMDAwMWZhYzYnLCAnc2N5JzogJ2F1dG8nLCAnc25pJzogJycsICd0bHMnOiAnJywgJ3R5cGUnOiAnbm9uZScsICd2JzogJzInfQ==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://20aee6a9-bc4a-4ea2-8423-a8e85080af28@188.121.124.181:443?encryption=none&type=xhttp&security=tls&path=%2F&host=static.cdn.asset.aparat.com&mode=auto&sni=static.cdn.asset.aparat.com&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://c4a27bc1-e985-4847-8bf0-672414b38a41@185.143.233.5:443?encryption=none&type=ws&host=dn.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=dn.8lack.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://c86ef57b-b3c4-7c8f-ca1e-914d95a5fba9@meli3.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.200&alpn=&path=/&headerType=http#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://7cd3eb39-6296-4486-be35-4721472a898f@snapp.ir:80?path=%2F&security=none&encryption=none&host=ftp.zarping.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6ZGJITExpcnJCbW9mcCtxUjZYaE5RbEVZVnBaaS91Z0dENjYwK3JlUHlsMD0@sh.xoor.site:39729#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://19eb9a50-b978-415a-863f-3d2ee10fd217@varzesh3.com:80?path=/ws&security=&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://d10ae072-35d5-46b6-8d44-750cd29c5f69@snapp.ir:80?type=ws&encryption=none&path=/&host=br.dbrun-gorsap.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -95,4 +75,16 @@ vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiaG9zdCI6ICJkYXJ4aGludGVhbS5icmF2by1zaXguaXIi
 vless://f3e43e7e-9001-491b-a0fd-d7f8ab6f96c0@vercel.com:443?mode=auto&path=%2F43b05b5d011c&security=tls&encryption=none&insecure=0&host=xhttp-relay-omega.vercel.app&type=xhttp&allowInsecure=0&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://f3e43e7e-9001-491b-a0fd-d7f8ab6f96c0@vercel.com:443?encryption=none&type=xhttp&security=tls&path=%2F43b05b5d011c&host=xhttp-relay-omega.vercel.app&mode=auto&sni=vercel.com&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://e4f75ba0-c3cd-49ec-9d87-705afc863de4@anten.ir:80?encryption=none&type=ws&path=%2F&host=qhhd.speedvipkdh.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?security=reality&encryption=none&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&headerType=none&fp=chrome&spx=%2F%20&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e473bbc75224b9df#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40BrilliantGift
+
+vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=%2Fdanfeng&security=tls&encryption=none&insecure=0&host=snippet.danfeng.rr.kg&fp=chrome&type=ws&allowInsecure=0&sni=snippet.danfeng.rr.kg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wmhsc2JEUS9yYjdRcTQrVWFKUFplWlFwdHRuK1NkU0VKMk1oaE5iR2FsQT06MHZEUjRJY2czM25JQStkUWgwQVkya1FNeXhIMnFwSkhjckh1Tk1YdFZGOD1AdXAuamliam9iLm1vbToyMjc5Ng==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJwYXRoIjoiIiwiZnJhZ21lbnQiOiIiLCJwb3J0IjoiODA4MCIsInYiOiIyIiwiaGVhZGVyVHlwZSI6Im5vbmUiLCJhbHBuIjoiIiwiaWQiOiIyMjA2ZGUzYi01M2VkLTQwNWEtODkzZi1mOWE4M2M5NmZlOTMiLCJwcyI6IvCflK1JRCBURUw6IEBOUFZfT0ZGSUNJQUwiLCJhaWQiOiIwIiwiYWRkIjoiZG4udG9yb250b21vdmllLmNvbSIsInNlcnZpY2VOYW1lIjoibm9uZSIsInNlZWQiOiIiLCJleHRyYSI6IiIsInRscyI6Im5vbmUiLCJuZXQiOiJ0Y3AiLCJtb2RlIjoiIiwiaG9zdCI6IiwiYXV0aG9yaXR5IjoiIiwic25pIjoiIiwiZnAiOiIiLCJkZXZpY2VJRCI6IiIsInR5cGUiOiJub25lIn0=#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJzZWVkIjogIiIsICJmcmFnbWVudCI6ICIiLCAiYWRkIjogInNuYXBwLmlyIiwgInR5cGUiOiAibm9uZSIsICJwYXRoIjogIi8iLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAic25pIjogIiIsICJzZXJ2aWNlTmFtZSI6ICJub25lIiwgInYiOiAiMiIsICJhaWQiOiAiMCIsICJ0bHMiOiAibm9uZSIsICJoZWFkZXJUeXBlIjogIiIsICJkZXZpY2VJRCI6ICIiLCAibW9kZSI6ICIiLCAiZXh0cmEiOiAiIiwgInBvcnQiOiAiODA4MCIsICJuZXQiOiAid3MiLCAiYWxwbiI6ICIiLCAiaG9zdCI6ICJzdGl0Y2hpZnkuYnJhdm8tc2l4LmlyIiwgImZwIjogIiIsICJpZCI6ICI2YmQyYWM3Zi02MThkLTQ5YmYtYWFhNC1iMzg5OTUwYTM5MmUiLCAiYXV0aG9yaXR5IjogIiJ9
 
