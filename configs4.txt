@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJmcCI6IiIsImF1dGhvcml0eSI6IiIsImV4dHJhIjoiIiwiaG9zdCI6ImFjaGEzLmJhdHRsZWRucy5pciIsInNlcnZpY2VOYW1lIjoibm9uZSIsImZyYWdtZW50IjoiIiwiYWxwbiI6IiIsImFkZCI6IjE4NS4xNDMuMjMzLjEyMiIsInBhdGgiOiJcLz9lZD0yMDQ4IiwiYWlkIjoiMCIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJkZXZpY2VJRCI6IiIsImlkIjoiMjJmY2RhMGItNDViZS00NDdlLWI4MjItN2Q0Mzk0MTkyZjdmIiwibmV0Ijoid3MiLCJ0bHMiOiJub25lIiwic2VlZCI6IiIsInBvcnQiOiI4MCIsInNuaSI6IiIsImhlYWRlclR5cGUiOiIiLCJwcyI6IkBpc29yMW4gMkciLCJtb2RlIjoiIn0%3D#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://3706352a-b02f-4c02-9de3-758a717b069a@iran.tungozarkaf.ir:42001?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://e2d4757d-18b3-448b-dcfa-fe0689f98fe2@pari.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.204&alpn=&path=/&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://e2d4757d-18b3-448b-dcfa-fe0689f98fe2@pari.masterdadeh.ir:80?path=%2F&security=&encryption=none&type=ws&sni=185.226.94.204#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://a0e9f786-e6fa-4493-b273-7acc0d166736@db.farstele.com:2053?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://d30c46c2-b7ab-4ae8-b955-60a47115630b@db.farstele.com:2053?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://jsh#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://e2bbe681-2bda-486a-95fd-493f0a0f36ce@193.134.101.192:51072?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://f3e43e7e-9001-491b-a0fd-d7f8ab6f96c0@vercel.com:443?mode=auto&path=%2F43b05b5d011c&security=tls&encryption=none&host=xhttp-relay-omega.vercel.app&type=xhttp&sni=vercel.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
 vless://48e5898c-08f2-43cb-9938-9c3de90eba6a@ite.pishvatech.lol:2082?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiaG9zdCI6ICJkYXJ4aGludGVhbS5icmF2by1zaXguaXIiLCAiaWQiOiAiMzljMzZkM2UtODg0OS00NDQwLWJjOWYtOWUyMTMxMmFhZjY1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwLCAic2N5IjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
@@ -101,4 +83,8 @@ vless://WIzNnKBrWXisHMWMaT+al1cERxN2yJTis96Gyz/0aJzFe0xhRPpNwAKMJL8AjnicdZ4EPcSe
 vless://36a69e01-9e30-47fd-982c-1111ed03fa7f@rfiksma.top:41051/?type=tcp&encryption=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://2325d51a-04cf-47ed-8a3b-d818a0166ff5@snapp.ir:80?encryption=none&type=ws&path=%2F&host=randomconnect.shop#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZGFyeGhpbnRlYW0uYnJhdm8tc2l4LmlyIiwgImlkIjogImJmNTY0MDc3LWQwOWYtNGIxYS04YzAxLTc0MDQ2OGE0NzMyNiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+vless://61d8131f-8d5b-4893-b8c2-014ed347755f@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.softnetconnect.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
