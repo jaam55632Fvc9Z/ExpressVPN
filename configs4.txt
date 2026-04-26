@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B0%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://54dab640-af1c-49b1-89b4-e546b3cdca83@abr.superip.ir:8080?encryption=none&type=ws&path=%2FAPI%2Fsuperip&host=ne.landing-sours.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://b39d7cf3-bbcc-4070-a2d6-8efb73d2298e@37.32.29.105:20123?encryption=none&type=ws&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://4818fb01-9a56-43be-acbb-ef1f314ef0e8@twt.ghapol.ir:80?encryption=none&type=ws&path=%2F&host=az.kiod.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
-
-vless://54dab640-af1c-49b1-89b4-e546b3cdca83@abr.superip.ir:8080?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=ne.landing-sours.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://1f141433-37a4-6cd4-b606-37df766c6ff5@snapp.ir:2052?path=%2F%3Fed&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://9c8d96af-f255-472f-8107-ba718a03d77c@141.ir:8080?path=/&security=none&encryption=none&host=h.nagambarat.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://1cb8b88c-ece0-4584-a2fa-c4bc61c8bd56@khan.tarfandgallery.sbs:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&echfq=none&fp=chrome&allowinsecure=0&type=ws&sni=khan.tarfandgallery.sbs#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -93,4 +81,6 @@ vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls
 vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&sni=www.alibaba.com&fp=chrome&flow=xtls-rprx-vision&sid=c906f73d3ba8211f&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&encryption=none#%F0%9F%87%B7%F0%9F%87%B4%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNzAxNzAyM2MtODgzYy00NjQyLWIzNmItN2I5ZjVhYjM3MTk5IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwMzE0IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vmess://eyJtb2RlIjogIiIsICJpZCI6ICI2MzYxY2Q5NS0xMTE5LTRkMDQtOGUwZS1kZGY0Y2ZmODU1ZmIiLCAicGF0aCI6ICIiLCAiYXV0aG9yaXR5IjogIiIsICJzZWVkIjogIiIsICJkZXZpY2VJRCI6ICIiLCAidGxzIjogIm5vbmUiLCAiYWlkIjogIjAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInYiOiAiMiIsICJzbmkiOiAiIiwgIm5ldCI6ICJ0Y3AiLCAiZXh0cmEiOiAiIiwgImZwIjogIiIsICJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJob3N0IjogIiIsICJhbHBuIjogIiIsICJmcmFnbWVudCI6ICIiLCAidHlwZSI6ICJub25lIiwgImhlYWRlclR5cGUiOiAibm9uZSIsICJzZXJ2aWNlTmFtZSI6ICJub25lIiwgInBvcnQiOiAiMjAzMTQifQ==
 
