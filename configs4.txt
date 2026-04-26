@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://1234567890@185.65.202.222:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAiY2h1bmNoZW9uMDMuemdqb2suY29tIiwgImFpZCI6IDAsICJob3N0IjogImNodW5jaGVvbjAzLnpnam9rLmNvbSIsICJpZCI6ICI4MWQ1Y2FjNC1kMDM5LTQ4NzQtOWEyMC1jMzkxZjU4MDAxMmQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@65.0.104.223:80#%F0%9F%87%AE%F0%9F%87%B3%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-ss://hww#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.198.167.93:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://e671a161-e2af-438c-bdd3-02abec5659f7@s3.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -75,4 +67,10 @@ vless://ceb70fc0-4886-4462-9651-d53b6367846d@snapp.ir:80?path=%2FFIRELINK&securi
 vless://ceb70fc0-4886-4462-9651-d53b6367846d@snapp.ir:80?encryption=none&type=ws&path=%2FFIRELINK&host=firelink.arian-go-internet.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://c81b98e9-c4f7-4408-8be8-9855904db095@v5.game2dns.xyz:260?encryption=none&type=tcp&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://d17f8922-93e7-4756-be18-c15c8ee59b63@varzesh3.com:80?path=%2F&security=&encryption=none&host=nobody.panivo.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9a1a9daa-ba39-44a3-85cc-4079ca82a21d@snapp.ir:8880?encryption=none&type=ws&path=%2Frazstarlocal&host=p1.razstar.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3992e8a9-733a-4863-a221-71e8d0d7290e@varzesh3.com:80?path=%2F&security=none&encryption=none&host=nobody.panivo.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
 
