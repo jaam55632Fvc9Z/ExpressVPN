@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiMjAzMDgiLCAiaWQiOiAiMTFhMzYwYmItYTc1OS00MjNlLWFlYjMtZTBjZTY1N2Q1NjZlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
-
-vless://0833b0a9-1a48-4265-bbfd-39133f1c8a87@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=cn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://53a087ef-2863-4e4a-9480-1c6c6c996f37@185.143.234.235:80?path=/&security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://7d6910e7-98cc-4ed2-ab94-8f2bec3f11cb@2.144.23.147:53486?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://0833b0a9-1a48-4265-bbfd-39133f1c8a87@185.143.233.5:443?path=%2Fchat%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=cn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://d341b2f2-b328-46a1-8907-27d759344750@185.143.234.235:8080?type=ws&encryption=none&path=%2F&host=io.binping.lol&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -103,4 +95,8 @@ vless://54dab640-af1c-49b1-89b4-e546b3cdca83@abr.superip.ir:8080?encryption=none
 vless://b39d7cf3-bbcc-4070-a2d6-8efb73d2298e@37.32.29.105:20123?encryption=none&type=ws&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://4818fb01-9a56-43be-acbb-ef1f314ef0e8@twt.ghapol.ir:80?encryption=none&type=ws&path=%2F&host=az.kiod.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
+
+vless://54dab640-af1c-49b1-89b4-e546b3cdca83@abr.superip.ir:8080?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=ne.landing-sours.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://1f141433-37a4-6cd4-b606-37df766c6ff5@snapp.ir:2052?path=%2F%3Fed&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
