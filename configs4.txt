@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@192.159.99.18:30086?type=grpc&serviceName=gprc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40v2ray_configs_pool
-
-trojan://77b19c69-9840-443d-a66b-f08c81b6950a@888.cloudflare.182682.xyz:443?sni=goog0419.bpusfaster2.top&type=ws&host=goog0419.bpusfaster2.top&path=/images#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://41059f05-0bed-44c8-85a6-7ed22f6f888d@Tapsi.ir:80?type=ws&encryption=none&path=%2Fcdn&host=vp.movizdl.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://9aa0246d-697b-4a6d-ab5a-ae32a4fd4f5a@Tapsi.ir:80?type=ws&encryption=none&path=%2Fcdn&host=vp.movizdl.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://cddf9efe-72ee-4b42-afae-3590d39b78df@Tapsi.ir:80?type=ws&encryption=none&path=%2Fcdn&host=vp.movizdl.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://77b19c69-9840-443d-a66b-f08c81b6950a@141.193.213.107:443?sni=sgeofho04.bpsg2026.top&type=ws&host=sgeofho04.bpsg2026.top&path=/images#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2nodes
-
 vless://91048b55-24b6-4595-bd44-796f472bc0a1@snapp.ir:80?type=ws&encryption=none&path=%2Fwss&host=vah.pianostock.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://telegram-dickiriptorbot@vercel.com:443?mode=auto&path=%2F%40dickiriptorbot&security=tls&encryption=none&insecure=0&host=samandbams.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -111,4 +99,8 @@ vless://36a69e01-9e30-47fd-982c-1111ed03fa7f@rfiksma.top:41051?encryption=none&t
 vless://00fee984-8f41-4a44-b3b5-87fe0033d582@db.farstele.com:2052?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://793bb9ca-1ce6-4b43-8a0b-5f04e2c3dde7@camp.nahidapp.com:443?encryption=none&type=ws&security=tls&path=%2FIF_VPN_Bot&host=camp.nahidapp.com&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vasl_bashim
+
+vmess://eyJmcCI6IiIsImF1dGhvcml0eSI6IiIsImV4dHJhIjoiIiwiaG9zdCI6ImFjaGEzLmJhdHRsZWRucy5pciIsInNlcnZpY2VOYW1lIjoibm9uZSIsImZyYWdtZW50IjoiIiwiYWxwbiI6IiIsImFkZCI6IjE4NS4xNDMuMjMzLjEyMiIsInBhdGgiOiJcLz9lZD0yMDQ4IiwiYWlkIjoiMCIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJkZXZpY2VJRCI6IiIsImlkIjoiMjJmY2RhMGItNDViZS00NDdlLWI4MjItN2Q0Mzk0MTkyZjdmIiwibmV0Ijoid3MiLCJ0bHMiOiJub25lIiwic2VlZCI6IiIsInBvcnQiOiI4MCIsInNuaSI6IiIsImhlYWRlclR5cGUiOiIiLCJwcyI6IkBpc29yMW4gMkciLCJtb2RlIjoiIn0%3D#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://3706352a-b02f-4c02-9de3-758a717b069a@iran.tungozarkaf.ir:42001?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
