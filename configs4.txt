@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@114.25.9.81:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YmFoY2g5bExkWFNTbHlaalRndExR@85.239.49.127:8388#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -123,4 +121,34 @@ vless://5ab933c4-6ac4-4798-92c6-6d93862bd231@usrusr2.akadoojoo.ir:48216?mode=aut
 vless://b7a4a575-1231-4f5f-aadc-5c43a5d862f5@react.dev:443?encryption=none&type=xhttp&security=tls&path=%2Fafixqq&host=vercel-xhttp-theta-weld.vercel.app&mode=auto&sni=react.dev&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://95051aa9-b4a0-4344-9c8f-a40e1ffcc4f7@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=bn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://5535619d-9ba2-492d-996e-8c88a3572e28@abr.superip.ir:2095?path=%2FAPI%2Fsuperip&security=&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://2dd4275d-562b-4ec5-951c-2ba1702d94b0@react.dev:443?mode=auto&path=/&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&echfq=none&host=vercel-xhttp-pi-neon.vercel.app&allowinsecure=0&type=xhttp&sni=react.dev#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#%F0%9F%87%AB%F0%9F%87%AE%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5a36c30b-cc00-41a2-9035-90a1358e60d7@185.143.234.235:8080?path=%2F&security=&encryption=none&host=io.binping.lol&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://4afe244e-5553-44c8-8216-e3ef33ac9765@abr.superip.ir:2095?path=%2FAPI%2Fsuperip&security=&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://fbc9770d-92d6-4578-a245-ae00752f7d05@abr.superip.ir:2095?path=%2FAPI%2Fsuperip&security=&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://4afe244e-5553-44c8-8216-e3ef33ac9765@abr.superip.ir:2086?path=%2FAPI%2Fsuperip&security=&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://217242f1-cd3d-4afd-b109-b2bf1cd5b741@orixcraft.ir:2095?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://e387d5d7-58aa-4cb7-aa5c-bce96428e757@abr.superip.ir:2095?path=%2FAPI%2Fsuperip&security=&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://eed64110-dfd3-4881-b78c-7234a40e69aa@abr.superip.ir:2086?path=%2FAPI%2Fsuperip&security=&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://5f1a08a5-c34c-4aad-9a1d-416551290698@snapp.ir:80?path=%2F&security=none&encryption=none&host=fbi.mj-netplus.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://4be80655-e439-49d1-9560-d69a46297063@185.143.233.5:80?path=%2Fgamescore%3Fed%3D128&security=none&encryption=none&host=cdn4.restaurantworld.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://e35de7a5-0b04-fc4b-8887-9cf917b0f364@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://5230c0e7-d5c7-4f28-93c9-5f43c498fcec@snapp.ir:80?path=%2F&security=none&encryption=none&host=arc.liarashop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://dba12d86-d901-4740-bb1e-fb9a78c31e94@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
