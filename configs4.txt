@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://e387d5d7-58aa-4cb7-aa5c-bce96428e757@abr.superip.ir:2095?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://7133859b-a56e-4d08-9eeb-c1e8ce641219@arvan.mizbanertebatfarda.ir:8080?path=%2F&security=none&encryption=none&host=arvan.mizbanertebatfarda.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://a6fb69b5-c73e-4ba7-94ca-89e107720794@185.143.233.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@63.183.130.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.130.255:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@63.183.130.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://a177c64a-e3c4-40f4-af64-11eedbe9f395@s3.tehranionliine.ir:80?type=ws&path=%2F&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://eee8c800-7df8-40c9-b729-7f47a5be1608@vitallife.gg:443?encryption=none&type=ws&path=/wp-content/cachecache&security=tls&fp=chrome&sni=vitallife.gg&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://eed64110-dfd3-4881-b78c-7234a40e69aa@abr.superip.ir:2086?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://0e9efc43-bd1b-4275-80cd-69378b6c893c@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://557e836f-4604-4dd5-a0c0-d93ed8ef8fa0@abr.superip.ir:8080?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=library.phill-up.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -41,4 +23,6 @@ vless://6bacfb45-d0c7-4a1e-aaf5-8029b7927b32@snapp.ir:80?path=%2F&security=none&
 vmess://eyJhZGQiOiAiQUJSLkhhamFsaWkuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidGVzdC5yb3lhbHplcm8uaXIiLCAiaWQiOiAiZTUxYzM3MmUtNzljZS00MWI4LWJkM2MtZDMxMzhiMzYyNmE2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwODAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
 vless://1f1425e9-68f0-6e4c-8f77-39d7f3a6d10e@snapp.ir:2052?path=%2F%3Fed&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://f9de46ab-814f-4c36-97b4-023c4f256123@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
