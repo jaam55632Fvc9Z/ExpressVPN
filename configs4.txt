@@ -122,3 +122,15 @@ vless://c30e3356-df09-434e-905d-075fcf270707@snapp.ir:8880?path=%2Fws%3Fed%3D256
 
 vless://b859b367-0165-420a-8ded-8d3bd66d28e8@snapp.ir:8880?path=%2Fws%3Fed%3D2560&security=none&encryption=none&host=New1.legendperm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
 
+vless://9f023546-f004-444b-93fd-428683a9532d@abr.superip.ir:2082?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://1e188537-c09b-44e2-b898-af7012346554@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=gn.8lack.ir&sni=gn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4afe244e-5553-44c8-8216-e3ef33ac9765@abr.superip.ir:2095?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4afe244e-5553-44c8-8216-e3ef33ac9765@abr.superip.ir:2082?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4afe244e-5553-44c8-8216-e3ef33ac9765@abr.superip.ir:2086?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://bbcba9ea-9b9e-4bdb-83ef-65d0f03d6f65@rfiksma.top:16210?flow=&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
