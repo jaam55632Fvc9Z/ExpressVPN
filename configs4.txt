@@ -86,3 +86,5 @@ vless://1c45e98c-8a4a-45e7-acc5-3a3cc962f463@188.214.129.172:443?security=realit
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.136.176:6593?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+trojan://1234567890@134.122.84.25:2083?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
