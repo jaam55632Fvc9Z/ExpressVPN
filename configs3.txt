@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://507zxtqe-4cbw-0ptf-tpzo-lb9jobcod9th@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://2q6jzv19-zpqa-qceu-007s-d3fp3z2flmcz@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://ezvzozxw-kp10-jw26-irs5-mxarkfhwjgln@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://ddef83b7-0269-fc4f-bd8e-c33e2c5df807@89.124.72.86:5398?type=tcp&security=reality#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
 vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&sid=f0#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
 
 trojan://0982kcs4-l5lp-s61z-xyzs-woxyfbwr20rp@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -842,6 +834,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#%F0%9F%8
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.18:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 trojan://1234567890@64.188.70.233:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://1234567890@164.90.166.120:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -1211,6 +1205,8 @@ trojan://1234567890@213.176.77.231:443?security=tls&sni=kfm-bn0.pages.dev&type=w
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ1Ljg5LjUyLjIwNyIsICJwb3J0IjogMzk2NTEsICJpZCI6ICJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIiwgImFscG4iOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFRDUC1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
 vless://7eb4a87d-e22f-4eb3-a793-ee3d6200fdc6@email.swiftraci.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&sid=a6aef5143d94&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://6549811d-29d6-4f42-9ea6-ce5f8f2bcba6@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://b3c6ad74-50d6-4fc3-aafb-83039c21cf24@185.143.235.18:80?path=%2Fv2&security=none&encryption=none&host=spinsweb.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9995,8 @@ vless://fd060ba4-f3bc-42ac-8184-b5f2b022a873@185.143.233.5:443?encryption=none&t
 vless://b59340ca-8dba-4347-8ac0-fd2ebe1dece7@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=%2Fws&security=&encryption=none&host=app.s7r.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
+
+vless://8781f12e-cfb1-40a9-b642-d707be9e89ea@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=cn.8lack.ir&fp=firefox&type=ws&allowInsecure=1&sni=cn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://de94f61f-6337-4807-be1c-56e62b2a1249@arvancloud.ir:80?path=%2Fws&security=none&encryption=none&host=app.s7r.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40saministamm
 
