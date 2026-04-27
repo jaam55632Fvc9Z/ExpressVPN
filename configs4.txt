@@ -38,3 +38,5 @@ vless://ba290aa8-df0a-4a8d-b0b9-9dc92dff3f7b@snapp.ir:8880?type=ws&encryption=no
 
 vless://c23c6f9b-c051-4edc-b3d6-2155879e5879@loxi.nivan.site:80?type=ws&encryption=none&path=%2Fir&host=loxi.nivan.site&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+trojan://1234567890@109.120.134.104:443?sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/#%F0%9F%87%B8%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
