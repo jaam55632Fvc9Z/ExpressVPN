@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://df941dbe-97f5-4cc3-9fc2-eedc9306d594@snapp.ir:8880?encryption=none&type=ws&path=%2Fw&host=p.mofidserver.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://48c2704a-e93c-490a-8a08-874b8e9f6536@168.144.37.123:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=m.zoom.us#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://cfe5ba2c-c651-4ade-babd-39861ea6dcad@support.zoom.us:8080?path=%2Fmeeting&security=none&encryption=none&host=danuwa-free-server.sslzoom.us&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://48c2704a-e93c-490a-8a08-874b8e9f6536@168.144.37.123:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=m.youtube.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://48c2704a-e93c-490a-8a08-874b8e9f6536@168.144.37.123:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=www.tiktok.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://cfe5ba2c-c651-4ade-babd-39861ea6dcad@104.16.122.4:8080?path=%2Fmeeting&security=none&encryption=none&host=danuwa-free-server.sslzoom.us&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://48c2704a-e93c-490a-8a08-874b8e9f6536@168.144.37.123:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=www.netflix.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@162.159.152.0:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -65,4 +51,18 @@ vless://40dfe14e-341c-4bf9-9092-afc894342c65@varzesh3.com:8080?path=%2F&security
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.149.232:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://1234567890@158.101.190.78:443?sni=kfm-bn0.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.213.168:8443?allow_insecure=1&allowInsecure=1&host=e.joss.jak.biz.id&insecure=1&path=%2FFree-VPN-CF-Geo-Project%2FLV%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=e.joss.jak.biz.id&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.6.44.238:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=1&allowInsecure=1&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B1%F0%9F%87%BB%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.204:81?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%B1%F0%9F%87%BB%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.32.185.152:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=1&allowInsecure=1&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B1%F0%9F%87%BB%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://3aea6d4a-f54c-452e-b645-ef29ac8b7b73@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYdUpzdDBhclpHeFpVcjJHZFAwV093@92.246.76.207:1080#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
