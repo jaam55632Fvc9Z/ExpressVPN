@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://wqv8rgdk-bjtq-2cfo-vl4f-3l3w52twzuvg@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://x2lyk2ua-vi9q-y17y-9ial-86xwnx4hvinm@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://9yiv2rmv-wwji-9f3z-2z2t-6p7yne8foni3@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
 vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.77:8443?type=tcp&security=reality&sni=ozon.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
 
 vless://309fa273-6579-4cb2-9143-7cad50401eba@146.19.80.222:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
@@ -9999,4 +9993,10 @@ vless://92ca8a45-95da-49fb-865b-f4f3437ca076@185.143.233.5:443?encryption=none&t
 vless://92ca8a45-95da-49fb-865b-f4f3437ca076@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=dn.8lack.ir&fp=firefox&type=ws&allowInsecure=1&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://ae7df58c-e62f-4748-bd27-4d74f1e9e9e1@185.143.233.43:80?path=%2F&security=none&encryption=none&host=motabarim.service-panelbaz.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://ad3887d6-5a91-4b03-b517-d81792887a1a@5.201.158.90:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.microsoft.com&si#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://fd060ba4-f3bc-42ac-8184-b5f2b022a873@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=bn.8lack.ir&sni=bn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://b59340ca-8dba-4347-8ac0-fd2ebe1dece7@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
