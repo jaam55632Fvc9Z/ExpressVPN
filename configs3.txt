@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://8df8d701-38b4-5175-89ef-7447a1250e67@45.15.127.107:443?security=reality&encryption=none&pbk=3Q2wyMPpUbyfw7rmNxL25nnsNDmK9mHqcumAxYIGKVk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=e3#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@103.231.73.181:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://70bf8b56-af66-4e86-a7e0-e87c91b18744@109.69.23.18:443?security=none&type=xhttp&headerType=&path=%2F&host=&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-None%20%7C%20%40v2ray_configs_pool
 
 vless://70bf8b56-af66-4e86-a7e0-e87c91b18744@109.69.23.18:2087?security=none&type=grpc&headerType=&serviceName=vlessgrpc&authority=&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-None%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ trojan://humanity@104.20.6.134:443?host=www.ignitelimit.com&%3Bpath=/assignment&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFSUZNNzlBc2JYUVFyeUt5WjVPN0xh@195.93.253.240:14130#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://1e53ba9b-ddb0-4c96-8b95-999f9d2c12e0@alihapps3.aghanami.ir:80/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://1e53ba9b-ddb0-4c96-8b95-999f9d2c12e0@alihapps3.aghanami.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://1cd9eece-d8f3-4e36-867f-ead7b7b0b37a@red.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=1&host=red.nahidapp.com&type=ws&allowInsecure=1&sni=red.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d406dda1-2302-4805-a62c-f3dc36799a43@188.114.96.3:2053?path=/eyJqdW5rIjoiODJaTHE3aHlUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.vnkrycw.workers.dev&fp=chrome&type=ws&sni=V2nGFasT.VnkRycw.WOrKeRS.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
