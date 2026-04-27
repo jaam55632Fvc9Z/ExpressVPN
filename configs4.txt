@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://e5939f03-6a34-4fe2-af36-f71fcba661ff@snapp.ir:80?path=%2F&security=none&encryption=none&host=cpi.lithiumnet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://e4842be5-e2eb-4782-ade5-8df9efe7872a@snapp.ir:8880?encryption=none&type=ws&path=%2Frazstarlocal&host=p1.razstar.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://7431fd96-3d30-4dc9-918a-f27288d712d9@snapp.ir:80?type=ws&encryption=none&path=/&host=filaxephine.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80/?type=ws&encryption=none&flow=&host=my.zivorae.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://e4842be5-e2eb-4782-ade5-8df9efe7872a@snapp.ir:8880/?type=ws&encryption=none&flow=&host=p1.razstar.ir&path=%2Frazstarlocal#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -43,4 +37,8 @@ vless://36029350-08c4-4c1e-aa9d-4507359b054d@vercel.com:443?encryption=none&secu
 vless://f0ac3bab-a26b-403b-9948-a999d7f4a92a@vercel.com:443?mode=auto&path=%2Ftt&security=tls&encryption=none&host=heydari.vercel.app&type=xhttp&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg==@195.58.49.26:40210#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://36029350-08c4-4c1e-aa9d-4507359b054d@vercel.com:443/?type=tcp&encryption=none&flow=&security=tls&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f0ac3bab-a26b-403b-9948-a999d7f4a92a@vercel.com:443/?type=tcp&encryption=none&flow=&security=tls&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 

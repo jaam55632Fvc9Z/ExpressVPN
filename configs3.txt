@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://f24bd99f-c4fe-b913-3b4d-dcfb86c1b3cd@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185 .226.94.198#%F0%9F%8C%90%20WS-None%20%7C%20%40NormanV2ray
-
-vless://f24bd99f-c4fe-b913-3b4d-dcfb86c1b3cd@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://d2223a3e-7996-4a6b-aed7-84d192e9c9d1@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=cdngraph.newmew.site&fp=chrome&type=ws&sni=cdngraph.newmew.site#%F0%9F%8C%90%20WS-None%20%7C%20%40mtproto_proserver
 
 vless://76d95002-7e5d-4d6d-8668-22209ff502d9@usa.mynethub99.top:2080?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=usa.mynethub99.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40mtproto_proserver
@@ -9999,4 +9995,8 @@ vless://36029350-08c4-4c1e-aa9d-4507359b054d@vercel.com:443?encryption=none&secu
 vless://f0ac3bab-a26b-403b-9948-a999d7f4a92a@vercel.com:443?mode=auto&path=%2Ftt&security=tls&encryption=none&host=heydari.vercel.app&type=xhttp&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg==@195.58.49.26:40210#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://36029350-08c4-4c1e-aa9d-4507359b054d@vercel.com:443/?type=tcp&encryption=none&flow=&security=tls&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f0ac3bab-a26b-403b-9948-a999d7f4a92a@vercel.com:443/?type=tcp&encryption=none&flow=&security=tls&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
