@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNjZON2VETXFibjV1UFdFdTVWcHkx@195.93.253.240:14130#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://299d4de2-7781-434a-a15e-d63119af3963@193.233.208.31:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=XrXK3qb2CKCBP80Vkg3WfNBB4gpy4YOADmQ7mhHfDWE#%F0%9F%87%AC%F0%9F%87%A7%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTYxYzExNmItMjZlNy00OTc2LWJhMDAtOWNlMGM3YWQ4YzdiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjgwOTIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&headerType=none&type=tcp&allowInsecure=1&sni=hio-awx.pages.dev#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@127.0.0.1:40443?path=%2F&security=tls&encryption=none&insecure=1&host=qyi.fqjd663.ggff.net&type=ws&allowInsecure=1&sni=qyi.fqjd663.ggff.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9991,12 @@ vless://7281e0c5-20c0-4914-87e2-fd2c0a657e4d@abr.superip.ir:2086?security=none&t
 vless://7281e0c5-20c0-4914-87e2-fd2c0a657e4d@abr.superip.ir:2095?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#%F0%9F%87%AC%F0%9F%87%A7%20WS-None%20%7C%20%40vasl_bashim
 
 vless://7281e0c5-20c0-4914-87e2-fd2c0a657e4d@abr.superip.ir:2082?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vasl_bashim
+
+vless://50e13a40-364d-4291-9279-5028a1410f4a@snapp.ir:80?path=%2F&security=none&encryption=none&host=newbalance.zivaroid.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://31480672-ba72-4f40-9340-4025d56521e8@abr.superip.ir:2086?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://31480672-ba72-4f40-9340-4025d56521e8@abr.superip.ir:2095?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6f1ef946-a328-499e-8f44-725988627b00@ite.pishvatech.lol:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
