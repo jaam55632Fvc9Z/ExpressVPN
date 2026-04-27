@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://YWVzLTI1Ni1nY206MWYzNGY0NjUtMmY4MS00OTc0LTkwM2MtODA2ZjQyODc4NDQx@192.142.18.127:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.109.253:8880?encryption=none&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://fcbe44ed-2aaa-432e-9b37-282abd2f9892@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=ss1.limitless-cloud.ir&fp=chrome&type=ws&sni=ss1.limitless-cloud.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://28833b20-cd6d-427d-a1d0-f5fe5fac8e3b@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=ss2.limitless-cloud.ir&fp=chrome&type=ws&sni=ss2.limitless-cloud.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://ae6e3622-1e37-47fb-b15e-77b51c03748a@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://1584ba95-04c8-4261-bd9e-8d6b02bac555@yakhbandan.info:5002?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://79ed806a-6476-4ca3-9020-0ab9e19425e1@snapp.ir:80?encryption=none&type=ws&path=%2F&host=iranfuture.musicritmic.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -135,4 +123,10 @@ vless://4749475d-3a47-4175-a934-92e247127ed7@kbgs.hinet.tw1.yydjc.top:443?securi
 vless://1cc21fb6-b8ec-42c7-a57c-39e89ace379e@avstrianoda.normbot.ru:443?security=reality&type=tcp&sni=avstrianoda.normbot.ru&fp=qq&flow=xtls-rprx-vision&sid=6aa2d2e950441a9a&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&encryption=none#%F0%9F%87%A6%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://c29301bd-044d-45fe-9b5e-0f7f32b9b5b2@arvancloud.ir:80?type=ws&encryption=none&path=%40TunizoNET&host=ri.amirenzohost.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://Parsashonam@nextjs.org:443?mode=auto&path=%2Fp4r34m&security=tls&encryption=none&insecure=0&host=YOUR_SUB_DOMAIN&type=xhttp&allowInsecure=0&sni=nextjs.org#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d2d347d1-0a53-4ebe-a56a-2dd04be4320f@snapp.ir:80?encryption=none&type=ws&path=/?ed=2080&host=1.jojo.avenflow.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4b56b9f9-b4d5-407a-b0d4-7718dc22a38c@92.42.207.97:8443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
