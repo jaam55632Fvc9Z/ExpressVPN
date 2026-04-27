@@ -74,3 +74,17 @@ vless://7133859b-a56e-4d08-9eeb-c1e8ce641219@arvan.mizbanertebatfarda.ir:8080?pa
 
 vless://3cf4a468-5196-4bba-8238-abe8f7ec8652@cdn1.jigaartala.shop:26764?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://df941dbe-97f5-4cc3-9fc2-eedc9306d594@snapp.ir:8880?encryption=none&type=ws&path=%2Fw&host=p.mofidserver.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://48c2704a-e93c-490a-8a08-874b8e9f6536@168.144.37.123:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=m.zoom.us#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://cfe5ba2c-c651-4ade-babd-39861ea6dcad@support.zoom.us:8080?path=%2Fmeeting&security=none&encryption=none&host=danuwa-free-server.sslzoom.us&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://48c2704a-e93c-490a-8a08-874b8e9f6536@168.144.37.123:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=m.youtube.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://48c2704a-e93c-490a-8a08-874b8e9f6536@168.144.37.123:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=www.tiktok.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://cfe5ba2c-c651-4ade-babd-39861ea6dcad@104.16.122.4:8080?path=%2Fmeeting&security=none&encryption=none&host=danuwa-free-server.sslzoom.us&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://48c2704a-e93c-490a-8a08-874b8e9f6536@168.144.37.123:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=www.netflix.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
