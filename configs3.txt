@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://1234567890@46.101.174.78:443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://gfwj4wto-a0vh-27lm-981s-95qctnhlew38@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://b5m8s3kz-rowb-ats1-ecdy-kjlv4swp20kq@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://y75fpzbe-vlce-4h81-rijq-3tuyoduke38h@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@147.78.1.230:990#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
-
-trojan://opasa9as-jfr0-ryaw-qhqh-mnrwdwm8x9z6@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://rt6ngtux-aqr2-7hrh-uyva-e0nc2b4bnbik@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
 trojan://0dhf1zey-nlm3-z5tj-dkw7-uxf6hk3mzime@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyBOb25lIiwiYWRkIjoiN2NjMDJhYjktMzQ3OC0xNzMzLWVhOTQtMmI0NWQ4ZTExNWEwLmJ1Z3Rpay5sdGQiLCJwb3J0Ijo4MCwiaWQiOiI0NmNmY2ZlMS1lNDUwLTQ1OWQtYTNhYi05NDA2MDExYWIzZWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
@@ -9999,4 +9985,18 @@ ss://YWVzLTI1Ni1nY206c29tZS1zaW1wbGUta2V5@37.32.25.141:8403?type=tcp&headerType=
 vless://771bc433-feba-4922-a916-e278fc8b7984@snapp.ir:80?encryption=none&type=ws&path=%2F&host=cpi.lithiumnet.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://dba12d86-d901-4740-bb1e-fb9a78c31e94@snapp.ir:80?path=%2F%3Fed%3D2080&security=&encryption=none&host=1.jojo.avenflow.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://bc989a09-5419-4985-909e-5e5c6501f314@cloudflare.rainyfall.com:443?type=httpupgrade&encryption=none&host=us-east-01.8886698.xyz&path=%2Fdownload&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=us-east-01.8886698.xyz#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://bc989a09-5419-4985-909e-5e5c6501f314@cloudflare.rainyfall.com:2053?type=xhttp&encryption=none&host=us-west-02.8886698.xyz&path=%2Fdownlaod&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=us-west-02.8886698.xyz&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4749475d-3a47-4175-a934-92e247127ed7@kbgs.hinet.tw1.yydjc.top:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=s0.awsstatic.com&pbk=UtL1fZqK9sl2QQaS03BQnfYBAnH760eJ_4YzSR9RniM&sid=601a08ef#%F0%9F%87%B9%F0%9F%87%BC%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://4749475d-3a47-4175-a934-92e247127ed7@69.84.182.13:443?type=ws&encryption=none&host=fr-1-fr-1.aiopen.sbs&path=%2Fgsjc%2Ffr1&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=tls&fp=chrome&sni=&pbk=&sid=#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4749475d-3a47-4175-a934-92e247127ed7@132.226.147.10:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=musicstatus.tv.apple.com&pbk=OEZ3C-1OCSYBikqcWudtPP3PpQq2RAI7rFPxWoTCDSc&sid=bffe9292#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://4749475d-3a47-4175-a934-92e247127ed7@129.158.41.239:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=musicstatus.tv.apple.com&pbk=Um47-P2c42os7mr1X4Hxw0290YA1FXwyG96p854qol0&sid=8c38a563b7a004d8#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://4749475d-3a47-4175-a934-92e247127ed7@192.9.164.54:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=musicstatus.tv.apple.com&pbk=9oOtS_WWQMj6h4L72o1Lbu9ze_lmW_2PQy4diKpBjQI&sid=ba9c05e6cce34e2e#%F0%9F%87%A6%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 

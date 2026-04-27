@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ec9fbb12-7916-451f-8adc-859581c43cdb@vercel.com:443?mode=auto&path=/armp&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=armp-op.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://55e9c531-83cd-4122-8cba-3b9b9e37f1a2@seyyed.nahidapp.com:443?encryption=none&type=ws&security=tls&path=%2Fvless-ws&host=seyyed.nahidapp.com&sni=seyyed.nahidapp.com&fp=chrome&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMd0IzS0FkV0NRZ1duWkRhazJYbUtQSE1Nd1pwQXpXUA==@130.49.189.40:8080#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://df941dbe-97f5-4cc3-9fc2-eedc9306d594@snapp.ir:8880?path=%2Fw&security=none&encryption=none&host=p.mofidserver.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://40b959c1-c0dc-44ef-8ec8-7c61d20dd110@vercel.com:443?mode=auto&path=%2Fapi%2Fdirect&security=tls&alpn=h2&encryption=none&insecure=1&host=vercelv2ray-gamma.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@3.75.35.234:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.35.234:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@3.75.35.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 trojan://1234567890@134.122.84.25:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=/?https://t.me/WangCai2🇨🇳=&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://3b56b9f9-b4d5-407a-b0d4-7718dc22a38c@92.42.207.97:8443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -83,4 +67,18 @@ ss://YWVzLTI1Ni1nY206c29tZS1zaW1wbGUta2V5@37.32.25.141:8403?type=tcp&headerType=
 vless://771bc433-feba-4922-a916-e278fc8b7984@snapp.ir:80?encryption=none&type=ws&path=%2F&host=cpi.lithiumnet.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://dba12d86-d901-4740-bb1e-fb9a78c31e94@snapp.ir:80?path=%2F%3Fed%3D2080&security=&encryption=none&host=1.jojo.avenflow.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://bc989a09-5419-4985-909e-5e5c6501f314@cloudflare.rainyfall.com:443?type=httpupgrade&encryption=none&host=us-east-01.8886698.xyz&path=%2Fdownload&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=us-east-01.8886698.xyz#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://bc989a09-5419-4985-909e-5e5c6501f314@cloudflare.rainyfall.com:2053?type=xhttp&encryption=none&host=us-west-02.8886698.xyz&path=%2Fdownlaod&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=us-west-02.8886698.xyz&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4749475d-3a47-4175-a934-92e247127ed7@kbgs.hinet.tw1.yydjc.top:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=s0.awsstatic.com&pbk=UtL1fZqK9sl2QQaS03BQnfYBAnH760eJ_4YzSR9RniM&sid=601a08ef#%F0%9F%87%B9%F0%9F%87%BC%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://4749475d-3a47-4175-a934-92e247127ed7@69.84.182.13:443?type=ws&encryption=none&host=fr-1-fr-1.aiopen.sbs&path=%2Fgsjc%2Ffr1&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=tls&fp=chrome&sni=&pbk=&sid=#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4749475d-3a47-4175-a934-92e247127ed7@132.226.147.10:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=musicstatus.tv.apple.com&pbk=OEZ3C-1OCSYBikqcWudtPP3PpQq2RAI7rFPxWoTCDSc&sid=bffe9292#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://4749475d-3a47-4175-a934-92e247127ed7@129.158.41.239:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=musicstatus.tv.apple.com&pbk=Um47-P2c42os7mr1X4Hxw0290YA1FXwyG96p854qol0&sid=8c38a563b7a004d8#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://4749475d-3a47-4175-a934-92e247127ed7@192.9.164.54:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=musicstatus.tv.apple.com&pbk=9oOtS_WWQMj6h4L72o1Lbu9ze_lmW_2PQy4diKpBjQI&sid=ba9c05e6cce34e2e#%F0%9F%87%A6%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
