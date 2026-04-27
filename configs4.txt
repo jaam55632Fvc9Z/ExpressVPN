@@ -32,3 +32,11 @@ vless://e5ac4638-4aaa-4a17-9318-0c13e0b0e1ec@snapp.ir:8080?encryption=none&type=
 
 vless://22edb8cb-bd14-42b7-be26-1ed38887f054@varzesh3.com:8080?type=ws&encryption=none&path=/&host=ma.nexoratechcenter.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://5c66842b-b993-4d12-9929-a118408ac0fd@snapp.ir:8080?path=%2F&security=none&encryption=none&host=duster.star2feri.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://a87ba8fb-b537-45fa-88d3-2c5b1ae9cdec@B2.alapayment.com:80?type=ws&encryption=none&path=/&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://075c2d9e-92ed-4b65-9036-c4adac8c58fb@vercel.com:443?encryption=none&security=tls&sni=vercel.com&insecure=0&allowInsecure=0&type=xhttp&host=vercel-xhttp-f6iu.vercel.app&path=/best&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@104.20.6.134:443?host=www.ignitelimit.com&%3Bpath=/assignment&%3Bsni=www.ignitelimit.com&%3Btype=ws#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
