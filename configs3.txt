@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://70bf8b56-af66-4e86-a7e0-e87c91b18744@109.69.23.18:443?security=none&type=xhttp&headerType=&path=%2F&host=&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-None%20%7C%20%40v2ray_configs_pool
-
 vless://70bf8b56-af66-4e86-a7e0-e87c91b18744@109.69.23.18:2087?security=none&type=grpc&headerType=&serviceName=vlessgrpc&authority=&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-None%20%7C%20%40v2ray_configs_pool
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@92.118.205.177:443?&security=tls&fp=chrome&sni=3-7v4.pages.dev&type=ws&headerType=none&host=3-7v4.pages.dev&path=%2F#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9997,6 @@ vless://1e53ba9b-ddb0-4c96-8b95-999f9d2c12e0@alihapps3.aghanami.ir:80?path=%2F&s
 vless://1cd9eece-d8f3-4e36-867f-ead7b7b0b37a@red.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=1&host=red.nahidapp.com&type=ws&allowInsecure=1&sni=red.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://d406dda1-2302-4805-a62c-f3dc36799a43@188.114.96.3:2053?path=/eyJqdW5rIjoiODJaTHE3aHlUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.vnkrycw.workers.dev&fp=chrome&type=ws&sni=V2nGFasT.VnkRycw.WOrKeRS.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://1234567890@64.188.105.7:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
