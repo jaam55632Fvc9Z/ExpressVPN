@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://77534396-dead-4a6c-8761-03939cd4fdc8@172.64.149.54:443?path=%2F&security=tls&encryption=none&insecure=0&host=my.vulmart.ir&type=ws&allowInsecure=0&sni=my.vulmart.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://fe932fca-7359-47a0-b191-4a8c2d48186d@ursa.linkinfo.cloud:2082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://1454a693-503b-3ec1-5347-120ed30012c9@meli.masterdadeh.ir:80?encryption=none&type=ws&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 ss://8e2fe5e1-f2f6-4f7b-9eb7-e0a0dee94ccf@188.121.126.201:2086?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJhZGQiOiAidTguaHV2aWNsb3VkLmNvbSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNjc5NjYxMWItMjYwZS00ZDYzLTkwMTYtMjBjMjdiMTJlNDIwIiwgInR5cGUiOiAiIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidGxzIjogInRscyIsICJzbmkiOiAidTguaHV2aWNsb3VkLmNvbSIsICJwYXRoIjogIi82Nzk2NjExYi0yNjBlLTRkNjMtOTAxNi0yMGMyN2IxMmU0MjAiLCAiaG9zdCI6ICJ1OC5odXZpY2xvdWQuY29tIn0=
@@ -583,6 +569,8 @@ vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.149.114.75:8443?security=reality
 vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?security=none&encryption=none&host=germany.xydcqd.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://4f9a5c60-349b-4854-b402-e01babbd61e6@Anten.ir:2086?type=ws&security=none&encryption=none&path=%2F&host=shop2.plusself.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40VPNConectd
+
+vless://5785444d-596b-425c-8b1c-727a539508d9@2.144.20.130:443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://cd9fb580-d65d-4454-abcd-1666f6402952@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -9999,4 +9987,16 @@ vless://4a276b6a-d98d-4ebe-ac35-732999566453@snapp.ir:80?path=%2F&security=none&
 vless://f10c6843-6666-151e-f2bb-086dc7a13094@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.204#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://6ecd84ad-aa80-4e9b-995d-2a1cb097e6ba@185.143.234.235:8080?encryption=none&type=ws&host=networkex.onyxshoes.ir&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://53be9f61-cf58-4f9d-b0fc-a737857e0b28@arvancloud.ir:80?encryption=none&host=sharefiles.fitvitamin.ir&path=%2Fupload%3Fed%3D256&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3da14dd1-faab-4f0e-ae58-3f484c3d5d19@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?security=tls&%3BallowInsecure=0&%3Bencryption=none&%3Btype=ws&%3Bhost=sni.111000.dynv6.net&%3Bpath=/%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&%3Bsni=sni.111000.dynv6.net&%3Bfp=chrome#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://db2485fa-f66d-4f75-a939-182d74c87845@185.143.235.200:8080?encryption=none&security=none&type=ws&host=hh.deragonconfig.ir&path=%2Fws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
