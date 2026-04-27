@@ -80,3 +80,7 @@ vless://3cf4a468-5196-4bba-8238-abe8f7ec8652@cdn1.jigaartala.shop:26764?type=tcp
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:8443?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+ss://YWVzLTI1Ni1nY206c29tZS1zaW1wbGUta2V5@37.32.25.141:8403?type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://771bc433-feba-4922-a916-e278fc8b7984@snapp.ir:80?encryption=none&type=ws&path=%2F&host=cpi.lithiumnet.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
