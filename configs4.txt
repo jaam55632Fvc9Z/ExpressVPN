@@ -66,3 +66,9 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.35.234:22224?type=ws&security=
 
 trojan://telegram-id-privatevpns@3.75.35.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+trojan://1234567890@134.122.84.25:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=/?https://t.me/WangCai2🇨🇳=&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://3b56b9f9-b4d5-407a-b0d4-7718dc22a38c@92.42.207.97:8443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://8c4e0e0d-988b-4e00-89fe-adb5c8d531a0@dl.corashop.ir:80?encryption=none&type=ws&path=%2F&host=dl.corashop.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
+
