@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://YXV0bzo=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80?encryption=none&type=ws&path=%2F۶&host=my.zivorae.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://041c9cd2-c0b2-498a-b291-ff8fbe7ab2cb@camp.nahidapp.com:443?encryption=none&type=ws&security=tls&path=%2FIF_VPN_Bot&host=camp.nahidapp.com&sni=camp.nahidapp.com&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.16.56:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.215.38:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://9b570a4a-27c3-4000-8753-75e5757b38f4@varzesh3.com:80/?type=ws&encryption=none&path=%2F&host=sajjad.panivo.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40irmeliy
@@ -55,4 +47,18 @@ vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@spain.torprospeed.ir:587?type=tcp&s
 vmess://eyJhZGQiOiAiZG4udG9yb250b21vdmllLmNvbSIsICJhaWQiOiAiMCIsICJpZCI6ICJhMTYwMDllOC0wZGE4LTQyNDUtOGUwNS0yM2VlMjNhOTg2Y2UiLCAibmV0IjogInRjcCIsICJwb3J0IjogODA4MCwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 
 vless://9e1f7f71-4a59-4431-bbe2-c564565a8fa4@tapsi.ir:443?alpn=h3&encryption=none&fp=random&host=sb1.pbvsrk.carnagesv.top&path=%2F&security=tls&sni=sb1.pbvsrk.carnagesv.top&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1f141fc7-d31c-662c-8b10-99784eedfdcc@snapp.ir:2052?path=%2F%3Fed&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://f4e22eff-20b2-4af7-aee9-4a67b82b47f3@www.speedtest.net:80?path=/@Config_On#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://caavzy6s-2bjh-9cmo-rek0-753ya81w20lw@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://f9946hlc-8n07-5v2f-n0t9-481f3l5nxtpo@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://py7tcu9b-8ozx-fs36-m4wh-zwkoli8y4k7b@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyAxODUuMjQ0LjIwOC4xOTYiLCJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJwb3J0Ijo4MDgwLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyBOb25lIiwiYWRkIjoiZWY0ZTQ4NjAtMDA4Yy0zZTAxLWQxZjgtYmQ1NmRjNWI0MTliLm9uZXBsdXMucHViIiwicG9ydCI6ODAsImlkIjoiNDZjZmNmZTEtZTQ1MC00NTlkLWEzYWItOTQwNjAxMWFiM2ViIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
 
