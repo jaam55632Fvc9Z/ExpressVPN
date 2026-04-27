@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://50e13a40-364d-4291-9279-5028a1410f4a@snapp.ir:80?path=%2F&security=none&encryption=none&host=newbalance.zivaroid.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://31480672-ba72-4f40-9340-4025d56521e8@abr.superip.ir:2086?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://31480672-ba72-4f40-9340-4025d56521e8@abr.superip.ir:2095?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://6f1ef946-a328-499e-8f44-725988627b00@ite.pishvatech.lol:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://b5a1d38d-d220-421a-a996-9198777b2bdc@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://f4eb6c84-bd9f-4703-a440-1904c674478e@abr.superip.ir:2086?security=none&type=ws&headerType=&path=/API/superip&host=cd.phill-up.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -79,4 +71,12 @@ trojan://1234567890@94.125.101.103:443?allowInsecure=0&sni=kfm-bn0.pages.dev&typ
 vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@react.dev:443/?type=tcp&encryption=none&flow=&security=tls&sni=react.dev&alpn=h2&fp=chrome#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://433b8bfa-e827-4957-8812-0f84b76948c1@vip.gxnetshop.ir:5005?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://cf8d1674-7973-40c4-a908-c13458aeb399@cdn.khude011.shop:40520?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://53a26616-e6cc-4a89-84fc-6da466f16720@khan13.tarfandgallery.sbs:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=khan13.tarfandgallery.sbs#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://eee8c800-7df8-40c9-b729-7f47a5be1608@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vitallife.gg&fp=chrome&type=ws&allowInsecure=0&sni=vitallife.gg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://e51d2008-7d4c-46fb-a08a-2cc10620972a@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vitallife.gg&fp=chrome&type=ws&allowInsecure=0&sni=vitallife.gg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vaslbemonim7
 
