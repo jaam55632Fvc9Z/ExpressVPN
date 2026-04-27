@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://141acd0a-71cd-4255-b8b2-555ec4a548d0@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40NormanV2ray
-
 vless://5c2bdd2c-20cf-41b3-a6c8-e35fac16cbfe@snapp.ir:8880?path=/ws?ed=2560&security=none&encryption=none&host=New1.legendperm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 trojan://1234567890@59.20.251.99:18246?security=tls&sni=kfm-bn0.pages.dev&insecure=1&allowInsecure=1&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -117,4 +115,12 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.167.243.253:8880?encryption=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.253:8880?encryption=none&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://93fd88a9-8e9a-43bb-b0bd-46659d092175@185.213.165.38:443?encryption=none&security=none&type=xhttp&host=sub.sinalizardpanel.info&path=%2Fvideo&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://7a0e5a9f-8ab0-4fec-b3cc-d97402e3667d@silver.api-tel.xyz:443?path=/&%3Bsecurity=tls&%3Balpn=h2%2Chttp/1.1&%3Bencryption=none&%3Bfp=firefox&%3Btype=ws&%3Bsni=dany.api-tel.xyz#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://6d3e00ca-b367-4100-b1f4-fbe820b9886b@ite.pishvatech.lol:80?path=/&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://7a0e5a9f-8ab0-4fec-b3cc-d97402e3667d@silver.api-tel.xyz:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=firefox&type=ws&sni=dany.api-tel.xyz#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f20f2780-6735-4c07-9507-a0d766d55b4b@snapp.ir:80?encryption=none&type=ws&security=none&host=cpi.lithiumnet.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
