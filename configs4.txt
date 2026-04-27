@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://1234567890@134.122.84.25:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=/?https://t.me/WangCai2🇨🇳=&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://3b56b9f9-b4d5-407a-b0d4-7718dc22a38c@92.42.207.97:8443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://8c4e0e0d-988b-4e00-89fe-adb5c8d531a0@dl.corashop.ir:80?encryption=none&type=ws&path=%2F&host=dl.corashop.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
-
 trojan://telegram-id-v2rayvpnchannel@3.75.35.234:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://8c4e0e0d-988b-4e00-89fe-adb5c8d531a0@dl.corashop.ir:80?path=%2F&security=none&encryption=none&host=dl.corashop.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -81,4 +75,8 @@ vless://4749475d-3a47-4175-a934-92e247127ed7@132.226.147.10:443?type=tcp&encrypt
 vless://4749475d-3a47-4175-a934-92e247127ed7@129.158.41.239:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=musicstatus.tv.apple.com&pbk=Um47-P2c42os7mr1X4Hxw0290YA1FXwyG96p854qol0&sid=8c38a563b7a004d8#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://4749475d-3a47-4175-a934-92e247127ed7@192.9.164.54:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=musicstatus.tv.apple.com&pbk=9oOtS_WWQMj6h4L72o1Lbu9ze_lmW_2PQy4diKpBjQI&sid=ba9c05e6cce34e2e#%F0%9F%87%A6%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://b5a1d38d-d220-421a-a996-9198777b2bdc@snapp.ir:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=1.jojo.avenflow.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ad7dcf20-5acb-4502-ac96-97845ece9331@vercel.com:443?mode=auto&path=%2F43b05b5d011c&security=tls&alpn=h2&encryption=none&host=edge-cache-85e7c8.vercel.app&fp=chrome&type=xhttp&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
