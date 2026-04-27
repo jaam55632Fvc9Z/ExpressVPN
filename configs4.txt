@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?type=grpc&encryption=none&serviceName=gprc#%F0%9F%87%B5%F0%9F%87%B1%20GRPC-None%20%7C%20%40v2ray_configs_pool
-
-vless://a34a5f3e-e9fa-40a6-f3af-2984adbd701b@178.104.118.247:2087?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://1f1421ba-34f4-6e6e-bec1-e9f9c594fc56@nl.folderchat.ir:8443?path=%2F%3Fed&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://bf5b8584-12f0-460a-9e60-518b4cc771d6@185.208.79.246:8080?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://a80c6eac-eb41-4f1e-9e4b-8d0c4f8ef3b1@morv.iwit.cc:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://e13f64ea-0cdc-4c23-a634-764ae63ae74b@khan19.tarfandgallery.sbs:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=khan19.tarfandgallery.sbs&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://1f1421ba-34f4-6e6e-bec1-e9f9c594fc56@nl.folderchat.ir:8443?path=%2F%3Fed&security=none&encryption=none&type=wsonline%20gate#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://b12977b1-07a2-421a-99e0-1f98c1647922@iri.hosmci.ir:41473?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=ir.hosmci.ir&path=%2Fupload%2F%3Fed%3D2560&security=tls&sni=ir.hosmci.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NormanV2ray
-
-vless://23096f04-efbb-4cb5-b499-edf5f6a0991d@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40vslshi
-
 vless://86e9a7dc-70ed-4f4d-afde-4e2cb89ce381@185.143.234.235:80?encryption=none&security=none&type=ws&host=riodo.gelvil.ir&path=%2F%3Fed%3D1024#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://36a69e01-9e30-47fd-982c-1111ed03fa7f@rfiksma.top:41051?encryption=none&type=tcp&headerType=none@netazadi#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -101,4 +83,18 @@ vless://8014017f-3f40-46e9-b02d-87e6c54d877e@185.143.233.5:443?path=%2Fchat%3Fed
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=my.ski1plag.ir&path=/upload#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://305b2c5b-97ed-49fb-a4f8-83785864fccd@2.144.23.147:53486?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c8e6715e-232a-4026-8901-155a40f304ef@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://79ed806a-6476-4ca3-9020-0ab9e19425e1@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://8014017f-3f40-46e9-b02d-87e6c54d877e@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dn.8lack.ir&fp=firefox&type=ws&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VPNConectd
+
+vless://22b81c38-4db3-4fa0-b282-10f816ede973@vip1.mamliserver.top:54014?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip1.mamliserver.top#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://850255c0-8444-4b92-bf3f-01cde9f52fab@office.weai.ir:443?security=reality&encryption=none&pbk=065ekp_uJftu5-HVe7NziOIS7ajpv0dylhsJK6ylzRE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=git.revi.voto&sid=ffe4b45f7e2f0778#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://97dd3706-ca37-402c-9356-3729c2289955@zir.alihapps3.aghanami.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://aba5cedf-5228-41b8-b409-222debd46853@snapp.ir:8880?path=%2Fws%3Fed%3D2560&security=none&encryption=none&host=New1.legendperm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
 
