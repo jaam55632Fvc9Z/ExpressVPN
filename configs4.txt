@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://b516a7a8-2ca8-438b-9790-8c76c4c7c945@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=fn.8lack.ir&fp=firefox&type=ws&allowInsecure=1&sni=fn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@13.38.248.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.248.91:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.38.248.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vmess://eyJhZGQiOiAibWlnLXNpbi5kYXJrdWJlLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyNTQ3MjFhOS01NzM5LTRiYWYtYjM1ZC05YmM5NTBlMzQ2ZGIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXBpL2RpcmVjdCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQHZhc2xfYmFzaGltIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
-
-vless://e275d5ea-5975-47da-a91c-5441fb68d0a5@morv.iwit.cc:443?encryption=none&type=tcp&security=tls&headerType=none&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40vasl_bashim
-
-vless://b7a4a575-1231-4f5f-aadc-5c43a5d862f5@react.dev:443?mode=auto&path=%2Fafixqq&security=tls&encryption=none&insecure=1&host=vercel-xhttp-theta-weld.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=react.dev#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://9dbdb980-7e06-41b8-9b22-cc13e5e17684@vitallife.gg:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=vitallife.gg&path=%2Fwp-content%2Fcachecache&security=tls&sni=vitallife.gg&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vmess://eyJhZGQiOi#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -55,4 +41,20 @@ vless://7a4b1a01-9c98-4410-8b72-0f8a0867b1be@snapp.ir:8080?encryption=none&host=
 vless://088ea099-ca49-4335-ac4d-ee503b3ab8f4@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=bn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto&path=%2Fzyphervpnsalle&security=tls&encryption=none&insecure=1&host=vercel-xhttp-beta-flame.vercel.app&type=xhttp&allowInsecure=1&sni=nextjs.org%@BestProxyTel1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://81aa241b-4855-4a50-9ffc-a10f60c17bcc@snapp.ir:80?encryption=none&type=ws&path=%2Fgraphql%3Fed%3D2560&host=ss7.limitless-cloud.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://56d5c5e8-977f-414c-8158-0dab26a833bd@mlh.mynethub99.top:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=mlh.mynethub99.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://d9bbd33c-8343-9a92-4f8d-11b628fbf2a5@pari.masterdadeh.ir:80?path=%2F&security=&encryption=none&type=ws&sni=185.226.94.204#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://8f41d3f3-20f5-4fca-b884-5d1f8762821b@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bn.8lack.ir&fp=firefox&type=ws&sni=bn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?encryption=none&security=tls&sni=nextjs.org&allowInsecure=1&type=xhttp&host=vercel-xhttp-beta-flame.vercel.app&path=%2Fzyphervpnsalle&mode=auto#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://d9bbd33c-8343-9a92-4f8d-11b628fbf2a5@pari.masterdadeh.ir:80?encryption=none&type=ws&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.126:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40filembad
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.1:443?path=/nWsRPQbL6MuyT23J%3Fed%3D2560&%3Bsecurity=tls&%3Bencryption=none&%3Balpn=h2%2Chttp/1.1&%3Bhost=2CBBb5dF.CXrOLvpn.pAGEs.DEV&%3Bfp=randomized&%3Btype=ws&%3Bsni=2CBbb5df.CxRoLVpn.pages.dev#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
