@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://556d2515-b565-4519-9ad0-9ad6f792b6c1@104.18.12.149:8880?path=%2Fapi&security=none&encryption=none&host=prossh.octarpmta.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@25.25.25.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 trojan://1234567890@144.31.191.159:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://1234567890@91.149.223.184:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -1331,6 +1327,8 @@ ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ==@195.58.49.220:10990#%F0%9F%87%B7%F
 vless://47d149e3-8ba6-07d0-b91f-3dd9771fa7cc@khamenei.ir:443?encryption=none&type=tcp&security=tls&sni=vaja.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.146.179:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://a28b874b-a4e8-4c22-b118-39aabe2ec737@vpn.ulteracrypto.site:34303?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -9999,4 +9997,6 @@ vless://88ab8f65-9151-4e0f-95f4-e90d573d6ca5@v.rfiksma.top:3939?encryption=none&
 vless://9fd0fa3e-50ab-47bb-9039-e45196d1a70b@snapp.ir:8080?path=%2F&security=none&encryption=none&host=duster.star2feri.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://0e2287f8-f085-4eee-96e6-0e838d10280c@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=io.binping.lol&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://62f345fd-5ac0-48d0-8ac3-b3f498d5ae2c@react.dev:443?type=xhttp&encryption=none&security=tls&path=%2F&host=dalton-eight.vercel.app&mode=auto&sni=react.dev&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
