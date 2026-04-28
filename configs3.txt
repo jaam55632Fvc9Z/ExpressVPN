@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.255.123.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://b9ffc9c6-aad0-0056-45ee-4f551a0f0b4a@tr.tehranionliine.ir:80?type=ws&host=&security=none&sni=185.226.94.188&alpn=&path=/&headerType=http#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@104.17.148.22:443?path=/eyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@mangu1.zqjsqapi.com:443?type=ws&encryption=none&host=mangu1.zqjsqapi.com&path=/proxy&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=mangu1.zqjsqapi.com#%F0%9F%87%B9%F0%9F%87%AD%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9308,6 +9302,8 @@ vless://19531f29-8287-4bf6-ade1-0066d4a07bb9@snapp.ir:80?path=%2F&security=none&
 
 vless://ff4d7c4a-ee59-45ef-b1cc-16e4c60c35e1@snapp.ir:80?path=%2F&security=none&encryption=none&host=FBI.LithiumNet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICIxODUuMjM2LjM4LjQ0IiwgInBvcnQiOiAiMTk5NDYiLCAiaWQiOiAiYzllNDI1MzctODY1Mi00YTRjLTg1ZDMtMGQzNmFiZjM4Zjg4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJub25lIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
+
 vless://8ca8eda5-41db-4d81-8490-255108622464@nextjs.org:443?mode=auto&path=%2Fhehe&security=tls&alpn=h2&encryption=none&insecure=0&host=vercel-xhttp-mbjx.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://e0586a01-1423-47f5-8726-449dfd696446@haikino.nahidapp.com:443?path=%2Fh4%2F&security=tls&encryption=none&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -9999,4 +9995,8 @@ vless://9a08d14f-5e4c-4678-adde-0fd26b812a4d@vip.clourana.lol:47142?encryption=n
 vless://f35707b4-51c0-4128-bd76-3312844e0d3b@ir.ronixgames.ir:443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://c622d4dc-a0da-4f0a-9d3d-be3178eec11b@snapp.ir:80?encryption=none&host=fonix.musicritmic.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://039470e3-7e66-4123-a5b0-de1825c5d9a5@v4.vahid2961.sbs:2961?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://f00fcb93-b5ec-7ed7-a1e8-95a91753b120@snapp.ir:80?path=%2F&security=none&encryption=none&host=new-game-server.supgame.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
