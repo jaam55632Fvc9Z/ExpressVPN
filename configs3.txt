@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://55b8d5cd-5304-4c24-88d7-0cf075723374@dalton.nightwolf.shop:56227?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
-
-vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?fp=chrome&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQzdhUXY5RHNFTmFWZkt6VFBES1lW@212.192.14.226:41968#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://a6830dd0-6fcd-47cc-8d01-f909b3318a03@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.39.125.115:2053?security=tls&encryption=none&host=tristandeng.cc.cd&fp=chrome&type=ws&sni=tristandeng.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://ebf7d712-7690-4028-81f7-616c106cfd5f@79.117.121.85:35766?security=reality&encryption=none&pbk=JrsNPt4yDyRcLO2-eL0VkVlPBSM2Cp19iDl-A-enrS8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=738b3ed2#%F0%9F%87%AA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?security=reality&encryption=none&pbk=vDKgmefC_2JaSrrvQSsb7DU3KBeKUlXG1V0vgdjv_i4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gpuopen.com&sid=0a856e071790b1#%F0%9F%87%A8%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -721,6 +711,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.238:2096?allowInsecure=
 vmess://eyJhZGQiOiAiYW5ldHdvcmsuc3BhY2UiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjUzYTVkYWQxLTlhZDktNDg2MC05ZWNkLTVkOGRkYWQyYjI1MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvc3RyZWFtIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQGZpbGVtYmFkIiwgInNjeSI6ICIiLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 
 vless://93b40cfd-658c-4a32-aa90-95ab0717111a@snapp.ir:80?type=ws&encryption=none&path=/vbd?ed=2048&host=bd.mojv.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://9b0f4d40-6e98-4cc8-a916-3a9b06c985cb@185.143.234.200:443?encryption=none&security=tls&type=ws&headerType=none&heartbeatPeriod=15&path=%2Ftraffic&host=traffic.aiteamplus.ir&sni=traffic.aiteamplus.ir&fp=edge&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9991,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWS2NHSHlkQXByOUY3R3V4@20.87.107.99:443#%F0%9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://2ee79b8d-7bc7-b497-96aa-260f0200c4d9@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.204#%F0%9F%8C%90%20WS-None%20%7C%20%40irmeliy
+
+vless://16a1b6e6-0875-9588-572e-67578667cc50@snapp.ir:80?security=none&type=ws&path=%2F&host=new-game-server.supgame.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://51fe02b3-cf13-4edc-b91c-9e47feaa67ef@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://2f55f3de-d062-42de-8fe6-0c2c26e020da@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6d7bca07-836b-4867-b172-1e5a8009662c@185.143.234.235:80?path=%2F&security=none&encryption=none&host=ire.binping.lol&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
