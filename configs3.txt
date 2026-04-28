@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://vff5fq14-ii57-748x-prlv-3ie6up1sydpq@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
-
-trojan://dc8yt2gd-okrx-l46d-tdwq-q2ewtwaffgb6@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
 trojan://q8jtouow-5wev-ru57-dlu7-zrljklwrddcs@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://l7y17g3y-ee2v-z3ce-ymsi-s11iyie38uhb@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -1139,6 +1133,8 @@ vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?security=realit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@pl5.lckdwn.ru:443?encryption=none&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&security=reality&sid=b5&sni=vk.ru&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://fafd6a83-06eb-4199-bc69-bd447f420e08@arvancloud.ir:80?path=@TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
@@ -6682,6 +6678,8 @@ vless://26524cce-d514-4014-a426-365fb266a14d@37.139.15.204:443?sni=gso9r.gateway
 
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/ @irshum2&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
+trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://2bafc823-a8ff-429c-9e64-bcde2a1daa2d@vercel.com:443?encryption=none&security=tls&sni=vercel.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=vercel-xhttp-relay-plum-psi.vercel.app&path=%2Fsaefe&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9997,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.129.194:22224?type=ws&securit
 trojan://telegram-id-privatevpns@52.47.129.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
 vless://baef0b54-4362-4bae-a28e-0e288c4493db@varzesh3.com:2052?path=%2F&security=none&encryption=none&host=ai.xier.pro&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40saministamm
 
