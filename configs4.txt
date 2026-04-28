@@ -98,3 +98,11 @@ vless://4ec5816f-1300-4eb4-8d17-3682d60582c9@185.143.233.43:2052?path=%2F&securi
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.231.210:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
+vless://84070a82-ca88-446d-8207-1c0decaae7e5@snapp.ir:80?path=%2Fpayment&security=none&encryption=none&host=shop.nexorastartuphub.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3085a79e-d5be-40d2-9f48-11a18ba07a5d@meliplus.navixx.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=meliplus.navixx.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://4OE9MojBpg@37.32.20.55:80?type=tcp&security=@v2ray03`#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://4OE9MojBpg@37.32.20.55:80/?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
