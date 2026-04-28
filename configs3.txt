@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@shop.app:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.13.206:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9991,12 @@ vless://c1133fbd-5772-475b-ae78-11bea2f06165@snapp.ir:80?path=%2F&security=none&
 vless://ace79ce0-d438-430c-a685-5337b58c6926@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=1&sni=an.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://d3c5fdb9-48c9-4621-a94b-a5c165ddb7a2@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://75bb3c07-99be-4a58-90ca-888b2a8682ad@snapp.ir:80?encryption=none&type=ws&path=%2F&host=fonix.musicritmic.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://bac80ae8-c469-42b7-a269-3a22960bc0fc@snapp.ir:8080?encryption=none&type=ws&path=%2F&host=dn.bigmeow.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://2e162591-c689-495e-804c-04b53ca50dd0@185.143.233.200:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=final.idbede.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://2e162591-c689-495e-804c-04b53ca50dd0@185.143.233.200:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=final.idbedam.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
