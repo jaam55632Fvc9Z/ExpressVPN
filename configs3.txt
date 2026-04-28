@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://1234567890@104.248.136.46:2053?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://49197da7-4f74-4c34-8229-35561043c113@159.195.6.151:443?fp=&pbk=TEFfOIgYRUunDwRv_ycZiN8oXGROPx5AQvUCbp9171Q&security=reality&sid=fd&sni=www.google.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&security=tls&sni=sni.111000.cc.cd&type=ws#%F0%9F%87%A8%F0%9F%87%BC%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@25.26.27.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.22.18.18:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://1234567890@142.93.102.20:443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9558,6 +9548,8 @@ vless://71debd6d-d99e-4378-9b29-44a1f24b9e25@snapp.ir:80?encryption=none&type=ws
 
 vless://49a806d1-f556-b56c-d739-82b7868d7036@snapp.ir:80?security=none&type=ws&path=%2F&host=new-game-server.supgame.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+ss://YWVzLTI1Ni1nY206UkxVb2FVNG5oOGI4TXFxNw==@149.102.152.25:80#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
 vless://1a6cfab1-eb0a-4d66-8714-1151e28bec1e@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://a6fb69b5-c73e-4ba7-94ca-89e107720794@185.143.233.235:80?path=%2F&security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9991,12 @@ vless://7e1d2bd1-45a1-483d-b015-fe87812d83a7@snapp.ir:80?path=%2FFIRELINK&securi
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.18.12.149:2053/?type=ws&encryption=none&flow=&host=qyi.fqjd663.ggff.net&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vmess://eydhZGQnOiAnbWlnLXNpbi5kYXJrdWJlLmlyJywgJ2FpZCc6ICcwJywgJ2FscG4nOiAnJywgJ2ZwJzogJycsICdob3N0JzogJycsICdpZCc6ICcyNTQ3MjFhOS01NzM5LTRiYWYtYjM1ZC05YmM5NTBlMzQ2ZGInLCAnbmV0JzogJ3dzJywgJ3BhdGgnOiAnL2FwaS9kaXJlY3QnLCAncG9ydCc6ICc0NDMnLCAncHMnOiAnQFNQRUVEU19WUE4t2KzZiNuM2YYt2KjYr9uM2K8nLCAnc2N5JzogJ2F1dG8nLCAnc25pJzogJycsICd0bHMnOiAndGxzJywgJ3R5cGUnOiAnLS0tJywgJ3YnOiAnMid9#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://65462646-6d80-4463-b47b-3529e531ab65@snapp.ir:80?path=%2F&security=none&e~~#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://8014017f-3f40-46e9-b02d-87e6c54d877e@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=dn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.156.27:2053?path=/%3Fed%3D2048&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=baipiao1.curly-train.pages.dev&%3Btype=ws&%3Bsni=baipiao1.curly-train.pages.dev#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
