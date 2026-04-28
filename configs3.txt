@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ebf7d712-7690-4028-81f7-616c106cfd5f@79.117.121.85:35766?security=reality&encryption=none&pbk=JrsNPt4yDyRcLO2-eL0VkVlPBSM2Cp19iDl-A-enrS8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=738b3ed2#%F0%9F%87%AA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?security=reality&encryption=none&pbk=vDKgmefC_2JaSrrvQSsb7DU3KBeKUlXG1V0vgdjv_i4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gpuopen.com&sid=0a856e071790b1#%F0%9F%87%A8%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://75da9ef9-6cb3-4552-89e2-7d42c70cdae4@185.221.199.113:443?security=reality&encryption=none&pbk=1Jje6R1ebZt89tdljyfPJzVdWr_DnLwTkh8TTCsp10I&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=f516ec3a856e1999#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.242.215.37:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=&fp=chrome&type=tcp&sni=www.autodesk.com#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.97.158:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=&fp=chrome&type=tcp&sni=cdn-dynmedia-1.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.117.76:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=&fp=chrome&type=tcp&sni=prod.adobeccstatic.com#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -2820,6 +2812,8 @@ vmess://eyJh#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 ss://fhdbdc#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://0e22f876-1022-4805-b7c8-4c3d9b8eba05@arvancloud.ir:80?encryption=none&security=none&type=ws&host=po.bede-baqbon-bilbezane.store&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
 vless://d0dd17ff-5d9f-49fb-983d-e8d8f8c16171@snapp.ir:80?path=%2Fgraphql&security=none&encryption=none&host=qs1.limitless-cloud.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://9c7317bd-6aba-48e1-8fd3-2d4db912a248@camp.nahidapp.com:443?path=%2Fhaikino&security=tls&encryption=none&host=camp.nahidapp.com&type=ws&sni=camp.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -4661,6 +4655,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?allowInsecure=1
 vless://50df5190-0bd4-4a59-8d06-9a7928182493@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=bn.8lack.ir&sni=bn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://351155ac-4f1c-43b9-874c-e7f55ee0ad0f@185.143.233.200:80?path=%2F&security=none&encryption=none&host=vip.vahidnet21366.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram+%40WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://c0ee28c4-3aeb-4a88-8258-1ef7a98994c3@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&host=vitallife.gg&fp=chrome&type=ws&sni=vitallife.gg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -9999,4 +9995,8 @@ vless://51fe02b3-cf13-4edc-b91c-9e47feaa67ef@trex.nahidapp.com:443?path=%2Fvless
 vless://2f55f3de-d062-42de-8fe6-0c2c26e020da@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://6d7bca07-836b-4867-b172-1e5a8009662c@185.143.234.235:80?path=%2F&security=none&encryption=none&host=ire.binping.lol&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a9c24065-b38d-406c-a7a1-d5970e019421@varzesh3.com:80?path=%2Fws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
