@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.246.38:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@63.182.246.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://cf9f1dfb-24c7-417e-b2ad-48580f47590a@dai.wikm.ir:41366?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAic25hcHAuaXIuYm1pLmlyLm1vYmF0by1tb2JpbGUuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImV4Y29pbm8uY29tIiwgImlkIjogIjgyMGE5ZTQyLWUxOGQtNDNlNC04NTlmLWQxYzJmNmI4NjAwYSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLzZEUDU3Um0ycjg3cjJoVWc2bDIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.107.101:990#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://2a8d7a41-0ea9-476e-8432-206190e8a724@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://355cbbae-10ac-4715-8790-c8dc57d7d9f6@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&path=/&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%B0%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=/#%F0%9F%87%A9%F0%9F%87%B0%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9981,22 @@ vless://b92eb8c1-13df-47ca-a4a6-46fccc1bd2c5@185.143.233.5:443?encryption=none&t
 vless://b92eb8c1-13df-47ca-a4a6-46fccc1bd2c5@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJjbGllbnQuYmFyYXZhcmRlaC50b3AiLCAicG9ydCI6IDMxNzAsICJpZCI6ICI4N2U0ZjAyZi1mYzlkLTRlYmMtYTFiMC0wMGZkNjc1NmJkNDQiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUifQ==
+
+vless://22f482e2-2142-100a-5328-1c4ec49033f0@hmt.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.190#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://23096f04-efbb-4cb5-b499-edf5f6a0991d@varzesh3.com:80?encryption=none&type=ws&path=%2Fws&host=nobody.fasterspeed.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://305e23a9-2fcc-4810-bb23-2ac36148ffff@snapp.ir:80?encryption=none&type=ws&path=%2Fgraphql%3Fed%3D2560&host=ss3.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e99d54b0-64b4-44e3-9e0d-44a04e9587ef@snapp.ir:80?encryption=none&type=ws&path=%2Fgraphql%3Fed%3D2560&host=ss5.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://b43dfde2-39a4-4165-9fca-3947446eb663@snapp.ir:80?encryption=none&type=ws&path=%2F&host=fonix.musicritmic.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ac0298a8-efe5-46ee-9aed-f77486d22d03@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40kanfig_kade
+
+vless://15b32970-349a-4a2e-8355-e4a4c15a9137@vip1.mamliserver.top:19351?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip1.mamliserver.top#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://674ca7fe-204c-4d75-9710-a1a13b3b8bc5@arvancloud.ir:2095?path=%2Fstream&security=none&encryption=none&host=hosting.linuweb.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
