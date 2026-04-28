@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://7eaed3f8-6326-469c-9868-f37e438514ea@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-trojan://telegram-id-privatevpns@51.45.39.44:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAidXMtMi4wcmQubmV0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjU5Nzg4OGMwLWEzMTgtMTFlZC1iNTM2LTIwNWM2ZDVmNWQ3OCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdHE5OGUweWsiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-
-vless://2868e109-495f-4041-9b52-61b75be4794f@uk.playshoptv.com:25212?encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40NormanV2ray
-
 vless://27fa3c76-57f1-4c83-929c-0b5b2d6d8ffb@abr.superip.ir:8080?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=ne.landing-sours.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://27fa3c76-57f1-4c83-929c-0b5b2d6d8ffb@abr.superip.ir:2086?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=tu.bi6x.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -109,4 +97,10 @@ vless://e40b4a6b-9bf1-49c5-8768-e79359aafbc8@arvancloud.ir:80?encryption=none&ty
 vless://cf94fb69-d50b-47fa-a3a9-52c4c70f9da3@react.dev:443?encryption=none&type=xhttp&security=tls&path=%2Fd&host=verser3.digielipan.store&mode=auto&sni=react.dev&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://dd9e8cc6-13ec-e7fc-3ab7-7a01df38751d@hmt.masterdadeh.ir:80/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://b92eb8c1-13df-47ca-a4a6-46fccc1bd2c5@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=an.8lack.ir&sni=an.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b92eb8c1-13df-47ca-a4a6-46fccc1bd2c5@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJjbGllbnQuYmFyYXZhcmRlaC50b3AiLCAicG9ydCI6IDMxNzAsICJpZCI6ICI4N2U0ZjAyZi1mYzlkLTRlYmMtYTFiMC0wMGZkNjc1NmJkNDQiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUifQ==
 

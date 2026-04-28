@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://415e33da-668c-432a-b0b6-c6be26993426@185.143.233.235:80?encryption=none&type=ws&headerType=none&path=%2F&host=knet-prime.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.20:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@63.182.246.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.246.38:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@63.182.246.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
@@ -9999,4 +9993,10 @@ vless://e40b4a6b-9bf1-49c5-8768-e79359aafbc8@arvancloud.ir:80?encryption=none&ty
 vless://cf94fb69-d50b-47fa-a3a9-52c4c70f9da3@react.dev:443?encryption=none&type=xhttp&security=tls&path=%2Fd&host=verser3.digielipan.store&mode=auto&sni=react.dev&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://dd9e8cc6-13ec-e7fc-3ab7-7a01df38751d@hmt.masterdadeh.ir:80/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://b92eb8c1-13df-47ca-a4a6-46fccc1bd2c5@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=an.8lack.ir&sni=an.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b92eb8c1-13df-47ca-a4a6-46fccc1bd2c5@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJjbGllbnQuYmFyYXZhcmRlaC50b3AiLCAicG9ydCI6IDMxNzAsICJpZCI6ICI4N2U0ZjAyZi1mYzlkLTRlYmMtYTFiMC0wMGZkNjc1NmJkNDQiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUifQ==
 
