@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://c260ae7b-1166-46b0-8ae6-96753689a5e2@185.143.234.235:8080?encryption=none&type=ws&path=%2F&host=vip.az99x.info&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.61.51.100:8443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiQEJyYXlpcmFuaSDigKLimJUgfCDYudi22Ygg2LTbjNivINmC2LfYuSDZhti024zYryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0%3D#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
@@ -9999,4 +9997,6 @@ vless://bb7df973-31dc-4215-8d5f-00978b2e51ac@iri.hosmci.ir:14201?type=ws&securit
 vless://3483946e-ec5b-4555-a392-b86921d8433c@vip.coindrift.online:43850?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://acf39f17-9efd-446c-b33d-9ecc1e9545d0@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=dn.8lack.ir&sni=dn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NormanV2ray
+
+vless://2b434dc7-674e-4480-820d-5e784d2262e2@185.143.233.5:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=pishparda.ir&path=/voip&sni=isna.ir&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
