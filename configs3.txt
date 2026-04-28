@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://1234567890@172.86.92.227:8443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?sni=jp2-8sb.6121999.dpdns.org&peer=jp2-8sb.6121999.dpdns.org&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://klhzlvua-201d-hp9s-hbe9-cucts5empurr@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
 trojan://69xb33kh-n03m-w8di-dzm7-u8q4n3sqbotm@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://vff5fq14-ii57-748x-prlv-3ie6up1sydpq@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -9999,4 +9993,10 @@ vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&enc
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
 vless://ff2bb777-9c6d-46d4-a6be-d53164e4bf03@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Blue_star_Vip
+
+trojan://telegram-id-directvpn@52.47.129.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.129.194:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@52.47.129.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
