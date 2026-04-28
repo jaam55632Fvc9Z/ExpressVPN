@@ -82,3 +82,13 @@ vless://2b907f5f-87ef-46bb-838c-9f18c1fd2c2f@arvancloud.ir:80/?type=ws&encryptio
 
 vless://09f595f7-8315-4e23-878b-472aee4d37ba@vibenet.binping.lol:8080?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://84070a82-ca88-446d-8207-1c0decaae7e5@snapp.ir:80?encryption=none&type=ws&path=%2Fpayment&host=shop.nexorastartuphub.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://345cdf14-6ada-4e63-a598-4f13d4bb22dc@185.173.107.23:49038?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://36fbd041-0b0f-4cb2-a69d-55c413fcce62@meliplus.navixx.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=meliplus.navixx.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://36fbd041-0b0f-4cb2-a69d-55c413fcce62@meliplus.navixx.shop:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=meliplus.navixx.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
