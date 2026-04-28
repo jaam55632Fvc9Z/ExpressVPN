@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecu#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.50.126:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B9%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://f7bae22e-20ab-11f1-835c-0242ac110002@141.98.169.100:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=fi1.cyphervpn.pro&pbk=z_mZq7riCGYKcTsXGCFX3KyhLL5PYgG3ydZ8_wM_ZkU&sid=5bfa0c&spx=/#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#%F0%9F%87%A6%F0%9F%87%B9%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ vless://c3e16a9a-94b9-4d73-bc3c-4c5d1a32b23c@89.167.49.101:80?path=%2F&security=
 vless://a860f9cc-c6af-479b-8588-2a6afa2f1261@t3.mestershopyt.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://c8cb0c7c-bf54#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a534320e-773e-4975-999c-28b3315df5ba@pg.nexorainnovationhub.ir:80?path=%2F&security=&encryption=none&host=a43fgh.restaurantnetwork.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://c73d1804-fbf5-4fee-9d22-346acbbebc75@ir-learn.com:441?path=%2Fapi%2Fcpanel%2Fkey%3D5d5fe56fse6fsef5s6e55es6r56we5rwreRSR&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=ir-learn.com&fp=chrome&type=ws&allowInsecure=1&sni=ir-learn.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://8695fd84-fee0-41e3-bfe9-bf131b4dff72@185.143.233.43:80?path=%2F&security=none&encryption=none&host=motabarim.service-panelbaz.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
