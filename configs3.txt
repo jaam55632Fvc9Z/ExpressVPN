@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ea227ffd-be0c-4acd-a70c-9b6b4777d862@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://fc7132e6-6943-424c-84bc-adbb60398a93@snapp.ir:80?path=%2Fapp1&security=none&encryption=none&host=cdn.yeksanstudio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ==@45.129.3.254:60290#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://bo92rx09-u4ry-8f1u-rai2-tw41ek1wlcae@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://snzlayuq-p6oe-3qbc-r6bu-e277fw40okg0@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://mx351dyg-n9rt-mzvc-shpy-u0ycunt6jqq3@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
 trojan://1234567890@172.86.92.227:8443?sni=kfm-bn0.pages.dev&peer=kfm-bn0.pages.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?sni=jp2-8sb.6121999.dpdns.org&peer=jp2-8sb.6121999.dpdns.org&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -599,6 +587,10 @@ vless://ac94930e-264f-4494-a3d0-ae4b8c67cbcb@171.22.27.131:28988?type=tcp&encryp
 vmess://aeddbbbd#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://44275012-0810-4a43-9dbd-64b4f09004d9@185.206.95.196:443?type=ws&path=/&security=tls&fp=chrome&sni=webassets.cafebazaar.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@138.124.32.189:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-None%20%7C%20%40v2nodes
+
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@95.85.248.69:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-None%20%7C%20%40v2nodes
 
 ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@dkstatics-public.digikala.com:443?type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -6486,6 +6478,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2096?allowInsecure=1&e
 
 trojan://1234567890@164.90.209.253:8443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.5:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ vless://a3356f23-9918-42b0-a41e-520ca2d302ba@185.143.234.200:443?path=%2F%3Fed%3
 vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@react.dev:443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=react.dev&fp=chrome&headerType=none&alpn=h2#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.238.14.152:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%easy_connecting%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
+
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://ff2bb777-9c6d-46d4-a6be-d53164e4bf03@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Blue_star_Vip
 
