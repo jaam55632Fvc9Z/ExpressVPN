@@ -122,3 +122,17 @@ vless://784109dd-144a-4057-abf8-47ee341cca98@81.12.24.237:29982?path=%2Fws&secur
 
 vless://09b0a369-139c-4758-8f40-0fcbd7d03a1b@hichkas.exiled.ir:10002/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://26524cce-d514-4014-a426-365fb266a14d@168.93.214.126:24411?allowInsecure=0&sni=mug.support.gfw.hidns.co&type=ws&host=mug.support.gfw.hidns.co&path=/danfengfp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://09b0a369-139c-4758-8f40-0fcbd7d03a1b@hichkas.exiled.ir:10002/?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://ee5cf0cb-3a83-4a1b-bcc7-5899a70eb36a@185.143.234.235:8080?type=ws&encryption=none&path=%2F&host=io.binping.lol&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://4ddfab84-7871-46cb-9701-9bb989f491cf@th.gostargate.top:49961?security=none&allowInsecure=0&encryption=none&type=tcp&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://2df4e5c9-6895-4d2e-b71f-d87d03d4ecf7@snapp.ir:80?type=ws&encryption=none&path=%2F&host=sb.borna-otbas.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://5974533f-c5a7-4fd0-8e6a-9315a685acef@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?path=/httpupgrade26070&%3Bsecurity=tls&%3Balpn=http/1.1&%3Bencryption=none&%3Bhost=rahgozar.italiantourism.net&%3Bfp=chrome&%3Btype=httpupgrade&%3Bsni=rahgozar.italiantourism.net.#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+

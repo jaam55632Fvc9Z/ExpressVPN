@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%A7%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://1234567890@144.31.116.8:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6d7463e4-56f9-46c3-be5b-9c00a326c7bd@amirstar.mkmovie.ir:443?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=star.ramlike.ir&fp=chrome&type=ws&allowInsecure=0&sni=star.ramlike.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?security=reality&encryption=none&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=958639bf55e679#%F0%9F%87%AC%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://a0020012-9900-49f6-9a86-8770f9330f6f@vip1.syncbridge.site:13292?type=grpc&encryption=none&serviceName=&authority=&security=none#%F0%9F%8C%90%20GRPC-None%20%7C%20%40NormanV2ray
-
-vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRE5jckhiR21iNXU3Nk9nOE5hdGpa@185.117.91.27:21836#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 trojan://1234567890@103.228.171.213:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.62.25.163:443?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9985,18 @@ vless://8c4604ef-749c-4b56-adf1-7da405002a21@8.6.112.0:2053?allowInsecure=1&encr
 vless://784109dd-144a-4057-abf8-47ee341cca98@81.12.24.237:29982?path=%2Fws&security=none&encryption=none&host=542c5414-a9da-411f-834b-1c8163fc6b7c.hsvc.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://09b0a369-139c-4758-8f40-0fcbd7d03a1b@hichkas.exiled.ir:10002/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://26524cce-d514-4014-a426-365fb266a14d@168.93.214.126:24411?allowInsecure=0&sni=mug.support.gfw.hidns.co&type=ws&host=mug.support.gfw.hidns.co&path=/danfengfp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://09b0a369-139c-4758-8f40-0fcbd7d03a1b@hichkas.exiled.ir:10002/?#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://ee5cf0cb-3a83-4a1b-bcc7-5899a70eb36a@185.143.234.235:8080?type=ws&encryption=none&path=%2F&host=io.binping.lol&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://4ddfab84-7871-46cb-9701-9bb989f491cf@th.gostargate.top:49961?security=none&allowInsecure=0&encryption=none&type=tcp&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://2df4e5c9-6895-4d2e-b71f-d87d03d4ecf7@snapp.ir:80?type=ws&encryption=none&path=%2F&host=sb.borna-otbas.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://5974533f-c5a7-4fd0-8e6a-9315a685acef@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?path=/httpupgrade26070&%3Bsecurity=tls&%3Balpn=http/1.1&%3Bencryption=none&%3Bhost=rahgozar.italiantourism.net&%3Bfp=chrome&%3Btype=httpupgrade&%3Bsni=rahgozar.italiantourism.net.#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
