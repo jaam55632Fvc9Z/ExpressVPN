@@ -50,3 +50,7 @@ vless://62747ace-8b57-454c-9ce0-e1497b8edaf2@khan22.tarfandgallery.sbs:443?alpn=
 
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2nodes
 
+vless://ebd07f82-0c7f-496f-9677-da94a86cd778@snapp.ir:80?type=ws&encryption=none&path=%2F&host=fbi.mj-netplus.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6c5938b3-6ff4-46e6-94b7-7836efe14a4b@yas.cdn01.ir:8227?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
