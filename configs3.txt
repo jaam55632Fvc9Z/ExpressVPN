@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://1234567890@5.187.6.30:8443?ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9ee0a961-2e36-73f5-1b5c-dada36f40754@tr.tehranionliine.ir:80?type=ws&host=&security=none&sni=185.226.94.188&alpn=&path=/&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://1234567890@134.209.252.120:8443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 trojan://1234567890@104.248.136.46:2087?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://44275012-0810-4a43-9dbd-64b4f09004d9@185.206.95.196:443?encryption=none&type=ws&security=tls&path=%2F&sni=webassets.cafebazaar.ir&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -33,6 +25,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVVVKZGRPSGxDOTNzUU1LR1hCSGdB@pte.vaslp.com:
 vless://e45881f6-925c-4490-af27-725770911c50@curt231.ctcurt.ir:2372?mode=gun&security=tls&encryption=none&type=grpc&sni=filimo.com#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
 
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@222.113.18.207:16993?&security=tls&fp=chrome&sni=snippet.fgfw.de5.net&type=ws&headerType=none&host=snippet.fgfw.de5.net&path=%2Fdanfeng#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9993,10 @@ vless://b84c936f-4ef8-4972-bbe9-7766feb0caeb@185.143.233.235:2095?security=none&
 vless://b84c936f-4ef8-4972-bbe9-7766feb0caeb@185.143.233.235:2095?security=none&type=ws&headerType=&path=%2F&host=Ml.artarona.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://b84c936f-4ef8-4972-bbe9-7766feb0caeb@185.143.233.235:2082?security=none&type=ws&headerType=&path=%2F&host=Ml.artarona.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://b84c936f-4ef8-4972-bbe9-7766feb0caeb@185.143.233.235:2082?security=none&type=ws&headerType=&path=%2F&host=Dev.artarona.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://b84c936f-4ef8-4972-bbe9-7766feb0caeb@185.143.233.235:2052?security=none&type=ws&headerType=&path=%2F&host=dev.artarona.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://acf39f17-9efd-446c-b33d-9ecc1e9545d0@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dn.8lack.ir&fp=firefox&type=ws&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
