@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://YWVzLTI1Ni1nY206OTkzOTRjZmViZTZjMDkwNg@185.141.219.46:30312#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2nodes
-
-vless://86a8d4b8-b902-4a55-a99b-1ae7cb9393d0@red.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vmess://eyJhZGQiOiAic3RhcnMuYWQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjIwZjU3ZWRkLWJiY2ItNDRhOS04YTkzLTdkOTQ0ZGY5MWE4NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
 
 vless://657c4044-6faa-41b3-96f6-9c0db30b7342@185.116.162.199:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=files.qrkd.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
@@ -153,4 +149,14 @@ vless://954968cf-1827-404e-9862-6c84fe234086@tun.phoneshop98.ir:8855?security=no
 vless://954968cf-1827-404e-9862-6c84fe234086@xhttp2.pcapps.ir:443?security=tls&type=xhttp&headerType=&path=%2Fed%3D3072&host=tv1.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=default.ssl.fastly.net&fp=#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?security=none&type=tcp&headerType=http&path=%2F&host=www.tgju.org#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://cc2e20f1-ba3b-4ac1-a607-1cb7d4fba032@185.252.86.248:56482?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://humanity@sourceforge.net:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://c22d0fb2-155d-4d20-a735-870bb5a9e238@red.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://7a3ffd65-dbf5-4f80-819d-b94922481d06@post.exitping.store:33089?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=post.exitping.store#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?path=/?Telegram#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
