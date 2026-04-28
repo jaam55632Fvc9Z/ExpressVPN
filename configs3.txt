@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://26524cce-d514-4014-a426-365fb266a14d@151.242.164.46:11965?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=pchlzn.cdn-a.gfw.hidns.co&alpn=http%25252F1.1&sni=pchlzn.cdn-a.gfw.hidns.co&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://34222749-f6ff-457e-887b-ff11f3cec0a2@jp2.wequ.world:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PthByQdTqCmLW8Ht1zzaHMctIYGXNMEmZextl9zdnmY&sid=6e1c82d7&sni=jp2.wequ.world&spx=/#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@140.238.43.40:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://d025ab69-864f-4370-ae56-e5bcafd62199@185.143.234.235:80?path=%2F&security=&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://45eee3c9-ac41-43d5-a03f-b7b298a1d162@45.81.58.159:443?mode=auto&path=/cloudapi&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=dl.mobileemdad.top#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ vless://44dcabe5-fd97-4598-928e-3669b51b03fc@99.88.80.233:48500?&type=ws&headerT
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://7d1bd36c-42ec-4062-b82c-c7165a37d29c@185.143.233.5:443?encryption=none&type=ws&security=tls&path=/chat?ed=128&host=en.8lack.ir&sni=en.8lack.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://25b4d492-914c-4be2-b467-a4a0d68e0e71@tun2.aria-network.cloud:443?security=tls&type=ws&headerType=&path=%2F&host=&sni=svfr2.aria-network.cloud&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://4c0bd0eb-b32a-4b4b-bb17-c2b8531817b3@188.121.113.252:2053?type=tcp&encryption=none&security=reality&pbk=Ia9BNmWA-0yGxzCy9s-HmC5DkxtB0EME9ouLNd61Dzk&fp=chrome&sni=www.digikala.com&sid=f9a923e8&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://25b4d492-#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
