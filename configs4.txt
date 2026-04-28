@@ -60,3 +60,7 @@ trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?security=tls&insecure=1&allowIn
 
 vless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?security=none&encryption=none&host=www.tgju.org&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VPNConectd
 
+vless://36c6f874-4980-49ee-a064-489c94a77fde@snapp.ir:80?type=ws&encryption=none&security=none&sni=ss8.limitless-cloud.ir&alpn=http%2F1.1&fp=chrome&path=%2Fgraphql%3Fed%3D2560&host=ss8.limitless-cloud.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://b33d7988-17c3-46e3-8b31-593ae151898b@snapp.ir:443?path=%2Fnewbelahbelah&security=tls&encryption=none&host=nia.ramlike.ir&type=ws&sni=nia.ramlike.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
