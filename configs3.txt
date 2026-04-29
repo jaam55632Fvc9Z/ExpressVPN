@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://5359944b-0f90-4308-bc95-75de86a3ee0b@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://09b9d04c-6494-4014-a888-03685c76ddf7@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=en.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=en.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
-
-vless://4078841e-044f-44f4-b348-8cfbdeace1c4@redshovip.real-xui.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://df6930a0-c85f-4d9e-b125-ceece509841a@185.143.233.235:8080?type=httpupgrade&encryption=none&path=%2Fvpn&host=s102.tireks.site&security=none#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
 vless://bb6b1556-25f5-4385-bd7d-5b8f540a87ff@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ vless://d77eea01-421a-4799-bc36-5e7a8c642900@185.143.233.5:80?encryption=none&ty
 vless://203ad5b0-f557-4b9d-8fd5-825cc67eec44@snapp.ir:2052?encryption=none&type=ws&path=%2FAPI%2Fsuperip&host=library.phill-up.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://a688ec16-9f17-495d-8cb8-3624943e3b3d@185.143.233.5:2052?encryption=none&type=ws&path=%2FAPI%2Fsuperip&host=library.phill-up.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://4dbc938a-430e-42d7-a59c-a57d97076125@mtn.itsazan.info:2083?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv1%2Fusers&sni=mtn.itsazan.info&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://93a074ec-0f80-40d7-a45e-9ac32fda005f@snapp.ir:2086?encryption=none&type=ws&path=%2F&host=connect.pardisvps.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://d6222fdf-efa3-483a-9b6f-89ca7c9451c2@5.61.25.216:29479?encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
