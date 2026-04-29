@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://3bce7120-92e3-4914-88ad-eda8352bf4f4@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&type=ws&headerType=none&path=%2Fgamescore%3Fed%3D128&host=cdn6.restaurantworld.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-ss://3bce7120-92e3-4914-88ad-eda8352bf4f4@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&type=ws&headerType=none&path=%2Fgamescore%3Fed%3D128&host=cdn4.restaurantworld.ir#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 vless://52b44115-14f3-48f0-9801-7f196c4ad7ec@helm.sh:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=XXXXX.netlify.app&mode=auto&path=%2Fappxa&security=tls&sni=helm.sh&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://00000000-0000-0000-0000-000000000000@kubernetes.io:443?mode=auto&path=%2Fyourpath&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=xxxxxxx.netlify.app&fp=chrome&type=xhttp&allowInsecure=0&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -131,4 +125,6 @@ vless://04fa65ad-5178-49c0-b679-a5442e3bfe78@185.143.234.235:80?encryption=none&
 vless://9abd3240-0dd5-47de-a2be-7a8d4f22a283@snapp.ir:80?encryption=none&type=ws&path=%2F&host=185.143.233.235#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://4f10369b-e634-4e6f-9259-b0433b137aef@camp.nahidapp.com:443?encryption=none&type=ws&security=tls&path=%2FIF_VPN_Bot&host=camp.nahidapp.com&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://04a0dd1a-e72b-44f3-a69b-ec9919d4f74d@iri.hosmci.ir:41473?encryption=none&type=ws&security=tls&path=%2Fupload%2F%3Fed%3D2560&host=ir.hosmci.ir&sni=ir.hosmci.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
