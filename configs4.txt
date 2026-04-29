@@ -62,3 +62,11 @@ vless://1c8eb478-5829-41c1-8b6c-ef74bb72edf8@helm.sh:443?mode=auto&path=%2Fmambo
 
 vless://84db5209-9d91-4af9-ab12-ffa625fe69b5@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://436e5848-e009-4a21-b3a9-122ce0b5c48b@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1c8eb478-5829-41c1-8b6c-ef74bb72edf8@helm.sh:443?mode=auto&path=%2Fmambo&security=tls&encryption=none&host=69f18d8defe5a8b0745a3379--magenta-banoffee-fb08a6.netlify.app&type=xhttp&sni=helm.sh#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://618cc150-1daf-4c6e-bb2a-5b6168fd4f82@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://156c3200-265d-4257-9fa1-45a0fd1dfcb0@varzesh3.com:80?path=/ws&security=&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
