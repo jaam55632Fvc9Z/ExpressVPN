@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://28f09062-f4d6-48a4-9b95-11c747f27cb2@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://a7caf6b2-6618-4275-b3a0-10b6a9312f7c@94.131.14.89:443?security=reality&encryption=none&echfq=none&pbk=5cGv2vcHGSPHyHPorYvWywpiCftygl0LT02uuuBzTTo&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=litva1.savemod.bot&sid=27e53bbcab7593d7#%F0%9F%87%B1%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiQENvbmZpZ2lyOTgiLCJzY3kiOiJhdXR…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Free_World2
-
-vless://75ac7622-a866-4912-9cbd-61003184b7ea@joker.preghost.ir:45807?encryption=none&type=grpc&security=tls&serviceName=aparat-stream&mode=gun&sni=joker.preghost.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
-
-vless://c9239de0-f011-4ac2-8743-061ec502553f@us1bot-ws.headerip.com:80?path=%2F&security=none&encryption=none&host=us1.mv5.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 ss://ksjsks#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fs.narton.ir:80?encryption=none&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&host=mitivpn-s1.global.ssl.fastly.net#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -3036,6 +3026,8 @@ vless://ec4fbda4-0af8-4c75-b257-52cb7b1baed2@185.143.233.5:443?path=%2Fchat%3Fed
 
 vless://f22cda01-80ec-43ee-b464-0905831c9c0a@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+trojan://1234567890@164.92.132.232:8443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://56798082-a253-9505-e1cf-ac7ee9a0ddb1@i-love-iran.amlakayuni.ir:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=i-love-iran.amlakayuni.ir&path=?ed%3D2087&sni=i-love-iran.amlakayuni.ir&fp=randomized&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -5687,6 +5679,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.156.19.253:8880?encryption=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?allowInsecure=1&alpn=http%2F1.1%2Ch2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ukos2.ksnodes.net&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://34b472a9-667a-4146-bd89-4bced8ed42df@abr.superip.ir:2082?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9993,10 @@ vless://a7fdd565-e461-4176-b21c-547b08077fe3@185.143.233.5:443?path=%2Fchat%3Fed
 vless://3e4f6e33-79de-4453-922e-129c1a6ff8c4@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bn.8lack.ir&fp=firefox&type=ws&sni=bn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://8d7f156c-17bf-4885-aec3-2bdfab51c8a7@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://378cf38c-303b-4d66-bc9d-a7a700e22438@snappfood.ir:80?path=/ws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyd2JzogJzInLCAncHMnOiAn8J+Qplx1MjAwZPCflKUtQFNQRUVEU19WUE4nLCAnYWRkJzogJzE4NS4yMzYuMzguNDQnLCAncG9ydCc6ICcxOTk0NicsICdpZCc6ICdjOWU0MjUzNy04NjUyLTRhNGMtODVkMy0wZDM2YWJmMzhmODgnLCAnYWlkJzogJzAnLCAnc2N5JzogJ2F1dG8nLCAnbmV0JzogJ3RjcCcsICd0eXBlJzogJ25vbmUnLCAnaG9zdCc6ICcnLCAncGF0aCc6ICcnLCAndGxzJzogJ25vbmUnLCAnc25pJzogJycsICdhbHBuJzogJycsICdmcCc6ICcnfQ==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://74dd682c-3e81-4ca0-9be0-6ec6b5adbb5a@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40AloConfig_com
 
