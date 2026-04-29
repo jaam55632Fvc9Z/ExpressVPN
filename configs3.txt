@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://8af50940-460b-465b-af62-c951005cadaf@185.143.233.235:80?encryption=none&type=ws&path=%2F&host=vixon.portab.org#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://02233440-7d03-571a-5cb9-b6d70a082a56@pari.masterdadeh.ir:80?encryption=none&type=ws&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://1234567890@64.226.74.109:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAiY2RuLmlwLXN0YXRpYy5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiUE9MMDAxLm1pZGFzbmV0LndvcmsiLCAiaWQiOiAiZDc0OWU4MTQtYzc1Yi00MTZlLThhZWQtZjc0NDkwM2QwZWVjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSBXUy1Ob25lIHwgQEJyaWxsaWFudEdpZnQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-
 vless://5143de63-b862-461b-a8b9-9b4bf3745022@arvancloud.ir:80?path=%2Fws&security=none&encryption=none&host=app.s7r.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
 vless://f3df4019-ff3f-4781-a7f7-c693e3efd200@s1.tehranionliine.ir:80?encryption=none&type=ws&path=@techbod#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -1345,6 +1337,8 @@ ss://uqian#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 vless://e9adbac6-90e1-4c1f-ad17-46226d45a262@85.133.221.48:5001?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://80682b08-2cc6-41da-9a03-1d8682455765@pg.nexorainnovationhub.ir:80?encryption=none&type=ws&path=%2F&host=a43fgh.restaurantnetwork.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://10311b0e-41ea-410d-9725-995d6d66fd09@zir.alihapps3.aghanami.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://9db54a3c-ae37-455e-a219-fb58eef9157f@zir.alihapps3.aghanami.ir:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9993,10 @@ vless://86f1748c-fb1a-abda-3e0f-380403426030@pari.masterdadeh.ir:80?path=/&secur
 vless://7edc5cbb-2e64-422c-86ab-b0ce4f248237@varzesh3.com:80/?type=ws&encryption=none&path=/&host=sajjad.panivo.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://9708b54a-14dd-406d-b3d0-ced688776fbb@react.dev:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=vercel-xhttp-relay-eight-kappa.vercel.app&type=xhttp&allowInsecure=0&sni=react.dev#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9708b54a-14dd-406d-b3d0-ced688776fbb@1.1.1.1:443?flow=&type=xhttp&host=vercel-xhttp-relay-eight-kappa.vercel.app&path=/&mode=auto&security=tls&sni=react.dev&fp=chrome&allowInsecure=0&echfq=none#%F0%9F%87%A6%F0%9F%87%BA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://10b100eb-8b33-4a10-b3d7-62999c782ae1@snapp.ir:80?type=ws&encryption=none&path=/&host=Noyek.nexoratechcenter.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://bpb-trojan@104.21.75.193:443?type=ws&security=tls&sni=mashdt.pages.dev&host=mashdt.pages.dev&path=%2Ftr%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
