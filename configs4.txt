@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://9314bd45-c20e-4ed0-813e-8d3619802b1d@185.143.233.235:80?path=%2F&security=none&encryption=none&host=Ld.artarona.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=%2Fbamacloud&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://c8a390d4-743a-42d3-806c-2a4c6ee8b7df@cdn3.whitepol4.ir:2052?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40NormanV2ray
-
 vless://05a84f40-3bdc-40b2-a241-b490e84e5273@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://784f1f03-0323-45e3-86c1-126ac8482514@iliya.rhino-security.ir:80/?type=ws&encryption=none&path=/&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -145,4 +139,20 @@ vless://a74c405f-d6a1-4c5f-b87c-9549b6eab5a8@snapp.ir:8080?path=%2F&security=non
 vless://f7ba02c7-84c5-45b0-8aa5-7514ee0ef925@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://e02b252a-592f-4a09-b53a-8674b7a3eb25@snapp.ir:80?path=%2F&security=none&encryption=none&host=badboybi.yeksancloud.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://c6907fc6-0133-4323-a936-0537cbfc643b@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=hn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=hn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9c36456c-689f-486b-80a4-fe92ccc2aa75@snapp.ir:8080?path=%2F&security=none&encryption=none&host=website-speedtest.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://2c58bb8d-9e30-4dbc-b5e1-b358efd939eb@185.143.233.235:2095?security=none&type=ws&headerType=&path=%2F&host=Ml.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://2c58bb8d-9e30-4dbc-b5e1-b358efd939eb@185.143.233.235:2052?security=none&type=ws&headerType=&path=%2F&host=dev.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://2c58bb8d-9e30-4dbc-b5e1-b358efd939eb@185.143.233.235:2082?security=none&type=ws&headerType=&path=%2F&host=Ml.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://2c58bb8d-9e30-4dbc-b5e1-b358efd939eb@185.143.233.235:2082?security=none&type=ws&headerType=&path=%2F&host=Dev.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://4KqegWwaYYHmpalaw12AtuiN1tGZ3dSC35RfYQ2Wt0notTUQOVxdaNbK9Ze11ufbRatLO9t670I0Zv07zwpi92byxHuEQJ0BKrwhD93wOCQ8m6rdln0DVq/NdCJXOsvQPYSzAYUvtcsNryoGYAQnlgsN0Dm/dvVUr1fDQH0Vb5fF5zoZP27sln9ptSwc9hQYYKBV2F6qvqVy498kQPYft9R9ePEkxzqLuCm+ehow4X3GFC2bPFKT4lETewqDe5sZyEy+1bqD7TIBXCS+Ocl4TDyKrFUD5yezRHL1LIRKCSACnecVIOT3Y02vE8N9HiiSAga0rvwnMhX07#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
