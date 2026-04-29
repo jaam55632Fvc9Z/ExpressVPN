@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@63.181.194.157:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://abd86415-560b-433c-9e07-3a60d01e5a1b@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.194.157:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://b5a432d3-46dc-4990-8ac0-39a509ebbbbf@185.143.233.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://f6eec03e-2d8a-4bc9-a45b-5d157c9dafad@s3.evansocial.top:28695?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.evansocial.top#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vasl_bashim
 
 vless://f6eec03e-2d8a-4bc9-a45b-5d157c9dafad@s3.evansocial.top:28695?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.evansocial.to…#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vasl_bashim
@@ -9999,4 +9991,12 @@ vless://85655f63-0b3d-4eb0-bc05-e1c52d6fa2e1@badboybi2.yeksancloud.ir:80?type=ws
 vless://d8084183-ccd6-49d0-81c8-c8663d326b4c@snapp.ir:80?path=%2F&security=none&encryption=none&host=cztestcdn.czkycnet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://85722c6c-2259-4032-bbf1-ba3ebe0e2253@iri.hosmci.ir:35163?encryption=none&type=ws&host=de.hosmci.ir&path=/upload/?ed%3D2560&security=tls&fp=chrome&sni=de.hosmci.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1f14348a-9dc5-612c-aaf3-f350ad911caf@snapp.ir:2052?path=/?ed=2056&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ukos2.ksnodes.net&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://19d01647-8f6e-464f-bf49-48e095630b68@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=in.8lack.ir&sni=in.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://12f0a7fd-414c-4b43-a782-5bc7c477a147@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=an.8lack.ir&sni=an.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
