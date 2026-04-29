@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://1f14348a-9dc5-612c-aaf3-f350ad911caf@snapp.ir:2052?path=/?ed=2056&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ukos2.ksnodes.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ukos2.ksnodes.net&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://19d01647-8f6e-464f-bf49-48e095630b68@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=in.8lack.ir&sni=in.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://12f0a7fd-414c-4b43-a782-5bc7c477a147@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=an.8lack.ir&sni=an.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8751deae-f104-4efe-baeb-9f2d39c6559b@snapp.ir:2086?encryption=none&security=none&type=ws&host=connect.pardisvps.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40Va3lSho
-
 vless://8f4d8c9c-2dc1-4683-a5ef-79c031afbde6@varzesh3.com:2052?path=/&security=none&encryption=none&host=ai.xier.pro&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://0bc1c6c0-cdea-4a90-abf0-cadbe831c18e@snapp.ir:80?path=%2F&security=none&encryption=none&host=cztestcdn.czkycnet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -97,4 +87,10 @@ vless://8de9dc82-d4c1-46af-976a-dbad92195c33@snapp.ir:80?security=none&type=ws&h
 vmess://eyd2JzogJzInLCAncHMnOiAn8J+Qplx1MjAwZPCflKUtQFNQRUVEU19WUE4nLCAnYWRkJzogJ21pZy1zaW4uZGFya3ViZS5pcicsICdwb3J0JzogJzQ0MycsICdpZCc6ICcyNTQ3MjFhOS01NzM5LTRiYWYtYjM1ZC05YmM5NTBlMzQ2ZGInLCAnYWlkJzogJzAnLCAnc2N5JzogJ2F1dG8nLCAnbmV0JzogJ3dzJywgJ3R5cGUnOiAnbm9uZScsICdob3N0JzogJycsICdwYXRoJzogJy9hcGkvZGlyZWN0JywgJ3Rscyc6ICd0bHMnLCAnc25pJzogJycsICdhbHBuJzogJycsICdmcCc6ICcnfQ==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://42c107b9-701d-4fb5-9a6e-e3c1251ab2c2@snapp.ir:2086?type=ws&security=none&path=%2F&host=connect.pardisvps.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://08e74ba1-435c-4a24-b3b6-d54bee7a89bf@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=an.8lack.ir&fp=firefox&type=ws&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://efe1451b-fdd2-46a7-bb95-3f82d2b004f2@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=conf.seim-ss.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://615db42a-429e-4c6e-b31e-fa44eb1fae66@185.143.233.235:80?path=%2F&security=none&encryption=none&host=Ml.artarona.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
