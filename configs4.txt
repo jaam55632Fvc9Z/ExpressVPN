@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://497b4b79-2ee3-4f89-8802-68a72f821bf9@144.31.24.85:8443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=ads.x5.ru&fp=qq&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://497b4b79-2ee3-4f89-8802-68a72f821bf9@79.137.198.154:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=XrXK3qb2CKCBP80Vkg3WfNBB4gpy4YOADmQ7mhHfDWE#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://497b4b79-2ee3-4f89-8802-68a72f821bf9@gosuslugiru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=node12.telegavpn.org&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://497b4b79-2ee3-4f89-8802-68a72f821bf9@193.233.201.13:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://497b4b79-2ee3-4f89-8802-68a72f821bf9@45.140.205.215:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VTFzanFpY2toKzhPajVVZDNiWnkzemgwTkVIK0FJZXQvRFFNMEI5WHRlQT06c1ZyQUJLWklESStOeStvTVdnSGxVS0pGeGxDQW1KaFRXbXc1WHhNYTV4Zz0@217.60.243.112:42792?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAiYWRkIjogImNkbi5pcC1zdGF0aWMuY29tIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiYmE4ZDZmOGYtYjcwYi00YWRhLWE3NmEtOGRmNmIxZjY3YThjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJDQU4wMDgubWlkYXNuZXQud29yayIsICJwYXRoIjogIi8iLCAidGxzIjogIm5vbmUiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
-
-vless://ab8655ff-3313-4b86-a9d3-c5e7501a5b97@2.144.23.137:55318?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://0fd0fa7c-2a48-47d9-b23f-c582c87be4f7@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=an.8lack.ir&fp=firefox&type=ws&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://766d0e33-fc8f-4b22-9f26-4174e1b0f22c@kubernetes.io:443?mode=auto&path=%2Fadmin&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=amoosina.netlify.app&fp=chrome&type=xh#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -99,4 +83,14 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.238:2096?allowInsecure=1
 vless://cf1aeb0d-dcc2-4345-9ade-5cd7abb7c613@arvancloud.ir:80?type=ws&encryption=none&path=%40TunizoNET&host=ri.amirenzohost.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://d2107b39-6ba9-48c2-a883-30a7fdaf69c8@185.143.233.235:2095?encryption=none&type=ws&path=%2F&host=Ml.artarona.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.38.101.190:443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.210.141:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.35.211.105:443?allowInsecure=1&encryption=none&host=tristandeng.cc.cd&security=tls&sni=tristandeng.cc.cd&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://497b4b79-2ee3-4f89-8802-68a72f821bf9@130.49.189.40:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1SjByaEZ6VDFEOExKdkRwX3RMR18tOEZTZjVlVTFhRA==@130.49.189.40:8080#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
