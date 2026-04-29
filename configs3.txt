@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://ksjsks#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fs.narton.ir:80?encryption=none&type=ws&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&host=mitivpn-s1.global.ssl.fastly.net#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://7eb4a87d-e22f-4eb3-a793-ee3d6200fdc6@email.swiftraci.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&sid=a6aef5143d94&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://ca683ff2-5d4b-4d3a-8802-a3f790801604@185.143.233.235:80?security=none&encryption=none&host#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://75ac7622-a866-4912-9cbd-61003184b7ea@joker.preghost.ir:45807?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=aparat-stream&sni=joker.preghost.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
-
 vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://4788d995-a7b5-4be2-add5-12da6a802aba@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -9999,4 +9989,14 @@ vless://378cf38c-303b-4d66-bc9d-a7a700e22438@snappfood.ir:80?path=/ws&security=n
 vmess://eyd2JzogJzInLCAncHMnOiAn8J+Qplx1MjAwZPCflKUtQFNQRUVEU19WUE4nLCAnYWRkJzogJzE4NS4yMzYuMzguNDQnLCAncG9ydCc6ICcxOTk0NicsICdpZCc6ICdjOWU0MjUzNy04NjUyLTRhNGMtODVkMy0wZDM2YWJmMzhmODgnLCAnYWlkJzogJzAnLCAnc2N5JzogJ2F1dG8nLCAnbmV0JzogJ3RjcCcsICd0eXBlJzogJ25vbmUnLCAnaG9zdCc6ICcnLCAncGF0aCc6ICcnLCAndGxzJzogJ25vbmUnLCAnc25pJzogJycsICdhbHBuJzogJycsICdmcCc6ICcnfQ==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://74dd682c-3e81-4ca0-9be0-6ec6b5adbb5a@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40AloConfig_com
+
+vless://147faa3f-92b0-4849-a84f-47bfe8ba61c7@kubernetes.io:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=shiny-puppy-52fec1.netlify.app.com&type=xhttp&allowInsecure=1&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f55ffd93-8c88-4eec-8ee5-6b948840dce1@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=dn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8de9dc82-d4c1-46af-976a-dbad92195c33@snapp.ir:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=1.jojo.avenflow.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyd2JzogJzInLCAncHMnOiAn8J+Qplx1MjAwZPCflKUtQFNQRUVEU19WUE4nLCAnYWRkJzogJ21pZy1zaW4uZGFya3ViZS5pcicsICdwb3J0JzogJzQ0MycsICdpZCc6ICcyNTQ3MjFhOS01NzM5LTRiYWYtYjM1ZC05YmM5NTBlMzQ2ZGInLCAnYWlkJzogJzAnLCAnc2N5JzogJ2F1dG8nLCAnbmV0JzogJ3dzJywgJ3R5cGUnOiAnbm9uZScsICdob3N0JzogJycsICdwYXRoJzogJy9hcGkvZGlyZWN0JywgJ3Rscyc6ICd0bHMnLCAnc25pJzogJycsICdhbHBuJzogJycsICdmcCc6ICcnfQ==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://42c107b9-701d-4fb5-9a6e-e3c1251ab2c2@snapp.ir:2086?type=ws&security=none&path=%2F&host=connect.pardisvps.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
