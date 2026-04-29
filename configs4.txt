@@ -148,3 +148,7 @@ vless://9a06cc2a-8967-4d6b-abfcf9c5501ff4ad@185.143.233.234:443?path=%2Fvoip&sec
 
 vless://15c48a6a-9ecd-4747-8ca4-6c00d2f6616f@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ios.nextcelldodo.lol&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://bbffc7c1-96d8-40d1-846a-296db4be1065@snapp.ir:80?encryption=none&type=ws&path=%2F&host=cdn.softnetconnect.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://fb68a8ec-82f3-47d9-874c-7c76b51d3388@parbam.baaq-yas.ir:8443?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=parbam.baaq-yas.ir&path=%2Fyaay&security=tls&sni=parbam.baaq-yas.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
