@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.38.101.190:443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.210.141:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.35.211.105:443?allowInsecure=1&encryption=none&host=tristandeng.cc.cd&security=tls&sni=tristandeng.cc.cd&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://497b4b79-2ee3-4f89-8802-68a72f821bf9@130.49.189.40:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1SjByaEZ6VDFEOExKdkRwX3RMR18tOEZTZjVlVTFhRA==@130.49.189.40:8080#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 vless://1f1434da-1c31-6214-bb66-053236664c04@snapp.ir:2052?path=%2F%3Fed%3D2056&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=YOUR_SUB_DOMAIN&type=xhttp&allowInsecure=0&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -113,4 +103,16 @@ vless://57847df6-3ef1-477f-986c-c8dfb55d4160@185.143.233.235:80?encryption=none&
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.5.221:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40manVPN
 
 vless://8887d7e2-1c73-49b1-9d60-ce7546053370@all49-vip.f-sub.com:1517?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40manVPN
+
+vless://953d1420-ce8c-4462-9a10-22daea43dc23@line2.gymplusplus.com:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://AstroVPN-Official@kubernetes.io:443?encryption=none&security=tls&sni=kubernetes.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=neon-pixie-167b20.netlify.app&path=%2Fappxa&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ee309de6-154b-45da-aa71-0a3a1ca97c1b@85.159.229.84:443?type=tcp&security=reality&fp=random&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&sid=93&sni=www.google.com&spx=/#%F0%9F%87%AE%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://3e4f6e33-79de-4453-922e-129c1a6ff8c4@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=bn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080?type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://068aba1f-c8f9-4f5c-bd80-7e1eadd38a9a@188.213.198.179:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
