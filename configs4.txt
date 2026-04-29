@@ -90,3 +90,9 @@ vless://e370930f-fa08-474c-b4c#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://48a2d97e-e969-4dae-bc09-3448e2ef1780@185.83.113.134:54465?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40NormanV2ray
 
+vless://370a93fc-72c4-4502-80af-22b793849982@185.143.233.235:80?encryption=none&type=ws&path=%2F&host=Ml.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://cfa08h4d-2b79-40073-aef7-91giv90n49c86@snapp.ir:8080?path=%2F&security=none&encryption=none&host=dl.irwebsrv.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://48a2d97e-e969-4dae-bc09-3448e2ef1780@185.83.113.134:54465?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
