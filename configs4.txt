@@ -120,3 +120,7 @@ vless://0b69e6e7-3bf4-432f-a6bf-0ae060dc53a1@snapp.ir:80?path=%2F%3Fed%3D2080&se
 
 vless://4672f725-d38d-4848-8dd0-4a59847ae6d8@s3.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://76ca9328-3379-4efa-bedf-3a00dc513db4@185.143.233.5:443?encryption=none&security=tls&sni=en.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=en.8lack.ir&path=%2Fchat%3Fed%3D128#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0e97425c-8780-42e6-dfe0-0b5107383fdd@pypi.org:443?path=%2F&security=tls&encryption=none&insecure=1&host=iranisalaaam.ir&type=ws&allowInsecure=1&sni=pypi.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
