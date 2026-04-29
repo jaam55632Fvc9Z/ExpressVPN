@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://aae21ee1-7a8c-4ec6-a9a6-430bc208001d@185.143.234.235:2052?encryption=none&host=treydhub.com&path=%2Fvideo-play-trade%3Fed%3D2048&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJoZWFkZXJUeXBlIjogIm5vbmUiLCAiYWxwbiI6ICIiLCAiYXV0aG9yaXR5IjogIiIsICJmcCI6ICIiLCAicG9ydCI6ICIyMDQ1MCIsICJzZXJ2aWNlTmFtZSI6ICJub25lIiwgImV4dHJhIjogIiIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAicGF0aCI6ICIiLCAic2VlZCI6ICIiLCAibW9kZSI6ICIiLCAiaWQiOiAiOTA3ZmIzZjctYzdiYy00MjlkLTkyNzYtODcyYmU1MzY3YTU4IiwgImhvc3QiOiAiIiwgImRldmljZUlEIjogIiIsICJhaWQiOiAiMCIsICJ0bHMiOiAibm9uZSIsICJmcmFnbWVudCI6ICIiLCAiYWRkIjogImI1MWQ2NGNiLWM1ZDYtNDc5MS04ZWNmLTBhNmQ4ZDcxYzcxNy53dGYiLCAidiI6ICIyIiwgIm5ldCI6ICJ0Y3AiLCAic25pIjogIiIsICJ0eXBlIjogIm5vbmUifQ==
-
-vless://8fa8a13e-038b-47a0-b8de-8c37077d2cb2@post.exitping.store:33089?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=post.exitping.store#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@158.160.46.104:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&security=reality&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -85,4 +79,18 @@ vless://3b631b86-8838-4f2a-84bd-ed3849161b40@trex.nahidapp.com:443?path=%2Fvless
 vless://861326e7-09c0-45c3-9c57-092e45f98e43@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTEyOC1nY206MGZhZTBjZWItNGI2ZC00YmFiLTlkM2MtNjEyYzc3YWU5YjJm@vip-pro6669cheap.fq-number-001.co:25584#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40v2nodes
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.4:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.252.61:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.251.198:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFdTLVRMUyB8IEB2Mm5vZGVzIiwgImFkZCI6ICJzYW5qb3NlMDEuemdqb2suY29tIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjk2ZDIxY2ZlLWIyNjQtNGJmMy04MzQ5LWZiMDc2ZDQwODM3ZSIsICJzbmkiOiAic2Fuam9zZTAxLnpnam9rLmNvbSIsICJob3N0IjogInNhbmpvc2UwMS56Z2pvay5jb20iLCAicGF0aCI6ICIvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIHwgQHYybm9kZXMiLCAiYWRkIjogInVzMDIuYmN0dW8udG9wIiwgInBvcnQiOiAxNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMzE4MDE5NjgtOTg3Ny00ZWY1LWJlODctNTY1MDNjMzRhNjlkIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+
+vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?allowInsecure=1&sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://e3aaf263-e6c1-4e60-843e-eeebe82b121d@185.143.234.235:2052?encryption=none&type=ws&path=%2Fvideo-play-trade%3Fed%3D2048&host=treydhub.com#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
 
