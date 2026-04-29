@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsRm5LNWx0Mk12SE9FZnNxZGIybGlEUktFb3F5QjQ2YlMzTCs4aDdkQU1jPQ@vodcezuser.vipstarone.com:15152#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiMjAyMDkiLCAiaWQiOiAiMTNiZjM5OTgtMGFlYS00ZTc1LWE3YmEtMzljZWNjOTcyZTE5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
-
-vless://b5f89da5-26c4-48bd-91ae-d9e71e27c7e2@vpn2.ulteracrypto.site:22102?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://9779e130-9c85-45f1-8b1b-1b28a558aaa5@protecttwo.starmizban.com:443?security=tls&sni=protecttwo.starmizban.com&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=protecttwo.starmizban.com&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://04fa65ad-5178-49c0-b679-a5442e3bfe78@185.143.234.235:80?flow=&host=d.nsa03.com&type=ws #%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 vless://68a2347f-93ed-4109-bd69-526a1ec58c22@khan10.tarfandgallery.sbs:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=khan10.tarfandgallery.sbs#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://0461ea86-ae61-4642-b486-ba41b560ad74@protecttwo.starmizban.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=protecttwo.starmizban.com&fp=chrome&type=ws&allowInsecure=0&sni=protecttwo.starmizban.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -397,6 +387,8 @@ vless://a60821ef-1933-438e-969b-8a375160012e@ite.pishvatech.lol:2052?path=%2F&se
 vless://d0dd7901-0a8f-4027-a71b-76dba72fae6b@ite.pishvatech.lol:2052?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://0d7d4da8-e6cd-494e-9bc5-05f0a332a214@185.143.233.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#%F0%9F%87%B5%F0%9F%87%B1%20GRPC-None%20%7C%20%40v2nodes
 
@@ -9999,4 +9991,12 @@ vless://659a751c-df40-439e-d66e-f0e11e342b93@87.107.187.149:8010?encryption=none
 vless://eb4ab797-08a3-439a-a3bc-8b88382b26f3@react.dev:443?type=xhttp&mode=auto&host=sni-xhttp-indol.vercel.app&path=/ali&security=tls&fp=chrome&sni=react.dev&alpn=h2,http/1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://7a3ffd65-dbf5-4f80-819d-b94922481d06@post.exitping.store:33089?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=post.exitping.store#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://347986b8-8268-4ed9-9d65-bc034d508546@line2.gymplusplus.com:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?note=---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---&path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiY2RuLmlwLXN0YXRpYy5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiRlJBMDA0Lm1pZGFzbmV0LndvcmsiLCAiaWQiOiAiMTIwZDRmZTYtOTdhYS00YjdhLWE2ZDAtYWNlZTZjN2Q3NGZjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+
+vless://bb784901-c2a1-4b51-9eb0-3a934362d0cf@s01.jangalhayeanbouh.shop:8080?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
