@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://8d7f156c-17bf-4885-aec3-2bdfab51c8a7@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://378cf38c-303b-4d66-bc9d-a7a700e22438@snappfood.ir:80?path=/ws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eyd2JzogJzInLCAncHMnOiAn8J+Qplx1MjAwZPCflKUtQFNQRUVEU19WUE4nLCAnYWRkJzogJzE4NS4yMzYuMzguNDQnLCAncG9ydCc6ICcxOTk0NicsICdpZCc6ICdjOWU0MjUzNy04NjUyLTRhNGMtODVkMy0wZDM2YWJmMzhmODgnLCAnYWlkJzogJzAnLCAnc2N5JzogJ2F1dG8nLCAnbmV0JzogJ3RjcCcsICd0eXBlJzogJ25vbmUnLCAnaG9zdCc6ICcnLCAncGF0aCc6ICcnLCAndGxzJzogJ25vbmUnLCAnc25pJzogJycsICdhbHBuJzogJycsICdmcCc6ICcnfQ==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://74dd682c-3e81-4ca0-9be0-6ec6b5adbb5a@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40AloConfig_com
-
 vless://147faa3f-92b0-4849-a84f-47bfe8ba61c7@kubernetes.io:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=shiny-puppy-52fec1.netlify.app.com&type=xhttp&allowInsecure=1&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://f55ffd93-8c88-4eec-8ee5-6b948840dce1@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=dn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -85,4 +77,8 @@ vless://f927e61c-2e7d-4f0d-8abd-83d295180c07@vitallife.gg:443?alpn=http%2F1.1&en
 vless://f927e61c-2e7d-4f0d-8abd-83d295180c07@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vitallife.gg&fp=chrome&type=ws&allowInsecure=0&sni=vitallife.gg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://1fe989b3-42c0-4fac-b11f-0195ea793df5@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=dn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0b96e469-bd3a-451b-98db-5b2df6eefa40@185.143.234.235:80?encryption=none&security=none&type=ws&host=d.nsa03.com&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://8c71e31d-fdcb-403b-9d81-1240fae32c23@snapp.ir:2086?type=ws&security=none&path=%2F&host=connect.pardisvps.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
