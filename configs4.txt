@@ -64,3 +64,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.54.238:2096?allowInsecure=1&e
 
 vless://3774ecb5-5dfd-43c4-9da1-a527357e543b@snapp.ir:2087?encryption=none&security=tls&sni=01team.no1plus.ir&alpn=h2,http/1.1,h3&fp=chrome&type=ws&host=01team.no1plus.ir&path=/#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://01b04de5-99ef-6b90-a943-8adbaaa815cd@snapp.ir:80?security=none&type=ws&path=%2F&host=new-game-server.supgame.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@35.159.185.219:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@35.159.185.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.159.185.219:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
