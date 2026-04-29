@@ -88,3 +88,25 @@ vless://telegram-%40dickiriptorbot@helm.sh:443?mode=auto&path=%2F%40dickiriptorb
 
 vless://telegram-%40dickiriptorbot@letsencrypt.org:443?mode=auto&path=%2F%40dickiriptorbot&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=1&host=mamadsproject.netlify.app&fp=chrome&type=xhttp&allowInsecure=1&sni=letsencrypt.org#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://telegram-%40dickiriptorbot@kubernetes.io:443?mode=auto&path=%2F%40dickiriptorbot&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=1&host=mamadsproject.netlify.app&fp=chrome&type=xhttp&allowInsecure=1&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://91c514fe-7cf0-42f1-9aa2-1e60b743b093@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=jn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=jn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://57d4c214-6be1-4c84-be67-85880e0c7a9b@104.20.6.134:443?type=xhttp&encryption=none&path=/&host=dalag.master33varkarjoo.ir&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000"}&security=tls&fp=chrome&alpn=h2,http/1.1&sni=dalag.master33varkarjoo.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=%2F&security=tls&encryption=none&echfq=none&host=sni.111000.v6.navy&allowinsecure=0&type=ws&sni=sni.111000.v6.navy#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2096?path=%2F&security=tls&encryption=none&echfq=none&host=sni.111000.v6.navy&allowinsecure=0&type=ws&sni=sni.111000.v6.navy#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&echfq=none&host=2026.hhhhh.eu.org&fp=chrome&allowinsecure=0&type=ws&sni=2026.hhhhh.eu.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=fra4.chasem2026sud.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vmess://G2Snx5dR7QnAD6lYZ8amz3nzow5GopJh4w4wIWLKkUSNAyc4XaPGghkigxoIl3kA791UxZFKWCkoBMbZigC5e1WPUBuS74aiqiF+kbw3LvePonESXdgDpqbXi06Wa7kyiRSSB+YyzPRdIbRCYKQl/16Kso9p9LAAE6P0DktPlYBNQkF4hsx2GfbOPHCjyH8Rt5y44ZPrb3hzFA9K9pb6J0p8O2a6ZAwCP6pcJ5IjkeHqU5MBiHHg1A2LtQszQfdnSZndAwQRzgHpLDB39GnvZvCAt6QNMVnXKuvSfl0JMw41wyPlgQc2KMPr0noqz/Jv48v4zwSUvNrTFOmrmeSMIY8md66vRzFkb+aAp7jyGhGxuYNCadsFoUcym834IHA+fPl/vxRNqsTDGkJ1pfaa9Qzv3BJmLIVqDBRUGoLKVt0=#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://4KqegWwaYYHmpalaw12AtuiN1tGZ3dSC35RfYQ2Wt0notTUQOVxdaNbK9Ze11ufbRatLO9t670I0Zv07zwpi92byxHuEQJ0BKrwhD93wOCQ8m6rdln0DVq/NdCJXOsvQPYSzAYUvtcsNryoGYAQnlgsN0Dm/dvVUr1fDQH0Vb5fF5zoZP27sln9ptSwc9hQYYKBV2F6qvqVy498kQPYft9R9ePEkxzqLuCm+ehow4X3GFC2bPFKT4lETewqDe5sZyEy+1bqD7TIBXCS+Ocl4TDyKrFUD5yezRHL1LIRKCSACnecVIOT3Y02vE8N9HiiSAga0rvwnMhX075Yv4tFjd0mcirTyaMTBfj727Wk+ySERjn1dk+qggAQC/HBVCx6xz4gVHRee9DCR9QOn+fERCPAt5cBUKLMqy4WZYtzBfJnY3frVo9o3g/CCqbe9H8ZHBjEpi8AdI/LAIv7SfTDF/04+fRJK3aEaQabThv+seYZZuKGvgV260g2FkWcr8SKxr7VVWjpjqmJEq7ryXT62yZnGDyCXzlZH9vH0m0N2P9PvftOxh5d+Sy9gjT2ZK6awZWg6j/K4qoGdODMtVHiCVFAf0vbOUGS3DITq1pEnzBcHGA151B4cSJlkUBTUjmNn#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://G2Snx5dR7QnAD6lYZ8amz3nzow5GopJh4w4wIWLKkUSNAyc4XaPGghkigxoIl3kA791UxZFKWCkoBMbZigC5e1WPUBuS74aiqiF+kbw3LvePonESXdgDpqbXi06Wa7kyiRSSB+YyzPRdIbRCYKQl/16Kso9p9LAAE6P0DktPlYBNQkF4hsx2GfbOPHCjyH8Rt5y44ZPrb3hzFA9K9pb6J4eTts2fJrCNPZjLgKqU3wYKgeEj1pBQ6QroDzORiQTmrgXbMjDHlxtGf5FaVOc2dWtEPoAI6MbY628ujc37D+kd+ApFc16ka+2xe+OnTkvILJ/t/NUQAV1LGsdHiO0HGI5lXRy3uoaQ0eKSdbGwhK71VD9iJBesrFflETbMtXqzlCnLXk7Jahul12l2QmfvO6RAILV1U/SDxsZGgMPcmZQ=#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://TbqdLNpwtNGfSfc8cp9lf8kjr4Bsah1TQcXL0+XV+fpUc+i34qkZ22RkPnQH8nawzzsQL7un1PKvzqtK/blkM2byxHuEQJ0BKrwhD93wOCQ8m6rdln0DVq/NdCJXOsvQPYSzAYUvtcsNryoGYAQnlgsN0Dm/dvVUr1fDQH0Vb5fF5zoZP27sln9ptSwc9hQYusTxy36cxMUWk4AhxWetG9R9ePEkxzqLuCm+ehow4X3GFC2bPFKT4lETewqDe5sZyEy+1bqD7TIBXCS+Ocl4TDyKrFUD5yezRHL1LIRKCSACnecVIOT3Y02vE8N9HiiSAga0rvwnMhX075Yv4tFjd0mcirTyaMTBfj727Wk+ySERjn1dk+qggAQC/HBVCx6xz4gVHRee9DCR9QOn+fERCPAt5cBUKLMqy4WZYtzBfJnY3frVo9o3g/CCqbe9H8ZHBjEpi8AdI/LAIv7SfTDF/04+fRJK3aEaQabThv+seYZZuKGvgV260g2FkWcr8SKxr7VVWjpjqmJEq7ryXT62yZnGDyCXzlZH9vH0m0N2P9PvftOxh5d+Sy9gjT2ZK6awZWg6j/K4qoGdODMtVHiCVFAf0vbOUGS3DITq1pEnzBcHGA151B4cSJlkUBTUjmNn#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
