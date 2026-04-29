@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://df6930a0-c85f-4d9e-b125-ceece509841a@185.143.233.235:8080?type=httpupgrade&encryption=none&path=%2Fvpn&host=s102.tireks.site&security=none#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
-
-vless://bb6b1556-25f5-4385-bd7d-5b8f540a87ff@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9cb61e56-b8a7-46b8-9d9b-bb68fbbf451f@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8815a464-57b1-4cf0-8fd6-bad9f3c5814e@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://401bf807-8e5b-4f75-a534-1581b745009f@arvancloud.ir:80?path=%2F&security=none&encryption=none&host=gh8.ghostantaniehh.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJzaG9wLmJhcmF2YXJkZWgudG9wIiwgInBvcnQiOiAzMTYxLCAiaWQiOiAiOTE2Yjk2MGMtYTc5Ni00YzZhLThkMmYtZTBhMzQ2OWFmNGIyIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIn0=
@@ -2457,6 +2449,8 @@ trojan://1234567890@77.90.63.208:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
 
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9993,10 @@ vless://4dbc938a-430e-42d7-a59c-a57d97076125@mtn.itsazan.info:2083?encryption=no
 vless://93a074ec-0f80-40d7-a45e-9ac32fda005f@snapp.ir:2086?encryption=none&type=ws&path=%2F&host=connect.pardisvps.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://d6222fdf-efa3-483a-9b6f-89ca7c9451c2@5.61.25.216:29479?encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://93a074ec-0f80-40d7-a45e-9ac32fda005f@snapp.ir:2086?encryption=none&type=ws&path=#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://730c633b-ae43-4089-b442-81510ccfd834@zir.alihapps3.aghanami.ir:80?encryption=none&type=ws&path=#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://4dbc938a-430e-42d7-a59c-a57d97076125@mtn.itsazan.info:2083?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv1%2Fusers&sni=mtn.itsazan.info&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
