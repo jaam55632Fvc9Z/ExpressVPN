@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2_mod_shop
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://df230a7c-a9ba-4efc-8f9f-ee03bffc4303@node3.jjjjjj.eu.cc:443?&security=tls&fp=safari&sni=jp2.jjjjjj.eu.cc&type=ws&headerType=none&host=jp2.jjjjjj.eu.cc&path=%2Fjige#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2nodes
@@ -9999,4 +9993,10 @@ vless://4dbc938a-430e-42d7-a59c-a57d97076125@mtn.itsazan.info:2083?path=%2Fapi%2
 vless://dc0a97a1-62d3-46d1-a15c-4ab73852b5b8@snapp.ir:2086?type=ws&security=none&path=%2F&host=connect.pardisvps.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://79d9e9b0-b553-407f-9317-9fe7e5a235b8@netforfree.ulteracrypto.site:39579?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://108cbc7a-56bc-4495-a3a8-b46341ffaff4@snapp.ir:2082?path=%2F&security=none&encryption=none&host=sl.pardisvps.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://114e6dec-6b74-40ce-a3f1-1165dd1afae6@snapp.ir:2086?path=%2F&security=none&encryption=none&host=connect.pardisvps.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://376e733e-d4ea-4bf0-9c0d-881a770445cd@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=bn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
