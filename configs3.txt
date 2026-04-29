@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://611ee6d9-6dad-4489-bdaf-10ff14228c48@snapp.ir:2052?path=%2Fapi%2Fv5%2Fsamin%2F1&security=none&encryption=none&host=matin.mrjrb.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.154:2053?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://b655f6b9-194b-b416-1674-bcd3943c327e@meli2.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.205#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://0ea86ee7-32ce-fb02-8896-16a89caf40d0@meli2.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.205#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://74ffd908-7a1d-4a3c-a356-64585c11258e@154.205.134.233:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=dash.cloudflare.com&pbk=5-nnpf-B0VUro6YBz18hjPeeAf_Hx8c6IZpV2Gq7dyQ&fp=chrome#%F0%9F%87%B8%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ trojan://hgbrzneo-lq8i-529j-44i4-svmoy1ui1rxi@127.0.0.1:2080?security=tls&type=t
 trojan://bmmone8y-ebd0-wso2-m7xu-wgjpka85omxl@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFuQXZhcmFuIE1paGFuIE1pemJhbiBQSlNDIFx1MjUwNyA4NS4xMzMuMjA0LjY3IiwiYWRkIjoiYWRlbG1lbGkuY29tIiwicG9ydCI6ODAsImlkIjoiODllMjU1NjItZDBmMS00ZjU0LThhZmItNmVlMzc0ZTMwZmJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+vless://9a06cc2a-8967-4d6b-abfc-f9c5501ff4ad@185.143.233.234:443?path=%2Fvoip&security=tls&encryption=none&insecure=0&host=s1.pishparda.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.pishparda.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40anty_filter
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJzaG9wLmJhcmF2YXJkZWgudG9wIiwgInBvcnQiOiAzMTYwLCAiaWQiOiAiNDQ1YzQ0MzUtYTg1ZS00ZTc1LThlZmYtMDE3ZDY2ODViNjBkIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIn0=
+
+vmess://eyJhZGQiOiAiZWNvLnN3YWd2aXAuc2JzIiwgImlkIjogImM0YzBkY2Q5LWNlNWUtNDJmMi04OGMzLThiZGYyYmZjYzdkMSIsICJuZXQiOiAidGNwIiwgInBvcnQiOiA5MDIwLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 

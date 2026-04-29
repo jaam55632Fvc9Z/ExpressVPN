@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://BjmGF3QAgAfD7ul0Hl9oNA@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6875c97e-2464-47d3-9228-1626fe58e95f@nabi.iranianshp.ir:45327?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://0fd780bd-5920-1842-aa58-84294faef415@me3.katalogini.ir:2082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://7e84c0d3-c4ad-4c1d-8f05-29a7c18b1c55@snapp.ir:2082?encryption=none&host=AZL.bosbedetoto.site&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://26524cce-d514-4014-a426-365fb266a14d@cf7.danfeng.eu.org:2087?encryption=none&security=tls&sni=ltaeqp.cdn-assets.fgfw.indevs.in&fp=chrome&alpn=http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://26524cce-d514-4014-a426-365fb266a14d@cf8.danfeng.eu.org:2096?encryption=none&security=tls&sni=ltaeqp.cdn-assets.fgfw.indevs.in&fp=chrome&alpn=http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://26524cce-d514-4014-a426-365fb266a14d@cf9.danfeng.eu.org:2096?encryption=none&security=tls&sni=ltaeqp.cdn-assets.fgfw.indevs.in&fp=chrome&alpn=http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@118.160.193.190:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://b24484be-a335-472c-8dff-060ccd2b8f3b@xn-dns.onlineblog.ir:2083?&security=tls&sni=xn-de.shakhle.ir.&type=ws&headerType=none&host=xn-de.shakhle.ir.&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -147,4 +133,10 @@ trojan://hgbrzneo-lq8i-529j-44i4-svmoy1ui1rxi@127.0.0.1:2080?security=tls&type=t
 trojan://bmmone8y-ebd0-wso2-m7xu-wgjpka85omxl@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFuQXZhcmFuIE1paGFuIE1pemJhbiBQSlNDIFx1MjUwNyA4NS4xMzMuMjA0LjY3IiwiYWRkIjoiYWRlbG1lbGkuY29tIiwicG9ydCI6ODAsImlkIjoiODllMjU1NjItZDBmMS00ZjU0LThhZmItNmVlMzc0ZTMwZmJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+vless://9a06cc2a-8967-4d6b-abfc-f9c5501ff4ad@185.143.233.234:443?path=%2Fvoip&security=tls&encryption=none&insecure=0&host=s1.pishparda.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.pishparda.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40anty_filter
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJzaG9wLmJhcmF2YXJkZWgudG9wIiwgInBvcnQiOiAzMTYwLCAiaWQiOiAiNDQ1YzQ0MzUtYTg1ZS00ZTc1LThlZmYtMDE3ZDY2ODViNjBkIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIn0=
+
+vmess://eyJhZGQiOiAiZWNvLnN3YWd2aXAuc2JzIiwgImlkIjogImM0YzBkY2Q5LWNlNWUtNDJmMi04OGMzLThiZGYyYmZjYzdkMSIsICJuZXQiOiAidGNwIiwgInBvcnQiOiA5MDIwLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
