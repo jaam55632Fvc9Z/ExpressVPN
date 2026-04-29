@@ -84,3 +84,5 @@ ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@13.36.173.59:80#%F0%9F%87%AB%F0%9F%87%B7%20TCP
 
 vless://Parsashonam@nextjs.org:443?security=tls&encryption=none&headerType=none&fp=safari&type=tcp&sni=nextjs.org#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://1c8eb478-5829-41c1-8b6c-ef74bb72edf8@helm.sh:443?mode=auto&path=%2Fmambo&security=tls&encryption=none&insecure=1&host=69f18d8defe5a8b0745a3379--magenta-banoffee-fb08a6.netlify.app&type=xhttp&allowInsecure=1&sni=helm.sh#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
