@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://05a84f40-3bdc-40b2-a241-b490e84e5273@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://784f1f03-0323-45e3-86c1-126ac8482514@iliya.rhino-security.ir:80/?type=ws&encryption=none&path=/&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://43e82139-1575-4f6a-bef3-5ea578807045@kubernetes.io:443?encryption=none&security=tls&sni=kubernetes.io&alpn=h2&fp=chrome&type=xhttp&host=wlf-relay-20.netlify.app&path=/proxy&mode=stream-up#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://606835be-64cf-4e95-9bbb-9a1c86a99b05@snapp.ir:8080?path=%2F&security=none&encryption=none&host=website-speedtest.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra=#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -155,4 +149,12 @@ vless://2c58bb8d-9e30-4dbc-b5e1-b358efd939eb@185.143.233.235:2082?security=none&
 vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://4KqegWwaYYHmpalaw12AtuiN1tGZ3dSC35RfYQ2Wt0notTUQOVxdaNbK9Ze11ufbRatLO9t670I0Zv07zwpi92byxHuEQJ0BKrwhD93wOCQ8m6rdln0DVq/NdCJXOsvQPYSzAYUvtcsNryoGYAQnlgsN0Dm/dvVUr1fDQH0Vb5fF5zoZP27sln9ptSwc9hQYYKBV2F6qvqVy498kQPYft9R9ePEkxzqLuCm+ehow4X3GFC2bPFKT4lETewqDe5sZyEy+1bqD7TIBXCS+Ocl4TDyKrFUD5yezRHL1LIRKCSACnecVIOT3Y02vE8N9HiiSAga0rvwnMhX07#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://2c58bb8d-9e30-4dbc-b5e1-b358efd939eb@185.143.233.235:2052?security=none&type=ws&headerType=&path=%2F&host=Ml.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://2c58bb8d-9e30-4dbc-b5e1-b358efd939eb@185.143.233.235:2095?security=none&type=ws&headerType=&path=%2F&host=Dev.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdExWOXpKZDFyQ2dvRFFKY3llR0tSenNHRlBnLU5ZYg==@87.120.187.107:9999#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://538c5074-0c38-4c5b-9d1c-1ca2c8b3d593@snapp.ir:2052?type=ws&path=/&host=p1.razstar.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
