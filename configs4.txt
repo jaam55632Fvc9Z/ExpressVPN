@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://99d8648b-fa04-4c67-a8d0-bfb0bf5616ac@min.oraclego.ir:443?path=%2Fpuladlerweb&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=min.oraclego.ir&fp=chrome&type=ws&allowInsecure=0&sni=min.oraclego.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://33666d05-8664-47fb-97e9-52a2a5ae125a@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://5eccca90-3aca-4181-96a9-c8b2f7c7cee0@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://4a8eec15-fbf0-41b6-9114-383bc9982904@87.107.54.173:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://766d0e33-fc8f-4b22-9f26-4174e1b0f22c@kubernetes.io:443?mode=auto&path=%2Fadmin&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=amoosina.netlify.app&fp=chrome&type=xhttp&allowInsecure=1&sni=kubernetes.io#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -105,4 +97,6 @@ vless://1f14348e-a12b-60f6-9ba7-9d7aa7e60350@jimivpn.ir:2052?path=%2F%3Fed&secur
 vless://57847df6-3ef1-477f-986c-c8dfb55d4160@185.143.233.235:80/?type=ws&encryption=none&flow=&host=d.nsa03.com#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://Telegram-Parsashonam@helm.sh:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=YOUR_SUB_DOMAIN&type=xhttp&allowInsecure=0&sni=helm.sh#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://11296aef-7110-433e-bf67-44967bc60cdc@185.143.233.200:80?path=%2F&security=none&encryption=none&host=mtt.newshoppizii.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
