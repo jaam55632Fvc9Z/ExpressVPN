@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ca683ff2-5d4b-4d3a-8802-a3f790801604@185.143.233.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://1234567890@46.101.246.237:2083?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://53b254e0-aaf9-4d8f-80b5-649d01a67b6b@185.143.233.5:80?path=%2Fgamescore%3Fed%3D128&security=none&encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&host=cdn3.restaurantworld.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://ca683ff2-5d4b-4d3a-8802-a3f790801604@185.143.233.235:80?type=ws&host=d.nsa03.com#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://a0552a5a-fcf8-482d-9f8f-01313443149e@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=cn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9991,12 @@ vless://e80d84b8-eaae-491d-88c5-c6f2650ee143@varzesh3.com:8080?path=%2F&security
 vless://1f1434da-eaad-6a34-b2f3-751abdd2b673@snapp.ir:2052?path=%2F%3Fed%3D2056&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://110a7be5-20a0-40a5-8c12-bc485c2f8e4f@snapp.ir:80?encryption=none&type=ws&path=/&host=n1.abantrust.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://eb041b40-e9d1-4a30-a9c5-13f3e2fcc445@Wow2.preghost2.ir:47471?type=grpc&encryption=none&serviceName=aparat-stream&authority=&security=reality&pbk=TAqHCL8jPTxrEZjzbLm2UFBCQ1OZeHIUyPpXlZ41nQs&fp=chrome&sni=www.apple.com&sid=c4c262&spx=%2F#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://f5945d05-5098-493f-a487-a4e1f123197c@netforfree.ulteracrypto.site:39579?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://675703f6-46a6-49bb-85f1-4529a8fe9086@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://f20b416b-bf52-4b4e-bddb-41132f24cd62@badboybi2.yeksancloud.ir:80?path=%2F&security=none&encryption=none&host=badboybi2.yeksancloud.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
