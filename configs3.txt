@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://785836a7-45fe-4e0c-aa17-28d5909b7585@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://a337bb5f-fe2d-454a-9be2-c6f533f4ee4a@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICI4Mi4xOTguMjQ2LjI1MCIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIm5vbmUiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
-
-vless://hz7k2v4FMvyUMu13RNWpqr9U2JF+IIvypjM1TQoT02CX+U9Zx1+S4fboPLGVno8wlX/ihiK5XDCNXVwSuzsgal15CFONfJbVuAE+ASW4Yuw2b3U7ixiWkEsMS2XqZtW4tFScnxVWyNj6sId4BS5oOBGh8eJeU84N+/UWu4bZPThWB+s6Y8VBiW3ueoLnOvwC9TZ/0a3Ich1nK9l3bZFykw==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://dcf09cd9-557f-420c-b0ed-74dba0c4da03@185.143.235.200:80?type=ws&encryption=none&path=%2F&host=wiki.mastervps.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://292f45ec-ad8f-4b30-806a-f81e97f2e56e@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=in.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=in.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://6008a694-040a-4dd3-9508-c8c3dec65ea8@37.255.172.89:443?mode=auto&path=%2F52412%2Fxhttpcf&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=het.btkhomtoro.shop&fp=random&type=xhttp&allowInsecure=0&sni=het.btkhomtoro.shop#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -9999,4 +9987,16 @@ vless://acc16b45-68d4-465c-82ae-a90b428c38b2@netforfree.ulteracrypto.site:39579?
 vless://408e37db-8e86-4aad-9b4c-53dbf6a04845@snapp.ir:2086?path=%2F&security=none&encryption=none&host=connect.pardisvps.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://8b3474f3-6a9a-4a20-a3b8-344a10393783@snapp.ir:2086?path=%2F&security=none&encryption=none&host=connect.pardisvps.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://4ef64219-9118-4563-a3fe-60fd05fcea75@185.83.113.134:14389?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://601790cb-b3d5-4623-ac6a-e23efc5edba4@185.83.113.134:14389?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://98fad396-e55b-4e1b-881b-4a59483d1cbc@185.83.113.134:14389?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e4c0d6d1-2647-4da6-8ec3-231f9951ee2f@camp.nahidapp.com:443?path=%2ICV2RAY&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://3cd7d285-38ee-4188-a9cc-60a4420d3c66@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=fn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=fn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://9593b135-213d-489d-b2bd-48cfe654f20a@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=jn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=jn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
