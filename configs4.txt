@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@ch-2.bexum.fun:443?sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BF%20TCP-TLS%20%7C%20%40v2nodes
-
 vless://949f7bc9-a7dd-4ef9-be96-b4cd747990d8@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://b917bab1-8067-4a52-966f-092ed71022df@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -57,4 +55,8 @@ trojan://bpb-trojan@104.21.75.193:443?type=ws&security=tls&sni=mashdt.pages.dev&
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool
 
 vless://65739833-f45e-4138-ab42-741e1a7c651b@varzesh3.com:80?encryption=none&type=ws&path=/ws&host=nobody.fasterspeed.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://7eaed3f8-6326-469c-9868-f37e438514ea@snapp.ir:80?security=none&encryption=none&host=firelink.arian-go-internet.ir&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://80be13ed-7cc0-466d-b7f7-02a7f56fe5e0@snapp.ir:80?path=/&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
