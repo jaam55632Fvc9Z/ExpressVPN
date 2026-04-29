@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://26524cce-d514-4014-a426-365fb266a14d@31.57.172.25:8606?&security=tls&sni=snippet.gfw.qzz.io&type=ws&headerType=none&host=snippet.gfw.qzz.io&path=%2Fdanfeng#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://327bd59b-ae93-4eae-910e-b0eaa8e88213@snapp.ir:8880?type=ws&encryption=none&path=%2F&host=amirali.nexoranepenthe661.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://50f5eb6f-3e24-4cc0-83be-f2e637c66422@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=pishparda.ir&sni=isna.ir&fp=chrome&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://50f5eb6f-3e24-4cc0-83be-f2e637c66422@185.143.233.234:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=s1.pishparda.ir&sni=s1.pishparda.ir&fp=chrome&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://50f5eb6f-3e24-4cc0-83be-f2e637c66422@185.143.233.232:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=pishparda.ir&sni=pishparda.ir&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://bd311df1-2876-4ee0-a229-1846a428ddb4@snapp.ir:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=1.jojo.avenflow.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40cpy_teeL
-
 vless://c6b38b33-ab08-43fb-b8c0-6c577346777a@cdn2.whitepol4.ir:2095?type=ws&security=none&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://50f5eb6f-3e24-4cc0-83be-f2e637c66422@185.143.233.235:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=s2.pishparda.ir&sni=s2.pishparda.ir&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -109,4 +97,12 @@ vless://b9c5f438-a69a-4aad-ea2b-b98d0bc48cbd@94.183.241.26:33553?security=none&e
 vless://1f14348a-9dc5-612c-aaf3-f350ad911caf@snapp.ir:2052?path=%2F%3Fed&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://1c8eb478-5829-41c1-8b6c-ef74bb72edf8@kubernetes.io:443?security=tls&encryption=none&headerType=none&fp=safari&type=tcp&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a9b0e6c8-3ec6-49db-9fe4-616cddec356c@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b5f25d9b-8f74-4b89-8498-abc0a50c780d@camp.nahidapp.com:443?encryption=none&host=camp.nahidapp.com&path=%2FIF_VPN_Bot&security=tls&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b92687f7-e8a7-4a26-9b75-49adbba8ac7d@matio.mestor.top:23865?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e1d97528-7a1a-4b78-99a3-372ec315d27e@tunel.pastaoil.ir:38364?mode=auto&path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&security=none&encryption=none&host=anten.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
