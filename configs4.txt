@@ -96,3 +96,9 @@ vless://cfa08h4d-2b79-40073-aef7-91giv90n49c86@snapp.ir:8080?path=%2F&security=n
 
 vless://48a2d97e-e969-4dae-bc09-3448e2ef1780@185.83.113.134:54465?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://e7d1cd9a-418c-4381-8dcf-758c2a571f30@react.dev:443?encryption=none&security=tls&sni=react.dev&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=todo-phi-sooty.vercel.app&path=/api&mode=auto&extra={"xPaddingBytes":"100-1000"}#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e7d1cd9a-418c-4381-8dcf-758c2a571f30@react.dev:443?mode=auto&path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=todo-phi-sooty.vercel.app&fp=chrome&type=xhttp&sni=react.dev#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://db3d4f12-ed79-48a6-8b32-78f3ac3bf4ec@letsencrypt.org:443?mode=auto&path=%2Fbah&security=tls&encryption=none&insecure=1&host=test.vaslima.de&type=xhttp&allowInsecure=1&sni=letsencrypt.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Blue_star_Vip
+
