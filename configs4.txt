@@ -118,3 +118,11 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogIjIxNi4zOC4xNjguMzgiLCAicG9ydCI6ICIxODE1NyIsICJp
 
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjIxNi4zOC4xNjguMzgiLCAicG9ydCI6ICIxNzA4MSIsICJpZCI6ICJlZWIyNTRkNi1mMDNlLTQwYmItOTBlMi1jODhjMWRlNGQzNDYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJmcCI6ICJjaHJvbWUiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFRDUC1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
