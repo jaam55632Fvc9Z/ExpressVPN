@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://491772a0-12bd-47e2-afe9-5d5be5d47401@45.136.126.32:4443?encryption=none&fp=&pbk=HYMZ6sGaRCC0PPGCzyWeJgpaNO2vP1IM71gkiJIJ6zQ&security=reality&sid=e313&sni=google.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://1c61a6c0-9bc7-4cb8-9188-6d86d5989388@nltw4.lckdwn.ru:8443?encryption=none&fp=&pbk=XEWgLksY3vnV9riMEO7AZ7HR0Ecv3HxXLFglZtcmx00&security=reality&sid=d5&sni=nltw4.lckdwn.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9995,8 @@ ss://3bce7120-92e3-4914-88ad-eda8352bf4f4@185.143.233.5:80?encryption=mlkem768x2
 vless://52b44115-14f3-48f0-9801-7f196c4ad7ec@helm.sh:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=XXXXX.netlify.app&mode=auto&path=%2Fappxa&security=tls&sni=helm.sh&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://00000000-0000-0000-0000-000000000000@kubernetes.io:443?mode=auto&path=%2Fyourpath&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=xxxxxxx.netlify.app&fp=chrome&type=xhttp&allowInsecure=0&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiMjA2NTQiLCAiaWQiOiAiMzFhYTk5MmEtNjZiZi00MGMyLWI5YjUtYzM1YTY5MTA2ZmFkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+
+vless://71b5c0ca-c0de-40d0-89b0-e002f382d65c@null.psdgold.st:55815?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
