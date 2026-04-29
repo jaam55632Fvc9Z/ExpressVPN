@@ -112,3 +112,5 @@ vless://8823712c-9a8d-4c2a-b2a7-d5b3690d849a@185.83.113.134:54465?security=none&
 
 vless://c93db35e-d85f-45f3-ad3d-d71037f919d5@185.83.113.134:54465?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40NormanV2ray
 
+vless://e7d1cd9a-418c-4381-8dcf-758c2a571f30@react.dev:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra=#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
