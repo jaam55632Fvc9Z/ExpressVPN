@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.43:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://f6b71e78-e065-4cf8-9fbb-b9e25ff67eff@5.188.224.137:2083?encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=ir.ozone.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://26524cce-d514-4014-a426-365fb266a14d@178.128.211.191:443?encryption=none&host=snippet.danfeng.rr.kg&path=%2Fdanfeng&security=tls&sni=snippet.danfeng.rr.kg&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -875,6 +873,8 @@ vless://b7a8f975-c36b-405a-875d-a790f66d4005@94.182.155.171:443?encryption=none&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?path=/?Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.184:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d437d353-4ca9-4c31-8295-33b3ba8ee42f@104.17.110.184:443?security=tls&encryption=none&headerType=none&type=tcp&sni=sahah.temas-arvha.ir#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.87:52006?sni=cluster-de-2.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
