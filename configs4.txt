@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://e70c5584-bb99-4526-9374-f3630f732e0e@jplic.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%AF%F0%9F%87%B5%20GRPC-None%20%7C%20%40v2ray_configs_pool
-
-trojan://e70c5584-bb99-4526-9374-f3630f732e0e@usrna.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40v2ray_configs_pool
-
-trojan://e70c5584-bb99-4526-9374-f3630f732e0e@hkzoa.osaip.net:443?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%AD%F0%9F%87%B0%20GRPC-None%20%7C%20%40v2ray_configs_pool
-
-vless://0ef01c8a-17c6-43c4-9741-909b23b656a3@snapp.ir:8080?type=ws&encryption=none&path=%2F&host=kootahkon.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
-
-vless://480b8819-166b-4a28-bcd9-94286b1cd098@snapp.ir:80?path=%2F&security=&encryption=none&host=vip.dijestbilty-en.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://480b8819-166b-4a28-bcd9-94286b1cd098@snapp.ir:80?type=ws&path=%2F&host=vip.dijestbilty-en.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://480b8819-166b-4a28-bcd9-94286b1cd098@snapp.ir:80?path=%2F&security=none&encryption=none&host=vip.dijestbilty-en.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://a025e43c-d2ab-458d-9ea5-55652218bfdb@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=an.8lack.ir&fp=firefox&type=ws&sni=an.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://e89481ee-a43d-4923-8a5f-371d353dabf8@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -71,4 +57,8 @@ vless://aa401638-4849-4474-8805-e842754760d9@varzesh3.com:80?type=ws&encryption=
 vless://cc7337c7-4b37-4abe-b6ad-f3f6cf1e21dd@cdn.mizbanertebatfarda.ir:2095?path=%2F&security=none&encryption=none&host=cdn.mizbanertebatfarda.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://5c99a067-4857-8af5-a931-2dad5a367cd9@meli2.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.205#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://e09edafd-2407-4abd-a1ab-9ba1d0724896@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=fn.8lack.ir&sni=fn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://eeabbd69-063a-4e08-9074-5259b4629b0a@snapp.ir:2052?encryption=none&type=ws&path=%2F&host=p1.razstar.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
