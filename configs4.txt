@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://fa45fd5a-9fcb-46a8-98e6-bcf8acc23c70@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://b97a654c-dec8-449c-928a-1d2de8ee47c6@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=in.8lack.ir&fp=firefox&type=ws&sni=in.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://00784feb-0d55-42ca-8871-aa39cccf1a66@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=gn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=gn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
-
-ss://heiws#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://9fe49649-e567-409a-a925-5a820c3fb0a7@nl.gxnetshop.ir:80?path=%2F&security=&encryption=none&host=vip.tickneloghy.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://9fe49649-e567-409a-a925-5a820c3fb0a7@nl.gxnetshop.ir:80?encryption=none&type=ws&host=vip.tickneloghy.ir&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://bbcac261-1cbf-4b96-bfbd-c4d6820ef7f7@snapp.ir:8080?encryption=none&security=none&type=ws&host=wt.programming-coding.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://06610abe-066b-4efa-ba66-6f4d87586f10@vip1.mamliserver.top:19351?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip1.mamliserver.top#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAid3d3LmFydmFuY2xvdWQuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidmlwNi5hcmlhdGFrcG95YW4uaXIiLCAiaWQiOiAiZWI1ODNmY2ItYWQ4Yy00YTc4LWIyNzItNzJmMTMxODc3MDc5IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FyaWEiLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQGlybWVsaXkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-
 vless://8b5ebe08-be9f-4bbd-897f-4ddc169c7c43@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -113,4 +95,8 @@ vless://206de0ba-cd5d-45ec-aa6d-560056d553bf@snapp.ir:80?path=%2F&security=none&
 vless://3efe8d93-4746-4d41-b416-382570f04ac6@snapp.ir:8880?path=%2Fprivate&security=none&encryption=none&host=tr.sapax-cloud.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://28e1ab63-b70b-464f-931a-0b3037dbdf7e@AM.playshoptv.com:32590?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=proxy.rahmancloud.ir&fp=chrome&type=ws&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f0ab2de9-1958-4731-990a-86694a70c6c0@snapp.ir:8880?type=ws&encryption=none&path=%2F&host=v1.dnlover.online&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
