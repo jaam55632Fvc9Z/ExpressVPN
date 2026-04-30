@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://444ec649-aef1-4629-bf87-1e5a2ad2458d@out.radpol.ir:2052?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://fca4a535-e638-4408-a625-0db840e33124@new.sordo.store:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=new.sordo.store&fp=chrome&type=ws&allowInsecure=0&sni=new.sordo.store#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.20.213:2053?security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.4.130:2053?security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://67e86bb2-d467-48ea-9e42-ff7a3966820e@snapp.ir:8080?encryption=none&host=C5VIP.ariatakpoyan.ir&path=/CIP&security=none&type=ws🌐#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://724f22d0-e641-4b2e-8518-429be3efcdc2@snapp.ir:443?path=/newbelahbelah&security=tls&encryption=none&alpn=h2,http/1.1&host=nia.ramlike.ir&fp=chrome&type=ws&sni=nia.ramlike.ir🌐#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -408,6 +398,8 @@ trojan://1234567890@80.253.249.66:443?security=tls&sni=kfm-bn0.pages.dev&type=ws
 
 vless://686cbe98-9cb0-46d4-acc6-3e81b92ddd5d@x.netkhafanloves.homes:80?path=/&security=&encryption=none&host=x.netkhafanloves.homes&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+trojan://1234567890@57.129.47.47:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
 vless://bac628dc-cd64-460c-8657-8128c9d6d7b7@108.162.193.173:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ch.nping.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://1b3e4137-3a22-4d4f-97cf-ed440942e8f3@snapp.ir:8080?encryption=none&host=C5VIP.ariatakpoyan.ir&path=%2FCIP&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -702,6 +694,8 @@ vmess://eyJhZGQiOiAiZXZlLm5leG9yYW5ldC5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJm
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.4.130:8443?encryption=none&host=sni.111000.v6.navy&path=/&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?telegram🇨🇳+@wangcai2=&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -715,6 +709,8 @@ vless://50df5190-0bd4-4a59-8d06-9a7928182493@185.143.233.5:443?encryption=none&t
 vless://351155ac-4f1c-43b9-874c-e7f55ee0ad0f@185.143.233.200:80?path=%2F&security=none&encryption=none&host=vip.vahidnet21366.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram+%40WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://c0ee28c4-3aeb-4a88-8258-1ef7a98994c3@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&host=vitallife.gg&fp=chrome&type=ws&sni=vitallife.gg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -2021,6 +2017,8 @@ vless://a391a660-d6e5-49da-b729-b00b1cb932f0@sub1.fncs.ir:8080?type=ws&encryptio
 vless://6a4a8930-d731-4a34-8506-fd406f73c769@pars.ertebate.ir:45874?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://5eaef112-cdc1-4438-a2ea-6f1ae9694d18@isna.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cardinal.gelvil.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://1234567890@3.73.6.186:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -9999,4 +9997,6 @@ vless://bf3a63bc-8017-449f-9766-bc5f2e9ae021@snapp.ir:80?encryption=none&host=pn
 vless://6f9ec59b-2110-4814-8238-fff36860874a@2.144.6.148:47340?encryption=none&type=tcp&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://e616c09a-cc5c-43e3-9c42-317a3d61e1e3@netforfree.ulteracrypto.site:39579?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://29f5fb4e-1e85-4969-bbc3-ef3b17a28e94@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=mail.zivotra.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
