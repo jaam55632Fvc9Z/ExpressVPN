@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://dff00258-e156-48f8-accd-1dd775e2716e@185.143.233.235:80?encryption=none&type=ws&path=%2F&host=d.nsa03.com#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://f01de3e1#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://e26f7023-07b4-4aa2-80fc-6576bceee9b7@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 ss://-0d7a-496f-8e97-0bbc33bff55d@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=in.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=in.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://7a98c614-3fcb-4277-bebd-b68dbd348628@gosuslugiru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=node12.telegavpn.org&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -7454,6 +7448,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.164:443?allowInsecure=1&e
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://0a5ab719-2407-4398-b507-8437ef365023@172.66.44.211:8880?encryption=none&host=underthegun.cfd&path=%2FFCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.59.228.153:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.55:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9995,8 @@ vless://b4b02cea-e793-4c1a-83fd-42f43167a107@185.143.233.5:80?path=%2Fgamescore%
 vless://6f9ec59b-2110-4814-8238-fff36860874a@2.144.6.148:47340?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://d5eef528-0e58-4129-9b6b-a9822de477bb@Anten.ir:2086?path=%2Fcdn&security=none&encryption=none&host=i.zivoport.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@193.23.200.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl2-gws4.onnstreaming.ru&fp=chrome&pbk=fN3l3mYSDO44IWNPHWOQo2JMUw2isUGoOqrS6hCFfBQ&sid=d1f93724859d75ac&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://60e6e335-3fe6-41bc-8c3d-996ba1819788@varzesh3.com:2052?path=%2F&security=none&encryption=none&host=ai.xier.pro&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
