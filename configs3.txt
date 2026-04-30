@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://r7xmbys2-0j33-8swl-cnm9-naaa3xdfrixa@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://6bobtnzn-noox-57ha-ncql-4keijayq85l8@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
-
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
-
 trojan://1hbyc1yq-8ta7-425z-q97f-iz93vheorysd@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://7b1antuf-op4q-ogpb-0rir-wj789w21yhq9@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -629,6 +619,8 @@ vless://d1ac41ce-5222-4b0b-9920-0483dcc2f5aa@185.143.234.235:80?encryption=none&
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoi24zYp9mF4oCM24zYp9mFIiwic2N5IjoiYXV0byIsInNuaSI6IiI…#%F0%9F%8C%90%20TCP-None%20%7C%20%40YamYamProxy
 
 vless://38cba0b3-0844-4673-bd4e-0d9aa7d71b82@i.harvestlane.shop:8080?encryption=none&type=ws&path=%2Fimage&host=pro.getlian.shop#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://5be7e481-c711-4b74-964e-bbd4453fe138@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fchat%3Fed%3D128&host=dn.8lack.ir&sni=dn.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://415e33da-668c-432a-b0b6-c6be26993426@185.143.233.235:80?encryption=none&type=ws&headerType=none&path=%2F&host=knet-prime.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -8746,6 +8738,8 @@ vless://a56bf4fc-2597-4b61-921a-e5a966349a68@185.143.233.235:80?path=%2F&securit
 
 vless://71b5c0ca-c0de-40d0-89b0-e002f382d65c@null.psdgold.st:55815?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://43488128-319e-f480-64ea-0acdc712e2a8@95.179.236.230:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&security=reality&sid=98c3d62ba1c26863&sni=www.argos.co.uk&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
 trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.172.78.208:8443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -9999,4 +9993,10 @@ vless://3c35d553-4ffe-4e1e-9cf6-b36e4e28a677@snapp.ir:80?encryption=none&type=ws
 vless://4869c936-ed5e-47f8-94f1-8f87c5a949bc@185.83.113.134:22306?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://d9a3fb02-5d4c-4b47-bbe7-bdcc5c4a7730@5.253.24.123:41063?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VTFzanFpY2toKzhPajVVZDNiWnkzemgwTkVIK0FJZXQvRFFNMEI5WHRlQT06c1ZyQUJLWklESStOeStvTVdnSGxVS0pGeGxDQW1KaFRXbXc1WHhNYTV4Zz0=@217.60.243.112:42792#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiODkyMDlkMDQtY2ZlYS00YzlkLTkyNmItNzcxOGM5ZTBiNmZjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwNzEyIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://490d831a-171d-4686-a105-73bb64d84ad6@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
