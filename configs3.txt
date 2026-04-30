@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#%F0%9F%87%A6%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://0b66936e-0522-43be-821c-6e466cc659b1@khan10.tarfandgallery.sbs:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=khan10.tarfandgallery.sbs&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://0b66936e-0522-43be-821c-6e466cc659b1@khan10.tarfandgallery.sbs:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=khan10.tarfandgallery.sbs#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -121,6 +115,8 @@ trojan://2929@8.39.125.15:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfas
 vless://cccfbe3f-04a5-4250-8ba5-649a8e6c05f4@snapp.ir:80?path=/&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 trojan://1234567890@194.87.77.2:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.132.244.52:21415?host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9995,8 @@ vless://c879d5d3-eead-4119-8ebd-e31fb162c554@xmm3.130209.xyz:443?mode=multi&secu
 vless://c879d5d3-eead-4119-8ebd-e31fb162c554@xmm4.130209.xyz:443?mode=multi&security=tls&encryption=none&type=ws&fp=edge&sni=italy.xmm1314.ccwu.cc&path=%2Fapi%2Fv2%2Fcheck_update&host=italy.xmm1314.ccwu.cc#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://c879d5d3-eead-4119-8ebd-e31fb162c554@india.xmm.maimaiyun.shop:20178?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=0Kdb2BjmNuivl7Ilg7gquu_clhpbr6mZoozuw9PFHD0&sid=646058b2c805&sni=s0.awsstatic.com&servername=s0.awsstatic.com&spx=%2F&fp=edge#%F0%9F%87%AE%F0%9F%87%B3%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://ed7ed5a9-3a64-4454-98de-9259e6351dcb@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=conf.seim-ss.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://e8818767-9925-4e9a-bf9c-de0bb21fe279@payment.abas-taraghe.space:443?alpn=http/1.1&fp=edge&encryption=none&host=s8.c1.sabzi.lol.snapp.ir&type=ws&path=%2F2944&sni=payment.behtarinoo.com&security=tls#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
