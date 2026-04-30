@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://-0d7a-496f-8e97-0bbc33bff55d@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=in.8lack.ir&fp=firefox&type=ws&sni=in.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-v2rayvpnchannel@13.38.235.130:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://e27b7b53-6810-47ac-b5a5-eb89c4a22aed@snapp.ir:2082?encryption=none&type=ws&path=%2F&host=rpsvpn3.xchitozx.org#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://444ec649-aef1-4629-bf87-1e5a2ad2458d@out.radpol.ir:2052?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://fca4a535-e638-4408-a625-0db840e33124@new.sordo.store:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=new.sordo.store&fp=chrome&type=ws&allowInsecure=0&sni=new.sordo.store#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -1093,6 +1087,8 @@ vless://b0004444-f0c0-4df6-a1f5-d7a0bc962e3b@pishroserv.ir:80?path=%2F&security=
 vless://11974e38-f00c-41db-8e27-d86d1a4ed8ed@vpn2.ulteracrypto.site:22102?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidmlwMi5hcmlhdGFrcG95YW4uaXIiLCAiaWQiOiAiZDFmOWE5ZjMtMTcyNS00YTU1LWI5MGItYTRhZmU5MjEzNWEzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RhayIsICJwb3J0IjogIjgwODAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+
+vless://d914fd2e-df97-41b7-b436-7125b41da864@94.101.180.77:43769?mode=auto&path=/&security=none&encryption=none&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAia3IwMS5hMGEueHl6IiwgImFpZCI6IDAsICJob3N0IjogImtyMDEuYTBhLnh5eiIsICJpZCI6ICI2NDE1MDBiZi05MmY5LTQ3MjAtZTJlNy01NzlhOGY3ZGJiMDQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2NjdHYxMy5tM3U4IiwgInBvcnQiOiAxOTU2OCwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAia3IwMS5hMGEueHl6IiwgInBzIjogIlx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
@@ -9999,4 +9995,8 @@ vless://b6a8a9ca-8feb-451b-bf07-1732abe66f65@185.143.233.5:443?encryption=none&t
 vless://9200aba4-e3d4-494f-bd7a-78be46fbe71d@185.165.118.170:59646?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://bf3a63bc-8017-449f-9766-bc5f2e9ae021@snapp.ir:80?encryption=none&host=pnl2.iranianshoop.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6f9ec59b-2110-4814-8238-fff36860874a@2.144.6.148:47340?encryption=none&type=tcp&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e616c09a-cc5c-43e3-9c42-317a3d61e1e3@netforfree.ulteracrypto.site:39579?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
