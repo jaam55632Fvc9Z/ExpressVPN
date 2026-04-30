@@ -1,29 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://a1bc4f4b-72be-4437-a76d-01feb11cec22@seoul.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://a1bc4f4b-72be-4437-a76d-01feb11cec22@sanjose.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://a1bc4f4b-72be-4437-a76d-01feb11cec22@ashburn.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://a1bc4f4b-72be-4437-a76d-01feb11cec22@ms.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://a1bc4f4b-72be-4437-a76d-01feb11cec22@lsj.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://a1ec68df-d4d2-4fe3-b715-103468b434aa@ger1bot-ws.headerip.com:80?path=%2F&security=none&encryption=none&host=ger1.mv5.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.83:443?security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAiYWRkIjogIjQ3LjkwLjI0NC4xNTMiLCAicG9ydCI6ICI4NDQzIiwgImlkIjogIjY1ZTJhOTg1LWFkMjAtNDQ4Ni1hN2VjLWI2N2IyMGVlNTZhZiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3dzIiwgInRscyI6ICJub25lIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
-
-vless://59ab#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://fe9092c4-404d-4854-88d9-284e2e3a17e1@snapp.ir:80?path=%2F&security=none&encryption=none&host=api.morvaridvps.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://6672df66-fe66-401d-9466-67011c3e9a5e@varzesh3.com:80?path=%2Fws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://9e0ae530-2629-4ead-8824-fb95e1fe0470@zir.alihapps3.aghanami.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@hk.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 trojan://7d38fcc6-e5e3-4ee8-be48-a4abdf6684d6@xg1.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -159,4 +135,8 @@ trojan://40e93c6a-80ab-4c01-8fef-4d7339e71e75@svip-sg.xiaobaivpn.icu:28815?allow
 vless://20c8592d-23fa-40b5-93f3-95770998e131@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cn.8lack.ir&fp=firefox&type=ws&sni=cn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://1fe989b3-42c0-4fac-b11f-0195ea793df5@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dn.8lack.ir&fp=firefox&type=ws&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://870da18a-cff5-4db9-b626-f725ba6a1e23@snapp.ir:80?type=ws&security=none&encryption=none&path=%2F&host=api.morvaridvps.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://a381297c-fdeb-47c5-92e0-da2e65550b95@v.rfiksma.top:3939?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
