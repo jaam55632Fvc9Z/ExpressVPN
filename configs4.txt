@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJ2IjogIjIiLCAiYWRkIjogInd3dy5hcnZhbmNsb3VkLmlyIiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiYzRlMjBkNTMtZGE5Yy00N2NmLThmMDEtMGFhNjAwZWI1ZTI3IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIm5vbmUiLCAicGF0aCI6ICIvVmlQU2VydmljZSIsICJob3N0IjogIlZpUC1TZXJ2aWNlU2VsbGVySU5UZWxlZ3JhbS5oYXlwZXJ6LmlyIiwgInBzIjogIlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
-
-vless://80370d01-963e-4937-b5e4-3dec550febb0@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://1bdcc0ba-2d19-4a65-8256-71edc9d720ba@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://784109dd-144a-4057-abf8-47ee341cca98@81.12.24.237:29982?security=none&allowInsecure=0&encryption=none&type=ws&host=542c5414-a9da-411f-834b-1c8163fc6b7c.hsvc.ir&path=/ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://d704d735-b8d1-473f-bebc-01270e55d8d7@cdn.mizbanertebatfarda.ir:2095?path=%2F&security=none&encryption=none&host=cdn.mizbanertebatfarda.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vmess://eyJ0bHMiOiAibm9uZSIsICJpZCI6ICJiYTZkOWIzOS0wYmFlLTQxNzktOWI5Yi04MjRiOWJiMjdkYzQiLCAibmV0IjogIndzIiwgInBvcnQiOiAiODAiLCAiYWRkIjogIjE4NS4xNDMuMjMzLjIzNSIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJuMy5tdWx0aXNlcnZlcnMuaXIiLCAic2N5IjogImF1dG8ifQ==
 
 vless://ebf7d712-7690-4028-81f7-616c106cfd5f@79.117.121.85:35766?security=reality&encryption=none&pbk=JrsNPt4yDyRcLO2-eL0VkVlPBSM2Cp19iDl-A-enrS8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=738b3ed2#%F0%9F%87%AA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -85,4 +75,8 @@ vless://7d87c41f-0fa5-4865-9369-3cc798d97f31@130.12.242.182:443?encryption=none&
 vless://7a7283e8-0d18-482c-9c5a-1f3ec231f87b@varzesh3.com:8080?path=%2F&security=none&encryption=none&host=shop2.plusself.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40netmelli15
 
 vless://b9e0817c-4987-4eff-bb2e-f3e56f33c91f@varzesh3.com:8080?type=ws&security=none&encryption=none&path=%2F&host=shop2.plusself.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://59168175-f689-4253-abf6-c9848328ffa3@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=jn.8lack.ir&sni=jn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://telegram-%40dickiriptorbot@nextjs.org:443?mode=auto&path=%2F%40dickiriptorbot&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=cloudflares-api.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=nextjs.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vasl_bashim
 
