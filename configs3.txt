@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.1.164:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://t6KRqdU8VI3kzJUQ5KDYMImbGHt3O2HTZdu4nDHlhswamt82kvyTsJtRpSDD4UYEtR8HiPyTMFXrYJnV24sI5qzs8g2iMBzRQESvR+PwWZQ4MCx8boac1zdBiSkzjspr+ditrkpm4TE3rOaW6RQKSMfiw1odkXmLcfa9wxS0bDxuFdBkY12CiYNlkSIaH0hWzU5mQKCh27Vc+l02gICP2mZeBzqYK2K4KOO4gbOmJCvwwd+RWeXsqXWY0OQ26qxhWuHjm7RrAx/nRE/aykwL1pCt2Y1lG+uxQi0Vk6fZ2fvcIeTbLfydsNMde+2oQsaB#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vmess://eyJoZWFkZXJUeXBlIjogIiIsICJ0eXBlIjogIm5vbmUiLCAic2VydmljZU5hbWUiOiAibm9uZSIsICJmcCI6ICIiLCAibW9kZSI6ICIiLCAiYWRkIjogInNuYXBwLmlyIiwgImlkIjogIjVjMDZkMmYyLTIyZDAtNGM3ZC1hZDBlLWJiNzQxYjRkMjMzZiIsICJwYXRoIjogIi8iLCAic2VlZCI6ICIiLCAiZGV2aWNlSUQiOiAiIiwgInYiOiAiMiIsICJzbmkiOiAiIiwgImFpZCI6ICIwIiwgInBvcnQiOiAiODA4MCIsICJob3N0IjogInN0YXJsaW5jay5wYXJzem9uZTIuaXIiLCAiZnJhZ21lbnQiOiAiIiwgImV4dHJhIjogIiIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJhbHBuIjogIiIsICJuZXQiOiAid3MiLCAidGxzIjogIm5vbmUifQ==
-
-vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&spx=@NormanV2ray----@NormanV2ray----@NormanV2ray----@NormanV2ray----@NormanV2ray----@NormanV2ray----@NormanV2ray----@NormanV2ray----@NormanV2ray----@NormanV2ray&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40NormanV2ray
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.178.242.195:56311?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ebe0bfc8-14e7-4b4a-82bf-be4375fe9af5@gr1.mizbanertebatfarda.ir:8080?path=%2F&security=none&encryption=none&host=gr1.mizbanertebatfarda.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9989,14 @@ vless://6a24d593-0b37-4edd-ba10-4b969401146e@snapp.ir:443?encryption=none&type=w
 vless://b255913f-8e8f-4194-bb33-9b04ea60b67f@185.143.233.5:443?encryption=none&type=ws&host=jn.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=jn.8lack.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://a0d118d9-7923-4eeb-82c3-058a19f938c9@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=in.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=in.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@63.184.147.157:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.147.157:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@63.184.147.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://6a24d593-0b37-4edd-ba10-4b969401146e@snapp.ir:443?path=%2Fnewbelahbelah&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nia.ramlike.ir&fp=chrome&type=ws&allowInsecure=0&sni=nia.ramlike.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+
+vless://4d98d561-7c78-4d2c-b66a-8788fb03fd7f@arvancloud.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=vipx7.paradoxone.ir&type=ws@kanfing_proxyy#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
