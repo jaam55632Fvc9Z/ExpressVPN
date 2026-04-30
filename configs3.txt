@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@20.6.12.145:443?security=tls&type=ws&path=%2Fproxyip%3DProxyIP.CMLiussss.net&host=sni.skylee4.cloudns.ch&sni=sni.skylee4.cloudns.ch#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://c58ee77e-2d42-4df5-8465-cd63a8733d1b@node.kinkairy.vip:443?security=tls&type=tcp&sni=node.kinkairy.vip&fp=chrome&flow=-udp443-udp443#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?security=tls&type=ws&path=/proxy&sni=dongjing4.zqjsqapi.com#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://abaf6962-c0d4-49a8-8967-5af99bd57c5c@sun.mv:8443?security=tls&type=ws&path=/&host=aprilshit.sahanwickramasinghevip.shop&alpn=h2,http/1.1&allowInsecure=1&sni=aprilshit.sahanwickramasinghevip.shop&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -2567,6 +2563,8 @@ vless://7e6fe32f-7202-4a86-b4c7-0896d62b9053@snapp.ir:80?path=/&security=none&en
 vless://132a2288-3ea5-488a-96db-9e94d0546756@snapp.ir:80?path=/&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://67c92700-c51e-4264-8a49-1f9df68762ed@mye.niaot.com:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=ios&insecure=0&sni=iosapps.itunes.apple.com&pbk=ltZKFdmt0LXSzGezkf4UlsTfuH7LEdT-gO5yflTmsxM&sid=fcd36f6e#%F0%9F%87%B2%F0%9F%87%BE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&fp=chrome#%F0%9F%87%A6%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://4c8d5ac3-2edc-a449-3cd2-7cb20974530a@meli2.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.205#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9997,6 @@ vless://6f712915-ea97-406b-896c-dadc2fa59f8d@snapp.ir:80?encryption=none&host=pn
 vless://6a2df0af-8561-440a-9466-c79e45489299@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=ire.binping.lol#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://da02b380-7dee-4355-9845-efe9ff65bbba@snapp.ir:80?encryption=none&host=pnl2.iranianshoop.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://331633df-7514-4a5a-91fe-e88464c6465e@s4.broken.rest:4444?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40cpy_teeL
 
