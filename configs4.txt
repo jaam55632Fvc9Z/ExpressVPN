@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@51.44.115.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.115.172:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@51.44.115.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 vless://d481b1bd-f6e5-44bc-91f6-866bbcbb5d96@77.237.90.43:5589?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://dca6149b-74c4-4186-8f42-be506c31e8c6@react.dev:443?mode=auto&path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=todo-gamma-five-90.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=react.dev#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -67,4 +61,10 @@ vless://eeabbd69-063a-4e08-9074-5259b4629b0a@snapp.ir:2052?path=%2F&security=non
 vless://eec66083-76b8-48c4-8100-c969ad4231e0@185.143.234.22:2082?security=none&type=ws&headerType=&path=%2Fpath&host=tr-st2.ge9.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAiYWRkIjogInd3dy5hcnZhbmNsb3VkLmlyIiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiYzhkMzkxZWYtMDMyYi00MGYzLTgzMmItY2QzN2Y1YTM2ZDg2IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIm5vbmUiLCAicGF0aCI6ICIvbmV3IiwgImhvc3QiOiAiYXJldWNyYXp5b3J3aGF0Ljc3di5pciJ9
+
+vless://f8da1c64-d9e5-49b8-b027-42bd107ab95d@snapp.ir:80?encryption=none&host=lucky3-616c081448-apii.apps.ir-central1.arvancaas.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://e1f6adf7-dcf0-4b7d-ab30-ed3e5ead8a25@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cn.8lack.ir&fp=firefox&type=ws&sni=cn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://e1f6adf7-dcf0-4b7d-ab30-ed3e5ead8a25@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=jn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=jn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
