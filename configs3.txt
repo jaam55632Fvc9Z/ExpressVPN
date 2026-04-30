@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6a208d0f-4470-49cd-9dad-e340d45607b8@vpn2.ulteracrypto.site:22102?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://596b9630-6d8e-436e-bced-6d2a00a4e714@185.143.233.5:443?alpn=h2%2Chttp%2F1.1&flow=&fp=firefox&host=bn.8lack.ir&path=%2Fchat%3Fed%3D128&security=tls&sni=bn.8lack.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://65ea4681-21ad-47a3-9589-de4864135ee1@shop.shadowroute.site:443?path=/&%3Bsecurity=tls&%3Balpn=h2%2Chttp/1.1&%3Bencryption=none&%3Binsecure=0&%3Btype=ws&%3BallowInsecure=0#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -9999,4 +9995,8 @@ vless://ee2b74fa-fb69-4ccd-aeef-1aa9ac3612d2@snapp.ir:8080?encryption=none&type=
 vless://f14dd569-cedb-41fd-8692-9c88b63e0121@v5.game2dns.xyz:576?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://f589c704-5bfc-4cdb-a699-594fc01ab9c3@snapp.ir:80?path=%2Fw&security=none&encryption=none&host=kia.pavps.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
+
+vless://42e5a402-bdc3-4f5e-97cb-99e8bc2cc681@cdn2.sensishop.com.tr:2082?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://ee2b74fa-fb69-4ccd-aeef-1aa9ac3612d2@snapp.ir:8080?path=%2F&security=none&encryption=none&host=uk.knet-prime.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
