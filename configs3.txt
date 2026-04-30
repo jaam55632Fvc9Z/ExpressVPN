@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://cccfbe3f-04a5-4250-8ba5-649a8e6c05f4@snapp.ir:80?encryption=none&type=ws&path=%2F&host=cdn.softnetconnect.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.222:443?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfeng?ed=2560fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://26524cce-d514-4014-a426-365fb266a14d@65.21.62.180:443?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfeng?ed=2560fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 trojan://1234567890@103.109.234.64:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.5:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ vless://128fc2c1-5aa0-4568-8b03-4acbdd1925b9@185.143.233.235:80?path=%2F&securit
 vless://c8335889-dd3c-4e42-938b-135fdc192d65@185.143.233.200:80?encryption=none&type=ws&path=%2F&host=asd.arnewluncher.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://270bb251-06a8-4066-8a92-f0d1bd06150a@185.143.233.235:2095?path=%2F&security=none&encryption=none&host=Ml.artarona.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://1c002135-d978-45ed-a5d2-c8ae0811f467@payment.abas-taraghe.space:443?path=%2F2038&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=s1.c1.sabzi.lol.snapp.ir&fp=edge&type=ws&allowInsecure=0&sni=payment.behtarinoo.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
+
+vless://d497a69b-d422-4106-ab8c-6244badb130c@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gn.8lack.ir&fp=firefox&type=ws&sni=gn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIEdSUEMtTm9uZSB8IEBmaWxlbWJhZCIsICJhZGQiOiAiOTQuMTAxLjE3OC42OSIsICJwb3J0IjogIjQ1Mzg0IiwgImlkIjogIjYyNWRkMTg3LTYwYzItNDBkNS04OTlkLTBhZjdjNWMyNWE4NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiZ3JwYyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIm5vbmUiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiYXV0aG9yaXR5IjogIiJ9
 
