@@ -86,3 +86,11 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.115.172:22224?type=ws&securit
 
 trojan://telegram-id-privatevpns@51.44.115.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://d481b1bd-f6e5-44bc-91f6-866bbcbb5d96@77.237.90.43:5589?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://dca6149b-74c4-4186-8f42-be506c31e8c6@react.dev:443?mode=auto&path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=todo-gamma-five-90.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=react.dev#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://6485a02d-abda-4ba3-9735-cfeb9ef18b42@snapp.ir:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=1.jojo.avenflow.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://c9af3fa3-71f6-409c-88d3-f2185df7d61a@snapp.ir:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=1.jojo.avenflow.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
