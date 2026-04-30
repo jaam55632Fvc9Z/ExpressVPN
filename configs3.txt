@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://eee6ac2b-7c99-4971-ade5-d1c0a1dac6d4@khan10.tarfandgallery.sbs:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/&security=tls&sni=khan10.tarfandgallery.sbs&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://852e7dda-15f5-4e76-b01b-ba5267c64cad@direct-de-misaka-01.inetsnode.de:36699?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=ios&insecure=0&sni=swdist.apple.com&pbk=P1EGw38HA0Y9Mcs_TdTt7pDCwyNVD9V8g32Ckadc-Xw&sid=b5e1fdad#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://852e7dda-15f5-4e76-b01b-ba5267c64cad@direct-hk-mixed-02.mix.inetsnode.de:36699?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=ios&insecure=0&sni=swdist.apple.com&pbk=2EW5xh5d-W3ZB5t2PngbNtZfewW5Hmg9an5HuuV1zhg&sid=e848fe0b#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://852e7dda-15f5-4e76-b01b-ba5267c64cad@direct-de-uk-eons-01.inetsnode.de:31199?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=ios&insecure=0&sni=swdist.apple.com&pbk=Y_EY4rY9z0StiVhcgO95v1LZEpyVbGXWtzv5JZtegA0&sid=6fc8651f#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://45bb7af7-ab86-4c5e-8df0-e09c7a10d486@khan10.tarfandgallery.sbs:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/&security=tls&sni=khan10.tarfandgallery.sbs&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://852e7dda-15f5-4e76-b01b-ba5267c64cad@direct-uk-kirino-01.inetsnode.de:36699?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=ios&insecure=0&sni=swdist.apple.com&pbk=Y_EY4rY9z0StiVhcgO95v1LZEpyVbGXWtzv5JZtegA0&sid=6fc8651f#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://852e7dda-15f5-4e76-b01b-ba5267c64cad@direct-de-tr-01.inetsnode.de:32299?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=ios&insecure=0&sni=www.conrad.de&pbk=P1EGw38HA0Y9Mcs_TdTt7pDCwyNVD9V8g32Ckadc-Xw&sid=b5e1fdad#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9989,14 @@ vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=realit
 trojan://2926a752-ebe3-4409-8ecb-b13546e4834e@hk.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://2f4e3910-aa35-41a4-856a-5a75d19dd853@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40i10VPN
+
+trojan://a1bc4f4b-72be-4437-a76d-01feb11cec22@seoul.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://a1bc4f4b-72be-4437-a76d-01feb11cec22@sanjose.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://a1bc4f4b-72be-4437-a76d-01feb11cec22@ashburn.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://a1bc4f4b-72be-4437-a76d-01feb11cec22@ms.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://a1bc4f4b-72be-4437-a76d-01feb11cec22@lsj.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
 
