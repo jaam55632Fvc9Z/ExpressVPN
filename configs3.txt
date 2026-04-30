@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.149.232:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.army&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://91debc17-d16b-444f-b5a1-2d9303e2ea41@89.110.108.204:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&security=reality&sid=387d2fb5f83c0cde&sni=rbc.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 trojan://1234567890@148.253.215.61:443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.232.140.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&path=%2F&security=tls&sni=sni.111000.cc.cd&type=ws#%F0%9F%87%A6%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ vless://167c7316-d6d4-4d28-83c4-dd420b429918@x28.fillpower.ir:2042?path=%2F&secu
 vless://167c7316-d6d4-4d28-83c4-dd420b429918@mona.fillpower.ir:2042?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.fillpower.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://167c7316-d6d4-4d28-83c4-dd420b429918@ircell2.fillpower.ir:2042?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.fillpower.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a69fc571-e364-42e2-b622-24fb58ee01b9@snapp.ir:80?type=ws&security=none&encryption=none&path=%2F&host=api.morvaridvps.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://99f3278e-79cc-4de5-919c-e6b48e4024c5@snappfood.ir:80?path=%2Fws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://864ee774-945f-441b-8e7a-61441faa1a8b@rfiksma.top:54186?encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
