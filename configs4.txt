@@ -80,3 +80,9 @@ vless://bb570936-3901-4f35-9a3c-c282fc9c8be2@94.183.170.139:1010?mode=gun&securi
 
 vless://bb570936-3901-4f35-9a3c-c282fc9c8be2@94.183.170.139:1010?authority=&encryption=none&fp=chrome&pbk=hSZltYfLnQPsweXs5xU0eQoBMwZ4O_qBrxj24mJXsxU&security=reality&serviceName=servicename&sid=937d68&sni=www.aparat.com&spx=%2FL3Ty1WvD23P1lGR&type=grpc#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@51.44.115.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.115.172:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@51.44.115.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
