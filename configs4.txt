@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.185.26:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9fe49649#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDFkMzFkMTEtZjA5OS00MjQwLTk3MGUtNGZlODZlZjUwMGUxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwNzkwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
-vless://dcbc24de-d0b0-4149-85db-2db6cae0032d@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://6e34e342-55ff-4153-9c5e-2bf667c0e5d9@arvancloud.ir:80?encryption=none&type=ws&path=%2F&host=gh2.ghostantaniehh.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://e207b389-551d-49ea-b40d-f42d8ecb2d12@snapp.ir:8080?encryption=none&security=none&type=ws&host=wt.programming-coding.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -103,4 +93,12 @@ vless://bafacd98-136a-4530-838d-4e5c51838dac@129.159.119.161:443?encryption=none
 vless://bafacd98-136a-4530-838d-4e5c51838dac@13.216.170.138:443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&ech=encryptedsni.com+https://dns.alidns.com/dns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=/sale/about/api/juzibaipiao?ed=2560#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://3909b793-a1a2-47b7-a7c3-b81fbfd05fb3@AM.playshoptv.com:32590?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogInd3dy5hcnZhbmNsb3VkLmlyIiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiYzRlMjBkNTMtZGE5Yy00N2NmLThmMDEtMGFhNjAwZWI1ZTI3IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIm5vbmUiLCAicGF0aCI6ICIvVmlQU2VydmljZSIsICJob3N0IjogIlZpUC1TZXJ2aWNlU2VsbGVySU5UZWxlZ3JhbS5oYXlwZXJ6LmlyIiwgInBzIjogIlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+
+vless://80370d01-963e-4937-b5e4-3dec550febb0@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://1bdcc0ba-2d19-4a65-8256-71edc9d720ba@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://784109dd-144a-4057-abf8-47ee341cca98@81.12.24.237:29982?security=none&allowInsecure=0&encryption=none&type=ws&host=542c5414-a9da-411f-834b-1c8163fc6b7c.hsvc.ir&path=/ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
