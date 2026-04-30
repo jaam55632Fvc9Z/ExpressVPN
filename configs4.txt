@@ -88,3 +88,9 @@ vless://Parsashonam@community.vercel.com:443?mode=auto&path=%2Fp4r34m&security=t
 
 vless://Parsashonam@analytics.vercel.com:443?mode=auto&path=%2Fp4r34m&security=tls&encryption=none&insecure=0&host=poorya-vpn.vercel.app&type=xhttp&allowInsecure=0&sni=analytics.vercel.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@35.158.91.156:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.158.91.156:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.158.91.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
