@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://a51c8ba0-1dfe-4180-8885-b51a23902d21@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://43488128-319e-f480-64ea-0acdc712e2a8@5.252.23.53:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=576eZ6y-yeWeJnmleDLI5bjyy90_Zd92-rpgy67Q6gg&security=reality&sid=555fd87c44d272a4&sni=www.hyundai.com&type=tcp#%F0%9F%87%B8%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@160.153.0.78:443?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9989,14 @@ vless://06610abe-066b-4efa-ba66-6f4d87586f10@vip1.mamliserver.top:19351?mode=aut
 vmess://eyJhZGQiOiAid3d3LmFydmFuY2xvdWQuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidmlwNi5hcmlhdGFrcG95YW4uaXIiLCAiaWQiOiAiZWI1ODNmY2ItYWQ4Yy00YTc4LWIyNzItNzJmMTMxODc3MDc5IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FyaWEiLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQGlybWVsaXkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
 vless://8b5ebe08-be9f-4bbd-897f-4ddc169c7c43@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.185.26:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9fe49649#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDFkMzFkMTEtZjA5OS00MjQwLTk3MGUtNGZlODZlZjUwMGUxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwNzkwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://dcbc24de-d0b0-4149-85db-2db6cae0032d@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
