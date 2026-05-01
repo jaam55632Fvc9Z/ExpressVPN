@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ed537550-9112-4ac0-8a19-7b04a6812d3b@185.143.233.122:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=blubank.kamalnetnew.com&fp=chrome&type=ws&allowInsecure=0&sni=blubank.kamalnetnew.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://1f145add-1585-6568-9ff2-ad1f928eaa6c@snapp.ir:2052?path=%2F%3Fed%3D2056&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://db509b1e-0167-4f0c-8269-06c10d41fd96@37.32.5.230:23208?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
-
-vless://e0d09cff-5557-418b-a4eb-9f4ba489329c@arvancloud.ir:80?path=upload%3Fed%3D256&security=none&encryption=none&host=website.vgpsl.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiMjA4MjIiLCAiaWQiOiAiNmVmMjVhZTUtZWIxMi00ZjYwLWFhMTYtMGUxYzQ1NzE4OTAyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
-
-vless://fcc1bc63-5b6d-4250-b26a-7a5520576e14@rob.gladyshopnine.com:57713?type=tcp&encryption=none&security=reality&pbk=_sWh3QZdUwXQ2hoP431q5rqf_pQIufaOXSef1qbEwjs&fp=chrome&sni=www.aparat.com&sid=99&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://9cf6e3db-bd5a-4eff-9c5c-27aaeb57991b@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=fn.8lack.ir&sni=fn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://6a6ae979-973c-4dbc-88a7-ba67923086b9@snapp.ir:80?path=%2F&security=none&encryption=none&host=n4.asamping.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://1252ece4-3498-4201-bdb3-5b2e9eaf07cf@camp.nahidapp.com:443?encryption=none&type=ws&security=tls&path=%2FIF_VPN_Bot&host=camp.nahidapp.com&sni=camp.nahidapp.com&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://5e96af72-1a8d-42e2-abd8-ecd12090cc4a@185.143.233.235:80?encryption=none&type=ws&path=%2F&host=d.nsa03.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://db509b1e-0167-4f0c-8269-06c10d41fd96@37.32.5.230:23208?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -67,4 +49,8 @@ vless://b1f80e47-3940-4304-987f-a279fda83d61@snapp.ir:80?path=%2F&security=none&
 vless://c6a36680-536b-4578-9bad-3b6ad0329a95@snapp.ir:80?type=httpupgrade&encryption=none&path=%2F&host=sd.dl7movis.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
 vless://5380b44e-5169-4e9e-964f-96eb8ca0538b@p3.ertebatserver.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=p4.ertebatserver.ir&fp=chrome&type=ws&allowInsecure=1&sni=p4.ertebatserver.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://020ab1ca-10d1-4d35-83ca-25fe4d3a129f@info.zoolfesefid.ir:80?type=ws&security=none&path=/&host=#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://5e894da6-8c19-40d9-b73d-8f4a4dda04a8@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=gn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=gn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
