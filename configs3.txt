@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007147vhp.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://1234567890@80.244.13.157:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=/?Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://d20883ac-fc27-457f-ac66-dc6718c031e9@vitallife.gg:443/?type=ws&encryption=none&flow=&host=vitallife.gg&path=%2Fwp-content%2Fcachecache&security=tls&sni=vitallife.gg&alpn=http%2F1.1&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://0790c72c-30e5-4549-8500-96d7f923fa7a@vitallife.gg:443/?type=ws&encryption=none&flow=&host=vitallife.gg&path=%2Fwp-content%2Fcachecache&security=tls&sni=vitallife.gg&alpn=http%2F1.1&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -403,6 +397,8 @@ vless://0c2527d0-214e-9192-16ad-b067ee62a369@pari.masterdadeh.ir:80?type=ws&host
 vless://426b17cf-400c-417f-8b36-459a01e57351@38.93.136.8:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=miui.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.20:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://5143de63-b862-461b-a8b9-9b4bf3745022@arvancloud.ir:80?path=/ws&security=none&encryption=none&host=app.s7r.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://8703c844-375d-4d1f-9221-b5d1fc17869a@snapp.ir:80?path=%2F&security=none&encryption=none&host=cpi.lithiumnet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
@@ -9999,4 +9995,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:8443?allowInsecure=1&encr
 vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d401a43e-9c66-4b80-b4fe-b39d9790d5ee@ux.onyxshoes.ir:8080?encryption=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://26524cce-d514-4014-a426-365fb266a14d@221.145.251.131:20201?&security=tls&fp=chrome&sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&headerType=none&host=xfxl35a.node-edge.gfw.hidns.co&path=%2Fdanfeng#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2nodes
 

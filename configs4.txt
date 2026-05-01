@@ -74,3 +74,7 @@ vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&hos
 
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://d401a43e-9c66-4b80-b4fe-b39d9790d5ee@ux.onyxshoes.ir:8080?encryption=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://26524cce-d514-4014-a426-365fb266a14d@221.145.251.131:20201?&security=tls&fp=chrome&sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&headerType=none&host=xfxl35a.node-edge.gfw.hidns.co&path=%2Fdanfeng#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2nodes
+
