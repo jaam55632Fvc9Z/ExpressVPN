@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://466dddca-84fd-4ef3-945a-43fec8616d32@snapp.ir:2052?encryption=none&security=none&type=ws&host=sr-3.traapex.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://47793fd0-67ce-424a-a813-9444a7ad7f6e@gr1.mizbanertebatfarda.ir:8080?path=%2F&security=none&encryption=none&host=gr1.mizbanertebatfarda.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://0f631721-c6e7-4660-8f9a-44f88fa871c5@104.19.229.21:80/?type=ws&encryption=none&path=%2F&host=rylig.nybaz.space&security=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -79,4 +77,24 @@ vless://f189684b-6213-4c0d-a2e3-cb8860f5d4c5@lol-nld-0001.api.neuralrelay.stream
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@pl2-gws4.onnstreaming.ru:443?flow=xtls-rprx-vision&host=pl2-gws4.onnstreaming.ru&security=reality&sni=pl2-gws4.onnstreaming.ru#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://cead26ce-f4e0-4820-aa2c-96cf3e61fb4c@lol-gbr-0001.api.neuralrelay.stream:443?flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com#%F0%9F%87%AA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?host=yahoo.com&security=reality&sni=yahoo.com#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@151.242.43.238:2083?security=reality&serviceName=UpdateService&sni=apple.com&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.239.96:443?flow=xtls-rprx-vision&host=max.ru&security=reality&sni=max.ru#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://f8d4581a-6dd4-5f4d-b37d-b994c5ae81b1@50.62.89.23:8880?host=ci49kfwjrc-57129121185.hediiigate.com&path=%2Fcompass%2Fcdn%3F&type=http#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@62.60.233.178:52000?flow=xtls-rprx-vision&host=ozon.ru&security=reality&sni=ozon.ru#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?flow=xtls-rprx-vision&host=gpuopen.com&security=reality&sni=gpuopen.com#%F0%9F%87%A8%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?flow=xtls-rprx-vision&security=reality&sni=fuck.rkn#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://ac89519d-9ff3-47cf-9a88-ac012f552f5d@jp1.dnscloudcloud.top:56702?flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://1cc21fb6-b8ec-42c7-a57c-39e89ace379e@avstrianoda.normbot.ru:443?flow=xtls-rprx-vision&security=reality&sni=avstrianoda.normbot.ru#%F0%9F%87%A6%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=mz-sv.netlify.app&type=xhttp&allowInsecure=0&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
