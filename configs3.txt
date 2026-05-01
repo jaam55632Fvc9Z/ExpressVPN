@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://8481cfbb-49a2-df3b-2af2-949631ef5848@104.20.6.134:2096?flow=&type=xhttp&host=f927b3b16dff26f5.mizgerdiran.com&path=/iran/ws?ed%3D2083&mode=auto&security=tls&sni=f927b3b16dff26f5.mizgerdiran.com&alpn=http/1.1,h2,h3&fp=firefox&allowInsecure=0&echfq=none#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=%2F&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=%2Fdanfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://74ffd908-7a1d-4a3c-a356-64585c11258e@154.205.134.233:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=dash.cloudflare.com&pbk=5-nnpf-B0VUro6YBz18hjPeeAf_Hx8c6IZpV2Gq7dyQ&fp=chrome#%F0%9F%87%B8%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://57d4c214-6be1-4c84-be67-85880e0c7a9b@104.20.6.134:443?type=xhttp&encryption=none&path=%2F&host=dalag.master33varkarjoo.ir&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=dalag.master33varkarjoo.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://8481cfbb-49a2-df3b-2af2-949631ef5848@104.20.6.134:2096?encryption=none&type=xhttp&mode=auto&host=f927b3b16dff26f5.mizgerdiran.com&path=/iran/ws?ed%3D2083&security=tls&fp=firefox&sni=f927b3b16dff26f5.mizgerdiran.com&alpn=h3,h2,http/1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40v2ray_cartel
@@ -795,6 +785,8 @@ vless://f0ac3bab-a26b-403b-9948-a999d7f4a92a@vercel.com:443/?type=tcp&encryption
 vless://cbbf0a63-6c2a-4819-b328-aa44528b9189@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-None%20%7C%20%40v2ray_configs_pool
+
+vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&sid=f0&spx=/&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9991,12 @@ vless://0241552b-cdad-445b-ae62-5e735d287a82@185.143.233.235:8080?path=%2F&secur
 vless://485230b8-48e8-40d0-bdeb-f553f975b64a@snapp.ir:80?path=%2F&security=none&encryption=none&host=tribe.cloaknet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40igrsdet
 
 vless://740e156c-d463-4a20-a27e-5b7b1a68c0cb@free.z1q1.cfd:80?path=%2F24fh6sv00&security=none&encryption=none&host=free.z1q1.cfd&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://9b3b023d-c44b-484b-9716-092ec87ece76@snapp.ir:80?encryption=none&host=gamefa.yeksanplus.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://cae4a3ed-936a-4e4a-8a14-00d7085a7730@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://5edf3bb7-0c5f-4c01-a833-e0984b1dd368@snapp.ir:2086?type=ws&security=none&path=%2F&host=connect.pardisvps.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://16445da9-0ff5-4961-9d63-262feb1ef657@85.133.161.176:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&mode=stream-one&path=%2F&security=tls&sni=khamenei.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
