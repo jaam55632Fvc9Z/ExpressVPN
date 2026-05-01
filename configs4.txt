@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://7e5f537a-d195-4365-980d-aeab2be259e9@185.143.233.43:2052?encryption=none&type=ws&path=%2F&host=motabarim2.service-panelbaz.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6d5e3f35-d9af-4b41-87a2-6dbd6f7eaf04@cdn3.whitepol4.ir:2052?path=%2F&security=none&enc#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://ba559782-c9d9-4cc9-a1e9-fec690382e64@185.143.233.5:443?encryption=none&type=ws&host=hn.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=hn.8lack.ir&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://02efd3c4-4ac1-48dc-b20f-b63cf2eb9ace@185.143.233.43:2052?encryption=none&type=ws&path=%2F&host=#%F0%9F%8C%90%20WS-None%20%7C%20%40YamYamProxy
-
-vless://ec0122e6-ba21-4fd4-bdc4-6297a524852d@185.143.233.5:443?encryption=none&type=ws&host=bn.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=bn.8lack.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://d9749e17-2e5c-4fe6-bd3b-2b5c5c2060ec@snapp.ir:80?encryption=none&host=gamefa.yeksanplus.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://ab5caa1d-5e3f-4172-ba51-d1a9a22bd50d@line2.gymplusplus.com:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://ab32f0e5-5b77-4497-98e2-625673a3cb61@snapp.ir:80?path=/&security=none&encryption=none&host=sphrrzv.iranofilm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -125,4 +113,8 @@ vless://a49f6a19-9a09-40c2-8fb1-1151e14a02e6@snapp.ir:80?path=%2FFIRELINK&securi
 vless://3a5b8ed0-8dcf-42cd-b3e5-5b375e248c6e@2.ihomayon.com:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=arvan.ihoomayon.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://eb4c6585-640b-4a6f-ac21-df320e1c7123@red.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsec#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://4cfb8bd8-9da8-40d1-aa4f-b6a01c6ae3b7@37.27.200.55:443?type=ws&encryption=none&security=tls&host=37.27.200.55&path=/ws&sni=37.27.200.55&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4557bb00-e834-4a4e-9c1e-61c68d963c50@red.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
