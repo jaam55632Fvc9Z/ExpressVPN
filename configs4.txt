@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d3ff49ef-eb7f-821d-c1de-1a2d7511e434@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.204#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://f6b71e78-e065-4cf8-9fbb-b9e25ff67eff@5.188.224.68:2083?encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=ir.ozone.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://f189684b-6213-4c0d-a2e3-cb8860f5d4c5@94.228.219.51:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=27e540&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -131,4 +129,6 @@ vless://ba01e739-a502-4920-86e3-5483bd99087d@varzesh3.com:80?path=%2Fws&security
 vless://093c8261-64b8-402a-8fdc-1e6c1fa2cab0@185.116.162.199:443?path=%2Fchat%2Fapi%2Fv4%2Fwebsocket-qrkd&security=tls&encryption=none&insecure=0&fp=randomized&type=ws&allowInsecure=0&sni=files.qrkd.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://128e4f16-2e8c-495b-af68-710cb20b18aa@sa3.bahonline.org:443?path=%2Fpage&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=sa1.bahonline.org&fp=chrome&type=ws&allowInsecure=0&sni=sa1.bahonline.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://26524cce-d514-4014-a426-365fb266a14d@188.166.98.106:2096?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfeng?ed=2560fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
