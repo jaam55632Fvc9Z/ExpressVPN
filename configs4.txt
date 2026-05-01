@@ -120,3 +120,9 @@ vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@101.32.244.117:443?security=tls&typ
 
 vless://26524cce-d514-4014-a426-365fb266a14d@31.57.172.199:20002?allowInsecure=0&sni=mug.support.gfw.hidns.co&type=ws&host=mug.support.gfw.hidns.co&path=/danfeng?ed=2560fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://ed3f6b16-8c0b-4077-943b-7412c9b17367@snapp.ir:80?path=%2F&security=none&encryption=none&host=sub80.clonetechh.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://a06404ff-bc31-47ae-be6f-d56575f947f1@cf.wdqgn.eu.org:443?security=tls&type=ws&path=/a06404ff-bc31-47ae-be6f-d56575f947f1-vl&host=ready.bnm.uw.to&alpn=h2&sni=cf.wdqgn.eu.org&fp=chrome&flow=xtls-rprx-vision&encryption=mlkem768x25519plus.native.0rtt.GfijNVipjoxVcmmU97hykwSyAzZ74geMIi8pjuYMIhQ#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://37dd5bed-5b9f-4910-b1d3-90346e2ab063@snapp.ir:80?path=/graphql?ed=2560&security=none&alpn=http/1.1&encryption=none&host=ss7.limitless-cloud.ir&fp=chrome&type=ws&sni=ss7.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
