@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ce083843-003f-437e-bf63-0b9148fa18ff@185.143.233.235:8080?encryption=none&host=Test.bosbedetoto.site&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://dad3d87c-f57d-435d-b2c2-2dd5c28abbea@snapp.ir:80?path=%2FFIRELINK&security=&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJob3N0IjogInBhcnNraGF6YXIuY29tIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiaWQiOiAiNGZkZjc0NjItOTQ2NS00N2YyLWFiNDItNzY5NDJjMzhhZTRlIiwgImFkZCI6ICJmYXJzLnNhbnByaW1lLmlyIiwgInR5cGUiOiAiaHR0cCIsICJuZXQiOiAidGNwIiwgInNuaSI6ICJ3ZWIuc2FucHJpbWUuaXIiLCAicGF0aCI6ICIvIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtVExTIHwgQGZpbGVtYmFkIiwgInRscyI6ICJ0bHMiLCAiZnAiOiAiY2hyb21lIiwgInNjeSI6ICJhdXRvIiwgInBvcnQiOiAiMjkyODkifQ==
-
-vless://0a7fe2d9-d537-4876-a96d-202fa10eda90@snapp.ir:8080?path=%2F&security=none&spx=@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3&encryption=none&host=wt.programming-coding.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40netmelli15
-
 vless://ab819a57-6c47-4a68-aa7d-09efdbd8dff2@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=jn.8lack.ir&fp=firefox&type=ws&sni=jn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://2c932719-b775-4010-b9d9-20e0a72787ba@tun2.aria-network.cloud:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=svtr2.aria-network.cloud#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -49,4 +41,16 @@ vless://341c0aaf-9498-44c8-8894-4780f4aad7b1@185.143.233.200:80/?type=ws&encrypt
 vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNzM0NjExMWEtYzZmNC00NmVlLTlkZWItZDJjY2JkZjA1YWYyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwODExIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
 vless://46d15872-1fbb-4dc4-9e97-a3d75ea19a45@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-tg.xiaobaivpn.icu:28804?allowInsecure=0&peer=&sni=&type=tcp#%F0%9F%87%B9%F0%9F%87%AD%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-tg.xiaobaivpn.icu:28805?allowInsecure=0&peer=&sni=&type=tcp#%F0%9F%87%B9%F0%9F%87%AD%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-tg.xiaobaivpn.icu:28806?allowInsecure=0&peer=&sni=&type=tcp#%F0%9F%87%B9%F0%9F%87%AD%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-sg.xiaobaivpn.icu:28813?allowInsecure=0&peer=&sni=&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://bd874ee5-d4a6-45a8-afe2-b54dbb1e5eda@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=in.8lack.ir&fp=firefox&type=ws&sni=in.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
