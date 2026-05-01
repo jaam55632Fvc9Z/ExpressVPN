@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.149.54:80?path=/#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://eaae7973-cef2-0e01-e597-b7f5392a69f5@meli3.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.200#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://6223daf4-dd59-4188-b59a-4788da11e31c@vip1.mamliserver.top:54014?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip1.mamliserver.top#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://8bc34b22-37c1-416a-b459-c990aa7086ee@185.143.233.235:80?path=%2F&security=none&encryption=none&host=be.storyhost.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -173,6 +169,8 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.4:7443?allowInsecure=1&
 vless://26524cce-d514-4014-a426-365fb266a14d@65.21.62.180:443?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfeng?ed=2560fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@161.35.47.237:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ebe0bfc8-14e7-4b4a-82bf-be4375fe9af5@gr1.mizbanertebatfarda.ir:8080?path=%2F&security=none&encryption=none&host=gr1.mizbanertebatfarda.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://a6bd9b85-3908-4672-a5ca-211b819dd67b@amozesh.klyroshop.ir:80/?type=ws&encryption=none&path=%2F&host=amozesh.klyroshop.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9997,6 @@ vless://0bcd8ceb-aeef-4054-9c29-72916a76e066@v2.rootmasterr.com:39586?security=n
 vless://9dfec434-7aae-4248-b2a5-e089f4e05377@anten.ir:2086?path=%2F&security=none&encryption=none&host=hap.kalaleh24.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://341c0aaf-9498-44c8-8894-4780f4aad7b1@185.143.233.200:80?path=%2F&security=none&encryption=none&host=am.newshoppizii.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://50298a65-5b0a-4b0b-8d3b-a0388b928233@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=hn.8lack.ir&fp=firefox&type=ws&sni=hn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
