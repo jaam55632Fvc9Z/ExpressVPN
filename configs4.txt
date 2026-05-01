@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-tg.xiaobaivpn.icu:28804?allowInsecure=0&peer=&sni=&type=tcp#%F0%9F%87%B9%F0%9F%87%AD%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-tg.xiaobaivpn.icu:28805?allowInsecure=0&peer=&sni=&type=tcp#%F0%9F%87%B9%F0%9F%87%AD%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-tg.xiaobaivpn.icu:28806?allowInsecure=0&peer=&sni=&type=tcp#%F0%9F%87%B9%F0%9F%87%AD%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://2d544f19-ff61-4e36-93f8-9950962179a5@svip-sg.xiaobaivpn.icu:28813?allowInsecure=0&peer=&sni=&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://bd874ee5-d4a6-45a8-afe2-b54dbb1e5eda@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=in.8lack.ir&fp=firefox&type=ws&sni=in.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://137a9fef-629a-4197-abe9-9114a314a77c@snapp.ir:80?path=%2F&security=none&encryption=none&host=arv.liarashop.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -117,4 +105,10 @@ vless://d8ab4f15-5599-44af-8e72-4bbdeec691a3@snapp.ir:80?path=%2F&security=none&
 vless://39d1e0b0-498c-4e78-88be-76a8a06d9154@87.107.187.149:8010?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://f49e3351-9193-4008-90f6-00201f270b0b@snapp.ir:80?encryption=none&type=ws&path=%2F&host=aopas.reedsy.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://607e363a-6648-4643-99e3-98e015b88cd4@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e2d23589-cc07-e9c2-11ae-71fe268cab7d@sdl.ciliko.ir:80?security=none&type=ws&path=/&host=#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://82c84bca-607a-4b25-bdb7-744b9a977097@45.94.215.38:443?encryption=none&type=xhttp&path=%2F&mode=packet-up#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
