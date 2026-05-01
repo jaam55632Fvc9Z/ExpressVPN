@@ -30,3 +30,7 @@ vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80?encryption=none&hos
 
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@172.66.42.200:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://0a7fe2d9-d537-4876-a96d-202fa10eda90@snapp.ir:8080?path=%2F&security=none&encryption=none&host=wt.programming-coding.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3d67f871-d170-4aea-b01f-1730b6cba0b2@ircell2.fillpower.ir:2042?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=cdn.fillpower.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
