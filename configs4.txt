@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ab5caa1d-5e3f-4172-ba51-d1a9a22bd50d@line2.gymplusplus.com:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://ab32f0e5-5b77-4497-98e2-625673a3cb61@snapp.ir:80?path=/&security=none&encryption=none&host=sphrrzv.iranofilm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://93455e57-7599-4d63-baca-27f5e1762832@185.143.234.122:80?security=none&encryption=none&host=c4.novin-devs.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://a14fead3-3c2a-4e64-ba93-1c72bc894756@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://88f67f47-74e5-4964-b144-92625d8e15a1@snapp.ir:8080?encryption=none&security=none&type=ws&host=cm.programming-coding.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://4278a814-4a82-4b9b-8092-0ba60a3fb2f6@193.151.153.47:34661?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg@195.58.49.26:50123#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80/?type=ws&encryption=none&flow=&host=d.nsa03.com&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://88f67f47-74e5-4964-b144-92625d8e15a1@snapp.ir:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=cm.programming-coding.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40netmelli15
-
 trojan://telegram-id-privatevpns@35.180.146.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://telegram-id-directvpn@35.180.146.148:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -117,4 +99,6 @@ vless://eb4c6585-640b-4a6f-ac21-df320e1c7123@red.nahidapp.com:443?path=%2Fred%2F
 vless://4cfb8bd8-9da8-40d1-aa4f-b6a01c6ae3b7@37.27.200.55:443?type=ws&encryption=none&security=tls&host=37.27.200.55&path=/ws&sni=37.27.200.55&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://4557bb00-e834-4a4e-9c1e-61c68d963c50@red.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://ba559782-c9d9-4cc9-a1e9-fec690382e64@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=hn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=hn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
