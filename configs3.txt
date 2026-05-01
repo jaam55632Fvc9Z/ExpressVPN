@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://0c81c2d2-415a-4097-9a68-7b1a54d189cb@snapp.ir:8880?path=%2Fw&security=none&encryption=none&host=p.mofidserver.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://a5b37495-295c-4bb1-a891-b2ecbaaab291@185.143.233.200:80?type=ws&encryption=none&path=%2F&host=refer.parsimas.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-ss://ahhd#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcC#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-ss://hshs#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://43488128-319e-f480-64ea-0acdc712e2a8@5.182.38.193:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=w6Z8qD0CCeAW68-mdkJ6b-eHf1o3j_DEoXtlN7lnaCw&security=reality&sid=a7c8f0630da31f6a&sni=www.mol.hu&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.215.38:443?security=tls&encryption=none&insecure=1&host=sni.latonyamadeline.ndjp.net&type=ws&allowInsecure=1&sni=sni.latonyamadeline.ndjp.net#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -601,6 +591,8 @@ vless://116c2ae6-79af-454e-828a-c82687562a3c@abr.superip.ir:80?security=none&typ
 vless://116c2ae6-79af-454e-828a-c82687562a3c@abr.superip.ir:2052?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=library.phill-up.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 trojan://1234567890@207.154.208.9:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@www.multiplydose.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://7346b042-f8b5-426a-974e-c685c1f9aea3@89.23.98.203:443?security=none&type=xhttp&headerType=&path=%2F&host=&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-None%20%7C%20%40v2ray_configs_pool
 
@@ -5211,6 +5203,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.42.191:2096?allowInsecure=1&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.228.191:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.210.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A7%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.228.182:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9993,10 @@ vless://093f8ac3-6539-4a43-ba9e-655f10573b17@188.213.199.47:24616?security=none&
 vless://0d77fd5b-75c5-4bcc-b05f-ffac2e4f84e6@free.z1q1.cfd:80?path=%2F24fh6sv00&security=none&encryption=none&host=free.z1q1.cfd&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://0d77fd5b-75c5-4bcc-b05f-ffac2e4f84e6@free.z1q1.cfd:80?path=%2F24fh6sv00&security=&encryption=none&host=free.z1q1.cfd&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.217:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://1d16856a-70fe-4e7e-8371-e178864eb522@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=conf.seim-ss.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://cb06010e-3958-45eb-8cf5-6557d948702c@185.143.233.235:8080?encryption=none&host=Test.bosbedetoto.site&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
