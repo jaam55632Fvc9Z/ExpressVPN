@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d401a43e-9c66-4b80-b4fe-b39d9790d5ee@ux.onyxshoes.ir:8080?encryption=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://26524cce-d514-4014-a426-365fb266a14d@221.145.251.131:20201?&security=tls&fp=chrome&sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&headerType=none&host=xfxl35a.node-edge.gfw.hidns.co&path=%2Fdanfeng#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2nodes
-
 vless://466dddca-84fd-4ef3-945a-43fec8616d32@snapp.ir:2052?encryption=none&security=none&type=ws&host=sr-3.traapex.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://47793fd0-67ce-424a-a813-9444a7ad7f6e@gr1.mizbanertebatfarda.ir:8080?path=%2F&security=none&encryption=none&host=gr1.mizbanertebatfarda.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -59,4 +55,28 @@ vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@77.105.162.153:443?flow=xtls-rprx-v
 vless://7d87c41f-0fa5-4865-9369-3cc798d97f31@130.12.242.122:443?flow=xtls-rprx-vision&security=reality&sni=nl.kickvpn.ru#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.180.143.51:2053?allow_insecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&fp=chrome&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&path=%2F&security=tls&sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?flow=xtls-rprx-vision&security=reality&sni=www.vodafone.co.uk#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://7d87c41f-0fa5-4865-9369-3cc798d97f31@130.12.242.182:443?flow=xtls-rprx-vision&security=reality&sni=nl1.kickvpn.ru#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?security=reality&sni=yahoo.com#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJhaWQiOiAwLCAiYWxsb3dfaW5zZWN1cmUiOiAiMCIsICJhbGxvd0luc2VjdXJlIjogIjAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImluc2VjdXJlIjogIjAiLCAicG9ydCI6IDE4MCwgInNlY3VyaXR5IjogImF1dG8iLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yNTAiLCAiYWlkIjogMCwgImFsbG93X2luc2VjdXJlIjogIjAiLCAiYWxsb3dJbnNlY3VyZSI6ICIwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJpbnNlY3VyZSI6ICIwIiwgInBvcnQiOiAxODAsICJzZWN1cml0eSI6ICJhdXRvIiwgInBzIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBUQ1AtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yMzMiLCAiYWlkIjogMCwgImFsbG93X2luc2VjdXJlIjogIjAiLCAiYWxsb3dJbnNlY3VyZSI6ICIwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJpbnNlY3VyZSI6ICIwIiwgInBvcnQiOiAxODAsICJzZWN1cml0eSI6ICJhdXRvIiwgInBzIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBUQ1AtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yMTQiLCAiYWlkIjogMCwgImFsbG93X2luc2VjdXJlIjogIjAiLCAiYWxsb3dJbnNlY3VyZSI6ICIwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJpbnNlY3VyZSI6ICIwIiwgInBvcnQiOiAxODAsICJzZWN1cml0eSI6ICJhdXRvIiwgInBzIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBUQ1AtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@pl2-gws4.onnstreaming.ru:443?flow=xtls-rprx-vision&security=reality&sni=pl2-gws4.onnstreaming.ru#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://f189684b-6213-4c0d-a2e3-cb8860f5d4c5@lol-swe-0001.api.neuralrelay.stream:443?flow=xtls-rprx-vision&host=hls-svod.itunes.apple.com&security=reality&sni=hls-svod.itunes.apple.com#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://f189684b-6213-4c0d-a2e3-cb8860f5d4c5@lol-nld-0001.api.neuralrelay.stream:443?flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@pl2-gws4.onnstreaming.ru:443?flow=xtls-rprx-vision&host=pl2-gws4.onnstreaming.ru&security=reality&sni=pl2-gws4.onnstreaming.ru#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://cead26ce-f4e0-4820-aa2c-96cf3e61fb4c@lol-gbr-0001.api.neuralrelay.stream:443?flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com#%F0%9F%87%AA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
