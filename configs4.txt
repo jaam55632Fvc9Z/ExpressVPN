@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://59168175-f689-4253-abf6-c9848328ffa3@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=jn.8lack.ir&sni=jn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://telegram-%40dickiriptorbot@nextjs.org:443?mode=auto&path=%2F%40dickiriptorbot&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=cloudflares-api.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=nextjs.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vasl_bashim
-
 vless://telegram-%40dickiriptorbot@nextjs.org:443?encryption=none&type=xhttp&security=tls&path=%2F%40dickiriptorbot&host=cloudflares-api.vercel.app&mode=auto&sni=nextjs.org&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://f2d87e39-3e4c-4174-af54-d8157775e19d@snapp.ir:8080?encryption=none&host=cdc.ashtona.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -41,4 +37,6 @@ vmess://eyJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1O
 vless://b54bf788-9cd9-491b-875a-9ee1497346a1@snapp.ir:8880?security=none&type=httpupgrade&headerType=&path=%3Fed%3D2560&host=top.teamlifez.ir#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
 vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40AloConfig_com
+
+vless://bafacd98-136a-4530-838d-4e5c51838dac@38.75.221.46:443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&ech=encryptedsni.com+https://dns.alidns.com/dns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=/product/lesson/juzibaipiao?ed=2560#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
