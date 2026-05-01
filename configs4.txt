@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ea7ae912-3566-4b67-bf67-54397d5f8736@iri.hosmci.ir:35163?path=%2Fupload%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=de.hosmci.ir&fp=chrome&type=ws&allowInsecure=0&sni=de.hosmci.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://89c248ef-0a6a-4cea-9180-6afd70d94999@185.143.234.235:443?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=vip.iranpro3.ir&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -113,4 +111,16 @@ vless://7ad93761-e024-48ed-95dc-8c2937f16cbd@free.z1q1.cfd:80?encryption=none&ho
 vless://f3207a4a-3f79-4ef7-a9fc-2bbd183b4fe1@line2.gymplusplus.com:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://db10973d-b732-67f3-fb0f-93d71881ee1a@sdl.ciliko.ir:80?path=/&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://cead26ce-f4e0-4820-aa2c-96cf3e61fb4c@94.228.219.55:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&security=reality&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&sid=0f7e#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80/?type=ws&encryption=none&flow=&host=vip.yaml7.ggff.net&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@62.50.146.35:9443/?type=grpc&encryption=none&flow=&serviceName=www.apple.com%3A443&sni=raw.githubusercontent.com&security=reality&pbk=GdCtxJAti3DA8oTu9KkFHjCz1yRGGZB_4NZIBuQxc28&sid=abc5168218c8749c#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://6589254d-47ee-4d78-9659-41304c755cce@45.15.129.191:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=timeweb.cloud&security=reality&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&sid=#%F0%9F%87%A6%F0%9F%87%B2%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.92.1.37:30047/?type=ws&encryption=none&flow=#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@130.78.219.82:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ukos2.ksnodes.net&alpn=http%2F1.1%2Ch2&allowInsecure=1&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
