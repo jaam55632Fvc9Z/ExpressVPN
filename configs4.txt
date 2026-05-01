@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://607e363a-6648-4643-99e3-98e015b88cd4@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://e2d23589-cc07-e9c2-11ae-71fe268cab7d@sdl.ciliko.ir:80?security=none&type=ws&path=/&host=#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://82c84bca-607a-4b25-bdb7-744b9a977097@45.94.215.38:443?encryption=none&type=xhttp&path=%2F&mode=packet-up#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
 vless://b915958c-1c79-4098-be07-2457aca1ebd1@snapp.ir:8080?encryption=none&type=ws&path=%2FAPI%2Fsuperip&host=library.phill-up.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://7423cd8f-c5f8-42da-a572-4a8e4e9bee13@snapp.ir:8080?encryption=none&type=ws&path=%2FAPI%2Fsuperip&host=library.phill-up.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -91,4 +85,6 @@ vless://9a0470ea-9814-48e3-84fb-31d7748a3f01@185.143.233.5:443?path=%2Fchat%3Fed
 vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZGRjOTYzM2MtZmI3Zi00ZDFlLWJiNGMtMmI4ZjAxZGEwMzUwIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwODE0IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
 vless://9a0470ea-9814-48e3-84fb-31d7748a3f01@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gn.8lack.ir&fp=firefox&type=ws&sni=gn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6d3ae711-2e18-4486-a19b-25e7171421c4@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
