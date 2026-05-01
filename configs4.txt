@@ -52,3 +52,19 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.160.144:8443?path=%2F&securi
 
 vless://7ffbc800-2021-4a1d-98ae-d55555d37bcf@ger1bot-ws.headerip.com:80?security=none&type=ws&headerType=&path=%2F&host=ger1.mv5.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+trojan://8c9fcc69-863c-4771-9473-a73c583870c8@pokemon-01.yunjnet.com:56115?allowInsecure=1&peer=iosapps.itunes.apple.com&sni=iosapps.itunes.apple.com&type=tcp#%F0%9F%87%B2%F0%9F%87%BE%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://8c9fcc69-863c-4771-9473-a73c583870c8@pokemon-01.yunjnet.com:56017?allowInsecure=1&peer=iosapps.itunes.apple.com&sni=iosapps.itunes.apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWpBMFl6Z3daakJsTTJaa05tUmxOQT09Ok9HTTVabU5qTmprdE9EWXpZeTAwTnc9PQ@ptxlv6-1.yunjnet.com:54273#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://8c9fcc69-863c-4771-9473-a73c583870c8@pokemon-02.yunjnet.com:56019?allowInsecure=1&peer=iosapps.itunes.apple.com&sni=iosapps.itunes.apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8c9fcc69-863c-4771-9473-a73c583870c8@vless01.yunjnet.com:50133?type=ws&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=d1.awsstatic.com#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8c9fcc69-863c-4771-9473-a73c583870c8@vless02.yunjnet.com:50133?type=ws&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=www.lamer.com.hk#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8c9fcc69-863c-4771-9473-a73c583870c8@vless01.yunjnet.com:50131?type=ws&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=d1.awsstatic.com#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8c9fcc69-863c-4771-9473-a73c583870c8@vless02.yunjnet.com:50131?type=ws&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=d1.awsstatic.com#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
