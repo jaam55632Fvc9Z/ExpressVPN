@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://9a0470ea-9814-48e3-84fb-31d7748a3f01@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=gn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=gn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZGRjOTYzM2MtZmI3Zi00ZDFlLWJiNGMtMmI4ZjAxZGEwMzUwIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwODE0IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
-vless://9a0470ea-9814-48e3-84fb-31d7748a3f01@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gn.8lack.ir&fp=firefox&type=ws&sni=gn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://6d3ae711-2e18-4486-a19b-25e7171421c4@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://89960e91-7f08-401d-98b1-60a8ca601c6f@170.168.103.156:8081/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -87,4 +81,16 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.146.148:22224?type=ws&securi
 vless://97cc1f58-1e07-4cac-8714-f98848201693@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gn.8lack.ir&fp=firefox&type=ws&sni=gn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://1fca4140-645e-4dd4-82dc-1cb4d88197be@185.143.233.5:443?encryption=none&type=ws&host=an.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=an.8lack.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
+
+vless://0fb2a47a-0ce1-43a9-98b7-4ecdc5436945@tapsi.ir:443?alpn=h3&encryption=none&fp=random&host=sb1.pbvsrk.carnagesv.top&path=%2F&security=tls&sni=sb1.pbvsrk.carnagesv.top&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a7f4c93a-98e1-4835-82f0-0571f8378d14@185.143.233.5:443?encryption=none&type=ws&host=hn.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=hn.8lack.ir&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://bf43421a-2e1f-4386-ab58-48443b3dc618@panel.motabarimshaknakon.xyz:23765?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://bf43421a-2e1f-4386-ab58-48443b3dc618@panel.motabarimshaknakon.xyz:23765?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZWFjZTg1MDYtNmYzYS00ZjkxLWI0ZDItMmY3YmNkMDJmZTRkIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwODE0IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://97741a1e-389d-40be-b2e7-a0dd08fd489c@blog.gshops.homes:39088?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
