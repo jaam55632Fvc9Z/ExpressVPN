@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://11a6d832-cac8-4ce4-a2f9-f0e87c4b6e35@shopcenter.lumavision.ir:8080?security=none&type=ws&headerType=&path=/graphql?ed=8080&host=shopcenter.lumavision.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://c65a8a4d-1891-4b7c-9070-5e2dbb2a9a6a@data.cloud-byte.ir:8888?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://b31e7244-28fd-4975-b534-d1cecd7fc8cd@185.143.233.200:80?path=%2F&security=none&encryption=none&host=refer.parsimas.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://a1257b7e-8990-4185-a887-3ee7f819c495@193.58.121.113:5000?encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&flow=&fp=chrome&pbk=YYQgLsZiDfnG58FysKhy2TypDbX6vYDN28yrxeSHp1Y&security=reality&sid=a95b25f3&sni=www.intel.com&type=#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://e8485150-d10e-4271-b2fb-dd37c9bd44f4@109.69.218.165:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=#%F0%9F%87%A7%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://88bc511b-c912-4745-86e8-685fd3f381bf@109.69.218.162:443?encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=#%F0%9F%87%A7%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://5339468e-67dc-43d4-a09f-04d2353113d4@109.69.218.166:443?encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=#%F0%9F%87%A7%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://e2e7cb0d-662f-4208-9a2f-02b25162f2de@109.69.218.163:443?encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=#%F0%9F%87%A7%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -197,6 +183,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@82.117.245.166:2053?allowInsecure=1
 vmess://eyJhZGQiOiAiMjE3LjIxOC41Mi4xIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3OWVkZjQyOS1mNWMwLTQyMjYtODIzNS0xOGM0NzBjZWRkMjkiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTA4NDEiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 
 vless://26524cce-d514-4014-a426-365fb266a14d@168.138.165.174:443?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfeng?ed=2560fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://609d03b3-d331-4a29-baf2-de14b65c6499@pishroserv.ir:80?path=/&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://d230f0f7-6826-4f8e-8dbb-69ee2c837358@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh1.salonemojallal.ir.#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -415,6 +403,8 @@ vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.87:52006?allowInsecure=0
 vless://301f1fed-c749-422b-b732-acf6735470b5@abr.superip.ir:8080?security=none&type=ws&headerType=&path=/API/superip&host=ne.landing-sours.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@82.117.245.125:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://1234567890@144.31.255.102:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -9999,4 +9989,14 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#%F0%9F%87%A8%F0%9F%87
 vless://ec131d46-da6a-4080-b37f-5b42aaf9a464@snapp.ir:80?path=%2Findex.html&security=none&encryption=none&host=ert.lamponzizs.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTI1Ni1nY206b3g3T08yWmRPQTFJcUpBaEEyeHZVQ1BmdEFneUI1NDVTNHJtbzduZ3I2bz0=@87.107.108.191:43557?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://aa00e1fd-5776-4564-91d9-670e89bde431@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@193.135.174.135:990#%F0%9F%87%A7%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990?type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://275d3bae-429b-427e-a081-d3b2a2d328cf@185.143.234.200:8080?path=%2F&security=none&encryption=none&host=shop2.plusself.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime08.workers.dev#%F0%9F%87%A7%F0%9F%87%AC%20WS-None%20%7C%20%40v2ray_configs_pool
 
