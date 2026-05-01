@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@mfa.gov.ua:443?allowInsecure=1&fp=firefox&host=vless.lrdxw.club&path=/&sni=vless.lrdxw.club&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@jp.111000.cc.cd:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://b8e4dd04-b379-4405-acc4-ad3314896a01@tr1.clinicboalisina.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://37dd5bed-5b9f-4910-b1d3-90346e2ab063@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=ss7.limitless-cloud.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://37dd5bed-5b9f-4910-b1d3-90346e2ab063@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=ss7.limitless-cloud.ir&path=/graphql?ed%3D2560#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://a5235950-1d26-49ee-8351-8e867743a276@95.38.60.120:443?path=%2F4960&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=s1.c1.sabzi.lol.snapp.ir&fp=chrome&type=ws&allowInsecure=0&sni=payment.behtarinoo.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 trojan://telegram-id-privatevpns@13.39.116.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.116.213:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -90,7 +78,17 @@ vless://981fca81-5be1-41f8-ac9b-d138e8109943@69.164.245.25:443?encryption=none&s
 
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@193.32.177.101:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdn.zoom.us:443?path=138.2.5.136&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http%2F1.1&type=ws&host=abest.api-tel.xyz&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://95872646-a37f-4d20-80c8-b08266dc8f23@ite.pishvatech.lol:2052?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://95872646-a37f-4d20-80c8-b08266dc8f23@ite.pishvatech.lol:2052?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://l8SGvwW/HaMyJWn3xstImRaNDLrUpqi3W6Hit5ItHES0kTL42nfITC3ULqbMot5JbI6tTB6o6X5FaYvITys6h089/Riaquof5WFtsF886FR1vJySZBq3bGVawQ8mrKv95V2YFNp2eY1kzIX380o4kEoDN90SGYfrb+ZiDHcnWxMKIQWFzZrlGcuw64ampQjIqkIsGy2Ic3uH1AyeoIah5JFSuKgGUPhqg4GvCQCbxrBlLHVkkfIZuCHH/h+1pVAmnySsTlFzmz2oe0AN6M0Qg4QQb5eNvGN9LxapPXGgf9hc85zz5uYjs3YS2Rb1X9xF6NHwfQVQyv559piGmxRFK0L7togsCzLGV0lDCul2yPz6gHqXok2lC9Qh3fWQOHruY5gaJZlgmajfudnKGvsbb8hMvtW6g+0yAVwkvjnJeEw8iqxVA+cns0Ry9SyESgkgTO5wG1VkWudAG19tDENCpgYxKYvAHSPywCL+0n0wxf+bGaqEP0+sZmJmrHB6b7E9737TsYeXfksvYI09mSumsEVCApsOZMx3q0DA8dTrasnwLeXAVCizKsuFmWLcwXyZ2N361aPaN4Pwgqm3vR/GR8FBxKqrZkaRZPndYbEGKQtOMkQfD05aPMeq/xbajO06Wbihr4FdutINhZFnK/EisUnRSHHk3YgyCNptOljgiyRUqyyTHJHQdtERQKno6L6u`#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://0a6adfff-615f-400e-9100-e4eccd92afa4@185.143.235.5:80?encryption=none&type=ws&host=cdn.sesrsa.com&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://ba8d92de-cb89-4b2e-a9b3-e147bad3bd59@snapp.ir:80?path=%2F&security=none&encryption=none&host=aopas.reedsy.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
