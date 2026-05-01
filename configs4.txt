@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.160.144:8443?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://7ffbc800-2021-4a1d-98ae-d55555d37bcf@ger1bot-ws.headerip.com:80?security=none&type=ws&headerType=&path=%2F&host=ger1.mv5.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 trojan://8c9fcc69-863c-4771-9473-a73c583870c8@pokemon-01.yunjnet.com:56115?allowInsecure=1&peer=iosapps.itunes.apple.com&sni=iosapps.itunes.apple.com&type=tcp#%F0%9F%87%B2%F0%9F%87%BE%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://8c9fcc69-863c-4771-9473-a73c583870c8@pokemon-01.yunjnet.com:56017?allowInsecure=1&peer=iosapps.itunes.apple.com&sni=iosapps.itunes.apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -61,4 +57,6 @@ vless://47793fd0-67ce-424a-a813-9444a7ad7f6e@gr1.mizbanertebatfarda.ir:8080?path
 vless://0f631721-c6e7-4660-8f9a-44f88fa871c5@104.19.229.21:80/?type=ws&encryption=none&path=%2F&host=rylig.nybaz.space&security=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nlety.ksnodes.net#%F0%9F%87%A6%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ea7ae912-3566-4b67-bf67-54397d5f8736@iri.hosmci.ir:35163?path=%2Fupload%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=de.hosmci.ir&fp=chrome&type=ws&allowInsecure=0&sni=de.hosmci.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
