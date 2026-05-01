@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://2bafc823-a8ff-429c-9e64-bcde2a1daa2d@vercel.com:443?encryption=none&security=tls&sni=vercel.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=vercel-xhttp-relay-plum-psi.vercel.app&path=%2Fsaefe&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://fac63abe-ae97-985e-60b7-fe7312c2267b@meli2.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.205#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://d2bc7529-782a-4d4e-be7b-b98566345843@iri.hosmci.ir:41473?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=ir.hosmci.ir&path=/upload/?ed=2560&security=tls&sni=ir.hosmci.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@jp.111000.cc.cd:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiMjAzMjAiLCAiaWQiOiAiOWUyYzQzNWMtMDVhNy00NGEzLWJhZTktYjg2ZTI3MDIzNmRhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
@@ -9999,4 +9991,12 @@ vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJh
 vless://9a0470ea-9814-48e3-84fb-31d7748a3f01@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gn.8lack.ir&fp=firefox&type=ws&sni=gn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://6d3ae711-2e18-4486-a19b-25e7171421c4@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://89960e91-7f08-401d-98b1-60a8ca601c6f@170.168.103.156:8081/?encryption=none&flow=&host=www.speedtest.net&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://1fef9800-02af-4e6f-b925-dbd29ac3e96d@185.143.234.120:443?encryption=none&headerType=none&allowInsecure=0&type=ws&mux=true&security=tls&sni=alef.ir.oadeflantrogm.abrirmahan.com&fp=randomized&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.abrirmahan.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://07c594d2-56f8-47c2-997e-41feef4623d9@185.143.234.235:80?path=%2F&security=none&encryption=none&host=ire.binping.lol&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://c32fbc07-9402-448a-9671-215263e45db4@2.ihomayon.com:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=arvan.ihoomayon.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
