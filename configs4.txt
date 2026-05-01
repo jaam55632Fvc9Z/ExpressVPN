@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://47793fd0-67ce-424a-a813-9444a7ad7f6e@gr1.mizbanertebatfarda.ir:8080?path=%2F&security=none&encryption=none&host=gr1.mizbanertebatfarda.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://0f631721-c6e7-4660-8f9a-44f88fa871c5@104.19.229.21:80/?type=ws&encryption=none&path=%2F&host=rylig.nybaz.space&security=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nlety.ksnodes.net#%F0%9F%87%A6%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ea7ae912-3566-4b67-bf67-54397d5f8736@iri.hosmci.ir:35163?path=%2Fupload%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=de.hosmci.ir&fp=chrome&type=ws&allowInsecure=0&sni=de.hosmci.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -107,4 +103,8 @@ vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&hos
 vless://649a8f7a-59f7-4b3f-b733-e671086c9ad8@194.39.254.113:26480?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAiY2lwLnNhbGltb3JlLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJjaXAuc2FsaW1vcmUuY29tIiwgImlkIjogIjZjZDIyZDQ2LTExYTAtNDE3OS1iZTIxLWViZDQzODJiMTI3ZiIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93cy8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+
+vless://1a4050c6-1cd4-42e1-bf0e-360674fcb9c0@yasinpanel.pointspeed.ir:80?path=%2Farvancloud.ir&security=&encryption=none&host=ybvpnadmin.pointspeed.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4278a814-4a82-4b9b-8092-0ba60a3fb2f6@193.151.153.47:34661?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
