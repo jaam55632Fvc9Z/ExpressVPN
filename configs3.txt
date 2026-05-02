@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://b12977b1-07a2-421a-99e0-1f98c1647922@iri.hosmci.ir:41473?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=ir.hosmci.ir&path=%2Fupload%2F%3Fed%3D2560&security=tls&sni=ir.hosmci.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NormanV2ray
-
-vless://23096f04-efbb-4cb5-b499-edf5f6a0991d@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40vslshi
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#%F0%9F%87%A6%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.246.137.150:443?encryption=none&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B8%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.188.93.158:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://86e9a7dc-70ed-4f4d-afde-4e2cb89ce381@185.143.234.235:80?encryption=none&security=none&type=ws&host=riodo.gelvil.ir&path=%2F%3Fed%3D1024#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://36a69e01-9e30-47fd-982c-1111ed03fa7f@rfiksma.top:41051?encryption=none&type=tcp&headerType=none@netazadi#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -9999,4 +9989,14 @@ vless://telegram-id-ArV2ray@185.146.173.158:80?path=/telegram-ArV2ray%2Ctelegram
 vless://89960e91-7f08-401d-98b1-60a8ca601c6f@170.168.103.156:8081?security=none&spx=@FastNetTools----@FastNetTools---@FastNetTools&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://37bcd084-a17c-44da-9868-ad5c4632cf8c@72.56.34.140:4357?security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@15.236.94.52:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.94.52:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.236.94.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://4eab8d06-ed0b-4762-be12-d43bb0ea9d5e@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://7f71f411-0c76-42a7-86ad-5e1e6098520f@snapp.ir:2082?path=%2F&security=none&encryption=none&host=mail.zivotra.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
