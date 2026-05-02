@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://de7a8733-f07b-4d5f-9794-8ccffa4f58db@snapp.ir:8880?path=%2F&security=none&encryption=none&host=pdme2.zone-onehao.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://875c345e-d200-4709-9ffa-7b4c65531f6e@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ef577789-7259-4b62-ad82-6b9fc63a3f9e@snapp.ir:8880?type=ws&encryption=none&path=%2F&host=omidvar.arvhamrah.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://875c345e-d200-4709-9ffa-7b4c65531f6e@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
 
 vless://b72f5e56-b947-48bf-80ef-6254f8835441@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
@@ -47,4 +41,6 @@ trojan://telegram-id-privatevpns@52.57.232.245:22222?security=tls&alpn=http/1.1&
 vless://ee54eafc-78bc-4b02-af01-041fb38cf360@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin9.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin9.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://2a45d4d3-232e-4720-a15f-442f3ef443f4@irri.hosmci.ir:35163?type=ws&security=tls&host=de.hosmci.ir&sni=de.hosmci.ir&path=%2Fupload%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://2a45d4d3-232e-4720-a15f-442f3ef443f4@irri.hosmci.ir:35163?encryption=none&security=tls&sni=de.hosmci.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=de.hosmci.ir&path=%2Fupload%2F%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Va3lSho
 
