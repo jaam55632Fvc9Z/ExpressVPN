@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.18:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8d706b27-a4c2-436e-b370-56a37155710a@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://5699a324-f036-490e-a065-c1264979b4ea@185.143.233.235:80?path=%2F&security=none&encryption=none&host=knet-prime.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://w56nb54d-w5mq-zn83-refn-63uoba3tvg8r@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
 trojan://3kxib0tv-618i-10q4-59wx-hxu3j9ntkpdv@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://cwxaxe29-qu9u-8479-7r79-8lm86gpb182n@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -9999,4 +9991,12 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwg
 vless://5629adcd-3127-4e61-9e64-6921c5179aee@po.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://70746946-6939-45f9-b678-d09e63fb14c2@snapp.ir:80?path=%2F&security=none&encryption=none&host=newbalance.zivaroid.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?allowInsecure=0&sni=HL-FREEDOM-1.UNDEF.NETWORK&ws=1&wspath=%2Ff2fc2a1f#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://jina@20.218.137.249:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://3b0397b7-f4c9-4410-9d8b-4f196dbd75d5@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://7f39bb3c-a2dd-4472-a22a-d5d21a29a0c1@snapp.ir:2086?type=ws&security=none&path=%2F&host=connect.pardisvps.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
