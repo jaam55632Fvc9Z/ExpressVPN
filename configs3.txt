@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://650d768d-a4cd-4c0d-8fe6-1822fecae3c9@varzesh3.com:80?path=%2F&security=none&encryption=none&host=sajjad.panivo.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://f9df23c0-30cc-4482-a3e3-1090e960af03@varzesh3.com:80?path=%2F&security=none&encryption=none&host=sajjad.panivo.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://ba6b1deb-3c9e-4dac-8ece-1da66f9c917a@185.143.233.5:80?path=%2Fgamescore%3Fed%3D128&security=none&encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&host=cdn4.restaurantworld.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.208.105.148:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://dfe76531-d087-4129-cf5f-41975a1fa894@glob.thisiswe.uno:2083?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=jamal.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=jamal.thisiswe.uno#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.209.231:8443?encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9140,6 +9132,8 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206d1o0eUl2aFNCd3Vwd1BjemQxNXJGa2QrRS9SaWNhQzh
 
 vless://7c1ee44e-01d0-426c-b182-9a8a4bac346d@185.143.234.22:2082?path=%2Fpath&security=none&encryption=none&host=tr-st2.ge9.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40YamYamProxy
 
+vless://c65a8a4d-1891-4b7c-9070-5e2dbb2a9a6a@data.cloud-byte.ir:8888?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40YamYamProxy
+
 vless://65792f72-486a-4586-bdb0-9f6a4aee7359@safe.aimlife.sbs:19780?mode=auto&path=%2F&security=none&encryption=none&host=safe.aimlife.sbs&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40YamYamProxy
 
 vmess://eyJhbHBuIjogImgyLGh0dHAvMS4xIiwgInR5cGUiOiAiaHR0cCIsICJwYXRoIjogIi8iLCAiYWRkIjogImZhcnMuc2FucHJpbWUuaXIiLCAiaWQiOiAiYzk3ODY5NTUtMGE4OC00NDE0LTk0NTQtODYwOTcwNDZkMDQ4IiwgInNuaSI6ICJ3ZWIuc2FucHJpbWUuaXIiLCAibmV0IjogInRjcCIsICJzY3kiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLVRMUyB8IEBmaWxlbWJhZCIsICJmcCI6ICJjaHJvbWUiLCAicG9ydCI6ICIyOTI4OSIsICJob3N0IjogInBhcnNraGF6YXIuY29tIiwgInRscyI6ICJ0bHMifQ==
@@ -9999,4 +9993,10 @@ vless://edbbaed7-b280-4316-a331-c5b3071dfb96@s2.tehranionliine.ir:80?type=ws&pat
 vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAicnhzLmJyYXZvLXNpeC5pciIsICJpZCI6ICI5NTBmNWNlZi1mZmU4LTQ2NGYtYjY2Yy1lZDNkYmRhNzBiZjEiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODg4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 
 vless://2b042cf5-8ac9-4658-b588-0b8cc8a6bd6c@cn.farvardinecharsadopanj.shop:8080?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://59d9d61d-36fd-426c-bb7f-e96f22ee6cc0@s3.tehranionliine.ir:80?type=ws&path=%2F&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://5629adcd-3127-4e61-9e64-6921c5179aee@po.masterdadeh.ir:80?type=ws&path=%2F&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://b46d07fa-a1e3-4745-8ad1-386a5b941647@s2.tehranionliine.ir:80?type=ws&path=%2F&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
