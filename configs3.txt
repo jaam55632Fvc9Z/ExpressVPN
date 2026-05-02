@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://df941dbe-97f5-4cc3-9fc2-eedc9306d594@snapp.ir:8880?path=%2Fw&security=none&encryption=none&host=p.mofidserver.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://40b959c1-c0dc-44ef-8ec8-7c61d20dd110@vercel.com:443?mode=auto&path=%2Fapi%2Fdirect&security=tls&alpn=h2&encryption=none&insecure=1&host=vercelv2ray-gamma.vercel.app&fp=chrome&type=xhttp&allowInsecure=1&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@3.75.35.234:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.35.234:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@3.75.35.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-trojan://1234567890@134.122.84.25:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=/?https://t.me/WangCai2🇨🇳=&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=/?Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://3b56b9f9-b4d5-407a-b0d4-7718dc22a38c@92.42.207.97:8443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -135,6 +123,8 @@ vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?security=reality&
 vless://ad7dcf20-5acb-4502-ac96-97845ece9331@vercel.com:443?mode=auto&path=%2F43b05b5d011c&security=tls&alpn=h2&encryption=none&host=edge-cache-85e7c8.vercel.app&fp=chrome&type=xhttp&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.154:2053?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%E9%A6%83%E5%9A%9A%E9%A6%83%E5%9A%A6+%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.246.152.159:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
@@ -325,6 +315,8 @@ vless://d7d4a967-0cf6-4c09-8e19-238db1664535@ite.pishvatech.lol:80?path=%2F&secu
 vless://5a80ff16-72d2-4e55-ae89-6b6fcbdd894b@snappfood.ir:80/?type=ws&encryption=none&path=%2FRahbaram&host=janamfadayerahbaram.panahgahh.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://34c1c980-fb15-4ee2-88aa-60cb677dd60c@dl1.lowlevell.ir:8080?encryption=none&host=dl21.lowlevell.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://1234567890@144.31.218.10:443?sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:8443?path=/?Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9991,12 @@ vless://07f62e83-6910-4252-a6b2-b8feeaba910d@185.143.233.5:443?encryption=none&t
 ss://e8e1e1fc-83e6-4de3-9e08-7d77521e67b4@cf.comecloud.ir:443?path=%2Ftest%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Clu.servert1op.ir&fp=chrome&type=ws&sni=Clu.servert1op.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://24b1ab7f-c931-4c07-b7f2-4d1a922374d3@snapp.ir:80?encryption=none&type=ws&path=%2F&host=gamedl.city-zen.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.digikala.com&sid=c385#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://58174c61-1e0d-4d9d-8df6-d17e7207fb93@185.143.233.43:8880?encryption=none&type=ws&path=%2F&host=motabarim3.service-panelbaz.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://109987d8-cfea-4200-a67d-a35d4cecbfd9@snapp.ir:80/?type=ws&encryption=none&path=%2F&host=gm.borna-otbas.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://f1943aaf-4907-42fd-b26c-4cbc9f98c7fa@wp14.virgool.best:55014?type=tcp&security=reality&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&sni=www.digikala.com&sid=c385#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vaslbemonim7
 
