@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://WIzNnKBrWXisHMWMaT+al1cERxN2yJTis96Gyz/0aJzFe0xhRPpNwAKMJL8AjnicdZ4EPcSeqb1kDG8exbkxa7bSUrgP8NpYQMAGRe3E46CCJOD3iPK1+QLHyFYLcE3/zo4CrwDC2IS0WNzOqZYREoFFKVR5dQJer4aZp7wNxS9BnQsUThac6bYzJZmOe1/X#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://36a69e01-9e30-47fd-982c-1111ed03fa7f@rfiksma.top:41051/?type=tcp&encryption=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://2325d51a-04cf-47ed-8a3b-d818a0166ff5@snapp.ir:80?encryption=none&type=ws&path=%2F&host=randomconnect.shop#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?path=%2FgetWorkerUpdates&security=&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZGFyeGhpbnRlYW0uYnJhdm8tc2l4LmlyIiwgImlkIjogImJmNTY0MDc3LWQwOWYtNGIxYS04YzAxLTc0MDQ2OGE0NzMyNiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9991,12 @@ vless://e531ec67-c9be-4f94-899b-02ea6e303f8b@As.dlsp-ir.com:8443?security=tls&al
 hysteria2://2nsMXDvFMF@45.81.19.251:443?security=tls&insecure=1&sni=web.bale.ai#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
 
 vless://0fc4cd83-2fc3-4954-8260-fb6ac2a2665d@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://af21ac07-2194-4648-b0d7-86bf94b072a7@104.18.16.6:443?mode=auto&path=userzanit&security=tls&encryption=none&alpn=h3&host=germanycloudflare.newmarzban.ru&fp=chrome&allowinsecure=1&type=xhttp&sni=germanycloudflare.newmarzban.ru#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://da67f6c0-405c-45ee-ac99-30f771fec1dc@151.101.195.6:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h3&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=Nike777.com&fp=chrome&allowinsecure=1&type=xhttp&sni=127.1.0.0#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://da67f6c0-405c-45ee-ac99-30f771fec1dc@18.66.142.85:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=dszxkjyab8mes.cloudfront.net&fp=chrome&allowinsecure=1&type=ws&sni=127.0.0.1#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
