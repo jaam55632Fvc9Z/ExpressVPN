@@ -100,3 +100,29 @@ vless://5d624a76-0a98-4c8a-ae39-550a56aa03c9@trex.nahidapp.com:443?path=%2Fvless
 
 vless://ed7ed5a9-3a64-4454-98de-9259e6351dcb@snapp.ir:80?path=%2F&security=&encryption=none&host=conf.seim-ss.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%BC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b113d4e0-4be0-44e4-b469-13a045e0bf67@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://efc9504e-f31e-40e9-96c6-4739f6595481@45.81.19.251:2083?encryption=none&fp=chrome&pbk=ruh_CGQJigLxOvK5mPUY4NbUxgIVd9DuuJoiUOzN7jU&security=reality&sid=721d4a66&sni=web.rubika.ir&spx=%2FocNhuI5IHVJWbvv&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+hysteria2://suAZg6WoI1@45.81.19.251:2087?security=tls&insecure=1&sni=web.rubika.ir#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
+
+hysteria2://suAZg6WoI1@45.81.19.251:443?security=tls&insecure=1&sni=web.bale.ai#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
+
+vless://efc9504e-f31e-40e9-96c6-4739f6595481@As.dlsp-ir.com:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=cafeariel.ir&headerType=http&fp=randomized&type=tcp&allowInsecure=0&sni=As.dlsp-ir.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://efc9504e-f31e-40e9-96c6-4739f6595481@As.dlsp-ir.com:2053?encryption=none&fp=safari&pbk=eQiAdpGi9koz3778TAigmYSwoG4A1I8ewrzd6TvDTQQ&security=reality&sid=c7d77e&sni=web.bale.ai&spx=%2FeuKprVQFucWhOAM&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://e531ec67-c9be-4f94-899b-02ea6e303f8b@45.81.19.251:2083?encryption=none&fp=chrome&pbk=ruh_CGQJigLxOvK5mPUY4NbUxgIVd9DuuJoiUOzN7jU&security=reality&sid=721d4a66&sni=web.rubika.ir&spx=%2FocNhuI5IHVJWbvv&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+hysteria2://2nsMXDvFMF@45.81.19.251:2087?security=tls&insecure=1&sni=web.rubika.ir#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
+
+vless://e531ec67-c9be-4f94-899b-02ea6e303f8b@As.dlsp-ir.com:2053?encryption=none&fp=safari&pbk=eQiAdpGi9koz3778TAigmYSwoG4A1I8ewrzd6TvDTQQ&security=reality&sid=c7d77e&sni=web.bale.ai&spx=%2FeuKprVQFucWhOAM&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://e531ec67-c9be-4f94-899b-02ea6e303f8b@As.dlsp-ir.com:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=cafeariel.ir&headerType=http&fp=randomized&type=tcp&allowInsecure=0&sni=As.dlsp-ir.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+hysteria2://2nsMXDvFMF@45.81.19.251:443?security=tls&insecure=1&sni=web.bale.ai#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
+
+vless://0fc4cd83-2fc3-4954-8260-fb6ac2a2665d@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
