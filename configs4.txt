@@ -80,3 +80,15 @@ vless://a4ce2a78-7dbd-41f4-999c-f5157216244f@arvancloud.ir:80?type=ws&encryption
 
 vless://28e14238-88c7-4f97-a90b-17d34794ab91@snapp.ir:8080?path=?ed=2560&security=none&encryption=none&host=top1.teamlifez.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://601ed233-56e7-4f7a-b486-06ed55f1cec0@185.143.233.5:443?path=/chat%3Fed%3D128&%3Bsecurity=tls&%3Balpn=h2%2Chttp/1.1&%3Bencryption=none&%3Binsecure=0&%3Bhost=fn.8lack.ir&%3Bfp=firefox&%3Btype=ws&%3BallowInsecure=0&%3Bsni=fn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://4ccec2fe-d44e-436f-9627-d4e72c016dbb@tarvar.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%F0%9F%87%AA%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1e90e67d-8f4a-4f91-800b-9fa0a1d7eee0@185.143.235.235:80?type=ws&encryption=none&host=c5.cdkeybaz.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://898917b6-c95e-4046-9fc7-49f1e6388035@yasinpanel.pointspeed.ir:80?type=ws&host=ybvpnadmin.pointspeed.ir&path=/arvancloud.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://3b7bb735-7e3c-476a-9180-fe1193624e5b@185.143.233.5:8880?encryption=none&host=cdn.sesrsa.com&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
