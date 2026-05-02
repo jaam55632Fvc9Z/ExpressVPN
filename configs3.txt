@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://1b179b1c-80b8-43b2-97e5-48d830ab1509@app.palmal.site:36517?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.103.100.127:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=/?Telegram#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -309,6 +303,8 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogIjIxNi4xNjcuNDYuMjI2IiwgInBvcnQiOiA1NzEzOCwgImFp
 trojan://1234567890@185.170.153.115:8443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.166.237.20:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://1234567890@144.31.255.102:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://7d8212ef-d86b-4f75-9ab9-1f2bdb4e9f41@snapp.ir:80?encryption=none&type=ws&security=none&host=cpi.lithiumnet.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
@@ -9999,4 +9995,8 @@ vless://d04ffc3b-e373-45c9-9f4b-1116b5f52b40@bot.ziroxnet.shop:21739?security=no
 vless://0ae54c13-39d6-46d9-a007-ee0a9983f6c4@SnaPp.ir:2082?encryption=none&type=ws&path=%2F&host=aLiReza.mobilesubasa.com#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://e8e1e1fc-83e6-4de3-9e08-7d77521e67b4@cf.comecloud.ir:443?path=%2Ftest%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Clu.servert1op.ir&fp=chrome&type=ws&sni=Clu.servert1op.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://e99085c4-08fc-42cb-9ebb-fdad7a4e6315@bot.ziroxnet.shop:21739?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none&%3BallowInsecure=0&%3Bencryption=none&%3Btype=ws&%3Bhost=vip.yaml7.ggff.net&%3Bpath=/+%40ProxyVPN11#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
