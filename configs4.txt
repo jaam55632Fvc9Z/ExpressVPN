@@ -48,3 +48,9 @@ vless://1f5358e8-f57c-44b8-9864-9c236672fbc8@185.143.233.235:80?security=none&al
 
 vless://f7c18925-5584-4e63-819c-0213a9d05ec4@As.dlsp-ir.com:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=cafeariel.ir&headerType=http&fp=randomized&type=tcp&allowInsecure=0&sni=As.dlsp-ir.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+vless://ba559782-c9d9-4cc9-a1e9-fec690382e64@185.143.233.5:443?encryption=none&type=ws&host=hn.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=hn.8lack.ir&alpn=h2,http/1.1oliver#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+
+vless://4798779c-4125-4d4a-b26d-7a0e48f78cad@snapp.ir:80?path=%2F&security=none&encryption=none&host=sd.dl7movis.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40V2rayng_Fast
+
+vless://dbb1102e-d6da-a3d3-2c9e-fec3b49ec257@i-love-iran.amlakayuni.ir:2087?path=%3Fed%3D2087&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=i-love-iran.amlakayuni.ir&fp=chrome&type=ws&sni=i-love-iran.amlakayuni.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+
