@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://5eaef112-cdc1-4438-a2ea-6f1ae9694d18@isna.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cardinal.gelvil.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://df941dbe-97f5-4cc3-9fc2-eedc9306d594@snapp.ir:8880?encryption=none&type=ws&path=%2Fw&host=p.mofidserver.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://48c2704a-e93c-490a-8a08-874b8e9f6536@168.144.37.123:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=m.zoom.us#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://cfe5ba2c-c651-4ade-babd-39861ea6dcad@support.zoom.us:8080?path=%2Fmeeting&security=none&encryption=none&host=danuwa-free-server.sslzoom.us&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://48c2704a-e93c-490a-8a08-874b8e9f6536@168.144.37.123:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=m.youtube.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -261,6 +253,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.167.243.253:8880?encryption=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.253:8880?encryption=none&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://93fd88a9-8e9a-43bb-b0bd-46659d092175@185.213.165.38:443?encryption=none&security=none&type=xhttp&host=sub.sinalizardpanel.info&path=%2Fvideo&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://7a0e5a9f-8ab0-4fec-b3cc-d97402e3667d@silver.api-tel.xyz:443?path=/&%3Bsecurity=tls&%3Balpn=h2%2Chttp/1.1&%3Bencryption=none&%3Bfp=firefox&%3Btype=ws&%3Bsni=dany.api-tel.xyz#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9993,10 @@ vless://78e1c47b-d2d2-4908-ad59-687d4e638ad0@13.35.196.67:443?path=%2Fzaou8XGhXp
 vless://076ed5ba-d59c-4931-a151-7c29a8734719@185.143.233.43:2052?encryption=none&type=ws&path=%2F&host=motabarim2.service-panelbaz.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
 
 vless://c7004f8c-61d0-4f4c-a85d-66b4f26f3f4b@snapp.ir:80?type=ws&encryption=none&path=%2Findex.html&host=ert.lamponzizs.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://e2544b49-ad4c-41bf-bf4e-307ff512af6b@snapp.ir:8080?encryption=none&security=none&type=ws&host=wt.programming-coding.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://4b0d64d9-9451-4bcc-a833-4239aac0cfe4@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cdc.ashtona.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://78e1c47b-d2d2-4908-ad59-687d4e638ad0@13.35.196.67:443?encryption=none&type=ws&security=tls&path=%2Fzaou8XGhXp3dJkOw9QJ1mxpndqC&host=atoll.pashmparty.fun&sni=atoll.pashmparty.fun&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
