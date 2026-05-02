@@ -44,3 +44,9 @@ vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=
 
 vless://5904f7df-4d1b-4e4f-a51e-b4925245288b@snapp.ir:80?encryption=none&type=ws&path=%2F&host=cdn.softnetconnect.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://e17e3ddc-da22-4b29-b002-90f6bddd3fca@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2F%40alaedin%3Fed%3D128&host=alaedin3.8lack.ir&sni=alaedin3.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1UTFMgfCBAZmlsZW1iYWQiLCAiYWRkIjogImNpcC40NTI1OS5uZXQiLCAicG9ydCI6ICIyOTg0NyIsICJpZCI6ICIzYzkzYjY4Ny04MzI4LTRlNGEtOTgzYy00ZjY2ODA4OTc2ODEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIn0=
+
+vless://4b0a8381-5345-4c7b-98d6-03fedc49f9a2@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=alaedin5.8lack.ir&fp=firefox&type=ws&sni=alaedin5.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+

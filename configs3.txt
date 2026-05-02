@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://4749475d-3a47-4175-a934-92e247127ed7@69.84.182.13:443?type=ws&encryption=none&host=fr-1-fr-1.aiopen.sbs&path=%2Fgsjc%2Ffr1&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=tls&fp=chrome&sni=&pbk=&sid=#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4749475d-3a47-4175-a934-92e247127ed7@132.226.147.10:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=musicstatus.tv.apple.com&pbk=OEZ3C-1OCSYBikqcWudtPP3PpQq2RAI7rFPxWoTCDSc&sid=bffe9292#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://4749475d-3a47-4175-a934-92e247127ed7@129.158.41.239:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=musicstatus.tv.apple.com&pbk=Um47-P2c42os7mr1X4Hxw0290YA1FXwyG96p854qol0&sid=8c38a563b7a004d8#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://4749475d-3a47-4175-a934-92e247127ed7@192.9.164.54:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=musicstatus.tv.apple.com&pbk=9oOtS_WWQMj6h4L72o1Lbu9ze_lmW_2PQy4diKpBjQI&sid=ba9c05e6cce34e2e#%F0%9F%87%A6%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://b5a1d38d-d220-421a-a996-9198777b2bdc@snapp.ir:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=1.jojo.avenflow.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ vless://26a29661-c2f5-464b-9731-a093f000cd92@snapp.ir:80?path=%2F&security=none&
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&fp=chrome&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://5904f7df-4d1b-4e4f-a51e-b4925245288b@snapp.ir:80?encryption=none&type=ws&path=%2F&host=cdn.softnetconnect.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://e17e3ddc-da22-4b29-b002-90f6bddd3fca@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2F%40alaedin%3Fed%3D128&host=alaedin3.8lack.ir&sni=alaedin3.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1UTFMgfCBAZmlsZW1iYWQiLCAiYWRkIjogImNpcC40NTI1OS5uZXQiLCAicG9ydCI6ICIyOTg0NyIsICJpZCI6ICIzYzkzYjY4Ny04MzI4LTRlNGEtOTgzYy00ZjY2ODA4OTc2ODEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIn0=
+
+vless://4b0a8381-5345-4c7b-98d6-03fedc49f9a2@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=alaedin5.8lack.ir&fp=firefox&type=ws&sni=alaedin5.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
