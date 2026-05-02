@@ -138,3 +138,7 @@ vless://97454ab2-8d75-444a-82a0-e2eed675a4bb@golden.alisecvice.ir:8080?encryptio
 
 vless://f93cebaa-aa3a-4fdd-bc88-c66b04777435@golden.alisecvice.ir:8080?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.92.1.35:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.135.9.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
