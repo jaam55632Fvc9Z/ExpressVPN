@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.79.101:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.20:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://57d4c214-6be1-4c84-be67-85880e0c7a9b@104.20.6.134:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=dalag.master33varkarjoo.ir&fp=firefox&type=xhttp&allowInsecure=1&sni=dalag.master33varkarjoo.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://26524cce-d514-4014-a426-365fb266a14d@47.74.14.140:443?type=ws&encryption=none&host=yvl5fy.data-cache.chinam.indevs.in&path=/danfeng?ed=2560fp=chrome&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=yvl5fy.data-cache.chinam.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguMTQ3IiwgImFpZCI6IDAsICJob3N0IjogImlubmEuY2ZkIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.73:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -7360,6 +7352,10 @@ vless://8b5ebe08-be9f-4bbd-897f-4ddc169c7c43@185.143.233.5:443?path=%2Fchat%3Fed
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.152.23:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.185.26:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://9fe49649#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -9999,4 +9995,8 @@ vless://ba559782-c9d9-4cc9-a1e9-fec690382e64@185.143.233.5:443?encryption=none&t
 vless://4798779c-4125-4d4a-b26d-7a0e48f78cad@snapp.ir:80?path=%2F&security=none&encryption=none&host=sd.dl7movis.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40V2rayng_Fast
 
 vless://dbb1102e-d6da-a3d3-2c9e-fec3b49ec257@i-love-iran.amlakayuni.ir:2087?path=%3Fed%3D2087&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=i-love-iran.amlakayuni.ir&fp=chrome&type=ws&sni=i-love-iran.amlakayuni.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVh@57.129.129.139:29183#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://362e79ef-5fe3-7127-5fb7-ef839c6ad8d4@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
