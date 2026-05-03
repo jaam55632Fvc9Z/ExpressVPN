@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.182.30:52006?allowInsecure=1&sni=cl-de-1.edgeflux.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 trojan://telegram-id-directvpn@15.188.112.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://telegram-id-privatevpns@15.188.112.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -85,4 +81,12 @@ vless://ce034283-e310-44a1-9f59-191ffe4c0c72@185.143.233.5:443?encryption=none&t
 vless://363b533f-0efd-470d-8caa-5dd8b260cc0a@185.143.234.235:80?encryption=none&host=al1.apicallminecrafegame.online&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://ce034283-e310-44a1-9f59-191ffe4c0c72@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin5.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin5.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a4b34d7a-1f82-4adb-aee3-fd9562281084@snapp.ir:80?path=%2F&security=&encryption=none&host=gm.borna-otbas.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://d9902d78-9e1f-4f24-bb6f-01f482fe1897@185.143.233.5:443?encryption=none&type=ws&host=alaedin7.8lack.ir&path=/?ed%3D128&security=tls&fp=firefox&sni=alaedin7.8lack.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://004f5735-447b-4ccf-8cfa-05e8be07a8f4@185.143.233.200:80?encryption=none&type=ws&path=%2F&host=asd.arnewluncher.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJ0eXBlIjogIm5vbmUiLCAiZnAiOiAiIiwgImhvc3QiOiAiY2RuMS5oZXhtY2xvdWRpLmlyIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQGZpbGVtYmFkIiwgInYiOiAiMiIsICJkZXZpY2VJRCI6ICIiLCAicGF0aCI6ICIvc25hcHAuaXIiLCAic2VlZCI6ICIiLCAiZnJhZ21lbnQiOiAiIiwgImlkIjogIjA2YTliNTA3LTg3ZjAtNGZjZi04MTk2LTdiMjNjYWU4OWZiMiIsICJleHRyYSI6ICIiLCAicG9ydCI6ICI4MDgwIiwgIm1vZGUiOiAiIiwgImhlYWRlclR5cGUiOiAiIiwgImF1dGhvcml0eSI6ICIiLCAidGxzIjogIm5vbmUiLCAic2VydmljZU5hbWUiOiAibm9uZSIsICJhbHBuIjogIiIsICJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInNuaSI6ICIifQ==
 
