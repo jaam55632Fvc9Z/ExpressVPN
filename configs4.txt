@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://b7a24830-cc90-40bf-b74e-e466986a4a0d@snapp.ir:80?path=%2F&security=&encryption=none&host=newbalance.zivaroid.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80?path=/&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://2fddbbe3-ff31-4621-b327-f1c7653ebad1@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://8d5e71e6-1c60-4084-b573-a343879c9380@104.18.16.56:8080?path=/&%3Bsecurity=none&%3Bencryption=none&%3Bhost=aref.tsabad.com&%3Btype=ws#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://72d1d3a4-5467-41da-9a12-505907577044@api.vercel.com:443?encryption=none&type=xhttp&security=tls&path=/v1/music&host=azzro.digielipan.store&mode=auto&sni=api.vercel.com&alpn=h2,http/1.1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -143,4 +137,6 @@ trojan://162534@161.33.197.118:443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&h
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://62d66671-0ab5-43b4-8a2f-3d74857fa5b2@185.143.233.68:443?encryption=none&%3Bsecurity=tls&%3Btype=ws&%3BheaderType=none&%3Bpath=/&%3Bhost=backend.parhamm2.ir&%3Bsni=backend.parhamm2.ir&%3Bfp=random#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://94c06c17-8cce-461c-a072-49a1d8f09a67@mona.fillpower.ir:2042?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=cdn.fillpower.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
