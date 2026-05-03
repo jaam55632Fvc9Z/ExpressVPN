@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://bpb-trojan@russia.com:443?sni=bpb.wdgg1979.nyc.mn&alpn=h3&type=ws&host=bpb.wdgg1979.nyc.mn&path=/tr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://57e73366-b339-4577-8854-58fcd1843aa4@snapp.ir:2083?alpn=http%2F1.1%2Ch2%2Ch3&encryption=none&fp=randomized&host=cdn.modmondo.ir&path=%2Fhcgfjgfc&security=tls&sni=cdn.modmondo.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://6bf13bcb-f3d1-406a-8588-bcc3502bbb54@de.tehranionliine.ir:80?type=ws&path=%2F&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://e3af4d80-d185-46ab-94c8-eb31b335a3f1@de.tehranionliine.ir:80?type=ws&path=%2F&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://8d8310cf-5257-4539-94f0-9b1c3822533e@de.tehranionliine.ir:80?type=ws&path=%2F&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@138.124.6.159:30086?type=grpc&serviceName=gprc#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-None%20%7C%20%40v2nodes
 
 vless://e340363b-dfd1-415c-a702-71979f75b049@188.213.199.47:24616?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -113,4 +103,6 @@ vless://7bc983b8-9948-4628-8177-27bd7653ac84@snapp.ir:8080?path=%2F&security=non
 vless://60404e8a-a1d0-4374-9b4c-6aeb32dcf51b@185.143.233.235:8080?path=%2F&security=none&encryption=none&host=Test.bosbedetoto.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://b32da664-9c8c-417a-be9e-c58bb48741bf@185.143.233.43:8880?path=%2F&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://759c1923-ffe1-4da8-8154-d637ceda5b45@snapp.ir:80?type=ws&encryption=none&security=none&sni=cdngraph.newmew.site&alpn=http%2F1.1&fp=chrome&path=%2Fgraphql%3Fed%3D2560&host=cdngraph.newmew.site#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
