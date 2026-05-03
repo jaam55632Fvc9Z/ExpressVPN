@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://b4tc3a1g-sf7e-dd3f-11sg-moeyzm01wlfg@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://pcm6trl2-akm6-9qwu-beih-x1i5q3oxhsto@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://1111@173.245.59.64:2083?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://1111@162.159.38.20:8443?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ratali7583.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ratali7583.workers.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://05sczxfo-r1ru-18x7-g8ph-ym2nkf3ajejv@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
 trojan://2mj2yxe2-59hm-5vcp-dmir-l7y1mq0ir8y4@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://v0cu0oc8-uuec-0p5s-oxry-rfwo1a9bzr5l@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -3682,6 +3672,8 @@ vless://3e4f6e33-79de-4453-922e-129c1a6ff8c4@185.143.233.5:443?path=%2Fchat%3Fed
 
 vless://8d7f156c-17bf-4885-aec3-2bdfab51c8a7@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?type=grpc&encryption=none&serviceName=gprc#%F0%9F%87%B5%F0%9F%87%B1%20GRPC-None%20%7C%20%40v2ray_configs_pool
+
 vless://378cf38c-303b-4d66-bc9d-a7a700e22438@snappfood.ir:80?path=/ws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@freeyx.cloudflare88.eu.org:443?fp=chrome&host=sni.111000.dynv6.net&path=/?ed=2560&proxyip=ip.111000.de5.net:443&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -5829,6 +5821,8 @@ vless://78e1c47b-d2d2-4908-ad59-687d4e638ad0@13.35.196.67:443?encryption=none&ty
 vless://53a946d9-2452-4497-b4e2-aaf27479a377@iri.hosmci.ir:35163?type=ws&security=tls&host=de.hosmci.ir&sni=de.hosmci.ir&path=%2Fupload%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://3d8e1d80-7ca9-47ae-8c76-0a5159583940@varzesh3.com:8080?path=%2F&security=none&encryption=none&host=shop2.plusself.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.144.154:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.173.104.220:2053?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9993,10 @@ vless://36d0e91c-e2c6-491a-bb5c-c278e692ebf9@185.143.233.43:2052?path=%2F&securi
 vless://a2f046ac-33ac-4eb2-9a5e-8e3d1e0166b8@As.dlsp-ir.com:2053?security=reality&encryption=none&pbk=#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.122:443?path=/?Telegram🇨🇳+@WangCai2=&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://33cad175-704e-49fe-ac8e-3f474f096972@185.143.233.43:2052?path=%2F&security=none&encryption=none&host=motabarim2.service-panelbaz.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiY2RuLmlwLXN0YXRpYy5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibmxkMDAzLm1pZGFzbmV0LndvcmsiLCAiaWQiOiAiNzgzYjBmOTgtNjc0MC00YmFjLWFiMjItMzk4ODFmYTczNWZkIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
 
