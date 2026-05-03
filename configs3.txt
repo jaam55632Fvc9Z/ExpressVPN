@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.88.201:8880?security=none&type=ws&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=www.udemy.com.joss.jak.biz.id#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://2bfea3fd-6826-480c-917d-e3bc99b47a0f@193.233.133.55:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=6635&pbk=13qS12jjsHCQpQfL3tEL2nHltgoTp1i-8kVcJ6odrEQ#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://7c1d17f5-4f43-4f78-9505-d50c38efc40b@193.34.212.80.vhub.pro:443?security=tls&type=grpc&mode=gun&serviceName=/sequre/grpc/&alpn=h2&sni=193.34.212.80.vhub.pro&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.94.90.201:8880?security=none&type=ws&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=www.udemy.com.joss.jak.biz.id#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -235,6 +231,8 @@ vless://b7a4a575-1231-4f5f-aadc-5c43a5d862f5@react.dev:443?encryption=none&type=
 vless://95051aa9-b4a0-4344-9c8f-a40e1ffcc4f7@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=bn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://5535619d-9ba2-492d-996e-8c88a3572e28@abr.superip.ir:2095?path=%2FAPI%2Fsuperip&security=&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://1234567890@138.124.115.108:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://2dd4275d-562b-4ec5-951c-2ba1702d94b0@react.dev:443?mode=auto&path=/&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&echfq=none&host=vercel-xhttp-pi-neon.vercel.app&allowinsecure=0&type=xhttp&sni=react.dev#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9997,6 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?type=ws&host=2026
 vmess://eyJhZGQiOiAiYXJ2YW5jbG91ZC5jb20iLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJtYWhzYXByb3h5LmNvbSIsICJpZCI6ICJiODMxMzgxZC02MzI0LTRkNTMtYWQ0Zi04Y2RhNDhiMzA4MTEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2dyYXBocWwiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 
 vless://0a83a956-12d0-4fdc-b1cf-b7a8c38eab9d@lumapartner.static-luma.website:1114?mode=gun&security=reality&encryption=none&pbk=Mk7MALlY4p_zGQZWKREiKY7OfbAjcqtBgJ6Pz3Nz-W0&fp=chrome&spx=%2F2QOukvBMH38ZFyb&type=grpc&sni=www.nvidia.com&sid=43e7309607e6#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://37a3226f-edb4-41d3-bc47-d139ad622cee@snapp.ir:8880?path=%3Fed%3D2560&security=&encryption=none&host=top1.teamlifez.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
