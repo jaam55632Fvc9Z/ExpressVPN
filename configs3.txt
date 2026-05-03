@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://fb67587a-b272-415f-ae0e-7ddd0ce6010f@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=en.8lack.ir&sni=en.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://616f095f-737f-4f1e-8912-64bc9f23f861@onereza.starmizban.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=onereza.starmizban.com&fp=chrome&type=ws&sni=onereza.starmizban.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://7463a3e9-cc94-4055-8954-083db4f26638@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=in.8lack.ir&sni=in.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://b3f7742a-8586-41ab-9f7a-97e0d873dfec@snapp.ir:8880?type=httpupgrade&encryption=none&path=%2Farvancloud.ir&host=talaei.pointspeed.ir&security=none#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
-
-vless://a04ce3a3-0923-49e7-a6e2-0907b54d9e83@188.121.124.181:443?mode=auto&pcs=f562dc60b65f99780e34ce1d5b7074c74e812c346e9c75494905948c12ab60f6&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=1&host=static.cdn.asset.aparat.com&fp=chrome&type=xhttp&allowInsecure=1&sni=static.cdn.asset.aparat.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://6594b541-6110-49c1-8e02-04b3acc93d8e@pg.nexorainnovationhub.ir:80?path=%2F&security=none&encryption=none&host=a43fgh.restaurantnetwork.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://d3a03a6e-0b68-43c0-af15-2ffc42ed7d55@94.101.177.20:17345?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://dfd6a265-d0ad-44ab-a066-27c049f10b95@37.152.185.161:14914?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://9060c990-497a-4e4e-8f9b-58f2b39c19be@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=fn.8lack.ir&fp=firefox&type=ws&allowInsecure=1&sni=fn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://fbb2570a-63a6-4fb3-b81e-3d0fb545eaf7@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=bn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://17e31322-1fbd-4466-977e-e1eea85e5d83@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=en.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=en.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -9999,4 +9981,22 @@ vless://41aa1ca5-7a5d-4baa-8532-abfef1fda6b6@react.dev:443?mode=auto&path=%2Fhtt
 vless://cad39a49-c0e8-47bd-b876-33a3db6cabef@ursa.pardazwe.ir:2052?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiAiZnNkbnMxLmVjdHVubmVsdnBuLm1lIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImZzZG5zMS5lY3R1bm5lbHZwbi5tZSIsICJpZCI6ICI2YjJkODZlNS1kZjA1LTQ1MTEtYTc5Zi04MmQ1M2NlOTliMzYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a47c0adb-4170-4282-81ba-b789f85a072f@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9a84e4a2-731d-4dd5-a22d-796c7a345e39@www.speedtest.net:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://ac620fe6-eb1a-4f28-89c0-1e9f5d8edfb9@cf2.comecloud.ir:443?path=/test?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=Clu.servert1op.ir&fp=chrome&type=ws&allowInsecure=1&sni=Clu.servert1op.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMk1QWTJycUwyR2YzTGIxc1A1bjVmZEVrVUoxZC13cA@31.57.56.193:51523#%F0%9F%87%AE%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://YH9wC9TINCBoITjAQgiONQ@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e69d5f8a-2629-45ac-889b-981983209933@166.1.89.21:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PxiVEKI3dp1UpqzpgnD31-Wl4MFiHjTI23ylGFn5Slg&security=reality&sid=111111&sni=www.apple.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=/&%3Bsecurity=none&%3Bencryption=none&%3Bhost=ss.oppobot.ir&%3Btype=ws#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
