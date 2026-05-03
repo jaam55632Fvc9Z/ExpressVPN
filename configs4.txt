@@ -20,3 +20,9 @@ vless://8500fbd1-bba9-4fc1-94b7-69dbd1f30556@185.143.233.5:443?path=/@alaedin?ed
 
 vless://e66284bf-2cdd-4c02-b856-03b962e9f38f@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.4.130:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c879d5d3-eead-4119-8ebd-e31fb162c554@hk.xmm.maimaiyun.shop:1314?mode=multi&security=reality&encryption=none&type=grpc&pbk=F3r5Wh54BcBcOHg4R_JYYcDmqek2E2o04mPPcs9LfmE&sid=6ca06d65&sni=s0.awsstatic.com&servername=s0.awsstatic.com&spx=/&fp=chrome&serviceName=GunService#%F0%9F%87%AD%F0%9F%87%B0%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://1f0f24d7-8e0a-4d83-b52f-20a9eeffa19d@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
