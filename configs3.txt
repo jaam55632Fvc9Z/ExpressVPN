@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@13.38.248.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.248.91:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.38.248.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vmess://eyJhZGQiOiAibWlnLXNpbi5kYXJrdWJlLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyNTQ3MjFhOS01NzM5LTRiYWYtYjM1ZC05YmM5NTBlMzQ2ZGIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXBpL2RpcmVjdCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQHZhc2xfYmFzaGltIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
 
 vless://e275d5ea-5975-47da-a91c-5441fb68d0a5@morv.iwit.cc:443?encryption=none&type=tcp&security=tls&headerType=none&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40vasl_bashim
@@ -9999,4 +9991,12 @@ vless://0e941919-1658-460f-b1b5-22a3bc0b0973@snapp.ir:80?type=ws&path=/&security
 vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://f9fed79c-bc41-4871-8ab3-da46c47d2e38@185.143.232.224:80?security=none&encryption=none&host=sv1.ir5ive.ir&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOG1lUWRWcG1hN0prQ3RzRVVXY1M2Z2llS21GWGlhd0N3Z0ZNY0pxQ1hNcVMyZDlXckdwdWN5bk5haXk2bVVhc2Ria01pUlZESjVCaFNyckF1Z0N1Q0puWHViUkJIZXo@185.5.38.111:55988#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOHFpeXExTDR2S3NUZWdjZ0RkYXNUVW5iQ3Y0QjY2Y3g3dVdKZkh0MjRUaTNyeTlmZ2dtOWM0Smc0aXpqRUNmV1dSbWNOZm9HQ0FSRHk5Q2FDVm11Wmk4b3ZvUERMQ0g@185.5.38.111:55988#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWEhWWVg2TDVFb2ZWb0ppN1pkQ0F4SmZWTVhIZGoxMmRRUkVrUkNGUU1QY3NyRlhYV3FIeDNXUlVhellaVkM4dlo0N1h0SDVzRGtHbzFyTlpyaTZTV3hobnJ4NUNmVno@185.5.38.111:55988#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQm55dUJ4WUZnSkYzUnJRWWlSVlFtaFlGdWZYTUdSMXp3cVI1TUxKQUtwYzNRTDRHRjNpTkM3eTJFM2t2UFFxWXg2ajdwbUNEV0R6dnV6Yk5GTGRyQjdhejdmN3lzM0M@185.5.38.111:55988#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_configs_pool
 
