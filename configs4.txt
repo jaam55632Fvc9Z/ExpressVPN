@@ -1,29 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://cb37d4b0-50fa-438f-bb25-0bf1397f9c78@Tapsi.ir:8880?type=ws&encryption=none&path=%2Fcdn&host=vp.movizdl.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://639c8b45-a9d0-48cf-b782-e80d73281f7b@mhmd.komak-ar-online.online:2052?path=/&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-privatevpns@35.181.72.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.72.23:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@35.181.72.23:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6a7791e4-5f66-4be8-81a4-8d718754739c@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40YamYamProxy
-
-vless://b356b9f9-b4d5-407a-b0d4-7718dc22a38c@92.42.207.97:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40YamYamProxy
-
-vless://b45b8e80-d36c-486e-b47d-f2d4882e0d65@snapp.ir:8443?path=%2Fweb&security=tls&alpn=h2&encryption=none&host=m1.fardaamoz.ir&fp=chrome&type=ws&sni=m1.fardaamoz.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40YamYamProxy
-
-vless://980fba0b-4dea-4128-8fb8-efdac879bd2d@tapsi.ir:8880?security=none&encryption=none&host=vp.movizdl.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40YamYamProxy
-
-vless://ab5e387b-4285-4148-9665-e66d640cf4eb@freeworld.nightwolf.blog:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=freeworld.nightwolf.blog#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40YamYamProxy
-
-vless://ab5e387b-4285-4148-9665-e66d640cf4eb@freeworld.nightwolf.blog:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=freeworld.nightwolf.blog#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://c18c5826-3843-4583-9270-49c3fa0df6d6@185.208.79.246:48266?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://b7a24830-cc90-40bf-b74e-e466986a4a0d@snapp.ir:80?path=%2F&security=&encryption=none&host=newbalance.zivaroid.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80?path=/&security=none&encryption=none&host=al1.apicallminecrafegame.online&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -163,4 +139,8 @@ vless://54056720-d09f-42d1-9b65-a51899d2ccf8@trex.nahidapp.com:443?path=%2Fvless
 vless://74afc380-4410-410c-a3f3-999d975bad19@haji.nahidapp.com:443?encryption=none&type=ws&security=tls&path=%2Fhaji%2F&host=haji.nahidapp.com&sni=haji.nahidapp.com&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://162534@161.33.197.118:443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://62d66671-0ab5-43b4-8a2f-3d74857fa5b2@185.143.233.68:443?encryption=none&%3Bsecurity=tls&%3Btype=ws&%3BheaderType=none&%3Bpath=/&%3Bhost=backend.parhamm2.ir&%3Bsni=backend.parhamm2.ir&%3Bfp=random#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
