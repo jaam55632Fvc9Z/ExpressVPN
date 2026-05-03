@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://9d9de5ad-4ce8-4d1e-870d-59fb859f5fa4@51.250.6.170:443?security=reality&type=tcp&sni=esg.x5.ru&fp=chrome&flow=xtls-rprx-vision&sid=382ae20b35c8bcc7&pbk=6S9Wy_u58vloVUxfyds4xCl8QCLklDKwP3uXTyd3THw&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@mouse2.1lil1.de:443?security=reality&type=tcp&sni=www.stackoverflow.com&fp=firefox&flow=xtls-rprx-vision&sid=c410508e9721512b&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@5.188.140.166:993?security=reality&type=tcp&sni=max.ru&fp=qq&flow=xtls-rprx-vision&sid=ad7dab462a323acb&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@151.242.43.238:2083?security=reality&type=grpc&mode=gun&serviceName=UpdateService&sni=apple.com&fp=qq&sid=6da16b1335651b38&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9995,8 @@ vless://33db2153-058e-4030-b966-36c7ea27275d@trex.nahidapp.com:443?path=%2Fvless
 vless://e16d20b5-cb84-4c44-ba28-2836bcdfb1c3@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://8ab13d70-68c8-47f2-be91-e30cb2cebba0@snapp.ir:80?type=ws&encryption=none&security=none&sni=ss7.limitless-cloud.ir&alpn=http/1.1&fp=chrome&path=/graphql?ed=2560&host=ss7.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://5bbeb671-4489-4b0e-b0a1-71047aa0b49c@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://33db2153-058e-4030-b966-36c7ea27275d@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
