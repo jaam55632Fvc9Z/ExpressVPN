@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://f189684b-6213-4c0d-a2e3-cb8860f5d4c5@94.228.219.49:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=27e540&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://8500fbd1-bba9-4fc1-94b7-69dbd1f30556@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=alaedin3.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=alaedin3.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://e66284bf-2cdd-4c02-b856-03b962e9f38f@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.4.130:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -45,4 +41,14 @@ vless://5bbeb671-4489-4b0e-b0a1-71047aa0b49c@trex.nahidapp.com:443?path=%2Fvless
 vless://daefb9b9-bc72-4045-afaf-ef952a43dce8@arvancloud.ir:80?path=%2F&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://1932bd95-55d4-4d95-b3ea-43f5c890a1e2@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://5c34ad0c-7802-49c5-80e2-900e566893e0@arvancloud.ir:80?type=ws&encryption=none&path=%40TunizoNET&host=ri.amirenzohost.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://2c3a3169-784f-4fde-8301-c1b4a0dcd738@snapp.ir:80?path=%2F&security=none&encryption=none&host=movie.slmastractor.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://48028784-4999-4447-8dbd-56a551f8dffa@snapp.ir:2082?path=%2F&security=none&encryption=none&host=iran.zebra-license.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://f46747a6-6797-48c3-9546-9914e0d13f75@snapp.ir:80?path=%2F&security=none&encryption=none&host=movie.slmastractor.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://465c319b-6963-4e61-a3ab-2bd407947fbf@snapp.ir:80?path=%2F&security=none&encryption=none&host=server-c0053a1c-f7bc-4c77-860c-1fbbcdec175b.ir-thr-si1.arvancompute.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
