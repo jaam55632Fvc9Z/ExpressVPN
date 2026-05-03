@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://7c1d17f5-4f43-4f78-9505-d50c38efc40b@193.34.212.80.vhub.pro:443?security=tls&type=grpc&mode=gun&serviceName=/sequre/grpc/&alpn=h2&sni=193.34.212.80.vhub.pro&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.94.90.201:8880?security=none&type=ws&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=www.udemy.com.joss.jak.biz.id#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.11.135.142:443?security=tls&type=ws&path=%2FFree-VPN-CF-Geo-Project%2FNL%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=support.zoom.us.joss.jak.biz.id&sni=support.zoom.us.joss.jak.biz.id#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.201:8880?security=none&type=ws&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=www.udemy.com.joss.jak.biz.id#%F0%9F%87%A8%F0%9F%87%BC%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.24.209.103:8443?security=tls&type=ws&path=%2FFree-VPN-CF-Geo-Project%2FDE%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=jamuur.joss.jak.biz.id&sni=jamuur.joss.jak.biz.id#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -2933,6 +2927,8 @@ vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?security
 vless://156c3200-265d-4257-9fa1-45a0fd1dfcb0@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 trojan://telegram-id-privatevpns@13.38.232.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://2b8d9d73-0031-42f9-9914-c8c579e087cb@104.18.12.149:443?allowInsecure=1&encryption=none&host=fire.rezazzz.ir&path=%2Fmovie&security=tls&sni=fire.rezazzz.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9995,8 @@ vmess://eyJhZGQiOiAiYXJ2YW5jbG91ZC5jb20iLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJtYWhzYXBy
 vless://0a83a956-12d0-4fdc-b1cf-b7a8c38eab9d@lumapartner.static-luma.website:1114?mode=gun&security=reality&encryption=none&pbk=Mk7MALlY4p_zGQZWKREiKY7OfbAjcqtBgJ6Pz3Nz-W0&fp=chrome&spx=%2F2QOukvBMH38ZFyb&type=grpc&sni=www.nvidia.com&sid=43e7309607e6#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
 
 vless://37a3226f-edb4-41d3-bc47-d139ad622cee@snapp.ir:8880?path=%3Fed%3D2560&security=&encryption=none&host=top1.teamlifez.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://f189684b-6213-4c0d-a2e3-cb8860f5d4c5@94.228.219.49:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=27e540&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://8500fbd1-bba9-4fc1-94b7-69dbd1f30556@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=alaedin3.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=alaedin3.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
