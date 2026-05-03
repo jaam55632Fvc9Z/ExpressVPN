@@ -54,3 +54,9 @@ vless://9c39306b-5086-48a1-9d36-d143da84f439@blubank.sb24.ir:8080/?type=ws&encry
 
 vless://e76d1e53-8c68-424e-b066-b1d25c4d343a@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://fca68f82-d630-47bf-8657-9b81d4b51014@188.121.124.181:443?security=tls&type=xhttp&headerType=&path=&host=static.cdn.asset.aparat.com&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=static.cdn.asset.aparat.com&fp=chrome&pcs=f562dc60b65f99780e34ce1d5b7074c74e812c346e9c75494905948c12ab60f6&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://303b4a58-5815-4e8f-9092-c8c865a6a2e6@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1d122a65-a480-47fa-b44a-c6460a71578a@78.157.51.190:1110?mode=gun&security=reality&encryption=none&pbk=etz9uxDwFy6O7tQNo3_yPAcYgffckAhZ_9i9MZ-ePhQ&fp=chrome&spx=%2FJRj26Ivjlg9QTXA&type=grpc&sni=www.yahoo.com&sid=ea#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
