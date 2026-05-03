@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://5a36c30b-cc00-41a2-9035-90a1358e60d7@185.143.234.235:8080?path=%2F&security=&encryption=none&host=io.binping.lol&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://4afe244e-5553-44c8-8216-e3ef33ac9765@abr.superip.ir:2095?path=%2FAPI%2Fsuperip&security=&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://fbc9770d-92d6-4578-a245-ae00752f7d05@abr.superip.ir:2095?path=%2FAPI%2Fsuperip&security=&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://4afe244e-5553-44c8-8216-e3ef33ac9765@abr.superip.ir:2086?path=%2FAPI%2Fsuperip&security=&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -4365,6 +4361,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.208.105.148:443?allowInsecure=1&
 vless://b61f56c8-9612-4ab7-9792-daadd927cd44@byebye.safeconfig.ir:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40AloConfig_com
 
 vless://db389661-a8b6-0ea9-353b-d421956df6c1@pari.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.204&alpn=&path=/&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.222:443?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfeng?ed=2560fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://bc6de0a6-6ac4-4137-acdc-8dfaf56a9362@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=gn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=gn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9997,6 @@ vless://69b1496e-a251-4d01-917b-3a29f67a187f@185.143.233.5:443?path=/@alaedin?ed
 vless://c879d5d3-eead-4119-8ebd-e31fb162c554@hongkong.xmm.maimaiyun.shop:5200?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=DR5dMzHBp1YpzIwrWftP4oa9uBMQVnUzIFgDD-WH9lU&sid=17562e4b0fb4&sni=s0.awsstatic.com&servername=s0.awsstatic.com&spx=/&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@95.85.248.68:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-None%20%7C%20%40v2nodes
+
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.141.215.51:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20GRPC-None%20%7C%20%40v2ray_configs_pool
 
