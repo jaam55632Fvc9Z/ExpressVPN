@@ -22,3 +22,7 @@ vless://dabf84d3-95b5-4c56-847b-654009175a83@varzesh3.com:8080?path=%2F&security
 
 vless://33db2153-058e-4030-b966-36c7ea27275d@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://e16d20b5-cb84-4c44-ba28-2836bcdfb1c3@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8ab13d70-68c8-47f2-be91-e30cb2cebba0@snapp.ir:80?type=ws&encryption=none&security=none&sni=ss7.limitless-cloud.ir&alpn=http/1.1&fp=chrome&path=/graphql?ed=2560&host=ss7.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
