@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBbGliYWJhIFVTIFRlY2hub2xvZ3kgQ28uLCBMdGQuIFx1MjUwNyA0Ny4yNDIuMTYzLjIwMyIsImFkZCI6IjQ3LjI0Mi4xNjMuMjAzIiwicG9ydCI6NDQzLCJpZCI6Ijc4ZjYxNTQ0LTMzOTMtNGU2Yi05Yzc3LTVkZWFhMGM3NDcxZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibjE3NjEyOTY4NzguNHU5bWEuaWN1IiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJuMTc2MTI5Njg3OC40dTltYS5pY3UifQ#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
-
-trojan://0xu9b7bi-nkfe-hoqx-nb2o-hyc1aftx3ja9@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://3w6rr19w-af7r-3o1w-d2wm-ydz011ok653m@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://82ags5j7-un6x-n06g-o5a6-ja32coa7uqek@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?sni=kuame.missionsec.us&peer=kuame.missionsec.us&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org&peer=ftp.debian.org&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://bqkoluln-78vv-fx6p-5703-cuwy5w59dybi@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
 trojan://vjrl5h7m-b81o-ccws-30h6-pdmfbgx7l5im@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://g6hpvt0c-xj6i-ghji-7mlj-ttssatj2lpf9@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -9999,4 +9985,18 @@ vless://09449ad1-e709-4fb6-a49a-077fb99da139@185.143.234.200:80?path=%2Fprivate&
 vless://09449ad1-e709-4fb6-a49a-077fb99da139@185.143.234.200:8080?path=%2Fprivate&security=&encryption=none&host=de.sapax-cloud.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://09449ad1-e709-4fb6-a49a-077fb99da139@snapp.ir:8880?path=%2Fprivate&security=&encryption=none&host=tr.sapax-cloud.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://telegram-id-directvpn@13.39.30.161:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.30.161:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.39.30.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://09449ad1-e709-4fb6-a49a-077fb99da139@10.10.10.10:5090?path=%2Fprivate&security=none&encryption=none&host=de.sapax-cloud.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://f8f4bb58-975b-44c5-bc48-bca740bacd00@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=alaedin4.8lack.ir&fp=firefox&type=ws&sni=alaedin4.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://f8f4bb58-975b-44c5-bc48-bca740bacd00@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin4.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin4.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://93b2ac46-7587-4738-93cc-f48507c27830@Ikco.ir:8080?path=%2Fcdn&security=none&encryption=none&host=cp.movizdl.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
