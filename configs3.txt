@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://3f931a8b-c1f2-4570-bbcf-5bceef8e6da0@zir.alihapps3.aghanami.ir:80?type=ws&encryption=none&path=/&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ee68ff88-9433-4f5e-8193-993bd8c016b7@185.234.66.94:443?security=reality&sni=node-936dfb.binngo.online&fp=chrome&pbk=AmlgZjBVKLpYPHXdfz_ylYnj-pEHI7Gb0El_yYI-mQI&sid=9954ce6f&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9997,6 @@ vless://595119b3-f88b-4481-8fc5-6538fe2e6f04@185.143.233.5:443?path=%2F%40alaedi
 vless://595119b3-f88b-4481-8fc5-6538fe2e6f04@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=alaedin3.8lack.ir&fp=firefox&type=ws&sni=alaedin3.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://62250394-be5b-4c29-af59-e1598568dc05@185.143.235.201:80?encryption=none&host=de.online-python.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://370b6ab1-b631-4642-a71d-802cc8d1db9b@p.ar-panelar.com:443?encryption=none&security=tls&sni=p.ar-panelar.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Va3lSho
 
