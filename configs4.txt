@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?path=%2F%3Fed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vasl_bashim
-
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjY5Ljg0LjE4Mi4xOCIsICJwb3J0IjogIjg0NDMiLCAiaWQiOiAiNmVkYmVlZTktZTMyNC00ZmRlLTllYzUtMzhiZTJmMGM1NjVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIndzIiwgImhvc3QiOiAidXMxMTEubmFuYXNlLmRlIiwgInBhdGgiOiAiL3Byb2ZpbGUvdXMxMTEiLCAidGxzIjogInRscyIsICJzbmkiOiAidXMxMTEubmFuYXNlLmRlIiwgInBzIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBXUy1UTFMgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
-
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjY5Ljg0LjE4Mi4xOCIsICJwb3J0IjogIjg0NDMiLCAiaWQiOiAiNmVkYmVlZTktZTMyNC00ZmRlLTllYzUtMzhiZTJmMGM1NjVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIndzIiwgImhvc3QiOiAicnUxMi5wYW9mdS5kZSIsICJwYXRoIjogIi9wcm9maWxlL3J1MTIiLCAidGxzIjogInRscyIsICJzbmkiOiAicnUxMi5wYW9mdS5kZSIsICJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggV1MtVExTIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
-
 vless://0e941919-1658-460f-b1b5-22a3bc0b0973@snapp.ir:80?path=/&security=none&encryption=none&host=aopas.reedsy.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vruaz.mostserv.xyz:443?security=reality&encryption=none&echfq=none&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vruaz.mostserv.xyz&sid=226509f017e4c36d#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -57,4 +51,14 @@ vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=/&%3Bsecuri
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://4ebf8a3b-e91a-4059-a6a1-0b42821bed4e@snapp.ir:80?type=ws&encryption=none&path=%2Fpok&host=pokim1.pokpok.site&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://bpb-trojan@russia.com:443?sni=bpb.wdgg1979.nyc.mn&alpn=h3&type=ws&host=bpb.wdgg1979.nyc.mn&path=/tr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://57e73366-b339-4577-8854-58fcd1843aa4@snapp.ir:2083?alpn=http%2F1.1%2Ch2%2Ch3&encryption=none&fp=randomized&host=cdn.modmondo.ir&path=%2Fhcgfjgfc&security=tls&sni=cdn.modmondo.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6bf13bcb-f3d1-406a-8588-bcc3502bbb54@de.tehranionliine.ir:80?type=ws&path=%2F&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://e3af4d80-d185-46ab-94c8-eb31b335a3f1@de.tehranionliine.ir:80?type=ws&path=%2F&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://8d8310cf-5257-4539-94f0-9b1c3822533e@de.tehranionliine.ir:80?type=ws&path=%2F&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
