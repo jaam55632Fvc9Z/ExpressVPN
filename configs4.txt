@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://f9fed79c-bc41-4871-8ab3-da46c47d2e38@185.143.232.224:80?security=none&encryption=none&host=sv1.ir5ive.ir&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOG1lUWRWcG1hN0prQ3RzRVVXY1M2Z2llS21GWGlhd0N3Z0ZNY0pxQ1hNcVMyZDlXckdwdWN5bk5haXk2bVVhc2Ria01pUlZESjVCaFNyckF1Z0N1Q0puWHViUkJIZXo@185.5.38.111:55988#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOHFpeXExTDR2S3NUZWdjZ0RkYXNUVW5iQ3Y0QjY2Y3g3dVdKZkh0MjRUaTNyeTlmZ2dtOWM0Smc0aXpqRUNmV1dSbWNOZm9HQ0FSRHk5Q2FDVm11Wmk4b3ZvUERMQ0g@185.5.38.111:55988#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -47,4 +45,10 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.113.225:22224?type=ws&securi
 trojan://telegram-id-privatevpns@63.180.113.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://telegram-id-directvpn@63.180.113.225:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b23b6a20-bade-422c-aa20-4c3fa1c1b46e@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://68cd549e-cac1-42f3-a8dd-df9c7d42490e@185.143.233.235:8080?encryption=none&host=Test.bosbedetoto.site&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://769d8528-0047-4819-9411-e7ba01be7e02@snapp.ir:2052?security=none&allowInsecure=0&encryption=none&type=ws&host=p1.razstar.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
