@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.128.76.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:443#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ vless://bdb1a633-6730-4144-9332-8ed2afa3ff3e@185.143.233.235:80?encryption=none&
 vless://b8b11bda-2a91-4370-a02f-49d39f637ca7@sahel.kalatkuhestak.com:80?flow=&path=%2F&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://1d122a65-a480-47fa-b44a-c6460a71578a@srv1daily.static-luma.website:1110?mode=gun&security=reality&encryption=none&pbk=etz9uxDwFy6O7tQNo3_yPAcYgffckAhZ_9i9MZ-ePhQ&fp=chrome&spx=%2FJRj26Ivjlg9QTXA&type=grpc&sni=www.yahoo.com&sid=ea#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://9e5e2210-9fe9-4071-bfb2-5432d0a37a3b@snapp.ir:80?type=ws&encryption=none&path=%2F&host=gm.borna-otbas.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://195b2457-f213-47a8-a7f3-2cc840fbc41e@in.kollabreshion.ir:5052?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://cd0ff3ac-d8f7-4382-97f6-a5c0240d9449@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
