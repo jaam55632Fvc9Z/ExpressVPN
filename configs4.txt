@@ -66,3 +66,9 @@ vless://2da2aaf4-cd87-4072-b06e-1075de85104a@trex.nahidapp.com:443?path=%2Fvless
 
 vless://3cda99a4-dd77-44e7-8bc2-7574ec893e4b@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://b3859071-05b8-4d63-a4d1-dae2f851ad1b@185.143.233.5:8080?path=%2F&security=&encryption=none&host=cdn.sesrsa.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://69b1496e-a251-4d01-917b-3a29f67a187f@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&host=alaedin4.8lack.ir&fp=chrome&type=ws&sni=alaedin4.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c879d5d3-eead-4119-8ebd-e31fb162c554@hongkong.xmm.maimaiyun.shop:5200?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=DR5dMzHBp1YpzIwrWftP4oa9uBMQVnUzIFgDD-WH9lU&sid=17562e4b0fb4&sni=s0.awsstatic.com&servername=s0.awsstatic.com&spx=/&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
