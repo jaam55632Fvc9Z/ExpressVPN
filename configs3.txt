@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.29:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://46b1b429-b332-4fa0-894f-c712e5761797@anten.ir:8080?path=%2F&security=&encryption=none&host=pt.novatechplus.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.198.167.93:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://95051aa9-b4a0-4344-9c8f-a40e1ffcc4f7@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cn.8lack.ir&fp=firefox&type=ws&sni=cn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://77534396-dead-4a6c-8761-03939cd4fdc8@172.64.149.54:443?path=%2F&security=tls&encryption=none&host=my.vulmart.ir&type=ws&sni=my.vulmart.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -409,6 +401,8 @@ vless://eed64110-dfd3-4881-b78c-7234a40e69aa@abr.superip.ir:2086?path=%2FAPI%2Fs
 vless://d2d347d1-0a53-4ebe-a56a-2dd04be4320f@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Blue_star_Vip
 
 vless://0e9efc43-bd1b-4275-80cd-69378b6c893c@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://557e836f-4604-4dd5-a0c0-d93ed8ef8fa0@abr.superip.ir:8080?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=library.phill-up.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -2672,6 +2666,8 @@ vless://ff40696b-06d6-443b-9481-8d01eddd13e1@107.181.151.39:443?encryption=none&
 
 vless://9c488e6e-932c-44cb-b488-0b27f591b034@151.101.64.155:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.243.106:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://8b2b686a-060f-4d2e-921b-4688ddb2189e@104.21.53.61:2083?path=%2FeyJqdW5rIjoiRExVYk9wRWRpdXY2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=v2ngfast.novaye6130.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=V2nGfaST.NOvAYe6130.WOrKERS.Dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.204.84:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -3701,6 +3697,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.3.201:443?encryption=none&h
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram%40wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206SkVTV1pFOGs3Z3NqNWNYVVprcEhRaHRQVzJ1MFBraml2VStWMHlzdmZKST06WEhNQ3RySHZDbmErUS9UdTgvc0FrVnY0Y1E3dFN6MmpWVkVXa3FDTlNaRT0@94.101.180.70:41768#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://8bf09e07-ca00-4853-9465-0445decb35b8@snapp.ir:2082?path=%2F&security=none&encryption=none&host=AZL.bosbedetoto.site&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9997,6 @@ vless://9e13716d-c43d-48b3-8cab-65e02d938ab5@chatgpt.com:443?path=/&security=tls
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@visa.org:2052?amp;type=ws&path=/VPNCUSTOMIZE,VPNCUSTOMIZE?ed=1080&host=aparat.com.bing.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.netrag.com.px.com.s95017.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.h99.ddns-ip.net.&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTI1Ni1nY206N0dhUUlNNHE4NHNMbmhxUUo4bUxxYjBLYmREbUJXeEtQYVhhNTl0Rlh0Zw@165.22.111.31:8388#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
 
