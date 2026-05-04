@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://2c58bb8d-9e30-4dbc-b5e1-b358efd939eb@185.143.233.235:2095?security=none&type=ws&headerType=&path=%2F&host=Ml.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://2c58bb8d-9e30-4dbc-b5e1-b358efd939eb@185.143.233.235:2052?security=none&type=ws&headerType=&path=%2F&host=dev.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://2c58bb8d-9e30-4dbc-b5e1-b358efd939eb@185.143.233.235:2082?security=none&type=ws&headerType=&path=%2F&host=Ml.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://2c58bb8d-9e30-4dbc-b5e1-b358efd939eb@185.143.233.235:2082?security=none&type=ws&headerType=&path=%2F&host=Dev.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://4KqegWwaYYHmpalaw12AtuiN1tGZ3dSC35RfYQ2Wt0notTUQOVxdaNbK9Ze11ufbRatLO9t670I0Zv07zwpi92byxHuEQJ0BKrwhD93wOCQ8m6rdln0DVq/NdCJXOsvQPYSzAYUvtcsNryoGYAQnlgsN0Dm/dvVUr1fDQH0Vb5fF5zoZP27sln9ptSwc9hQYYKBV2F6qvqVy498kQPYft9R9ePEkxzqLuCm+ehow4X3GFC2bPFKT4lETewqDe5sZyEy+1bqD7TIBXCS+Ocl4TDyKrFUD5yezRHL1LIRKCSACnecVIOT3Y02vE8N9HiiSAga0rvwnMhX07#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://2c58bb8d-9e30-4dbc-b5e1-b358efd939eb@185.143.233.235:2052?security=none&type=ws&headerType=&path=%2F&host=Ml.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -713,6 +703,8 @@ vless://6cb0c4c4-9057-485a-8030-176f597b3c1f@snapp.ir:80?security=none&allowInse
 vless://8823712c-9a8d-4c2a-b2a7-d5b3690d849a@185.83.113.134:54465?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40NormanV2ray
 
 vless://c93db35e-d85f-45f3-ad3d-d71037f919d5@185.83.113.134:54465?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40NormanV2ray
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEB2c2xzaGkiLCAiYWRkIjogIm1pZy1zaW4uZGFya3ViZS5pciIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIyNTQ3MjFhOS01NzM5LTRiYWYtYjM1ZC05YmM5NTBlMzQ2ZGIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcGkvZGlyZWN0IiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQHZzbHNoaSIsICJhZGQiOiAiMTg1LjIzNi4zOC40NCIsICJwb3J0IjogIjE5OTQ2IiwgImlkIjogImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAibm9uZSIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
 
@@ -9999,4 +9991,12 @@ vless://3b74fb6e-65c6-4d15-98ef-5be3b419ba37@matio.mestor.top:23865?type=tcp&enc
 vless://de3124f9-4515-408c-9a72-a2f10caa6ac2@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://e9e3e6b0-23b2-4c8e-b6c7-2b5d21ed7f96@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://8a642e35-328c-42ee-aad0-d050b131dbab@pg.nexorainnovationhub.ir:80?path=%2F&security=&encryption=none&host=finland.lezzaluxa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e6e34bd4-ff66-46f1-a7be-669992e5e6c0@pg.nexorainnovationhub.ir:80?path=%2F&security=&encryption=none&host=germany.lezzaluxa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://acbc75cc-45d5-4451-af1e-9c767e5d14c8@pg.nexorainnovationhub.ir:80?path=%2F&security=&encryption=none&host=finland.lezzaluxa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://8a642e35-328c-42ee-aad0-d050b131dbab@pg.nexorainnovationhub.ir:80?path=%2F&security=&encryption=none&host=germany.lezzaluxa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
