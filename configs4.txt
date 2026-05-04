@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://c463f0ed-2941-4b15-933b-e66ba7838ae7@varzesh3.com:8080?path=%2F&security=none&encryption=none&host=Op2.nexoratechcenter.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.18.43.25:8443?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=%2F%3Fed%3D2087&security=tls&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=randomized&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://a3ccbb57-7315-46dc-b18e-717663f20a92@snapp.ir:8880?path=%2Felctro&security=none&encryption=none&host=clud.extra-tm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -149,4 +145,16 @@ vless://c0395a82-18d0-4e3b-b8a3-20a032afb685@sr.novatechsapr.ir:80?path=%2F&secu
 vless://881b94e7-b5e8-4a07-a34f-670368b853cf@s3.vahshat.xyz:80?path=%2Fws&security=none&encryption=none&host=v2.greentab.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://bc228bf8-ed12-40fa-8445-1786289cbf3e@5.61.30.58:17832?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYXIxLnRlY2hyb2Fkcy5pciIsICJpZCI6ICJlMzRlYWVlYi00ZWM1LTQwOGEtYWEzOC1lNWM0YmNkMGE4NTUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+vless://bd239915-ebc8-4021-b07e-9a57a99d044e@snapp.ir:8880?type=ws&%3Bencryption=none&%3Bpath=/&%3Bhost=xnx3.nexoratechcenter.ir&%3Bsecurity=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://telegram-dickiriptorbot@vercel.com:443?mode=auto&%3Bpath=/%40dickiriptorbot&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=project-h7l2a.vercel.app&%3Bfp=chrome&%3Btype=xhttp&%3BallowInsecure=0&%3Bsni=vercel.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a0e4e8b6-0518-4f19-803e-eece71583392@72.56.81.130:2083?encryption=none&fp=&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=apple.com&type=grpc#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://a7c263f7-15b1-7140-39a0-4a75b7e40fcd@tr2.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.185&alpn=&path=/&headerType=http#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://49caa3b0-26a1-4df2-a25d-fe2cef0de66d@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
