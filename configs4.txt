@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://0d67c3ac-f4ce-4220-a8cd-3d212eebc335@snapp.ir:8080?path=%2F&security=none&encryption=none&host=bayernfan2.zivexy.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE0OS44OC4yMy4yMDciLCAicG9ydCI6IDE4MDAwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFRDUC1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
-
-vless://895a74fa-7b90-4cca-912d-cd2b8607c9fa@185.208.79.188:23458?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://e69d01b2-737b-4bb1-b4b6-93fd9f9e4fe6@apoloo3.skiv.me:443?path=%2Fapi30%3Fed%3D2048&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://8a57754e-b0f4-4006-bc26-5748a0f69fde@back.avenprime.ir:80?encryption=none&type=ws&path=%2F%3Fed%3D2050#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -77,4 +71,8 @@ vless://ae477427-c122-434d-8561-63a100bd0dc2@snapp.ir:8080?path=/&security=none&
 vless://87d3524b-e7dd-42da-8785-cecb5e8193f2@snapp.ir:8880?path=%2Felctro&security=&encryption=none&host=clud.extra-tm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40UnNurmal
 
 vless://a06f64b4-df30-411b-b190-578e45f5bca4@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://06f7ef68-a018-4980-a0e6-46e08b8e2d1c@panto.sordo.store:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=panto.sordo.store&fp=chrome&type=ws&allowInsecure=0&sni=panto.sordo.store#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a3f7312f-e302-41f7-9f80-e1b1baeebe80@ikco.ir:8080?encryption=none&security=none&type=ws&host=cp.movizdl.ir&path=/cdn#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 

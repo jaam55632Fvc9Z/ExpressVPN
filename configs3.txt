@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://kX59fYzQOSawiiuwLwtOEDX09qOfBFxkGy8dZ//S8TphZ0e+ymSDkBI2Lo4Z7nX/zzsQL7un1PKvzqtK/blkM621E1/yfab2CxB4nhXWrUfUBVDpAOO5eWNwlBZNgicXbNbQ6N7Y8vI2jbB/9n5hLR9QV+kQK6uHJqX6W8IxU1dFe+4ns2/0AA1o9DJIW8WtjHme3GCoQVxaW1yYr6ed2Vy4N9D2oH+Dou4Qrzs4EbEakZ+RpRzuU179rA8q5enVtknCbBQ80EYuc9BiOT5waVek/WkRjFm8u86PF/IGmv7wLeXAVCizKsuFmWLcwXyZ47aQYf7jmHy6gWDN2PErBwJMmyRWe9WWjFLczZATjOQPApObEIzMkhStil8r0bx8ZgS84zywPwC41QEO96RYU8hMvtW6g+0yAVwkvjnJeExc85zz5uYjs3YS2Rb1X9xF6NHwfQVQyv559piGmxRFKz/WJnGRNSxgPfSmffKa7btJnIq08mjEwX4+9u1pPskhxhQtmzxSk+JRE3sKg3ubGdsNYltJoqhbmZF0lFAHpw+zu0mcPmCQ7amqahXySYCYI08PyBfUrql+uM7QEXJ5KLhIr2PHO0jboEZcsWTTEA/dRcjVm0ubQ2bKwMWfd8hF#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.238.14.152:443?encrypttion=none&security=tls&sni=sni.1116.rokg&tbypghghke=ws&hot=v6u.rocjbg=%F%3Fjed%3D26ttps%3A%jjg%2Ft.e%2FangCai2nbbF0%9F%7A8%F0%9F%87%B3#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -680,6 +672,8 @@ trojan://bmmone8y-ebd0-wso2-m7xu-wgjpka85omxl@127.0.0.1:4080?security=tls&type=t
 
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFuQXZhcmFuIE1paGFuIE1pemJhbiBQSlNDIFx1MjUwNyA4NS4xMzMuMjA0LjY3IiwiYWRkIjoiYWRlbG1lbGkuY29tIiwicG9ydCI6ODAsImlkIjoiODllMjU1NjItZDBmMS00ZjU0LThhZmItNmVlMzc0ZTMwZmJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
 
+vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCAibmFtZSI6ICJDaGFubmVsIDogQEZyZWVDb25maWdGb3JZb3VcdWQ4M2NcdWRmZjRcdWQ4M2NcdWRmZjMiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDQzLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVENQLU5vbmUgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
+
 vless://9a06cc2a-8967-4d6b-abfc-f9c5501ff4ad@185.143.233.234:443?path=%2Fvoip&security=tls&encryption=none&insecure=0&host=s1.pishparda.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.pishparda.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40anty_filter
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJzaG9wLmJhcmF2YXJkZWgudG9wIiwgInBvcnQiOiAzMTYwLCAiaWQiOiAiNDQ1YzQ0MzUtYTg1ZS00ZTc1LThlZmYtMDE3ZDY2ODViNjBkIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIn0=
@@ -1043,6 +1037,8 @@ vless://327bd59b-ae93-4eae-910e-b0eaa8e88213@snapp.ir:8880?type=ws&encryption=no
 vless://50f5eb6f-3e24-4cc0-83be-f2e637c66422@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=pishparda.ir&sni=isna.ir&fp=chrome&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://50f5eb6f-3e24-4cc0-83be-f2e637c66422@185.143.233.234:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=s1.pishparda.ir&sni=s1.pishparda.ir&fp=chrome&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ1Ljg5LjUyLjIwNyIsICJwb3J0IjogMzk2NTEsICJpZCI6ICJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIiwgImFscG4iOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFRDUC1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
 vless://50f5eb6f-3e24-4cc0-83be-f2e637c66422@185.143.233.232:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=pishparda.ir&sni=pishparda.ir&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -9999,4 +9995,8 @@ vless://ae477427-c122-434d-8561-63a100bd0dc2@snapp.ir:8080?path=/&security=none&
 vless://87d3524b-e7dd-42da-8785-cecb5e8193f2@snapp.ir:8880?path=%2Felctro&security=&encryption=none&host=clud.extra-tm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40UnNurmal
 
 vless://a06f64b4-df30-411b-b190-578e45f5bca4@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://06f7ef68-a018-4980-a0e6-46e08b8e2d1c@panto.sordo.store:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=panto.sordo.store&fp=chrome&type=ws&allowInsecure=0&sni=panto.sordo.store#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a3f7312f-e302-41f7-9f80-e1b1baeebe80@ikco.ir:8080?encryption=none&security=none&type=ws&host=cp.movizdl.ir&path=/cdn#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
