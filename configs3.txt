@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cf.tencentapp.cn:443?encryption=none&security=tls&sni=tptpss.pages.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com https://dns.alidns.com/dns-query&type=ws&host=tptpss.pages.dev&path=/https://46.17.91.114:3000#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cf.tencentapp.cn:443?encryption=none&security=tls&sni=tptpss.pages.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com https://dns.alidns.com/dns-query&type=ws&host=tptpss.pages.dev&path=/https://91.227.97.113:443#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cf.tencentapp.cn:443?encryption=none&security=tls&sni=tptpss.pages.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com https://dns.alidns.com/dns-query&type=ws&host=tptpss.pages.dev&path=/https://118.163.99.115:443#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@www.mc.js.cool:443?security=tls&type=ws&ech=cloudflare-ech.com https://dns.alidns.com/dns-query&host=3-8gy.pages.dev&fp=chrome&sni=3-8gy.pages.dev&path=/&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.184:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vmess://eyJhZGQiOiAibjE3NTMzNTYzNzguNHU5bWEuaWN1IiwgImFpZCI6IDAsICJob3N0IjogIm4xNzUzMzU2Mzc4LjR1OW1hLmljdSIsICJpZCI6ICIzN2IyMDYzOS0wZDZlLTQ2ZjItOWRiNS00NzIyMDFiMTBjZGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@time.is:443?security=tls&type=ws&ech=cloudflare-ech.com https://dns.alidns.com/dns-query&host=3-vud.pages.dev&fp=chrome&sni=3-vud.pages.dev&path=/&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9989,14 @@ vless://3bd7c465-5fe5-4074-86e0-485bdecd855e@Ikco.ir:8080?path=%2Fcdn&security=n
 vless://318a6ad0-e10f-4ce4-bf36-9a3ff6477a4f@snapp.ir:80?path=%2F&security=none&encryption=none&host=vip.dijestbilty-en.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://33de85a6-210a-4e41-b4ea-b9a8c774ed60@trex.nahidapp.com:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=trex.nahidapp.com&path=/vless-ws&sni=trex.nahidapp.com&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogInBsYW5iLm1vamNuLmNvbSIsICJwb3J0IjogIjE2NjE3IiwgImlkIjogIjEyMzRmZWNmLTc3MmUtNGY2ZS04YzhmLWMwZWU2NGVlZWY4MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiMDhhZGUxYmYxY2Y1NGUyZTAyNjk0NmQwZWVlZjQwNDEubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIm0uY25tamluLm5ldCIsICJwb3J0IjogIjE2NjE3IiwgImlkIjogIjEyMzRmZWNmLTc3MmUtNGY2ZS04YzhmLWMwZWU2NGVlZWY4MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiMDhhZGUxYmYxY2Y1NGUyZTAyNjk0NmQwZWVlZjQwNDEubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogInQuY25tamNuLmN5b3UiLCAicG9ydCI6ICIxNjYxNyIsICJpZCI6ICIxMjM0ZmVjZi03NzJlLTRmNmUtOGM4Zi1jMGVlNjRlZWVmODAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjA4YWRlMWJmMWNmNTRlMmUwMjY5NDZkMGVlZWY0MDQxLm1vYmdzbGIudGJjYWNoZS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLU5vbmUgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogInBsYW5iLm1vamNuLmNvbSIsICJwb3J0IjogIjE2NjE4IiwgImlkIjogIjEyMzRmZWNmLTc3MmUtNGY2ZS04YzhmLWMwZWU2NGVlZWY4MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiMDhhZGUxYmYxY2Y1NGUyZTAyNjk0NmQwZWVlZjQwNDEubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+vless://6202b230-41c-4d8e-b624-#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
