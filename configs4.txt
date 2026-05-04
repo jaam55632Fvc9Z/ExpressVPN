@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://1f147de1-8b8d-6fc2-a7f0-4975b7a9c4a3@snapp.ir:2052?security=none&type=ws&path=/?ed=2056&host=bot.zahedimobile.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://18b6df7d-ecea-4fc9-8e9c-02ed54c82fa5@Ikco.ir:8080?path=%2Fcdn&security=&encryption=none&host=cp.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://61643566-3461-4534-a564-306539333732@185.143.233.177:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=&encryption=none&host=t.ufduiudud.site&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjIxNi4xNjcuNDYuMjI2IiwgInBvcnQiOiA1NzEzOCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImIxOGFlMWM3LWI5ZWYtNDMzYy1lYmQwLTM2YmI5YzYyY2Y4NiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBUQ1AtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-
 vless://d9a67f7b-4bea-44ad-9a4a-cae56dd4377e@arvancloud.ir:80?path=/&security=&encryption=none&host=t1.tunnellinuweb.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://78be9a65-9e6f-4b83-b382-e0aed1562a56@Ikco.ir:8080?path=%2Fcdn&security=&encryption=none&host=cp.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -85,4 +77,10 @@ vless://1abeebf2-8a59-4963-a405-72e0e431eebc@snapp.ir:443?path=%2F&security=tls&
 vless://1bfba457-f37a-45e6-a7e3-3704b06f71c6@snapp.ir:2087?path=%2F&security=tls&encryption=none&host=01team.no1plus.ir&fp=chrome&type=ws&sni=01team.no1plus.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://1abeebf2-8a59-4963-a405-72e0e431eebc@snapp.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=like.abkeyping.click&fp=chrome&type=@vaslbemonim7#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://eef82e78-5a10-ac23-747b-43569143c696@185.143.234.235:2087?path=%2F%3Fed%3D2087&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=i-love-iran.amlakayuni.ir&fp=chrome&type=ws&allowInsecure=0&sni=i-love-iran.amlakayuni.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-v2rayvpnchannel@15.188.230.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://telegram-dickiriptorbot@vercel.com:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40UnNurmal
 
