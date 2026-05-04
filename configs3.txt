@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWS2NHSHlkQXByOUY3R3V4@20.87.107.99:443?outline=1&prefix=POST%20Y330ac0y#%F0%9F%87%BF%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.230.66:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://r137979f@162.159.153.212:2087?allowInsecure=1&fp=chrome&host=sheleqaz.emotionreza.workers.dev&path=%2F&sni=sheleqaz.emotionreza.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp%@BestProxyTel1#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://2c58bb8d-9e30-4dbc-b5e1-b358efd939eb@185.143.233.235:2052?path=%2F&security=none&encryption=none&host=dev.artarona.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://65cb52fc-4c72-4b43-bdac-ed9c31a40714@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp%@vpnhajix#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://d81c6d8e-9b0b-4f6e-a270-ee1763a460ff@abr.superip.ir:2082?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://ffca22d4-e1dc-406a-8346-f20c4f09b78e@185.143.233.43:80?path=%2F&security=none&encryption=none&host=motabarim.service-panelbaz.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://e4c0d6d1-2647-4da6-8ec3-231f9951ee2f@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -451,6 +433,8 @@ vless://9fb3b971-748f-49d8-95f7-f5c10aa1aa13@snapp.ir:80?security=none&type=ws&h
 vless://b84e9baa-65a8-4f7a-8b26-c5b62f9944dc@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=hn.8lack.ir&fp=firefox&type=ws&sni=hn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://cc97c110-b686-42c5-9c47-3421765535da@185.143.234.235:8080?type=ws&encryption=none&path=%2F&host=io.binping.lol&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://d7f67e94-aa9e-4454-b1cf-ce522a0d2728@172.232.208.147:443#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40v2ray_configs_pool
 
@@ -3405,6 +3389,8 @@ vless://2ed70b33-c96c-49bd-a07c-adb8a9b5cfc6@snapp.ir:2086?path=%2F&security=non
 vless://642c4257-7cbe-4252-92f2-16ea915b8c0c@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=gn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=gn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
 
 vless://49d6aaf8-d069-4567-a972-17780a87af6f@185.143.235.200:80?path=%2F&security=none&encryption=none&host=static.ninja-online.shop&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ae212cbb-a22c-4b6f-b0b0-8d34c476cbdd@line2.gymplusplus.com:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9985,18 @@ vless://2718b46b-0450-42b4-bce5-3c335a57fe3c@185.143.233.43:8880?encryption=none
 vless://34a1fea5-d438-3109-582f-a7ab279cacb4@sdl.ciliko.ir:80?security=none&type=ws&path=/&host=#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://2de34838-1270-4fb0-bbe5-dfc9aa5c01a1@5.180.54.54:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sni=www.microsoft.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://9964c854-2126-4e61-bae5-d7bf97212f05@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://8b654ccb-78fb-4bcf-a9a9-76bc5d118193@arv.stormserver.eu:2052?encryption=none&type=ws&path=%2F&host=es.frostcomic.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://c09816d1-9b53-4e0d-85a8-9def477121ab@snappfood.ir:80?path=/ws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://84eb4659-a89c-4a61-b633-173c6d9abe8a@snapp.ir:80?path=/graphql?ed=2560&security=none&alpn=http/1.1&encryption=none&host=ss13.limitless-cloud.ir&fp=chrome&type=ws&sni=ss13.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.233.224:443?encryption=none&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?encryption=none&type=ws&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://e42f4ae1-172a-499f-aa2f-f6866f09fdcd@185.143.233.5:2052?path=%2F&security=none&encryption=none&host=cdn.sesrsa.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
