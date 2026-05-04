@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjg3MWRiMDJlNWY3ZTJm@57.129.35.242:11201#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjgyLjE5OC4yNDYuMjUwIiwgInBvcnQiOiAxODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVENQLU5vbmUgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
-
-vless://3bce7120-92e3-4914-88ad-eda8352bf4f4@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&type=ws&headerType=none&path=%2Fgamescore%3Fed%3D128&host=cdn6.restaurantworld.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-ss://3bce7120-92e3-4914-88ad-eda8352bf4f4@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&type=ws&headerType=none&path=%2Fgamescore%3Fed%3D128&host=cdn4.restaurantworld.ir#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://43488128-319e-f480-64ea-0acdc712e2a8@78.141.199.54:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&security=reality&sid=41427aa565e28984&sni=www.vodafone.co.uk&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.57.250:443?security=reality&encryption=none&pbk=wLkaWLYNGirBj1ggKZsnmlZiWnwZd99cIShBHVm7BQo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.muji.com&sid=c906f73d3ba8211f#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://52b44115-14f3-48f0-9801-7f196c4ad7ec@helm.sh:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=XXXXX.netlify.app&mode=auto&path=%2Fappxa&security=tls&sni=helm.sh&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -413,6 +403,8 @@ vmess://eyJhjdjjskdjxj#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 vless://39daf8d0-71d0-4d0f-87b6-1692631bb998@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://26524cce-d514-4014-a426-365fb266a14d@cf2.danfeng.eu.org:8443?encryption=none&security=tls&sni=ltaeqp.cdn-assets.fgfw.indevs.in&fp=chrome&alpn=http%2F1.1%0A&insecure=0&allowInsecure=0&ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=ltaeqp.cdn-assets.fgfw.indevs.in&path=%2Fdanfeng%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://43488128-319e-f480-64ea-0acdc712e2a8@136.244.93.228:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=a1b2c3d4e5f67890&sni=www.booking.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://26524cce-d514-4014-a426-365fb266a14d@cf3.danfeng.eu.org:8443?encryption=none&security=tls&sni=ltaeqp.cdn-assets.fgfw.indevs.in&fp=chrome&alpn=http%2F1.1%0A&insecure=0&allowInsecure=0&ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=ltaeqp.cdn-assets.fgfw.indevs.in&path=%2Fdanfeng%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -941,6 +933,8 @@ vless://6048472f-0993-4ae0-8203-960b9a0f4113@38.54.23.58:443?security=reality&en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@79.127.200.169:990#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTBmZGRlM2ItMGJlNi00NWNmLTllODgtMWZjNTcyZmQyOWY3IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwNjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.185.249.75:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.238.14.152:443?encrypttion=nongbzxdse&security=tls&sn=sni.1116.rokg&typghghke=ws&hot=v6c%F%3Fjed%3D26ttps%3%jj2Ft.e%2FangCai2F%A8%F0%9F%87%B3#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9993,10 @@ vless://fd28aaf6-c4d2-42ed-a026-79e018d47cf5@snapp.ir:2095?path=%2F&security=&en
 vless://bfdbed3f-596e-4fb5-b2c4-95c7a9f1ea1c@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://74c7f61a-9a59-4114-a5b6-2482fc53ce25@snapp.ir:8080?path=%2F&security=none&encryption=none&host=dn.bigmeow.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://telegram-dickiriptorbot@vercel.com:443?mode=auto&path=/@dickiriptorbot&security=tls&encryption=none&insecure=0&host=project-h7l2a.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://cb05a23a-4cda-4407-e1c4-e0b421a2af8e@mmd.az99x.info:8880?path=/&%3Bsecurity=none&%3Bencryption=none&%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJwb3J0IjogIjgwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIlNXRTAwMy5taWRhc25ldC53b3JrIiwgInRscyI6ICJub25lIiwgImlkIjogImIxZjVmOGI2LTFlNTItNDY0Yy1hZjdiLWNlNzNiNDI0NGE4NCIsICJzY3kiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJuZXQiOiAid3MiLCAiYWRkIjogImNkbi5pcC1zdGF0aWMuY29tIn0=
 
