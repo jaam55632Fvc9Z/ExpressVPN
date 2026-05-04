@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.4:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@love.zshabai.top:443?allowInsecure=1&encryption=none&host=2-eox.pages.dev&security=tls&sni=2-eox.pages.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.251.149:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.150.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.69:2095?encryption=none&host=cnmfangbinxingnmsl.cnm-fangbinxing--nmsl.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%BE%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.149.12.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.252.61:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9989,14 @@ vless://8f59feef-aab9-4e0b-924c-2a31bb8f446f@94.156.117.239:30086?encryption=non
 vless://f09d84b5-e6e0-4bf5-b8fd-c465bbf26602@5.61.30.58:17832?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=%2F%3Fed%3D2087&security=tls&encryption=none&host=i-love-iran.amlakayuni.ir&fp=randomized&type=ws&sni=i-love-iran.amlakayuni.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9821fef8-3740-4fcb-9e6b-32a5fca14551@185.143.235.200:80?path=%2F&security=none&encryption=none&host=static.ninja-online.shop&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ed698a54-2325-4f96-a846-5bf4429f4189@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://8d260e7a-a51d-4da3-82ad-570f5e8c4567@185.226.116.203:443?fp=chrome&pbk=RKl2FV4fP8rSGAOwdEJW3IEJtZxWF4k7ZzLDDJdpOwo&security=reality&sid=15108cd29b00d108&sni=www.aparat.com&spx=%2FKIEJE5drhB8tj1t&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://7d37755e-4865-41b5-bd6e-1f8fc7171a30@85.133.161.162:18025?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDg3NzkzY2MtOWQ3OS00ZmI4LWE0YTEtZmYxNWQ1MGU5ZmU3IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwOTIyIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
