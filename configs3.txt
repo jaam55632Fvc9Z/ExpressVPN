@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cf.tencentapp.cn:443?encryption=none&security=tls&sni=tptpss.pages.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com https://dns.alidns.com/dns-query&type=ws&host=tptpss.pages.dev&path=/https://211.34.105.110:443#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cf.tencentapp.cn:443?encryption=none&security=tls&sni=tptpss.pages.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com https://dns.alidns.com/dns-query&type=ws&host=tptpss.pages.dev&path=/https://168.167.220.27:443#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://43488128-319e-f480-64ea-0acdc712e2a8@95.164.85.33:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-n5iY1LH6WNzxc6_sQg_phf04553mzBExCqQzRvoA3U&security=reality&sid=41427aa565e28984&sni=www.rakuten.co.jp&type=tcp#%F0%9F%87%A9%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9995,8 @@ vless://df862b4c-2150-4b36-81ac-405036cf9ff6@108.162.198.90:2053?sni=kalami-eew.
 trojan://162534@142.91.108.54:443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://162534@64.176.42.143:443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8653132f-e411-402a-903c-637e02f2fe34@trex.nahidapp.com:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=trex.nahidapp.com&path=/vless-ws&sni=trex.nahidapp.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://3bd7c465-5fe5-4074-86e0-485bdecd855e@Ikco.ir:8080?path=%2Fcdn&security=none&encryption=none&host=cp.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
