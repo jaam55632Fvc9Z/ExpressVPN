@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.57.250:443?security=reality&encryption=none&pbk=wLkaWLYNGirBj1ggKZsnmlZiWnwZd99cIShBHVm7BQo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.muji.com&sid=c906f73d3ba8211f#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://52b44115-14f3-48f0-9801-7f196c4ad7ec@helm.sh:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=XXXXX.netlify.app&mode=auto&path=%2Fappxa&security=tls&sni=helm.sh&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://00000000-0000-0000-0000-000000000000@kubernetes.io:443?mode=auto&path=%2Fyourpath&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=xxxxxxx.netlify.app&fp=chrome&type=xhttp&allowInsecure=0&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://f7bae22e-20ab-11f1-835c-0242ac110002@141.98.169.100:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=fi1.cyphervpn.pro&pbk=z_mZq7riCGYKcTsXGCFX3KyhLL5PYgG3ydZ8_wM_ZkU&sid=5bfa0c&spx=/#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -1125,6 +1119,8 @@ vless://b9c5f438-a69a-4aad-ea2b-b98d0bc48cbd@94.183.241.26:33553?security=none&e
 vless://1f14348a-9dc5-612c-aaf3-f350ad911caf@snapp.ir:2052?path=%2F%3Fed&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://1c8eb478-5829-41c1-8b6c-ef74bb72edf8@kubernetes.io:443?security=tls&encryption=none&headerType=none&fp=safari&type=tcp&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://a9b0e6c8-3ec6-49db-9fe4-616cddec356c@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9995,8 @@ vless://telegram-dickiriptorbot@vercel.com:443?mode=auto&path=/@dickiriptorbot&s
 vless://cb05a23a-4cda-4407-e1c4-e0b421a2af8e@mmd.az99x.info:8880?path=/&%3Bsecurity=none&%3Bencryption=none&%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJwb3J0IjogIjgwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIlNXRTAwMy5taWRhc25ldC53b3JrIiwgInRscyI6ICJub25lIiwgImlkIjogImIxZjVmOGI2LTFlNTItNDY0Yy1hZjdiLWNlNzNiNDI0NGE4NCIsICJzY3kiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJuZXQiOiAid3MiLCAiYWRkIjogImNkbi5pcC1zdGF0aWMuY29tIn0=
+
+vless://adea5f62-81cc-4cd6-bf3a-9996d6608912@snapp.ir:8880?path=%2Fws%3Fed%3D2560&security=none&encryption=none&host=New1.legendperm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://af8f4239-a62d-4e64-8971-9fff51e518ba@snapp.ir:80?path=%2FFIRELINKKVPN&security=none&encryption=none&host=firelinkk.arian-go-internet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
