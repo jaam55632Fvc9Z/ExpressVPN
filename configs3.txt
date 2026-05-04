@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@www.mc.js.cool:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@mfa.gov.ua:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.144.190.230:443?encryption=none&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#%F0%9F%87%A6%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ vless://3556d424-6456-4799-b2c9-3531b5d779e9@79.137.198.154:443?encryption=none&
 vless://9c75ff13-cb1b-44c6-a957-380e96ca6a9b@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://1e2649a6-1460-4a5e-87a5-7352e4fe1344@arvancloud.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=t1.tunnellinuweb.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://1e2649a6-1460-4a5e-87a5-7352e4fe1344@arvancloud.ir:80?path=%2F&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://917fcebd-9320-41d1-afc6-93d11311852f@Ikco.ir:8080?path=%2Fcdn&security=none&encryption=none&host=cp.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://f591d7a2-fad4-4b16-99d5-54808d35a86e@mg6b.simbaaa.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.simbaaa.top&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
