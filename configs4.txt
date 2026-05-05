@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://9444d2b6-354e-4aa0-ab80-e73410967b4b@snapp.ir:80?type=httpupgrade&encryption=none&path=%2F&host=Ph.nexoratechcenter.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
-
-vless://4b071c0f-8bca-45e3-9550-c44f0f841373@red.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://f6be870c-1de2-4247-ab1f-1b68316df014@Snapp.ir:80?path=%2F&security=none&encryption=none&host=s0.artarasta.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://7067f11a-fbbb-4bb5-8319-045ca4ad2b29@nn.newlinemobile.xyz:443?security=reality&encryption=none&pbk=wsXy1grfbCmSz08iZ4nCmdLKZGc004GdObsjKr_rsGI&headerType=none&fp=chrome&spx=%2FwQD3zI92tNkyiVB&type=tcp&sni=www.aparat.com&sid=c10b47e88c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://f1fb42cf-5a0f-4200-a15f-06fd49117a77@line2.gymplusplus.com:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://3dd18d90-6bea-4c9a-ab37-63e89b7700ca@5.159.54.140:443?security=reality&encryption=none&pbk=A6_kAMUcoxeuilXwMvzPYFAP8ekULjxDu4KmQssG7Gc&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=@ProxyV2IR#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiaG9zdCI6ICJ3YWlyLnBhcnN6b25lMi5pciIsICJpZCI6ICI4NGRlYzc1My1mNmVkLTQ2ZmQtYmU4Mi1iMDQ5MGY2YzVkMjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
@@ -101,4 +91,6 @@ vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80?encryption=none&
 vless://800ada8b-3c15-44d8-93c1-d08b324c22a5@dl2.maxsteation.ir:80?encryption=none&host=dl2.maxsteation.ir&path=%2Fjs&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://3ec484f7-a6b2-4910-badf-9605a788d595@og.imagician.shop:47257?encryption=none&type=xhttp&path=%2FGyJhshsqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NkZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&host=digikala.com&mode=packet-up&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.101.121.169:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
