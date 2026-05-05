@@ -134,3 +134,11 @@ vless://85abe90d-bfb4-4546-ac48-e82d76e79248@185.143.233.232:443?encryption=none
 
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?sni=pl74.mechvpn.online&flow=xtls-rprx-vision-udp443&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://3fd9cbc7-a0bb-4dcf-a53b-b1ec499c141c@snapp.ir:8880?path=%2F&security=none&encryption=none&host=moein.akosha.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://bbbb2d05-3fdd-4fe5-9c1f-ac6051c0f926@ir.moodflix.ir:443?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+hysteria2://tgut4USqOM@srm.kishonline.online:443?security=tls&obfs=salamander&obfs-password=kish-data-center&insecure=0&sni=srm.kishonline.online#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
+
+vless://bbbb2d05-3fdd-4fe5-9c1f-ac6051c0f926@ir.moodflix.ir:443?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
