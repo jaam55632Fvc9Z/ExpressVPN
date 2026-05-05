@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://a1bc4f4b-72be-4437-a76d-01feb11cec22@db.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://06384dcc-6052-4449-aca3-2dcf9d992106@195.114.4.188:443?encryption=none&type=xhttp&security=tls&path=%2F6NDyyoyBtVe44WVxKukzgCarJfkFy&host=spn.dopnett.com&extra=%7B%22headers%22%3A%7B%7D%7D&sni=spn.dopnett.com&alpn=http%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
 vless://1fe989b3-42c0-4fac-b11f-0195ea793df5@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fchat%3Fed%3D128&host=dn.8lack.ir&sni=dn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFhIVFRQLVRMUyB8IEBmaWxlbWJhZCIsICJhZGQiOiAia3ViZXJuZXRlcy5pbyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIzZTBkZjE2Mi04MTk5LTQxMGItOTFiOC1kNDY3NWZhZjBhNTUiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInhodHRwIiwgInR5cGUiOiAiYXV0byIsICJob3N0IjogImZyYWJqb3VzLXBpa2EtNTY1N2I4Lm5ldGxpZnkuYXBwIiwgInBhdGgiOiAiL2FwaSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJrdWJlcm5ldGVzLmlvIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIn0=
@@ -9999,4 +9995,8 @@ vless://2dfdbb8d-fdd7-4946-87dc-9433ca19e0ce@snapp.ir:80?type=ws&encryption=none
 vless://011ba5ea-db98-4819-bddf-ee7d29fa34ca@arvancloud.ir:2095?path=%2Fstream&security=none&encryption=none&host=hosting.linuweb.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://f4b6f54f-a07a-4499-a4a7-b7f319cf87a1@185.255.90.231:37816?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://011ba5ea-db98-4819-bddf-ee7d29fa34ca@arvancloud.ir:2095?path=%2Fstream&security=&encryption=none&host=hosting.linuweb.ir&type=sogi#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://79dee56e-c57c-4eec-ba8f-f538853f44eb@snapp.ir:8080?path=helloworld&security=none&encryption=none&host=glm.outforyou.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
