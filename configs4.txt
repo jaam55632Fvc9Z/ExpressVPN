@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3RUFzb3JiazhUYkNjOUNWQV9yd3hB@5.42.124.48:8388#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRUdWSWxrc1BjMHVJbDRXZnBNbnN3@139.100.201.90:59#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://26524cce-d514-4014-a426-365fb266a14d@43.249.33.117:443?allowInsecure=0&sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&host=xfxl35a.node-edge.gfw.hidns.co&path=/danfeng?ed=2560fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%AD%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://47ee6406-998d-4c6f-b95b-6831f79aba6f@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://2898f99f-337b-406a-b5d3-09d03e9ee4b5@anten.ir:2052?path=%2F&security=&encryption=none&host=new.nanoline.ir&type=#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://c82d65ef-f626-4801-87a2-24d66497b8ac@snapp.ir:80?path=%2F&security=none&encryption=none&host=test1234-a1c43e7893-test1.apps.ir-central1.arvancaas.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=%2Fmovie&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=0&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8f59feef-aab9-4e0b-924c-2a31bb8f446f@94.156.117.239:30086?type=grpc&serviceName=gprc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-None%20%7C%20%40v2ray_configs_pool
-
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@gsoowjowj.toppho.ir:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40manVPN
@@ -93,4 +75,14 @@ vless://9e2e1292-038c-4317-bdfa-71aaa006b8a7@snapp.ir:80?type=ws&encryption=none
 vless://b2559f84-6585-46d6-9af0-7deddcb5955d@snapp.ir:8080?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://c2ef46b6-8e0a-4f1b-8dec-e3341eb25494@atro.pardazwe.ir:2082?path=/&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4af37467-bf79-4630-98d5-73e7dad60e90@ak2.vpnfreedom.tech:443?security=reality&encryption=none&pbk=l0saUZNgojrR6PjhL_fMHEBZlZ2TJypjRdQyy2mrFFI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=58#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://c45dc88d-13b6-40b6-9044-1ab406cc1662@snapp.ir:8080?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://99ce5058-0f41-4fb6-a2c6-339d07fea0a6@s3.vahshat.xyz:80?path=%2Fws&security=none&encryption=none&host=v2.greentab.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://1113d596-587f-4553-b276-0a288c88b6b9@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vitallife.gg&fp=chrome&type=ws&allowInsecure=0&sni=vitallife.gg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1113d596-587f-4553-b276-0a288c88b6b9@vitallife.gg:443?path=%2Fwp-content%2Fcachecache&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=vitallife.gg&fp=chrome&type=ws&allowInsecure=1&sni=vitallife.gg#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
