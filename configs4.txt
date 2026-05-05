@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://34458d30-b01e-4166-baf9-f9102e0375cb@red.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.digitalcommerce360.com:2053?path=%2F&security=tls&encryption=none&insecure=0&host=qyi.fqjd663.ggff.net&type=ws&allowInsecure=0&sni=qyi.fqjd663.ggff.net#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://2efcb430-6d59-4bf5-a0fc-6b6746c9c137@185.143.233.200:80?encryption=none&host=am.newshoppizii.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e69d5f8a-2629-45ac-889b-981983209933@166.1.89.21:443?security=reality&encryption=none&pbk=PxiVEKI3dp1UpqzpgnD31-Wl4MFiHjTI23ylGFn5Slg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=111111#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://00e7b6c6-7d47-413b-9f00-dc0be2c8c35c@varzesh3.com:8080?type=ws&encryption=none&path=%2F&host=ma.nexoratechcenter.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://d1b34a8a-b15e-4fda-9bf4-52978e77f7fd@snapp.ir:80?path=/&security=none&encryption=none&host=sb.borna-otbas.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -113,4 +101,20 @@ vless://bc6dd5e1-5e3a-408d-a936-f6d64bac65c1@185.143.232.201:2082?path=%2F&secur
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=%2F&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=Sky2.bbv2ry.pics#%F0%9F%8C%90%20WS-TLS%20%7C%20%40manVPN
 
 vless://22facc17-dda1-4000-9b45-b56fee01ae6d@91.107.144.71:54250?security=reality&encryption=none&pbk=hqFjJmgoV9E8zs3YIpiOFOljQjYuskuJuWF3mzkBzh0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=ce8a4a0afd73a293#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40manVPN
+
+vless://e2d8b1e1-f5ca-4a6f-8e7a-0c18f96607f2@abr.superip.ir:2082?encryption=none&type=ws&host=brand.bi6x.ir&path=/API/superip&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.80.118:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@3.66.80.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@3.66.80.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://47e16bae-6c0a-467a-92ac-cb73a2f57ce9@185.143.233.200:80?path=%2F&security=none&encryption=none&host=asd.parsimas.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-v2rayvpnchannel@3.66.80.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://2b576f31-dfc9-4df5-8528-405c4fa271f1@snapp.ir:8880?path=%2F&security=none&encryption=none&host=avaco.barbambizi.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://5f2aef90-37e9-4c78-9b61-c7cbbe373fd2@185.143.235.200:80?encryption=none&host=static.ninja-online.shop&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
