@@ -110,3 +110,13 @@ vless://a8cc54ea-bcbb-4e34-8d6b-beb0d04dceb4@snapp.ir:8080?path=/&security=none&
 
 vless://d361baa3-f708-4155-a0e4-d1d14192fba9@snapp.ir:8080?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://a9218966-27b7-42ad-a9da-7e63b12fcbb7@185.143.233.200:2082?type=ws&encryption=mlkem768x25519plus.native.0rtt.GSIe3kCJCEVNjj8p1N86sDfI-I8JF1_ZkYjQD2dwIyQ&path=%2F&host=nima.hayalco.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://716f1ea1-422a-4548-a755-b091a46f3a04@185.143.233.200:2082?type=ws&encryption=mlkem768x25519plus.native.0rtt.GSIe3kCJCEVNjj8p1N86sDfI-I8JF1_ZkYjQD2dwIyQ&path=%2F&host=nima.hayalco.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4b481152-ba7f-4445-8cc0-d33d58546e23@7qqrbome80g.country-27.de-nfast.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=tradingview.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@35.181.209.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://7b915647-fe6a-4da2-92b9-c2d999b5ac70@nl.gxnetshop.ir:80?path=%2F&security=none&encryption=none&host=vip.tickneloghy.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
