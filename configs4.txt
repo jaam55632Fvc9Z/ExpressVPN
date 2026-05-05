@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://parsis00355_50546@parsis00355.e.vannet.online:80?path=%2Fws&security=none&encryption=none&host=s1.maheran.ir&fp=chrome&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
-
 vless://c7784e78-ad09-4890-92b7-6feb6742b6b9@185.143.233.235:80?path=%2Fws-dl-echovps&security=none&encryption=none&host=dl.echovps.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://223e6faf-a5c7-46c9-8ccb-a34455505935@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -113,4 +107,6 @@ vless://b789bb08-096c-49ac-839b-5e9ea2377a32@185.143.234.235:80?encryption=none&
 vless://850255c0-8444-4b92-bf3f-01cde9f52fab@office.weai.ir:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=git.revi.voto&pbk=065ekp_uJftu5-HVe7NziOIS7ajpv0dylhsJK6ylzRE&sid=ffe4b45f7e2f0778#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://96b43cf5-e7c2-45b4-acdc-9fc68b814e6a@91.107.160.240:15684?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://3ab819c5-ae10-49c4-9e42-71e39c1838fc@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=alaedin10.8lack.ir&fp=firefox&type=ws&sni=alaedin10.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
