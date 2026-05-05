@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://de785621-c83d-4e3f-a8a1-bcd3b8b1dcb5@185.143.233.200:2082?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.GSIe3kCJCEVNjj8p1N86sDfI-I8JF1_ZkYjQD2dwIyQ&host=nima.hayalco.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://19b83916-ca1e-48c4-87d2-0fbc16af77c1@Tapsi.ir:8080?path=%2Fcdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
-
-vless://528a9573-d514-406b-ab6d-ac46765d09d9@Tapsi.ir:8080?path=%2Fcdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
-
 vless://26524cce-d514-4014-a426-365fb266a14d@160.22.17.48:443?sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls#%F0%9F%87%BB%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@103.15.90.134:49678?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%BB%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -97,4 +89,8 @@ vless://e0367939-e49a-4008-a4bd-6ddd2c6e9a17@snapp.ir:80?encryption=none&type=ws
 vless://e91f33c7-0426-4903-890b-87d599dfeaf1@arvancloud.ir:80?type=ws&encryption=none&path=%2F&host=m.ahwazteem.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://75ffa449-d6fd-4d47-93ce-a389756c0045@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40netmelli15
+
+vless://66f73678-34a5-4863-bd7b-cba151a2562e@185.143.233.5:2086?path=%2F&security=none&encryption=none&host=cdn#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80?encryption=none&security=none&type#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
