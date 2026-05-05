@@ -92,3 +92,19 @@ vless://82927348-f38d-4b09-a4c3-cee2474f3479@t3.mestershopyt.ir:80?path=/&securi
 
 vless://982c75a1-e8f8-4006-b50f-42a2c3bdd0b2@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://835b7482-9686-45e8-8cad-8ad9feab7465@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F%40alaedin%3Fed%3D128&host=alaedin9.8lack.ir&sni=alaedin9.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9050be34-c250-45f3-a9f8-62446dd8ea7e@185.143.233.233:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=pishparda.ir&path=/voip&sni=pishparda.ir&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5be7ilee481-c711-4b74-964e-bbd4453fe138@185.145.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://3cc55dca-3181-47ad-8786-bbc70a5d266b@iropen.playshoptv.com:38641?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://835b7482-9686-45e8-8cad-8ad9feab7465@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin9.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin9.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://835b7482-9686-45e8-8cad-8ad9feab7465@185.143.233.5:443?encryption=none&type=ws&host=alaedin9.8lack.ir&path=/alaedin?ed%3D128&security=tls&fp=firefox&sni=alaedin9.8lack.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://64569c45-7ce4-4336-bae6-fa3e59c9498a@snapp.ir:2052?security=none&allowInsecure=0&encryption=none&type=ws&host=M3.snllshop.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJjbGllbnQucmFoYWNwYW5lbC50b3AiLCAicG9ydCI6ICI4MzYwIiwgImlkIjogImJmMDVjMTlhLTkwMTQtNDRkMC04OTI5LWVjYzE5NzQ2OWY5MiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
+
