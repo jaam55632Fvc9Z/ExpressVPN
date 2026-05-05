@@ -58,3 +58,9 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?allowInsecure=
 
 vless://8a41fccd-f65d-4eae-9241-f7df4dfeeacc@elite.tornado-ping.com:26261?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@114.45.170.27:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWEwZDA5Mi02ZjBlLTQ3MDEtODFlZS00NTQ2NDNkNmQ1MDY@114.45.170.27:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://df58aacd-86b8-41e2-a399-d6ccbe1527d0@185.252.86.89:443?encryption=none&type=xhttp&path=%2F&host=invalidconnection.global.ssl.fastly.net&mode=auto&extra=%7B%22xPaddingBytes%22%3A%220%22%7D#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40YamYamProxy
+
