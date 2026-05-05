@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://3fd9cbc7-a0bb-4dcf-a53b-b1ec499c141c@snapp.ir:8880?path=%2F&security=none&encryption=none&host=moein.akosha.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://bbbb2d05-3fdd-4fe5-9c1f-ac6051c0f926@ir.moodflix.ir:443?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-hysteria2://tgut4USqOM@srm.kishonline.online:443?security=tls&obfs=salamander&obfs-password=kish-data-center&insecure=0&sni=srm.kishonline.online#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
-
-vless://bbbb2d05-3fdd-4fe5-9c1f-ac6051c0f926@ir.moodflix.ir:443?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://abbff0f3-741b-f33f-8773-ebbb65ae8d8d@iranassistance.com:80?path=/&security=&encryption=none&host=cdn.fars-rehan.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://abbff0f3-741b-f33f-8773-ebbb65ae8d8d@snapp.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=cdn.fars-rehan.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -63,4 +55,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWEwZDA5Mi02ZjBlLTQ3MDEtODFlZS00NTQ2NDNkNmQ1MDY@114.45.170.27:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://df58aacd-86b8-41e2-a399-d6ccbe1527d0@185.252.86.89:443?encryption=none&type=xhttp&path=%2F&host=invalidconnection.global.ssl.fastly.net&mode=auto&extra=%7B%22xPaddingBytes%22%3A%220%22%7D#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40YamYamProxy
+
+vless://910fb037-ef5b-4b2a-88dd-10d3b02e7d46@snapp.ir:8080?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://0df9c396-f15f-41ad-9c15-85438ea0f603@185.143.233.235:8080?encryption=none&host=R.artarona.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://96542854-eb4c-4c1c-83b6-f35735a3c80b@w07star.meepo1.com:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=http&fp=chrome&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
