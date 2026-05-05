@@ -1,37 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d51d0421-84e9-4ac1-9c6d-7e9deb7ad6d2@red.nahidapp.com:443?path=/red/&security=tls&encryption=none&host=red.nahidapp.com&type=ws&sni=red.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&path=%2F&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://cf1b86c8-a98f-4e1a-8cad-396c25a66131@104.20.6.134:80?encryption=none&type=xhttp&path=%2F&host=ws.ab841.com.&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@104.20.6.134:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.6.134:2052?encryption=none&type=ws&path=%2F&host=index.0x14.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2052?encryption=none&type=ws&path=%2Fassets&host=index.0x14.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@104.20.6.134:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.20.6.134:443?encryption=none&type=ws&security=tls&path=%2F&host=hio-awx.pages.dev&sni=hio-awx.pages.dev&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&sni=sni.111000.indevs.in&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&path=%2F%2B%40ProxyVPN11&host=vip.yaml7.ggff.net#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?encryption=none&type=ws&security=tls&path=%2Fdanfeng&host=snippet.danfeng.rr.kg&sni=snippet.danfeng.rr.kg&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&path=%2F&sni=sni.111000.indevs.in&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&path=%2F&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?encryption=none&type=ws&security=tls&path=%2F&host=y6-3cj.PAgES.DEV&sni=y6-3cj.PAgES.DEV&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&host=sni.jpmj.dev&sni=sni.jpmj.dev&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJhZGQiOiAiY3JlYXRpdmVjb21tb25zLm9yZyIsICJwb3J0IjogIjg0NDMiLCAiaWQiOiAiMzkzODIwMzQtMzkyMC00MTMwLWIyMjAtMzkzODIwMzUzMTIwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJub25lIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ0ci0xLnN0dW5uZWwuY2MiLCAicGF0aCI6ICIvd3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
-
 vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.95.193:443?security=reality&encryption=none&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=23#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://34458d30-b01e-4166-baf9-f9102e0375cb@red.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -133,4 +101,6 @@ vless://191417ce-7696-4253-85ec-8e95ea9c5b7b@185.143.233.5:8080?path=%2F&securit
 vless://ae366af4-9baa-4494-860c-4b60afd6e2d5@193.151.151.102:23361?security=none&encryption=none&host=aparat.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiMjA5NDUiLCAiaWQiOiAiNjdiYzhkZWEtM2I0YS00NjFmLWEzM2ItZGU5ZjdjOTFkNTQzIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+
+vless://ba32f635-4864-4753-bba2-9eeb0bcb9cdc@snapp.ir:8080?type=ws&path=%2F&host=simorgh.darerio.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
