@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@114.45.170.27:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWEwZDA5Mi02ZjBlLTQ3MDEtODFlZS00NTQ2NDNkNmQ1MDY@114.45.170.27:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://df58aacd-86b8-41e2-a399-d6ccbe1527d0@185.252.86.89:443?encryption=none&type=xhttp&path=%2F&host=invalidconnection.global.ssl.fastly.net&mode=auto&extra=%7B%22xPaddingBytes%22%3A%220%22%7D#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40YamYamProxy
-
 vless://910fb037-ef5b-4b2a-88dd-10d3b02e7d46@snapp.ir:8080?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://0df9c396-f15f-41ad-9c15-85438ea0f603@185.143.233.235:8080?encryption=none&host=R.artarona.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -77,4 +71,8 @@ vless://34dfb3a5-167f-4deb-94af-3a8c4ab02dd7@snapp.ir:80?path=/graphql?ed=2560&s
 vless://4d400592-45a1-4e05-80f6-8581658e71eb@5.159.54.140:443?encryption=none&type=tcp&#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAiY2xpZW50LmJhcmF2YXJkZWgudG9wIiwgImlkIjogIjczNzc5YzFiLTJmNjgtNDI3NC1iOWFkLWFjY2EzNzIxM2U1YyIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAzMTc2LCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#%F0%9F%87%B2%F0%9F%87%BD%20WS-TLS%20%7C%20%40v2nodes
+
+vless://6c23f193-b589-4498-bf67-824099e1b6c5@snapp.ir:2086?type=ws&encryption=none&path=&host=jing.eemehaze.lol&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
