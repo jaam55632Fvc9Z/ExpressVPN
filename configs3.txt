@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://cebc8955-cb85-4c2c-82c3-1909cb897287@svip-us.xiaobaivpn.icu:28811?allow_insecure=0&headerType=none&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://913e2ae2-5037-4cd3-9b61-65859bf61397@svip-us.xiaobaivpn.icu:28812?allow_insecure=0&headerType=none&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://b30cbaff-27c7-416d-9a51-9c79b9dd4930@svip-us.xiaobaivpn.icu:28812?allow_insecure=0&headerType=none&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45IiwgImFpZCI6IDAsICJhbGxvd19pbnNlY3VyZSI6ICIwIiwgImFsbG93SW5zZWN1cmUiOiAiMCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiaW5zZWN1cmUiOiAiMCIsICJwb3J0IjogMTgwLCAic2VjdXJpdHkiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVENQLU5vbmUgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
-
-vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.149.66:80?host=mute-violet-c674.poviy66273.workers.dev&path=%2F&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://c40bf260-ea57-4d7c-b56a-594c8fc01172@104.20.6.134:8443?allow_insecure=1&allowInsecure=1&host=eiiim.danesh-bonyan.Store&insecure=1&path=%2F&security=tls&sni=J0in-Te1egram-eiiim.danesh-bonyan.Store&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 trojan://cebc8955-cb85-4c2c-82c3-1909cb897287@svip-tg.xiaobaivpn.icu:28804?allow_insecure=0&headerType=none&security=tls#%F0%9F%87%B9%F0%9F%87%AD%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@152.42.246.234:443?allow_insecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&fp=chrome&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&path=%2F&security=tls&sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9987,16 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.184:443?allowInsecure=1&e
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@66.81.247.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.211.8.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.7.205:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d5e0fdcc-68fa-4ce4-8968-a966892e9fa2@185.143.233.43:8880?path=%2F&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://191417ce-7696-4253-85ec-8e95ea9c5b7b@185.143.233.5:8080?path=%2F&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ae366af4-9baa-4494-860c-4b60afd6e2d5@193.151.151.102:23361?security=none&encryption=none&host=aparat.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiMjA5NDUiLCAiaWQiOiAiNjdiYzhkZWEtM2I0YS00NjFmLWEzM2ItZGU5ZjdjOTFkNTQzIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
 
