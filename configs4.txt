@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://e2d8b1e1-f5ca-4a6f-8e7a-0c18f96607f2@abr.superip.ir:2082?encryption=none&type=ws&host=brand.bi6x.ir&path=/API/superip&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.80.118:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-privatevpns@3.66.80.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@3.66.80.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://47e16bae-6c0a-467a-92ac-cb73a2f57ce9@185.143.233.200:80?path=%2F&security=none&encryption=none&host=asd.parsimas.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-v2rayvpnchannel@3.66.80.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://2b576f31-dfc9-4df5-8528-405c4fa271f1@snapp.ir:8880?path=%2F&security=none&encryption=none&host=avaco.barbambizi.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
-
-vless://5f2aef90-37e9-4c78-9b61-c7cbbe373fd2@185.143.235.200:80?encryption=none&host=static.ninja-online.shop&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://54aec547-ba57-4ce5-bb92-70480272bc10@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://e0367939-e49a-4008-a4bd-6ddd2c6e9a17@snapp.ir:80?path=/&security=none&encryption=none&host=vip-nightgemshop.lezzasevio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -61,4 +45,10 @@ vless://57db7198-f4bb-4ed1-b5c7-ed233d3e8644@185.143.233.5:8080?path=%2F&securit
 vless://8cbdaeb6-18fd-3396-1687-22e0026a7063@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.243#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://4522a3f7-c12e-430c-b428-d59dcb5de811@hostioko.online:443?path=%2FW8IFdbZXc92UUldb1MBYzCwQif0uaX9DL3o%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hostioko.online&fp=chrome&type=ws&allowInsecure=0&sni=hostioko.online#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://e91f33c7-0426-4903-890b-87d599dfeaf1@arvancloud.ir:80?encryption=none&type=ws&path=/&host=m.ahwazteem.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://9b02c724-daa6-4e24-866b-4cd771eac533@185.143.233.200:80?encryption=none&type=ws&path=%2F%3Fed%3D2080&host=final.idbedam.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://bd239915-ebc8-4021-b07e-9a57a99d044e@snapp.ir:8880?path=%2F&security=none&encryption=none&host=xnx3.nexoratechcenter.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
