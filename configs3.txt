@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://132c9c49-9c87-4fb2-babd-85a2d0dca83c@xjp3.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://132c9c49-9c87-4fb2-babd-85a2d0dca83c@xjp4.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha01LTzlLWG93eEZjeDVB@20.87.107.99:443#%F0%9F%87%BF%F0%9F%87%A6%20TCP-None%20%7C%20%40v2nodes
-
-vless://6a3d6242-3de6-4c6d-82b0-0ac53eb7bf86@151.233.52.67:46636?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICIxNjUuMTQwLjIxNi4xNDEiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJub25lIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
-
-vless://2a08ff91-22f7-4e15-8e05-d7e359c04ea6@94.183.236.66:8880/?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=none#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
 vless://93713bf9-cd0d-4802-9a78-#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://b61f56c8-9612-4ab7-9792-daadd927cd44@byebye.safeconfi#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -419,6 +407,8 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&h
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.154.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@130.78.219.82:443?allowInsecure=1&alpn=http%2F1.1%2Ch2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ukos2.ksnodes.net&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.167.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -1405,6 +1395,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.87.3.224:8443?allowInsecure=1&en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.178.246:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://e50f23dc-d57e-447f-a143-489521baaa21@varzesh3.com:8080?type=ws&security=none&encryption=none&path=/&host=shop2.plusself.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://094b39c9-87a7-4999-9ef2-98cc06c6d11d@185.143.234.235:443?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=vip.iranpro3.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
@@ -9999,4 +9991,12 @@ vless://e30fa2fe-01e0-44e7-97b7-cc0b9e25d8c2@185.143.233.200:2095?type=ws&encryp
 vless://d428091c-e6eb-48f9-9a07-b44eb886ac90@217.18.61.215:443?security=reality&encryption=none&echfq=none&pbk=RsG53RnTZKpPwbKt0mnj3963DinwNFHpk3eWaHH6oG4&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=mydogcollections.com&sid=653253254366#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://68fbdb61-13a6-4940-b2b2-89aa51bcbd8b@185.143.233.43:8880?path=%2F&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://a574abf3-5314-4e04-a73e-f655d0c55785@arvancloud.ir:80?path=%2Fwww&security=none&encryption=none&host=www.s7r.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+hysteria2://Nb7SQvNGpA@srm.kishonline.online:443?security=tls&obfs=salamander&obfs-password=kish-data-center&insecure=0&sni=srm.kishonline.online#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
 
