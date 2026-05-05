@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://c3e30572-2fd5-40af-acb1-db50c1a68ea8@vip1.mamliserver.top:19351?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=vip1.mamliserver.top#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://ee461fc3-e177-48fc-9bad-1ad20a74b4db@62.60.146.181:3000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?encryption=none&fp=chrome&packetEncoding=xudp&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&security=reality&sni=hcaptcha.com&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://11a6d832-cac8-4ce4-a2f9-f0e87c4b6e35@shopcenter.lumavision.ir:8080?security=none&type=ws&headerType=&path=%2Fgraphql%3Fed%3D8080&host=shopcenter.lumavision.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -117,6 +113,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.156.19.138:2096?encryption=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A6%F0%9F%87%B2%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:2053?encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@138.124.32.189:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%20GRPC-None%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.72.206:8443?security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -299,6 +297,8 @@ vless://766d0e33-fc8f-4b22-9f26-4174e1b0f22c@kubernetes.io:443?mode=auto&path=%2
 vless://3618297d-a934-4e04-a548-856d186ed6a7@snapp.ir:80?encryption=none&type=ws&path=%2F&host=biawban.yeksancloud.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vasl_bashim
 
 vless://26524cce-d514-4014-a426-365fb266a14d@31.57.172.25:8606?&security=tls&sni=snippet.gfw.qzz.io&type=ws&headerType=none&host=snippet.gfw.qzz.io&path=%2Fdanfeng#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.59.228.27:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://327bd59b-ae93-4eae-910e-b0eaa8e88213@snapp.ir:8880?type=ws&encryption=none&path=%2F&host=amirali.nexoranepenthe661.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
