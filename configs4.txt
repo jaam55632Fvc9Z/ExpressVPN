@@ -46,3 +46,5 @@ vless://556d2515-b565-4519-9ad0-9ad6f792b6c1@104.18.12.149:8880?path=/api&securi
 
 vless://e76679fd-14d4-40bd-beb6-9decda836dd9@theme.baziarzan.ir:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
