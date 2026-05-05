@@ -56,3 +56,7 @@ vless://19aa42cf-7cf2-4e85-916a-b90187a319b4@Ikco.ir:8080?path=/cdn&security=non
 
 trojan://humanity@208.103.161.110:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://64343a7a-0415-475c-a6ec-1f2541ce976b@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://c530312f-91ca-4ece-a68c-35cb5a2c5aa7@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
