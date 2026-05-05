@@ -92,3 +92,9 @@ vless://1f148af9-cad1-6a24-bd95-f78a9312f14c@snapp.ir:2052?path=%2F%3Fed%3D2056&
 
 vless://4522a3f7-c12e-430c-b428-d59dcb5de811@185.212.49.130:443?path=%2FW8IFdbZXc92UUldb1MBYzCwQif0uaX9DL3o%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hostioko.online&fp=chrome&type=ws&allowInsecure=0&sni=hostioko.online#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+trojan://telegram-id-privatevpns@35.180.145.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@35.180.145.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.145.201:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+

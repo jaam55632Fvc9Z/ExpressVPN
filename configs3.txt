@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://540eef2b-2b9b-4e65-ac6a-644f80890294@tw2.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://540eef2b-2b9b-4e65-ac6a-644f80890294@dongjing.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://540eef2b-2b9b-4e65-ac6a-644f80890294@djj.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 trojan://540eef2b-2b9b-4e65-ac6a-644f80890294@db.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 trojan://540eef2b-2b9b-4e65-ac6a-644f80890294@seoul.ikan.su:443?allowInsecure=0&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ vless://fa1c113f-6d6c-47f4-a285-091efebaa4c5@188.212.99.90:1213?security=none&en
 vless://1f148af9-cad1-6a24-bd95-f78a9312f14c@snapp.ir:2052?path=%2F%3Fed%3D2056&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://4522a3f7-c12e-430c-b428-d59dcb5de811@185.212.49.130:443?path=%2FW8IFdbZXc92UUldb1MBYzCwQif0uaX9DL3o%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hostioko.online&fp=chrome&type=ws&allowInsecure=0&sni=hostioko.online#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://telegram-id-privatevpns@35.180.145.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@35.180.145.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.145.201:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
