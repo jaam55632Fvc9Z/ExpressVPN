@@ -62,3 +62,9 @@ vless://0df9c396-f15f-41ad-9c15-85438ea0f603@185.143.233.235:8080?encryption=non
 
 vless://96542854-eb4c-4c1c-83b6-f35735a3c80b@w07star.meepo1.com:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=http&fp=chrome&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.5:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://edc0f5c0-d142-491c-98ea-fc94a5872057@varzesh3.com:80?path=%2Fws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
