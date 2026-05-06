@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.176:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3Ftelegram&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjY3MTY0N2FmMGNmZmEw@38.242.222.183:11201#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.137.250.250:443?path=/?ed=2560&Telegram🇨🇳#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://15cbab96-197e-46a5-9042-073b3980c798@213.136.69.8:80?encryption=none&host=fsdns.ectunnelvpn.me&path=%2Fvless&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -1093,6 +1087,8 @@ vless://8c9fcc69-863c-4771-9473-a73c583870c8@vless02.yunjnet.com:50132?type=ws&e
 trojan://8c9fcc69-863c-4771-9473-a73c583870c8@pokemon-01.yunjnet.com:54032?allowInsecure=1&peer=www.apple.com.cn&sni=www.apple.com.cn&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://8c9fcc69-863c-4771-9473-a73c583870c8@pokemon-01.yunjnet.com:59110?allowInsecure=1&peer=www.lamer.com.hk&sni=www.lamer.com.hk&type=tcp#%F0%9F%87%B2%F0%9F%87%BE%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@150.241.103.74:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st-2.globalcache.onnstreaming.ru&fp=chrome&pbk=NOhuaiHfc8Tv7VrFKnNgr-VN594kxtUCslNEBhySvXQ&sid=aa69f619e4414362&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://8703c844-375d-4d1f-9221-b5d1fc17869a@snapp.ir:80?path=%2F&security=none&encryption=none&host=cpi.lithiumnet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9995,8 @@ vless://0ae10bee-3a17-498c-8f28-1f154763d507@snapp.ir:80?path=%2F&security=none&
 vless://31570cd1-3031-4525-a334-54dd2240d566@arvancloud.ir:80?path=/&security=&encryption=none&host=gh6.ghostantaniehh.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://8198185d-3057-4a9a-94d1-c77e6a8a1d2d@Tapsi.ir:8080?path=/cdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://5a0cc3c8-787c-472b-9c64-75072da41a6d@react.dev:443?mode=auto&path=%2Fv1%2Fvideo&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=lovr-gaamole.digielipan.store&fp=randomized&type=xhttp&allowInsecure=0&sni=react.dev#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiOTQuMTAxLjE5MS4xOTQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAicG9veWFuZ3J1MTIzLTBkN2NkYmYwMmQtbmdpbnguYXBwcy5pci1jZW50cmFsMS5hcnZhbmNhYXMuaXIiLCAiaWQiOiAiNGMzYTUzOWQtMzkyMy00NWI0LWZmYjQtNzYxODA3ZGE1YjZiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogImh0dHB1cGdyYWRlIiwgInBhdGgiOiAiL3JhaWthIiwgInBvcnQiOiAiODA4MSIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgSFRUUFVwZ3JhZGUtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 
