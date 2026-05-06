@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d7afb7cd-b16d-4640-8e97-6d7d0f6eb049@185.143.233.5:2086?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=cdn.mizbanertebatfarda.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6e5572ad-ed75-4b45-a394-40c1650550e6@snapp.ir:1?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=M1.snllshop.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 trojan://telegram-id-privatevpns@13.36.216.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://telegram-id-directvpn@13.36.216.227:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -63,4 +59,8 @@ vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:5
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAiYWRkIjogInd3dy5hcnZhbmNsb3VkLmlyIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiY2U5M2U4YTktNDdiNC00N2Y4LTgyZjAtZWUyMzNmYjAwZDcxIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJzbmFwcGZvb3RkaWdpdG9yb2JmdWxseW11bGwucmF5YW5ub2IuaXIiLCAicGF0aCI6ICIvcmF5WW91IiwgInRscyI6ICJub25lIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
+
+vless://1903b9c4-7cea-4beb-be2a-845ae73e29cc@zeusgg.isfahangaming.com:80?path=%2F&security=none&encryption=none&host=zeusgg.isfahangaming.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d508e123-a3de-4e99-98fe-80b995eec308@anten.ir:80?encryption=none&host=speed.academyrezaei.site&path=%2Fseed%2Ftv&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
