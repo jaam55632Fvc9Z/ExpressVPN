@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://29b22aaf-9301-4c33-8a06-e96d64461c91@jplic.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%AF%F0%9F%87%B5%20GRPC-None%20%7C%20%40v2ray_configs_pool
-
-trojan://939d77ba-df6c-4dd0-84a1-7f5c43ca81e4@jplic.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%AF%F0%9F%87%B5%20GRPC-None%20%7C%20%40v2ray_configs_pool
-
-trojan://29b22aaf-9301-4c33-8a06-e96d64461c91@usrna.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40v2ray_configs_pool
-
-trojan://939d77ba-df6c-4dd0-84a1-7f5c43ca81e4@usrna.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40v2ray_configs_pool
-
-trojan://29b22aaf-9301-4c33-8a06-e96d64461c91@hkzoa.osaip.net:443?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%AD%F0%9F%87%B0%20GRPC-None%20%7C%20%40v2ray_configs_pool
-
-trojan://939d77ba-df6c-4dd0-84a1-7f5c43ca81e4@hkzoa.osaip.net:443?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%AD%F0%9F%87%B0%20GRPC-None%20%7C%20%40v2ray_configs_pool
-
-vless://181a7f24-0cef-428c-8df6-c871a1271905@185.81.97.104:443?security=reality&encryption=none&pbk=WUvZR3pEahzcYkzf3DdizGuZKicrSReLo-If2ZpMmHw&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=45#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://fda72c37-1d40-41cd-9645-12d2d4e64d0a@185.143.233.43:8880?path=%2F&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://9870cd9f-a920-41e1-8632-dfcc559cf032@ir2.cdnk1.cfd:443?encryption=none&host=ir2.cdnk1.cfd&path=%2Ftime&security=tls&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://820c8383-eefe-4976-835e-9848875a063f@s2.koroshvip.ir:55115?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://65ab3bd3-969c-4009-8c0c-75d8d0adea29@cursor.com:443?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=randomized&host=lovers-photography-portfolio.digielipan.store&mode=auto&path=%2Fv1%2Fupload&security=tls&sni=cursor.com&type=xhttp&x_padding_bytes=100-1000&alpn=h2%2Chttp%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://65ab3bd3-969c-4009-8c0c-75d8d0adea29@nextjs.org:443?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=lovers-photography-portfolio.digielipan.store&mode=auto&path=%2Fv1%2Fupload&security=tls&sni=nextjs.org&type=xhttp&x_padding_bytes=100-1000&alpn=h2%2Chttp%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -91,4 +71,8 @@ vless://pv#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 vmess://eyJ2IjogIjIiLCAiYWRkIjogInVzMDIuYmN0dW8udG9wIiwgInBvcnQiOiAxNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMzE4MDE5NjgtOTg3Ny00ZWY1LWJlODctNTY1MDNjMzRhNjlkIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
 vless://255b8da7=ws#%F0%9F%8C%90%20TCP-None%20%7C%20%40netmelli15
+
+vless://c07df9d8-9e77-4ecb-94e8-775553f94ae8@snapp.ir:80?type=ws&path=/&host=simorgh.darerio.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d2855de9-3d49-4116-b8df-7e86318192d5@188.121.124.181:443?encryption=none&type=xhttp&mode=auto&host=static.cdn.asset.aparat.com&security=tls&fp=chrome&sni=static.cdn.asset.aparat.com&pcs=f562dc60b65f99780e34ce1d5b7074c74e812c346e9c75494905948c12ab60f6#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
