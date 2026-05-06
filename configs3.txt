@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=none&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&fp=chrome&type=grpc&sni=www.ebay.com&sid=775eb6408888248e#%F0%9F%87%B8%F0%9F%87%A6%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:8443?allowInsecure=1&encryption=none&host=CiallO-eGb.pAGEs.Dev&path=%2F%25252F&security=tls&sni=CiallO-eGb.pAGEs.Dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9989,14 @@ vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?security=none&allo
 vless://3db4f30e-8237-40a3-92d4-f5aabb87b797@snapp.ir:2086?type=ws&encryption=none&path=&host=jing.eemehaze.lol&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://134a306b-e8dd-445d-9968-7013c39cd74a@185.143.233.5:2086?path=%2F&security=none&encryption=none&host=cdn.mizbanertebatfarda.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://13d012d2-16fd-48c3-92b4-571dacf610f8@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d488da44-3971-48aa-ab19-0f034fb40fc6@185.143.233.5:80?path=%2Fxray&security=none&encryption=none&host=bot.vipiranian.de&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://bffba66e-cbad-471f-940c-866268fb7d79@185.24.253.107:443?encryption=none&type=xhttp&mode=auto&host=cdn.gapfilm.org&security=tls&fp=chrome&sni=cdn.gapfilm.org&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://5eb86c04-381a-4493-abf1-44511e5a4f26@snapp.ir:80?path=%2F&security=&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9b3ee2d1-99ef-40ba-9956-8746f6490441@185.143.233.200:80?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.sdQ0jWsX6B8yh97yoZt4k_1nlR0zlApK3MV_hQD7KyA&host=nima.hayalco.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
