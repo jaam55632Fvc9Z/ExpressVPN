@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://ffca22d4-e1dc-406a-8346-f20c4f09b78e@185.143.233.43:80?path=%2F&security=none&encryption=none&host=motabarim.service-panelbaz.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.220.210:443?encryption=none&security=tls&sni=sni.111000.v6.navy&allowInsecure=1&type=ws&host=sni.111000.v6.navy&path=t.me/v2Line#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFRDUC1Ob25lIHwgQHYybm9kZXMiLCAiYWRkIjogImNwLnBhZWFkaXkuY29tIiwgInBvcnQiOiAiMTE5MDIiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjdmM2RiYzYxLWYxNDAtMzdjNC05ZmJkLWVjNjQ5ZWEyZDc5MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogImNwLnBhZWFkaXkuY29tIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2053?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9991,12 @@ vless://ad34772d-1f0f-4fb0-97cf-42edbca1a285@185.143.233.200:80?path=%2F&securit
 vless://b6d129a3-1f94-43a2-8a8b-fe5ec87fe945@185.143.233.200:80?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.sdQ0jWsX6B8yh97yoZt4k_1nlR0zlApK3MV_hQD7KyA&host=nima.hayalco.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.11.87:443?security=reality&encryption=none&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://cd34aece-f7f5-421c-a3d5-13002429a6b7@79.137.198.154:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=XrXK3qb2CKCBP80Vkg3WfNBB4gpy4YOADmQ7mhHfDWE#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaSDQzNGFIUFcwWUFTX0gyQk56RUhjNVN1dU1TTS1Fcg==@138.124.118.94:8080#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
+
+vless://4380f668-616f-4cdf-876e-627c4c02c7d0@91.99.166.65:80?type=xhttp&mode=auto&host=shahin2001lunavo.global.ssl.fastly.net&path=/lunavo-vpn&security=reality&fp=chrome&sni=aider.chat&pbk=nuNgT0HxAJ7YZPfM5uYM_-8aDKvCmr9jQpxBUMRjJRE&sid=39f0afc3&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40manVPN
 
