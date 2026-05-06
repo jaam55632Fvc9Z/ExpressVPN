@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.178.246:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 vless://e50f23dc-d57e-447f-a143-489521baaa21@varzesh3.com:8080?type=ws&security=none&encryption=none&path=/&host=shop2.plusself.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -1133,6 +1131,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.226.77.72:2053?allowInsecure=1&e
 vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://04fa65ad-5178-49c0-b679-a5442e3bfe78@185.143.234.235:80?path=%2F&security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://2f4e3910-aa35-41a4-856a-5a75d19dd853@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nlety.ksnodes.net#%F0%9F%87%A6%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
