@@ -64,3 +64,9 @@ vless://26524cce-d514-4014-a426-365fb266a14d@158.101.146.3:44872?path=%2Fdanfeng
 
 vless://5e36a078-45e8-4472-955a-b6c8ab36de48@cdn.abzartabriz.ir:2053?type=ws&encryption=none&path=/webpath&host=&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=cdn.abzartabriz.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://5304b062-1008-457b-976d-6157f803537e@snapp.ir:80?type=ws&encryption=none&path=%2F&host=sb.borna-otbas.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e041b478-70ee-4353-ae90-a0e2997e5596@Tapsi.ir:8080?path=%2Fcdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://UUID@IP-SERVER:PORT?type=tcp&security=none&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
