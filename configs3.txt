@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.4.130:8443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.73:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d4632a9f-8066-4bc8-ab8e-a63e90a84534@snapp.ir:80?path=%2F&security=none&spx=@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3----@CloseFriend3&encryption=none&host=api.morvaridvps.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://65b13fcb-d6f8-45ed-a4d3-010234a07e55@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=an.8lack.ir&fp=firefox&type=ws&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://98009b5c-0a47-4073-bee5-f63d70cbefe7@snapp.ir:8880/?type=ws&encryption=none&path=%2Fe&host=sub1.pavps.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://4b7d7e81-897e-4795-bc99-aeb12a3b82bc@snapp.ir:2095/?type=ws&encryption=none&path=%2Fw&host=p.pavps.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -7958,6 +7950,8 @@ vless://21c6716f-2883-4e10-a84f-ec1d7b107794@Tapsi.ir:8080?path=%2Fcdn&security=
 
 vless://17f709ad-3462-4bbc-b21a-b08eff53cb93@snapp.ir:8880?type=ws&encryption=none&security=none&path=%2Felctro&host=clud.extra-tm.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://64a09c34-fbf2-48ff-977f-8e912c8ec2fb@arvancloud.ir:80?encryption=none&type=ws&path=%2Fed%3D2048&host=cdn-7ecec1db8c-ff.apps.ir-central1.arvancaas.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
 vless://b796cfb7-9e1f-4e89-baee-d5ddd7cd6dda@arvancloud.ir:80?type=ws&encryption=none&path=%2F&host=m.ahwazteem.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://c073fb28-fbf6-4772-95ff-988dd0b33905@Tapsi.ir:8080?path=%2Fcdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
@@ -9999,4 +9993,10 @@ vless://a160da89-e6a7-4335-a99b-60381d229058@185.143.234.235:2053?path=%3Fed%3D2
 vless://2c145456-285f-427e-82b3-6373dd4e7811@snapp.ir:2086?type=ws&encryption=none&path=&host=jing.eemehaze.lol&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bzMwLy96bVFablcrRzZsdGJ3aU5PVEFCdHI2Skx5TDBNQnd1ZDBnZDBGWT06T09xcUpGSHI1S1pYUUloVTFBZFhHT1NtRkFHb0UvdmxmZ0toc1RyU1dMYz0@87.107.111.105:80#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSDJUaVVlRDduU05rTld0Mm1uZU9JQmRYWFFnT2NsWDRFakhmS0ZYMExrPQ==@pahlavinet.vixonportab.site:10500?security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@172.67.65.144:2083?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://174377a8-7429-4793-af64-7d53e0675a84@tamin.ir:80?encryption=none&security=none&type=ws&host=mysql.reedsy.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
