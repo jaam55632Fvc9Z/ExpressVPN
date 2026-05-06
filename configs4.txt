@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://4f127da2-1e6d-4287-855c-b99a5782988d@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://df08ab2f-fed0-46c6-8f44-53555c4d70ea@dl2.silentrp.ir:80?path=%2Fjs&security=none&encryption=none&host=dl2.silentrp.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2nodes
-
-vless://pv#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vmess://eyJ2IjogIjIiLCAiYWRkIjogInVzMDIuYmN0dW8udG9wIiwgInBvcnQiOiAxNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMzE4MDE5NjgtOTg3Ny00ZWY1LWJlODctNTY1MDNjMzRhNjlkIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
-
-vless://255b8da7=ws#%F0%9F%8C%90%20TCP-None%20%7C%20%40netmelli15
-
 vless://c07df9d8-9e77-4ecb-94e8-775553f94ae8@snapp.ir:80?type=ws&path=/&host=simorgh.darerio.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://d2855de9-3d49-4116-b8df-7e86318192d5@188.121.124.181:443?encryption=none&type=xhttp&mode=auto&host=static.cdn.asset.aparat.com&security=tls&fp=chrome&sni=static.cdn.asset.aparat.com&pcs=f562dc60b65f99780e34ce1d5b7074c74e812c346e9c75494905948c12ab60f6#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -75,4 +63,22 @@ vless://4649d681-7f26-4959-a3f2-02eb8866230f@144.31.90.75:9443?security=reality&
 vmess://eyJ2IjogIjIiLCAiYWRkIjogInNray5tb2UiLCAicG9ydCI6ICI4MCIsICJpZCI6ICI2NWIxN2MwYi0wYTUyLTRiNTQtOWJjOS02MGUzMTM5N2I4NDEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAicGF0aCI6ICIvNjViMTdjMGItMGE1Mi00YjU0LTliYzktNjBlMzEzOTdiODQxLXZtZXNzIiwgImhvc3QiOiAic2trLm1vZSIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 
 vless://8b14eb34-523d-4973-b59e-ce6885323983@st.picdev.online:56710?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://00000000-0000-4000-8000-000000000000@185.104.151.190:44333?security=tls&type=ws&path=%2F%40Marisa_kristi&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://00000000-0000-4000-8000-000000000000@91.186.217.43:35469?security=tls&type=ws&path=%2F%40Marisa_kristi&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://26524cce-d514-4014-a426-365fb266a14d@106.245.187.246:18246?security=tls&type=ws&path=%2Fdanfeng&host=akrip7.beta-edge.fgfw.indevs.in&alpn=http%2F1.1&sni=akrip7.beta-edge.fgfw.indevs.in&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://26524cce-d514-4014-a426-365fb266a14d@211.106.142.25:20005?security=tls&type=ws&path=%2Fdanfeng&host=ynwta9.api-edge.fgfw.qzz.io&alpn=http%2F1.1&sni=ynwta9.api-edge.fgfw.qzz.io&fp=firefox#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://26524cce-d514-4014-a426-365fb266a14d@31.59.138.207:8443?security=tls&type=ws&path=%2Fdanfeng&host=xjv.node-proxy.chinam.indevs.in&alpn=http%2F1.1%0A&sni=xjv.node-proxy.chinam.indevs.in&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://26524cce-d514-4014-a426-365fb266a14d@209.237.135.93:443?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560fp%3Dchrome&host=baq.mail.chinam.indevs.in&alpn=http%2F1.1&sni=baq.mail.chinam.indevs.in&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://bcae455a-efd6-02f4-bead-4b173b8e5e5a@auto.api-rutube.ru:443?security=reality&type=tcp&sni=cdn.trahodrom.fun&fp=chrome&flow=xtls-rprx-vision&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://0b89c53e-1d55-463f-90d7-f28b0e17b8a7@45.15.160.132:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=ddb9&pbk=2YrB1VDud3ZDZp-fnEGO7BKsHZQN9NVJuXU_5j-uzVI#%F0%9F%87%B7%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://75807638-6f19-1f40-ae08-38492ee85c88@cluster-europe-1.firstvideocdn.ru:52006?allowInsecure=1&sni=cluster-europe-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
