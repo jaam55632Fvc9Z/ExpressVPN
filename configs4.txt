@@ -42,3 +42,13 @@ vless://3d243df5-9cda-4aac-89d5-354de77d79e2@2.27.57.89:443?security=reality&enc
 
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.117.76:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&type=tcp&sni=prod.adobeccstatic.com#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
+vless://a0e4e8b6-0518-4f19-803e-eece71583392@72.56.82.154:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&security=reality&sid=00684d2eae2cdd16&sni=apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://eea432e7-0036-411b-b449-965438a0f7ce@46.254.16.2:7786/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=qq&security=reality&pbk=lHlZIQRG3dYhxtPppPVS1FJATGalCCjwQJcd1STm3FI&sid=4fd541350223daae#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@94.249.175.55:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@94.249.175.4:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443/?type=tcp&encryption=none&flow=&sni=api.digital-help-prd.autodesk.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#%F0%9F%87%B9%F0%9F%87%AD%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
