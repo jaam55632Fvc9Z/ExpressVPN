@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://8c9fcc69-863c-4771-9473-a73c583870c8@pokemon-01.yunjnet.com:56115?allowInsecure=1&peer=iosapps.itunes.apple.com&sni=iosapps.itunes.apple.com&type=tcp#%F0%9F%87%B2%F0%9F%87%BE%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://8c9fcc69-863c-4771-9473-a73c583870c8@pokemon-01.yunjnet.com:56017?allowInsecure=1&peer=iosapps.itunes.apple.com&sni=iosapps.itunes.apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWpBMFl6Z3daakJsTTJaa05tUmxOQT09Ok9HTTVabU5qTmprdE9EWXpZeTAwTnc9PQ@ptxlv6-1.yunjnet.com:54273#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 trojan://8c9fcc69-863c-4771-9473-a73c583870c8@pokemon-02.yunjnet.com:56019?allowInsecure=1&peer=iosapps.itunes.apple.com&sni=iosapps.itunes.apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -407,6 +403,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&
 vless://7e9d5e64-85d6-415e-b65a-1eabd029bb09@37.32.9.13:48649?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://44fbea6e-bfbe-469b-8279-b3131065e896@golden.alisecvice.ir:8080/?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=%2F&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://c9af3fa3-71f6-409c-88d3-f2185df7d61a@snapp.ir:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=1.jojo.avenflow.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -7621,6 +7619,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&t
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&path=%2F&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?encryption=none&type=ws&security=tls&path=%2F&host=y6-3cj.PAgES.DEV&sni=y6-3cj.PAgES.DEV&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&path=%2F&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&host=sni.jpmj.dev&sni=sni.jpmj.dev&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
