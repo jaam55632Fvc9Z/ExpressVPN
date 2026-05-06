@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d2deedf3-788b-42b5-86af-5a02f407bda2@red.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://3d243df5-9cda-4aac-89d5-354de77d79e2@193.163.203.53:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=mirror.yandex.ru&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://5a6bde4b-0b14-9f11-31e7-5acea0c580e8@snapp.ir:8880?path=%2F&security=none&encryption=none&host=ez2.matinnetworkz.com&type=ws&sni=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://1d115600-e168-4aec-a92e-8e515841c867@185.143.233.235:80?type=ws&host=d.nsa03.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -97,4 +93,16 @@ vless://4b481152-ba7f-4445-8cc0-d33d58546e23@138.124.32.75:443?encryption=none&f
 vless://26524cce-d514-4014-a426-365fb266a14d@35.247.124.181:443?sni=b.8.q.1.z.7.c.5.y.k.2.v.x.0.a.m.6.n.d.h.3.h.u.9.danfeng.rr.kg&alpn=http/1.1&type=ws&host=b.8.q.1.z.7.c.5.y.k.2.v.x.0.a.m.6.n.d.h.3.h.u.9.danfeng.rr.kg&path=/danfeng?ed=2560fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://4caa91cb-d29a-4fd2-b722-93954feb33a7@arvancloud.ir:80?encryption=none&host=website.vgpsl.ir&path=upload%3Fed%3D256&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://db46c431-7b76-4dc5-b3a7-fbf11084fb6b@cdn2.gymplusplus.com:2095?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://BxceQaOe@bb.bejkn.cn:6463?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.233.56:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://87a09075-f5f0-4ff9-80df-3e81fcdfd10d@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://149e55d7-4f3c-41c0-9521-d210f1dd6590@ir2.cdnk1.cfd:443?encryption=none&host=ir2.cdnk1.cfd&path=%2Ftime&security=tls&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
