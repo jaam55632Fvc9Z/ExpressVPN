@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://43488128-319e-f480-64ea-0acdc712e2a8@78.141.199.54:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&security=reality&sid=41427aa565e28984&sni=www.vodafone.co.uk&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://85f957b5-fa21-46c3-8494-f8d6f16cb917@185.143.234.235:8080?path=%2Fcdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://1d8128a0-057d-4ab6-8ebe-b5d5c7b28f7e@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://56863406-8f89-45f6-a470-673256aaaf46@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://650df378-c750-4e11-ab03-16f76df9d131@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://3d7e182e-d749-473f-bbde-4d828ef337f5@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://0ae10bee-3a17-498c-8f28-1f154763d507@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://31570cd1-3031-4525-a334-54dd2240d566@arvancloud.ir:80?path=/&security=&encryption=none&host=gh6.ghostantaniehh.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://8198185d-3057-4a9a-94d1-c77e6a8a1d2d@Tapsi.ir:8080?path=/cdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://5a0cc3c8-787c-472b-9c64-75072da41a6d@react.dev:443?mode=auto&path=%2Fv1%2Fvideo&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=lovr-gaamole.digielipan.store&fp=randomized&type=xhttp&allowInsecure=0&sni=react.dev#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAiOTQuMTAxLjE5MS4xOTQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAicG9veWFuZ3J1MTIzLTBkN2NkYmYwMmQtbmdpbnguYXBwcy5pci1jZW50cmFsMS5hcnZhbmNhYXMuaXIiLCAiaWQiOiAiNGMzYTUzOWQtMzkyMy00NWI0LWZmYjQtNzYxODA3ZGE1YjZiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogImh0dHB1cGdyYWRlIiwgInBhdGgiOiAiL3JhaWthIiwgInBvcnQiOiAiODA4MSIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgSFRUUFVwZ3JhZGUtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
@@ -75,4 +57,14 @@ vless://d1f737f2-3839-4f97-b911-dc03aad7f160@snapp.ir:1?encryption=none&security
 vless://d7afb7cd-b16d-4640-8e97-6d7d0f6eb049@185.143.233.5:2086?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=cdn.mizbanertebatfarda.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://6e5572ad-ed75-4b45-a394-40c1650550e6@snapp.ir:1?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=M1.snllshop.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://telegram-id-privatevpns@13.36.216.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@13.36.216.227:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.216.227:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d2dc5f8b-c82c-41fa-91f2-8c30ca802e14@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin2.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin2.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://109f3cfa-8fc5-4a44-8a46-5ae3c8c262ff@ahmad-ir.3patify.com:37214?security=&encryption=none&host=google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
