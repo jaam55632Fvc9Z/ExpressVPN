@@ -64,3 +64,15 @@ vless://d230d708-094f-42f5-bc5d-a87c22a3d25e@185.143.233.43:2052?path=%2F&securi
 
 vless://f1163e49-c3db-4f28-9be0-cd9ea9da3e79@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://f8f12c94-c37e-431a-b745-f12188cc1ec7@Tapsi.ir:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=Zp.movizdl.ir&path=/cdn#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@185.143.233.235:80?path=%2F&security=none&encryption=none&host=sr.novatechsapr.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=69#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40manVPN
+
+vless://8307fa2d-2582-47c8-adb7-74b6285a3906@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://abbc31db-2883-4bed-8f54-8c1f04438019@xray.faza2026.site:443?path=%2Ftest&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=xray.faza2026.site&fp=chrome&type=ws&allowInsecure=0&sni=xray.faza2026.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
