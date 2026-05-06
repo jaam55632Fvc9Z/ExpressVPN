@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://13d012d2-16fd-48c3-92b4-571dacf610f8@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://d488da44-3971-48aa-ab19-0f034fb40fc6@185.143.233.5:80?path=%2Fxray&security=none&encryption=none&host=bot.vipiranian.de&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://bffba66e-cbad-471f-940c-866268fb7d79@185.24.253.107:443?encryption=none&type=xhttp&mode=auto&host=cdn.gapfilm.org&security=tls&fp=chrome&sni=cdn.gapfilm.org&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://5eb86c04-381a-4493-abf1-44511e5a4f26@snapp.ir:80?path=%2F&security=&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://9b3ee2d1-99ef-40ba-9956-8746f6490441@185.143.233.200:80?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.sdQ0jWsX6B8yh97yoZt4k_1nlR0zlApK3MV_hQD7KyA&host=nima.hayalco.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://a56089da-667c-4b22-beed-02eeac876211@185.143.233.235:8080?encryption=none&type=httpupgrade&host=vip2-cdncloudflare.hajm-bin.ir&path=/?ed%3D1024&security=none#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
 vless://bfdf840a-66d3-48cb-a8f6-fedbe454a133@plse4.gishevip.xyz:80?path=%2Fxray&security=none&encryption=none&host=bot.vipiranian.de&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -71,4 +61,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@138.2.87.237:443?path=%2FtrTelegram%F0%9F%87%A
 vless://26524cce-d514-4014-a426-365fb266a14d@43.208.252.102:22222?path=%2Fdanfeng%3Fed%3D2560&security=tls&alpn=http%2F1.1%2C&encryption=none&host=yvl5fy.data-cache.chinam.indevs.in&fp=chrome&type=ws&sni=yvl5fy.data-cache.chinam.indevs.in#%F0%9F%87%B9%F0%9F%87%AD%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://26524cce-d514-4014-a426-365fb266a14d@158.101.146.3:44872?path=%2Fdanfeng%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=n5bc.panel.chinat.indevs.in&fp=chrome&type=ws&sni=n5bc.panel.chinat.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5e36a078-45e8-4472-955a-b6c8ab36de48@cdn.abzartabriz.ir:2053?type=ws&encryption=none&path=/webpath&host=&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=cdn.abzartabriz.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
