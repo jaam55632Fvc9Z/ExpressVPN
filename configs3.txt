@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-privatevpns@51.44.115.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://8c9fcc69-863c-4771-9473-a73c583870c8@vless01.yunjnet.com:50132?type=ws&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=d1.awsstatic.com#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8c9fcc69-863c-4771-9473-a73c583870c8@vless02.yunjnet.com:50132?type=ws&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=d1.awsstatic.com#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://8c9fcc69-863c-4771-9473-a73c583870c8@pokemon-01.yunjnet.com:54032?allowInsecure=1&peer=www.apple.com.cn&sni=www.apple.com.cn&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://8c9fcc69-863c-4771-9473-a73c583870c8@pokemon-01.yunjnet.com:59110?allowInsecure=1&peer=www.lamer.com.hk&sni=www.lamer.com.hk&type=tcp#%F0%9F%87%B2%F0%9F%87%BE%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@121.149.124.119:11434?&security=tls&fp=chrome&sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&type=ws&headerType=none&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&path=%2F#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://19ef3d02-1c55-4fec-9794-6def8cbac396@150.241.103.74:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st-2.globalcache.onnstreaming.ru&fp=chrome&pbk=NOhuaiHfc8Tv7VrFKnNgr-VN594kxtUCslNEBhySvXQ&sid=aa69f619e4414362&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://8703c844-375d-4d1f-9221-b5d1fc17869a@snapp.ir:80?path=%2F&security=none&encryption=none&host=cpi.lithiumnet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.12.149:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9985,18 @@ vless://9f6dd191-43f4-43af-9d1f-f11468c04c8e@javid.purples.ir:80?path=%2F&securi
 vmess://eyJhZGQiOiAibG9naW4ucmFoYWhvc3RhZ2VudHMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmY2E1MDIwNy1jZmNlLTRiMjMtYTA1MC0xMjBkMmJiNTZlMjEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQxNTkiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 
 vmess://eyJhZGQiOiAid3d3LmFydmFuY2xvdWQuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidmlwNi5hcmlhdGFrcG95YW4uaXIiLCAiaWQiOiAiMTNjMzBkOWMtYjQwYi00NzY0LThhMmQtNTZmYjRjYWFiYjdhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FyaWEiLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+
+vless://fc6522fd-f2e2-47a1-9194-f8c35d224b76@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0ec941ea-fd5a-407a-8899-4714e8f7b153@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://2f40a83e-5963-4d60-8589-217033bd5a08@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1ed93442-fa6f-4056-9ff4-b4dca552e87b@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://285cbacf-0ad1-4bfd-a4d6-bd24f64c5932@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4e79042b-a42b-4aa3-8bb9-0f14bd33475a@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8addca30-13cd-45e5-8ee7-db087ef6ef28@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
