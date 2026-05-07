@@ -96,3 +96,7 @@ vless://e8a67795-ca80-498f-bab0-34989a8f4a1d@79.174.92.31:3450/?type=tcp&encrypt
 
 vless://0c7494af-000b-4fee-abac-24599418c6ee@ir10.cdnk1.cfd:443?encryption=none&host=ir10.cdnk1.cfd&path=%2Ftime&security=tls&type=ws،#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://59ab713f-0662-47da-99f0-2c5cc4acc59d@w.kelimanjaro.ir:8080?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://792bd9a8-6b89-4d79-9d8e-325d40f67f93@sv2.power-shop.cyou:44026?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
