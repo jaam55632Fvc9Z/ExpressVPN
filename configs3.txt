@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@62.50.146.35:9443/?type=grpc&encryption=none&flow=&serviceName=www.apple.com%3A443&sni=raw.githubusercontent.com&security=reality&pbk=GdCtxJAti3DA8oTu9KkFHjCz1yRGGZB_4NZIBuQxc28&sid=abc5168218c8749c#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://6589254d-47ee-4d78-9659-41304c755cce@45.15.129.191:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=timeweb.cloud&security=reality&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&sid=#%F0%9F%87%A6%F0%9F%87%B2%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.92.1.37:30047/?type=ws&encryption=none&flow=#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@130.78.219.82:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ukos2.ksnodes.net&alpn=http%2F1.1%2Ch2&allowInsecure=1&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9995,8 @@ vless://da83025c-6edd-4f3b-979d-1cb0cf59f4d0@130.12.242.182:443?security=reality
 vless://b196843b-61fb-4ceb-a377-e1bc5f133f37@158.160.32.64:443?security=reality&sni=m.vk.com&fp=qq&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@103.231.73.181:8443?security=reality&sni=tradingview.com&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://5ee75886-8acf-451c-965f-c8140f211f20@snapp.ir:80?path=%2F&security=&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://0695c698-cc46-45ff-a450-98f450afa5ea@milli.gold:80?path=/&security=none&encryption=none&host=Pan4e.nexoratechcenter.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
