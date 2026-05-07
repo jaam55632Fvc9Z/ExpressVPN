@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@162.159.36.162:2087?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.26.14.134:8443?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@18.196.242.104:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.196.242.104:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
 trojan://telegram-id-privatevpns@18.196.242.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
 vless://79296ec8-8997-4ffd-bbae-0ddd74b672d7@aclient.baziarzan.ir:2095?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -7584,6 +7576,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.43:443?ed=2560&eh=Sec-WebS
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://c42a39d3-e7a1-4b87-a7f3-be7e3704c996@45.15.129.17:443?encryption=none&fp=&pbk=kGW3p-dzpbVQnV8IM5T63UqRYu2MvI9Yl5K1GLJxWkY&security=reality&sid=77&sni=www.oracle.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
 vless://db40e39e-3fc5-42b5-9acb-dfb6004ecf81@www.orixvault.ir:80?encryption=none&type=ws&host=onmaindwon.pashanet.ir&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://dc4dccda-55c9-480a-9bc1-8edd8e2ccf69@185.213.165.81:48660?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -9999,4 +9993,10 @@ vless://0a1e15c3-5587-4252-96ac-eb4fd8ab7a86@snapp.ir:8880?path=%2Frazstarlocal&
 vless://b72c336a-cebc-4ab8-887a-5fce0c9c7f3a@parbam.baaq-yas.ir:2096?path=%2Findex.html&security=tls&encryption=none&insecure=0&host=parbam.baaq-yas.ir&fp=chrome&type=ws&allowInsecure=0&sni=parbam.baaq-yas.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ecd24aab-1e25-46f2-b7c7-ca78f995d7fa@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvam9BUTBhQU4tOHRPamdURThVcWRR@85.239.36.167:8388#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvam9BUTBhQU4tOHRPamdURThVcWRR@45.76.120.177:8388#%F0%9F%87%A6%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvam9BUTBhQU4tOHRPamdURThVcWRR@45.63.5.74:8388#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
 
