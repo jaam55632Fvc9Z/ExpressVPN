@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.47.253.227:990#%F0%9F%87%AA%F0%9F%87%A8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@cl-eu-1.edgeflux.ru:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -1716,6 +1708,8 @@ vless://a4ce2a78-7dbd-41f4-999c-f5157216244f@arvancloud.ir:80?type=ws&encryption
 
 vless://28e14238-88c7-4f97-a90b-17d34794ab91@snapp.ir:8080?path=?ed=2560&security=none&encryption=none&host=top1.teamlifez.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.77.140.38:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://601ed233-56e7-4f7a-b486-06ed55f1cec0@185.143.233.5:443?path=/chat%3Fed%3D128&%3Bsecurity=tls&%3Balpn=h2%2Chttp/1.1&%3Bencryption=none&%3Binsecure=0&%3Bhost=fn.8lack.ir&%3Bfp=firefox&%3Btype=ws&%3BallowInsecure=0&%3Bsni=fn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://4ccec2fe-d44e-436f-9627-d4e72c016dbb@tarvar.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -3155,6 +3149,8 @@ vless://74afc380-4410-410c-a3f3-999d975bad19@haji.nahidapp.com:443?path=%2Fhaji%
 vless://9c18e5e1-fd77-4f81-8c1e-895acc1c8d60@185.143.234.122:80?path=%2F&security=none&encryption=none&host=germany.lezzaluxa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://9c18e5e1-fd77-4f81-8c1e-895acc1c8d60@185.143.234.122:80?path=%2F&security=none&encryption=none&host=finland.lezzaluxa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://52f94104-7a84-4342-8bcd-96969eb46cbe@108.162.198.4:2083?sni=tristandeng.cc.cd&type=ws&host=tristandeng.cc.cd&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.26.3.1:2083?security=tls&type=ws&host=kalami-eew.pages.dev&fp=chrome&sni=kalami-eew.pages.dev&path=%2F&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9995,8 @@ vless://477e97ac-2d6f-47f7-83d6-aabeb11fd8ef@yakhbandan.info:443?type=ws&securit
 vless://fa33534c-b4f1-49f1-bff0-c5c247cdbb39@thany.tech:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cloudinohost.com&fp=chrome&type=ws&allowInsecure=0&sni=cloudinohost.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://dba2493d-5f5a-466a-bd8f-3b74b7f3d63b@H7.ELDENRINGSHOP.IR:2053?path=love&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=core.mehrsazi.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f435d785-e3cf-4292-be45-3ef223f6a889@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&encryption=none&alpn=h2,http/1.1&host=alaedin9.8lack.ir&fp=firefox&type=ws&sni=alaedin9.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+vless://f435d785-e3cf-4292-be45-3ef223f6a889@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin9.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin9#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
