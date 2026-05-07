@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJhZGQiOiAibjE3NTMzNTYzNzguNHU5bWEuaWN1IiwgImFpZCI6IDAsICJob3N0IjogIm4xNzUzMzU2Mzc4LjR1OW1hLmljdSIsICJpZCI6ICIzN2IyMDYzOS0wZDZlLTQ2ZjItOWRiNS00NzIyMDFiMTBjZGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-
-vless://26524cce-d514-4014-a426-365fb266a14d@38.76.149.214:39738?&security=tls&fp=chrome&sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&headerType=none&host=xfxl35a.node-edge.gfw.hidns.co&path=%2Fdanfeng#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://63d7155f-a53a-4573-84cf-532d35c8127c@139.59.125.84:42821?path=%2FFREE%20by%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://ab63e55a-8600-4fae-90bd-2e180a2fe24e@139.59.125.84:8443?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=zoom.us#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?path=%2FgetWorkerUpdates&security=&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -664,6 +658,8 @@ vless://07c594d2-56f8-47c2-997e-41feef4623d9@185.143.234.235:80?path=%2F&securit
 
 vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=60500a63ad12&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.166.237.20:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://c32fbc07-9402-448a-9671-215263e45db4@2.ihomayon.com:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=arvan.ihoomayon.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://da1e8c1b-2cfc-4986-8a6d-5a2e387fb1aa@185.143.233.5:443/?type=ws&encryption=none&flow=&host=fn.8lack.ir&path=%2Fchat%3Fed%3D128&security=tls&sni=fn.8lack.ir&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -965,6 +961,8 @@ vmess://eyJhZGQiOiAiY2xpZW50LmtoYWxpamhvc3RzMi5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6
 vless://09d71a7f-8d47-442b-969b-f69758e1a5e0@varzesh3.com:8080?type=ws&encryption=none&path=%2F&host=ma.nexoratechcenter.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.136.116:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&fp=random&type=ws&sni=entezar.loseyourself.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.5:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
@@ -1855,6 +1853,8 @@ vless://a7f4c93a-98e1-4835-82f0-#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 vless://1f145f18-d730-6a98-9679-ad24f6fc0838@snapp.ir:2052?path=%2F%3Fed&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://a989b241-ede1-4be4-a456-c742a58b9bf2@ccxxiv.aimlife.sbs:58913?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#%F0%9F%87%B2%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://ee3c3fea-a92d-41b4-b9d5-c908ca427d0f@cf3.comecloud.ir:443?path=%2Ftest%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=Clu.servert1op.ir&fp=chrome&type=ws&allowInsecure=0&sni=Clu.servert1op.ir#%F0%9F%87%AE%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
