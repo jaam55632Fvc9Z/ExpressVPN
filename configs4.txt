@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://e1d76dfb-9678-413b-832e-ff9a56c830d1@snapp.ir:2082?path=/&security=none&encryption=none&host=h.hshonar.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@15.224.87.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.87.132:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-privatevpns@15.224.87.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://e63b58b4-f42a-4061-aea0-cb893b59f436@x.xraysite.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://54fe5b11-c580-46b8-be26-8935636085a7@ww.gooldiran.ir:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://c7270aff-67ac-4591-b77d-6ba783eb5e6f@185.143.233.5:80?type=ws&encryption=none&path=%2F&host=pn.iransrvrs.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://8b62f183-5adc-45f9-9d16-9f7e627c3bda@zir.alihapps3.aghanami.ir:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://bafacd98-136a-4530-838d-4e5c51838dac@146.190.233.213:8443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=firefox&insecure=0&allowInsecure=0&ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=%2Fcomic%2Fvideo%2Fjuzibaipiao%3Fed%3D2560#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://telegram-id-v2rayvpnchannel@15.224.87.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -97,4 +77,20 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@149.104.31.39:64445?encryption=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.47.161:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dns.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.138:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A6%F0%9F%87%BA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c8fd462c-b32c-4a77-9ace-eaeb75ad369a@snapp.ir:80?path=%2FFIRELINKKVPN&security=none&encryption=none&host=firelinkk.arian-go-internet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e1833055-fd73-4d63-86e0-a6c2960c73b6@Snapp.ir:2083/?type=ws&encryption=none&path=%2F&host=s2.reevan.ir&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=s2.reevan.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.150.241:443?&security=tls&fp=chrome&sni=juzi.qea.ccwu.cc&type=ws&headerType=none&host=juzi.qea.ccwu.cc&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://Telegram-Parsashonam@jobset.sigs.k8s.io:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=safari&type=tcp&sni=jobset.sigs.k8s.io#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://Telegram-Parsashonam@kubernetes.io:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=safari&type=tcp&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://26503d5e-b520-443d-819c-c449bf2352d2@pg.nexorainnovationhub.ir:80?flow=&host=germany.lezzaluxa.ir&path=%2F&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://932870ca-1d4f-434d-9b90-c8384ce98097@packetnet.mashhad-gsm.ir:42726?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c7b2ccf9-029d-4550-b127-99969915aeb5@s1.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
