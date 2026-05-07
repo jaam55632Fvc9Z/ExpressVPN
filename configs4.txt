@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@108.162.198.30:2083?sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@13.193.213.165:443?allowInsecure=0&sni=gogo9.kmj.qzz.io&type=ws&host=gogo9.kmj.qzz.io&path=/flow=-udp443&fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@35.77.252.187:443?allowInsecure=0&sni=gogo4.kmj.qzz.io&type=ws&host=gogo4.kmj.qzz.io&path=/flow=-udp443&fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@185.216.118.63:443?allowInsecure=0&sni=gogo4.kmj.qzz.io&type=ws&host=gogo4.kmj.qzz.io&path=/fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://c00457e9-b3c8-4d63-9c8d-89b6a0ab31f8@varzesh3.com:80?path=%2F&security=none&encryption=none&host=sajjad.panivo.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -85,4 +77,8 @@ vless://33633839-3361-4336-b538-353834356561@185.143.232.189:80?path=%2Fl%2Fw%2F
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:443?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://19f186ea-47b4-4392-af52-88618ccd9ae8@vip7.freepath.ir:45807?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=vip7.freepath.ir&fp=chrome&mode=auto&alpn=h2,http/1.1&extra=%7B%0A%20%20%22xvampires_0%22%20:%20%22100-1000%22%0A%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://6da680e8-514a-4fd5-b3fb-4dd3e3b1673c@snapp.ir:8880?path=%2Fws%3Fed%3D2560&security=none&encryption=none&host=New1.legendperm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
 
