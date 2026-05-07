@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://9692c29e-f714-44a5-abef-430d1169635a@45.90.75.168:2015?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
-
-vless://91639b17-48c5-4475-978e-c0dda2428c7e@snapp.ir:80?path=%2Fmomo&security=&encryption=none&host=s2.sklter.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://6985e655-4253-46b2-949b-832af21cab9d@snapp.ir:80?type=ws&encryption=none&path=%2F&host=py.m610.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://2fbc0304-135b-4fcd-a0cb-d07b5bb7a719@arvancloud.ir:80?path=%40TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://43de9140-d4c4-419b-8526-2ae643fbcfac@snapp.ir:8080?path=%2F&security=&encryption=none&host=ts.programming-coding.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -47,4 +41,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.131:8
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.23:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-ru-1.edgeflux.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://b375b840-8ac0-4d37-98c0-44ab85fd7127@153.76.112.172:7443?&security=reality&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&fp=chrome&sni=chat.deepseek.com&type=tcp&headerType=none&host=chat.deepseek.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiaG9zdCI6ICJyeHMuYnJhdm8tc2l4LmlyIiwgImlkIjogIjNjYzczOWJlLTQzMGEtNDRiNS05OWRmLTY0M2IxMjAwNzM2MyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAic2N5IjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+
+vless://74988350-8b14-4924-b8a2-c3aac967bf28@taipei1.ap221.com:443?allowInsecure=1&sni=taipei.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%BC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
