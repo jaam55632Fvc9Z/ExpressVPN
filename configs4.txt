@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://7bb88fa1-e1fd-4431-8068-e299c6c2c4e8@Tapsi.ir:8080?path=%2Fcdn&security=&encryption=none&host=Zp.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://1a50faa1-b1b4-49c7-8b77-43fa1c440b46@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://bfecb5a8-d1e2-498c-86e7-503c9e132b2e@snapp.ir:80?type=ws&encryption=none&path=%2F&host=cwh.persianstorebnd.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://adfd634d-d59a-4466-856f-528a6129f0de@snapp.ir:80?path=%2F&security=&encryption=none&host=atiac3.ghostantaniehh.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -81,4 +77,14 @@ vless://7e80c2da-ed60-487f-8fb5-e12587d72954@arvancloud.ir:2095?encryption=none&
 vless://83e9ae65-b280-4deb-b941-8e46000d981b@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin5.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin5.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://f3952c2c-2ecf-463c-8b7a-f22e42ccad0a@nullnetwork.mashhad-gsm.ir:42726?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://f435d785-e3cf-4292-be45-3ef223f6a889@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&encryption=none&alpn=h2,http/1.1&host=alaedin9.8lack.ir&fp=safari&type=ws&sni=alaedin9.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f435d785-e3cf-4292-be45-3ef223f6a889@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin9.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin9.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f435d785-e3cf-4292-be45-3ef223f6a889@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F%40alaedin%3Fed%3D128&host=alaedin9.8lack.ir&sni=alaedin9.8lack.ir&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://cf5ea31e-f9c9-445a-8bc4-3b7b05ea118e@nullnetwork.mashhad-gsm.ir:42726?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://bdfc7b18-c76b-07cf-d570-028d01c404d6@yas.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.203&alpn=&path=/&headerType=http#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
