@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-hysteria2://suAZg6WoI1@45.81.19.251:2087?security=tls&insecure=1&sni=web.rubika.ir#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
-
-hysteria2://suAZg6WoI1@45.81.19.251:443?security=tls&insecure=1&sni=web.bale.ai#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
-
-vless://efc9504e-f31e-40e9-96c6-4739f6595481@As.dlsp-ir.com:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=cafeariel.ir&headerType=http&fp=randomized&type=tcp&allowInsecure=0&sni=As.dlsp-ir.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://efc9504e-f31e-40e9-96c6-4739f6595481@As.dlsp-ir.com:2053?encryption=none&fp=safari&pbk=eQiAdpGi9koz3778TAigmYSwoG4A1I8ewrzd6TvDTQQ&security=reality&sid=c7d77e&sni=web.bale.ai&spx=%2FeuKprVQFucWhOAM&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 vless://e531ec67-c9be-4f94-899b-02ea6e303f8b@45.81.19.251:2083?encryption=none&fp=chrome&pbk=ruh_CGQJigLxOvK5mPUY4NbUxgIVd9DuuJoiUOzN7jU&security=reality&sid=721d4a66&sni=web.rubika.ir&spx=%2FocNhuI5IHVJWbvv&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 hysteria2://2nsMXDvFMF@45.81.19.251:2087?security=tls&insecure=1&sni=web.rubika.ir#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
@@ -65,6 +57,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cHVZYVliYTkxRHlfbmhqUG5PbE1R@172.236.150.119:51515#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.178.246:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://7c1ee44e-01d0-426c-b182-9a8a4bac346d@185.143.234.22:2082?path=%2Fpath&security=none&encryption=none&host=tr-st2.ge9.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://833e1556-fbce-4ed2-9537-ad7bfb7bcc1e@snapp.ir:8080?path=%2F&security=none&encryption=none&host=v6.vipiranpanel.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -231,6 +225,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.59.161.217:443?path=%2F%3Fed%3D
 vless://1db0bf3a-a137-4eac-b211-2f8fcde10de3@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=io.binping.lol&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://1ea92475-4ea3-48b5-a307-d9fa6e9a11e1@ip-data.turkserver.ir:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%87%B0%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://telegram-id-privatevpns@35.180.146.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
 
@@ -2457,6 +2453,8 @@ vless://85b9ac1f-f31b-4ab7-9a7c-47ce44e904be@Ikco.ir:8080?path=%2Fcdn&security=&
 vless://1bfbdec8-963b-8f72-a3f9-60ca8d88d035@pari.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://e7c827e0-1a41-4d82-9423-af511a6c41c3@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d9749e17-2e5c-4fe6-bd3b-2b5c5c2060ec@snapp.ir:80?path=%2F&security=none&encryption=none&host=gamefa.yeksanplus.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://c47f6886-ce87-4de8-9687-93438617b191@185.143.235.200:80?encryption=none&type=ws&path=%2Farvancloud.ir&host=shophajabol10.pointspeed.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9997,6 @@ vless://27591df4-2a8e-4b4d-bb61-ad663332458a@Tapsi.ir:8080?pth=%2cdn&security=no
 vless://06b11bd7-0ae0-4bee-a020-a2c19eab380b@khors4.innovativeinc2greenfuture2techpioneers.sbs:443?security=reality&encryption=none&pbk=HaJTCRes8kewlJUdTdqGICgKTJL_SYegvtiK1CMp1AY&headerType=none&fp=chrome&spx=%2FQt4AtUcC01FuubF&type=tcp&sni=www.aparat.com&sid=11943ac8cf#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://ac4ce191-2361-4ce3-84ad-718798140c07@snapp.ir:80?path=%2FFIRELINKKVPN&security=none&encryption=none&host=firelinkk.arian-go-internet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://e9c11f71-7fb6-4d4d-ab91-b1f9490d6f00@185.143.234.235:80?encryption=none&host=login.deltars.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
