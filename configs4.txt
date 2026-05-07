@@ -32,3 +32,9 @@ vless://bdffa6a0-8da1-4f6a-aede-bcda4daa6c1f@camp.nahidapp.com:443?path=%2FIF_VP
 
 vless://bdffa6a0-8da1-4f6a-aede-bcda4daa6c1f@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://13da2ef2-45b5-437a-8705-d065af82bc61@45.76.120.177:443?security=none&type=xhttp&headerType=&path=%2F&host=&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#%F0%9F%87%A6%F0%9F%87%BA%20XHTTP-None%20%7C%20%40v2ray_configs_pool
+
+vless://ab39ea7b-16fb-45ae-aa37-6a173d751023@v3.amindark.sbs:31304?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a9fc84a2-dd5d-49ee-8e6d-9d07cf9abd4e@pg.nexorainnovationhub.ir:80?path=%2F&security=none&encryption=none&host=finland.lezzaluxa.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
