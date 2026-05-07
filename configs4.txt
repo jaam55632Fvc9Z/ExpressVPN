@@ -98,3 +98,11 @@ vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.207.170.95:443?&security=tls&fp=
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?&security=tls&sni=1-aym.pages.dev&type=ws&headerType=none&host=1-aym.pages.dev&path=%2Ffp%3Dchrome#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://3d1576b0-2a73-47f9-b0d9-17307296f204@api3.ir-itachi-ir.xyz:50113?path=%2Fapi%2Fserver&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://20ffd2f9-c9b4-476c-9e98-c8717b406e66@selfvip.ir:59063?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://f33443c9-b8ce-4762-b6a8-37c85fa6ed0e@snapp.ir:80?path=%2F&security=none&encryption=none&host=freecdn.ipkyc.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://fa82a52c-c5f4-45f3-b612-adcc7bcf0c04@red.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
