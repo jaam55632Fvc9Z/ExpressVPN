@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://1bvk0c5u-to4f-kpck-8smc-tgn2hke1ixr7@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://yyypxqf4-gdi7-3chw-kuje-wbu9p95nzlh5@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
 trojan://6x6v78is-c4p8-tib2-mclv-ur5nixhivikt@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&peer=HL-FREEDOM-1.UNDEF.NETWORK&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -61,6 +57,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?path=%2Ftrojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#%F0%9F%87%A6%F0%9F%87%B2%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://4d3d2b5e-addc-4d6f-828a-a2c0a08b69e7@snapp.ir:8880?path=%2F&security=&encryption=none&host=wt.programming-coding.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.21.7.193:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sant.atira-40.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=sant.atira-40.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://5cd9dfab11dea9bbd58ff88d6d2a10ec@104.16.244.253:443?encryption=none&security=tls&type=ws&host=speedtest.net&path=%2F&fragment=10-20,1-3,tlshello#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9997,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?security=tls&encr
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@85.211.251.219:443?sni=gogo6.kmj.qzz.io&type=ws&host=gogo6.kmj.qzz.io&path=/fp=chrome&security=tls#%F0%9F%87%B2%F0%9F%87%BE%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://2847b3d8-bf17-431c-8831-908242e5496b@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=ss11.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?path=%2F--%40V2rayAlpha--V2rayAlpha--V2rayAlpha--V2rayAlpha&security=none&encryption=none&host=mitivpn.global.ssl.fastly.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
