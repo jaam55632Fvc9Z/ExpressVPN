@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJhZGQiOiAibjE3NTMxMDEyNzcuNHU5bWEuaWN1IiwgImFpZCI6IDAsICJob3N0IjogIm4xNzUzMTAxMjc3LjR1OW1hLmljdSIsICJpZCI6ICI2ZWE0OGRmZS03ZGUyLTQ1ZGMtOTI2Ny1kNGQ5ZWZmYWQ5ZmMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJuMTc1MzEwMTI3Ny40dTltYS5pY3UiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-
-vless://65b13fcb-d6f8-45ed-a4d3-010234a07e55@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=an.8lack.ir&fp=firefox&type=ws&sni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.209.231:8443?encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://c08b97c2-959f-41c5-81f2-826e26e5eb57@185.143.234.122:80?path=%2F&security=none&encryption=none&host=star.iranstookshop.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -129,6 +125,8 @@ vless://5c31ad46-f0cb-42b3-8fe7-f69f01c93210@s3.tehranionliine.ir:80?encryption=
 vless://f723ec59-7c75-4a52-8e86-1e32ae506b4c@snapp.ir:2052?path=%2F&security=none&encryption=none&host=p1.razstar.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://daf76688-9ac3-4a7b-99d7-a5aa7c83f55d@sahel.kalatkuhestak.com:80?type=ws&path=%2F&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4f2d4f06-6590-495e-9bac-7edb1c340eb6@170.168.103.156:8081?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://90e5e7f6-5f4b-4b22-9103-dc425c44976c@s4.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9999,4 +9997,6 @@ vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@us01-gmn-vlr03.tcp-reset-club.net:2
 vless://cae675e6-09ed-4ae9-a30d-310263ce385b@ou8.virgooli.com:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://afc6f71a-f634-480a-9ab9-71b403187469@188.121.108.117:38749?encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://fad5a6c2-abc2-425a-91ab-a8fe36076f01@185.143.233.165:2083?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=chat2.novationvps.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
