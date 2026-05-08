@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://f399d0a9-0fbb-4b09-99b1-67b25772e539@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&host=iran.arascosmetics.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://42b88efb-ae42-459c-96b8-bcf883f663b6@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&type=ws&headerType=none&path=%2Fgamescore%3Fed%3D128&host=cdn6.restaurantworld.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://5123b49f-dba8-4927-9bd8-cab4e0a6dab9@onereza.starmizban.com:443?encryption=none&type=ws&security=tls&path=%2F&host=onereza.starmizban.com&sni=onereza.starmizban.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cu.877774.xyz:443?security=tls&type=ws&host=2-c6p.pages.dev&fp=chrome&sni=2-c6p.pages.dev&path=/&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@openai.com:443?security=tls&type=ws&host=3-8gy.pages.dev&fp=chrome&sni=3-8gy.pages.dev&path=/&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -117,4 +109,10 @@ vless://b103cc6b-04f3-40d4-b2e4-1a2e95925308@193.151.147.159:443?security=none&e
 vless://Telegram-Parsashonam@144.76.1.88:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=ir-netlify-2.netlify.app&type=xhttp&allowInsecure=1&sni=kubernetes.io#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://Telegram-Parsashonam@94.130.13.19:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=ir-netlify-2.netlify.app&type=xhttp&allowInsecure=1&sni=kubernetes.io#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://f435d785-e3cf-4292-be45-3ef223f6a889@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin9.8lack.ir&fp=firefox&type=w#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://Telegram-Parsashonam@85.10.207.48:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=dynamic-selkie-ea908e.netlify.app&type=xhttp&allowInsecure=1&sni=letsencrypt.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://d55d61bf-5fb9-4020-b67c#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
