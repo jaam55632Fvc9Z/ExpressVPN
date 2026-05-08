@@ -108,3 +108,13 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?note=---Tele
 
 vless://3b517d32-33f3-4bea-8898-d86376ec6a25@154.83.95.202:35344?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.sony.co.jp&pbk=v-Mdj1qh6WQNtPd4rpYt-UaiJT6aqeYEMlyxZ1v0VB8&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
+vless://add6b00d-9623-46b4-bb0d-abf626dcc731@snapp.ir:80?path=%2F&security=&encryption=none&host=fr.majalekhabari.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d55d61bf-5fb9-4020-b67c-45776a807b8b@185.143.233.5:2082?encryption=none&host=cd2.sesrsa.com&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://b103cc6b-04f3-40d4-b2e4-1a2e95925308@193.151.147.159:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://Telegram-Parsashonam@144.76.1.88:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=ir-netlify-2.netlify.app&type=xhttp&allowInsecure=1&sni=kubernetes.io#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://Telegram-Parsashonam@94.130.13.19:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=ir-netlify-2.netlify.app&type=xhttp&allowInsecure=1&sni=kubernetes.io#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
