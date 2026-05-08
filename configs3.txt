@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://3cda99a4-dd77-44e7-8bc2-7574ec893e4b@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=1&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAiY2h1bmNoZW9uMDMuemdqb2suY29tIiwgImFpZCI6IDAsICJob3N0IjogImNodW5jaGVvbjAzLnpnam9rLmNvbSIsICJpZCI6ICI4MWQ1Y2FjNC1kMDM5LTQ4NzQtOWEyMC1jMzkxZjU4MDAxMmQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-
 vless://b3859071-05b8-4d63-a4d1-dae2f851ad1b@185.143.233.5:8080?path=%2F&security=&encryption=none&host=cdn.sesrsa.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://69b1496e-a251-4d01-917b-3a29f67a187f@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&host=alaedin4.8lack.ir&fp=chrome&type=ws&sni=alaedin4.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9995,8 @@ trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?path=/trojan-ws&sec
 vless://2309fcbe-b374-4dce-8695-2185c165c725@react.dev:443?mode=auto&path=/ips&security=tls&alpn=http/1.1,h2&encryption=none&extra={#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ac422079-8ede-4544-90f3-bc3d3b8639e4@snapp.ir:443?alpn=h3&encryption=none&fp=random&host=sb2.pbvsrk.carnagesv.top&path=%2F&security=tls&sni=sb2.pbvsrk.carnagesv.top&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://c0f3c044-781c-4473-996c-91ad8df6b362@VARZESH3.COM:2083?path=%2F&security=tls&encryption=none&host=G3.artarona.ir&type=ws&sni=G3.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5cc82925-6741-4b9a-8d9e-54445b99e5d9@red.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=****#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
