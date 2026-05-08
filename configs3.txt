@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://134e3e02-a16f-48f4-8252-5bd1249d4e3c@185.143.233.235:80?encryption=none&type=ws&headerType=none&path=%2F&host=uk.knet-prime.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2096?path=/&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
 vless://8389483a-5064-4b9a-d577-59add9ee927c@5.61.24.228:58864?path=/rocketnet&security=none&encryption=none&headerType=none&type=ws&quicSecurity=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://24a367b6-51f7-4a2f-9e8e-b1af4abf4a50@arvancloud.ir:80?path=/index.html&security=none&encryption=none&host=citynet-bc9a525ab3-netplus.apps.ir-central1.arvancaas.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -783,6 +777,8 @@ vless://cf4692dd-2f62-48a3-a22e-93c6e3c4601a@snapp.ir:8080?path=?ed=2560&securit
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.220.88.180:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://bf5cee75-ad3e-45b8-a457-5e819604cf28@snapp.ir:80?type=ws&encryption=none&path=/&host=n4.asamping.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.250.189.179:888?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%B2%F0%9F%87%BE%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@194.87.77.250:30047?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -6042,6 +6038,8 @@ vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlyttls.keepsecurevpn.com:443?alpn=
 
 vless://21e50c9d-59b4-4858-af54-a7060ac4a430@ww.iwantmoney.ir:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@44.32.224.195:2053?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://EF3507AC-123A-4A39-9B4C-7D9BD69F8913@hk4-r.link-t7.com:10129?type=grpc&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#%F0%9F%87%AD%F0%9F%87%B0%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://09eda7cd-4d2f-4fc5-a5c4-8af398ff7063@snapp.ir:8080?encryption=none&host=safe.xn0.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9997,6 @@ vless://8c48a2c2-ef29-44b6-a925-e53829a99832@185.143.234.200:8080?encryption=non
 vless://bafacd98-136a-4530-838d-4e5c51838dac@188.226.180.209:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=juzi8186.qea.ccwu.cc&path=%2Fshows%2Fregister%2Fjuzibaipiao&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.59.215:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
