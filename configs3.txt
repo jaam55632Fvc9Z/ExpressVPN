@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.4.46:8880?encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?encryption=none&host=leecher56.matinheydri.workers.dev&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.39.125.247:2083?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9997,6 @@ vless://6c95890b-7bca-426a-bb27-dce61ed93aca@snapp.ir:443?path=%2F&security=tls&
 vless://ae3c94ae-d4b7-4568-be21-30ef03ff84f5@lifeeadminpnl.pointspeed.ir:80?path=%2Farvancloud.ir&security=none&encryption=none&host=lifeeadmin.pointspeed.ir&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
 vless://e8b60390-f13f-4231-be5d-ef2b62cb11e7@morv.iwit.cc:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=YOUR_SUB_DOMAIN&type=xhttp&allowInsecure=0&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
