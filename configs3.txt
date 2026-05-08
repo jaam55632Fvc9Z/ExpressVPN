@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://43488128-319e-f480-64ea-0acdc712e2a8@45.77.66.142:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=0c1553316a645758&sni=www.zalando.de&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://f6808c62-cfe0-438c-aae6-44fe6ef51e47@5.199.143.28:8082/?type=grpc&encryption=none&flow=&serviceName=vless-grpc-reality&sni=id.vk.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://bafc879b-eeef-0114-ac47-8ec6c23335e9@111.88.96.41:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&fp=chrome&security=reality&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sid=#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://d82595e5-e41f-4f92-a5be-06173d7e8052@5.102.124.89:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=lIXzhYg3mhR9wY_qQG4H6O7nffkq4A3gUa8LWO6DkTo&sid=f977afd3#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9995,8 @@ vless://aa7d84a2-4e0c-4b1d-adae-19a6a6e3ea3b@snappfood.ir:80?path=%2F&security=n
 vless://faa96ec4-0916-4911-971d-f4ed74d237b3@admins.digimobile.bond:443?path=%2Ftestingpath22&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://kLE+TadzqRXTxJ90fsLYi22s72PcKbjIBF6lQMzAfx2eDLRWXq5e6a22doYS6A4buUSRoqOprSRDavQUk0mKH7bSUrgP8NpYQMAGRe3E46CWKWSkpDeAkTNMlgdSe/mEh0GHyGJMzmR9fQNmvMK4GYj7SLBRZytDqe8O7AVsVxE6B+U9dmse0MjKud/Nh6aZYMl0bgVORz8pnthDl+Gp7CrFLK8ldveey2Tsb4pr2YAguwYSRAu7x+6l9qdJ+yeD#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?sni=sn1.skylee5.cloudns.ch&type=ws&host=sn1.skylee5.cloudns.ch&path=/fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://TIGNAL@blog.helm.sh:443?mode=auto&path=%2Flogin&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=wallweb2.netlify.app&type=xhttp&allowInsecure=1&sni=blog.helm.sh#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 

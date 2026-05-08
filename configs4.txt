@@ -118,3 +118,7 @@ vless://faa96ec4-0916-4911-971d-f4ed74d237b3@admins.digimobile.bond:443?path=%2F
 
 vless://kLE+TadzqRXTxJ90fsLYi22s72PcKbjIBF6lQMzAfx2eDLRWXq5e6a22doYS6A4buUSRoqOprSRDavQUk0mKH7bSUrgP8NpYQMAGRe3E46CWKWSkpDeAkTNMlgdSe/mEh0GHyGJMzmR9fQNmvMK4GYj7SLBRZytDqe8O7AVsVxE6B+U9dmse0MjKud/Nh6aZYMl0bgVORz8pnthDl+Gp7CrFLK8ldveey2Tsb4pr2YAguwYSRAu7x+6l9qdJ+yeD#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?sni=sn1.skylee5.cloudns.ch&type=ws&host=sn1.skylee5.cloudns.ch&path=/fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://TIGNAL@blog.helm.sh:443?mode=auto&path=%2Flogin&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=wallweb2.netlify.app&type=xhttp&allowInsecure=1&sni=blog.helm.sh#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
