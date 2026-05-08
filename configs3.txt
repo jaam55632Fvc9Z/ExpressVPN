@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://b3859071-05b8-4d63-a4d1-dae2f851ad1b@185.143.233.5:8080?path=%2F&security=&encryption=none&host=cdn.sesrsa.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://69b1496e-a251-4d01-917b-3a29f67a187f@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&host=alaedin4.8lack.ir&fp=chrome&type=ws&sni=alaedin4.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://7c1ee44e-01d0-426c-b182-9a8a4bac346d@185.143.234.22:2082?path=/path&security=none&encryption=none&host=tr-st2.ge9.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://c879d5d3-eead-4119-8ebd-e31fb162c554@hongkong.xmm.maimaiyun.shop:5200?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=DR5dMzHBp1YpzIwrWftP4oa9uBMQVnUzIFgDD-WH9lU&sid=17562e4b0fb4&sni=s0.awsstatic.com&servername=s0.awsstatic.com&spx=/&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9995,8 @@ vless://ac422079-8ede-4544-90f3-bc3d3b8639e4@snapp.ir:443?alpn=h3&encryption=non
 vless://c0f3c044-781c-4473-996c-91ad8df6b362@VARZESH3.COM:2083?path=%2F&security=tls&encryption=none&host=G3.artarona.ir&type=ws&sni=G3.artarona.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://5cc82925-6741-4b9a-8d9e-54445b99e5d9@red.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=****#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://4753f239-d847-4a94-b55c-c829110e41e7@snapp.ir:8080?type=ws&encryption=none&path=%2F&host=chatgpt.jahansportmarkazi.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://5c22635b-78fd-46cb-83fc-1337530cbaff@packetnet.mashhad-gsm.ir:42726?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40netmelli15
 
