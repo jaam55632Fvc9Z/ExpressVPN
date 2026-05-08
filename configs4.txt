@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.228.140.86:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://5fc08f5a-200d-41d1-b2ab-4c174224dcf7@otaghak.com:80?encryption=none&host=ir6.viplite.site&path=/app/&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://04094f18-78c7-4c2e-b187-009ebadc9628@s5.crowsnet.work:80?encryption=none&security=none&type=ws&path=/#%F0%9F%87%A6%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://01b415dc-3af0-4db7-afca-80dd3a0045c4@s1.ziroxnet.shop:50476?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://6751fd9c-91fa-49b4-b75a-95ab6924439c@185.143.233.5:2082?encryption=none&type=ws&path=%2F&host=cdn.mizbanertebatfarda.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
-
-vless://398a7d92-9821-45d5-b336-bc29e266e0e6@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=ss8.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://7312306b-be95-4114-b205-02f56d626850@snapp.ir:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=relay.v9n.ir&fp=chrome&type=httpupgrade&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6edbf426-8768-461c-a750-ac21c0f9b4c2@185.143.233.5:2053?encryption=none&fp=firefox&host=cd2.sesrsa.com&path=%2F&security=tls&sni=cd2.sesrsa.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://7ef9fbc7-0fd8-475b-8a84-1c87e7d37dd1@94.182.157.70:8080?path=%2F&security=none&encryption=none&host=s11.mn-g.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
-
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#%F0%9F%87%AC%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.202.211.138:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -101,4 +83,16 @@ vless://df862b4c-2150-4b36-81ac-405036cf9ff6@172.64.144.144:2083?encryption=none
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@173.245.59.145:8443?encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@195.123.210.184:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B1%F0%9F%87%BB%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@146.19.84.90:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@5.34.209.139:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.77.194:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B1%F0%9F%87%BB%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2nodes
+
+vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
