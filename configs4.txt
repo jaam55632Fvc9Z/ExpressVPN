@@ -74,3 +74,7 @@ vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwg
 
 vless://1c7663a8-e9cb-4fe5-b86b-b9114166aebf@37.32.21.59:27015?encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&security=reality&encryption=none&fp=chrome&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&sid=9a694cfa8ebd15&sni=www.m.vk.ru#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://ff6d6f8e-79f2-441e-ac39-bc3406f86e5c@khan10.tarfandgallery.sbs:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=khan10.tarfandgallery.sbs#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
