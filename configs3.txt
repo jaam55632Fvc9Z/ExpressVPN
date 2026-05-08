@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.166.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?encryption=none&host=long-forest-ac72.salari1382m.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@8.6.112.6:443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&security=tls&sni=2026.hhhhh.eu.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -9999,4 +9993,10 @@ vless://35657e7a-f81b-4c61-90aa-9bc142531462@94.183.153.249:53839?encryption=non
 vless://ec86ad1c-70e2-4eb9-a1c1-9b13c842bf94@wazir.kingotiran.site:41355?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://0dc571c3-1443-419f-8141-5cc15dc642d8@snapp.ir:2086?type=ws&encryption=none&path=%2F&host=sas.turbomail.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://65c93968-c1eb-4c52-86ba-e2cd0ad001f5@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IE5vbmUiLCJhZGQiOiI4MTAzLnNob21hcGFydmF6cm95YWRldG9ubmlzdC1ieXBhc3Npc2hlcmUubGF0IiwicG9ydCI6ODEwMywiaWQiOiI4Zjc0ZWM4YS05NzFjLTExZWQtYThmYy0wMjQyYWMxMjAwMDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiYWQ4MGY4ZWMtNDg2MS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyLlNob21hUGFydmF6Um9ZYWRldG9uTmlzdC1CeXBhc3NJc0hlcmUubGF0IiwicGF0aCI6Ii9hZDgwZjhlYy00ODYxLTExZjAtYTk0OC02YTc1ZjY2N2I0NzI/ZWQ9MjA0OCIsInRscyI6InRscyIsInNuaSI6ImFkODBmOGVjLTQ4NjEtMTFmMC1hOTQ4LTZhNzVmNjY3YjQ3Mi5TaG9tYVBhcnZhelJvWWFkZXRvbk5pc3QtQnlwYXNzSXNIZXJlLmxhdCJ9#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IE5vbmUiLCJhZGQiOiJhLjg4Njk2OC54eXoiLCJwb3J0IjoyMTM2OSwiaWQiOiIxNTExODdiMS1jOGYzLTRjMzItYWM3Mi0zNjc5ZTI2NGE3YTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJhLjg4Njk2OC54eXoiLCJwYXRoIjoiL3dmZGVmIiwidGxzIjoidGxzIiwic25pIjoiYS44ODY5NjgueHl6In0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
 
