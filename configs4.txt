@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.31:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2Fassignment&Host=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.64.152.100:443?path=/&security=tls&encryption=none&host=hio-awx.pages.dev&type=ws&sni=hio-awx.pages.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&security=reality&sid=f7aa9e61197d3ac6&sni=tradingview.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://8f8ccdc5-fe99-38d7-a8a6-422f8c88ef0a@s473.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s473.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=efc5s473.ccgfw.top&serviceName=&mode=&alpn=#%F0%9F%87%AA%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@63.184.155.101:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.155.101:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@63.184.155.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 vless://43488128-319e-f480-64ea-0acdc712e2a8@136.244.93.228:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=a1b2c3d4e5f67890&sni=www.booking.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A8%F0%9F%87%BC%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -71,4 +55,22 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMk05MWh1ekpRYW9DV0pPakR2dTB3@104.207.143.18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.70.207.97:990#%F0%9F%87%B2%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://79c9a15e-4951-47a3-be7c-cc5cf861b7ed@185.143.233.5:8443?encryption=none&fp=firefox&host=cd2.sesrsa.com&path=%2F&security=tls&sni=cd2.sesrsa.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://0b3de9ff-74dd-459f-9a3b-238403439eb3@digipay.ir:80?path=/&security=&encryption=none&host=asd.pixserver.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e23ba980-3a5b-4047-ab62-cb2bdf1333da@digipay.ir:80?path=/&security=none&encryption=none&host=asd.pixserver.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://b5f88d17-53b5-4ad1-86f6-629656e9abec@154.83.95.202:40569?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=Yj-m6qSKr6cnZgdK8irXjTDzJunfaAitCWgMdTMRphY&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://a34bbc37-566c-4d31-8401-26fe0f9d6f7d@out2.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://62366162-6164-4234-a337-633239306666@185.143.235.28:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=none&encryption=none&host=t.ufduiudud.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://44e68526-3852-4495-bc4f-80e80260ed3b@snapp.ir:2086?type=ws&encryption=none&path=%2F&host=beraghsaontop.dracodcodya.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://0b874d98-430d-4958-ba09-e44cca9f4136@camp.nahidapp.com:443?encryption=none&host=camp.nahidapp.com&path=%2FIF_VPN_Bot&security=tls&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiaG9zdCI6ICJyeHMuYnJhdm8tc2l4LmlyIiwgImlkIjogIjJjNTM0ZmIzLWMwYzQtNDhlMS04ZTdlLTJjYjhmYmY0YmU3NSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+
+vless://cc4144e2-eea3-4bcf-a545-1c578a61d45b@185.143.233.200:2086?type=ws&encryption=none&path=%2F&host=nima.hayalco.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
