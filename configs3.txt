@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://bc228bf8-ed12-40fa-8445-1786289cbf3e@5.61.30.58:17832?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/ @RzChanel111&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYXIxLnRlY2hyb2Fkcy5pciIsICJpZCI6ICJlMzRlYWVlYi00ZWM1LTQwOGEtYWEzOC1lNWM0YmNkMGE4NTUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 
 vless://bd239915-ebc8-4021-b07e-9a57a99d044e@snapp.ir:8880?type=ws&%3Bencryption=none&%3Bpath=/&%3Bhost=xnx3.nexoratechcenter.ir&%3Bsecurity=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -9999,4 +9993,10 @@ vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.26.13.145:2096?&security=tls&fp
 vless://b80e89c3-9d21-4fe9-ad66-3c942a0941a2@hi.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 hysteria2://vFy042zmin@srm.kishonline.online:443?security=tls&obfs=salamander&obfs-password=kish-data-center&insecure=0&sni=srm.kishonline.online#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
+
+vless://TIGNAL@blog.helm.sh:443?encryption=none&type=xhttp&security=tls&path=%2Flogin&host=wallweb11.netlify.app&mode=auto&sni=blog.helm.sh&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://TIGNAL@kubernetes.io:443?encryption=none&type=xhttp&security=tls&path=%2Flogin&host=wallweb11.netlify.app&mode=auto&sni=kubernetes.io&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9ee24d19-ecd1-45e1-bb89-39eca08b0516@api.digimobile.bond:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&path=%2Fbuyingfromgogle&security=tls&sni=&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
