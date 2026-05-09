@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://2ed014f5-dfaa-472c-9e64-91cc915b7ac8@185.143.235.21:8080?encryption=none&type=ws&path=%2Fpath&host=tr-st4.ge9.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://c70b5f28-5400-4d1e-a279-5a3281eb12fe@digipay.ir:80?path=%2F&security=none&encryption=none&host=asd.pixserver.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://d985c2ae-56f7-4536-8b08-fe42425f776a@digipay.ir:80?path=%2F&security=none&encryption=none&host=asd.pixserver.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.26.13.145:2096?&security=tls&fp=chrome&sni=kalami-eew.pages.dev&type=ws&headerType=none&host=kalami-eew.pages.dev&path=%2Ffp%3Dchrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://b80e89c3-9d21-4fe9-ad66-3c942a0941a2@hi.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-hysteria2://vFy042zmin@srm.kishonline.online:443?security=tls&obfs=salamander&obfs-password=kish-data-center&insecure=0&sni=srm.kishonline.online#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40filembad
-
 vless://TIGNAL@blog.helm.sh:443?encryption=none&type=xhttp&security=tls&path=%2Flogin&host=wallweb11.netlify.app&mode=auto&sni=blog.helm.sh&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://TIGNAL@kubernetes.io:443?encryption=none&type=xhttp&security=tls&path=%2Flogin&host=wallweb11.netlify.app&mode=auto&sni=kubernetes.io&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -125,4 +113,28 @@ vless://af51f262-5c26-47ff-8e58-0f7e828f4f2c@free.jibjob.mom:8546?path=%2F&secur
 vless://5b376078-9561-4587-84c1-cc16a4f6d88a@digipay.ir:80?path=%2F&security=none&encryption=none&host=asd.pixserver.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://c9841f8b-9388-4142-9549-688c98d77d13@red.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&host=red.nahidapp.com&type=ws&sni=red.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@15.224.89.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@15.224.89.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.89.79:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://96b72298-278b-4560-b601-1347bf5c28c5@free.jibjob.mom:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6d446269-5971-47a7-af57-763e96dd2e05@free.jibjob.mom:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://398e2932-2731-4084-85e5-8c40b872fb08@free.jibjob.mom:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://db8abbc5-639a-4df3-b705-25ba110b5caf@free.jibjob.mom:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://b2b9d60d-1506-4d4a-8665-63f1dff2af33@free.jibjob.mom:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6244c670-79e1-4f2c-928c-8637154fc80a@free.jibjob.mom:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://a8b3411b-b35b-4bc5-b971-c88f114dcc95@free.jibjob.mom:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3af97d4f-da30-4c31-8161-597944da644f@free.jibjob.mom:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://1a31b60d-5191-4c88-bfec-70611c1fd6eb@free.jibjob.mom:8546?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
