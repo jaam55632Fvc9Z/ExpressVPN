@@ -11700,3 +11700,15 @@ vmess://eyJhZGQiOiAid3d3LmFydmFuY2xvdWQuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAi
 
 vless://d45133ef-aae3-472f-bd90-db6f896656c1@hi.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://cea5a86c-bf57-4aba-9205-b9c7cfbe8f43@snapp.tech-notes.xyz:42293?encryption=none&type=grpc&mode=gun&serviceName=aparat-stream&security=tls&fp=chrome&sni=snapp.tech-notes.xyz&alpn=h2,http/1.1#%F0%9F%87%B9%F0%9F%87%B7%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://33bc377e-ea6f-4eb5-a1d1-b00010336fd5@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=M1.snllshop.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://cea5a86c-bf57-4aba-9205-b9c7cfbe8f43@snapp.tech-notes.xyz:42293?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=aparat-stream&allowInsecure=0&sni=snapp.tech-notes.xyz#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40prrofile_purple
+
+vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZTg5MmVmNTAtNzViMi00Yzc4LTlmMWQtYzgwZGJlMWQ1NDdlIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIxMTUzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://dba2b2fd-c445-400c-ad6d-52ce505b7db6@snapp.ir:8080?path=%2F&security=none&encryption=none&host=api.shomalnojm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://5d202c0b-f85d-4767-a259-352dc442fe8b@joker.preghost.ir:36099?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=joker.preghost.ir&fp=chrome&mode=auto&alpn=h2,http/1.1&extra=%7B%0A%20%20%22xPaddingBytes%22%20:%20%22100-1000%22%0A%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
