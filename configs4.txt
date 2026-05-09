@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://f68da012-3337-494d-81d9-7b83397738e4@snapp.ir:80?encryption=none&host=biawban.yeksancloud.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://dgEPeFcXcS@94.101.191.194:8443?type=xhttp&path=%2Fraikastudiogilan&host=myket.ir&mode=packet-up&security=none#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
-vless://P7NA1CIk3Cp9ig07687rt1gQpgg4rqhGwaaq+CJ7WbDQMo3N7eUFnV8XNcVp3ENfuUSRoqOprSRDavQUk0mKH4GWsQu7MsKI52Iku9NRivwL4wfVCCQgL7bC+bx38Iz3ujgsNJRe0xGEFjAPpXdHjVzkdfRwfOf/fQbX/Dei/Jruu5SQRqIudZthEBiEO8sCgm6juPbBjdZBmewf/KnN4tOqhjWKX7j+Hxym75Yz5M21QDeC6odAJK9CKyEcEdd6QeGjE1Krmm7NduLomRAphaDMkC7Zv69ao6CKAvopMpplFciVetXY9DV4trk2FWuWsC49958EBFk+jKmUcRXknw==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://7ef792e2-6134-41ff-8fe4-5f257e047d58@f.kelimanjaro.ir:8880?encryption=none&host=&path=%2Ffghj&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://5dcf7dda-758e-4ed1-bbf9-8dd3987f9f17@f.kelimanjaro.ir:8880?encryption=none&host=&path=%2Ffghj&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -47,4 +39,12 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&enc
 vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=none&host=camp.nahidapp.com&path=%2ICV2RAY&security=tls&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vmess://eyJhZGQiOiAiZGwuYXRsYW50aWN0ZWFtY2hhbm5lbDIuYmxvZyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiN2FlZDYwZjQtMjk2Mi00MGY5LTk3MzUtMTRjNTJhNDIyZDlmIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://b15cf86d-d59c-42f9-8d21-3882a09075b5@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=ss1.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@52.58.203.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.203.172:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@52.58.203.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
