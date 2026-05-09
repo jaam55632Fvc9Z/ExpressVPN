@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://TIGNAL@blog.helm.sh:443?encryption=none&type=xhttp&security=tls&path=%2Flogin&host=wallweb11.netlify.app&mode=auto&sni=blog.helm.sh&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://TIGNAL@kubernetes.io:443?encryption=none&type=xhttp&security=tls&path=%2Flogin&host=wallweb11.netlify.app&mode=auto&sni=kubernetes.io&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9ee24d19-ecd1-45e1-bb89-39eca08b0516@api.digimobile.bond:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&path=%2Fbuyingfromgogle&security=tls&sni=&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://c062767b-2b6a-49f0-95ec-7625b68ff633@185.143.233.200:2095?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.cGk_3ogJrkDVJms1nBniFsfg_E2D1lSs7lgtad9oBD8&host=nima.hayalco.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://b192d6c4-4cf6-481b-aeaf-565e2033064c@185.143.233.200:2095?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.cGk_3ogJrkDVJms1nBniFsfg_E2D1lSs7lgtad9oBD8&host=nima.hayalco.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -137,4 +131,10 @@ vless://a8b3411b-b35b-4bc5-b971-c88f114dcc95@free.jibjob.mom:8880?path=%2F&secur
 vless://3af97d4f-da30-4c31-8161-597944da644f@free.jibjob.mom:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://1a31b60d-5191-4c88-bfec-70611c1fd6eb@free.jibjob.mom:8546?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAid3d3LmFydmFuY2xvdWQuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiVmlQLVNlcnZpY2VTZWxsZXJJTlRlbGVncmFtLmhheXBlcnouaXIiLCAiaWQiOiAiYTAwZjAxYWEtZDk3NS00YzY3LWI2ZDgtYjMwOTVkZmY3NWNkIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1ZpUFNlcnZpY2UiLCAicG9ydCI6ICIyMDk1IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+
+vless://3af97d4f-da30-4c31-8161-597944da644f@free.jibjob.mom:8880?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://af51f262-5c26-47ff-8e58-0f7e828f4f2c@free.jibjob.mom:8546?path=%2F&security=none&encryption=none&type=ws%40oliver#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
