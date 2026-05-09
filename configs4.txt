@@ -100,3 +100,7 @@ vless://11e559f8-f5b7-48be-9ab5-7fc0915569e0@38.180.132.206:443?type=tcp&securit
 
 vless://98a8b09a-8de3-4458-8e6d-6cba663c6845@snapp.ir:80?path=%2F&security=&encryption=none&host=web.veraflow.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://272c4c92-4599-4345-bef8-3aedb977afb0@snapp.ir:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=kalbas1.pbvsrk.carnagesv.top&fp=random&type=ws&allowInsecure=0&sni=kalbas1.pbvsrk.carnagesv.top#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5b3d849a-a875-4cc5-a22c-f96806c5abf5@s20.mrjori.site:80?encryption=none&host=try.serveraf.ir&path=/w0A7arFCWh1n07bLCPY2sRPzhX533Aa&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
