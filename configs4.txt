@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://51d81356-9bb8-9bb9-e8fa-b8f47636f5a1@hmt.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.242#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://fbd90884-625d-4be7-b899-cf712da020e6@snapp.ir:2095?type=ws&encryption=none&security=none&path=/ABcD&host=clud.extra-tm.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.65:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@172.64.144.106:2087?path=%2Ffp&security=tls&encryption=none&insecure=0&host=kalami-eew.pages.dev&type=ws&allowInsecure=0&sni=kalami-eew.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.198:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@57.182.243.203:443?sni=gogo4.kmj.qzz.io&type=ws&host=gogo4.kmj.qzz.io&path=/fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://9d28d537-5f92-4e83-8ec3-cf6ff21898ee@snapp.ir:80?path=%2F&security=none&encryption=none&host=getd.restaurantstudio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -105,4 +93,12 @@ vless://65d75f28-8ec7-47da-b510-cb1d73e4b58f@s3.vahshat.xyz:80?path=%2Fws&securi
 vless://bf1ba3d9-b1e7-4fd5-ac97-c23da4ca434f@anten.ir:2086?encryption=none&type=ws&path=%2Fcdn&host=i.zivoport.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://d0313a17-adb2-4a24-9e6e-dca6a14ccce7@app.palmal.site:36517?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://bf1ba3d9-b1e7-4fd5-ac97-c23da4ca434f@Anten.ir:2086?path=%2Fcdn&security=none&encryption=none&host=i.zivoport.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiaG9zdCI6ICJyeHMuYnJhdm8tc2l4LmlyIiwgImlkIjogIjNkMDZhYmVlLWFiZjQtNDJiZi1hNzUxLTFhNjExYzYwNThjOCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAic2N5IjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+
+vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiaG9zdCI6ICJyeHMuYnJhdm8tc2l4LmlyIiwgImlkIjogImRjZmRhYmFjLTM0NTAtNDcwNC1hOGQzLWVhZDk0Zjg4ZjI1ZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAic2N5IjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+
+vless://bdb57cdb-f555-4fd6-a28c-5f652d996eac@oma.parslicense.ir:80?path=%2Farvia_taula&security=&encryption=none&host=oma.parslicense.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
