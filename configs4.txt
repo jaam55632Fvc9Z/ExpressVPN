@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://a2b89010-b65a-492c-a0a6-5cec15ae5a24@eco.gymplusplus.com:2052?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6e4d8f27-d472-4a38-9cfd-dbb34b6a8c8d@finally.dashivo.ir:8080?encryption=none&type=ws&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://c6229ae6-92e7-4ac1-addb-4ff94703a427@185.208.149.142:9506?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://c513186a-6684-4a84-8d04-b43ff662eed0@snapp.ir:2052?path=%2F&security=none&encryption=none&host=morgh.cpiu.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://0b9cc341-939d-432a-8725-cebe6f6c4aae@aparatrat1.info:2083?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.190:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -69,4 +61,12 @@ vless://07dbfb46-83f0-4801-a223-58c4bc266fd2@37.152.189.74:4431?path=%2Fek%2Firi
 vless://360d65ec-3dc9-49ef-9839-51a794f492a8@104.18.16.56:443?mode=auto&security=tls&alpn=h2&encryption=none&host=speedtest.net&fp=chrome&type=xhttp#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://74d8ce23-db07-4bd6-afc8-4e6258df3e4c@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@47.128.72.35:80#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2nodes
+
+vmess://eyJhZGQiOiAiMTg1LjE0My4yMzQuMjM1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm5sZDAwMi5taWRhc25ldC53b3JrIiwgImlkIjogIjNhMjE4ODc2LWEwODUtNGFjYi1iMTk4LWFhOTMyZTRmMjFmNCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+
+vless://4e3f6a5b-acd3-4566-8349-bc71602b99c1@irshum2n.nazincup.ir:8080?path=%2Fapi&security=none&encryption=none&host=vpnxvpn.nazincup.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://d6ef4a50-ea08-4f35-ba27-b58a86487dd0@50.7.4.106:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=wro.u3er1.ir&path=%2Fws&security=tls&sni=wro.u3er1.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
