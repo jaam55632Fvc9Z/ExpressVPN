@@ -11972,3 +11972,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.92.102:22224?type=ws&security
 
 vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZTdhMzUzN2YtOWMxYy00YTkxLWI2YmYtNWIyZjlhYWJjYzg2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIxMTU4IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
+vless://c956d8be-f6b1-454f-a111-a2fc7956635d@bitpin.ir:8080?encryption=none&type=ws&path=%2F&host=MELI.ARTARONA.IR#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-v2rayvpnchannel@51.44.92.102:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
