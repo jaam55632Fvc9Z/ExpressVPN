@@ -96,3 +96,9 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.yy38.14.152:443?enfcrypttiohn=n
 
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40v2ray_configs_pool
 
+vless://d9846f3e-0d5d-48ae-a198-c1b28ee5f258@emergency-service2.pavilof.ir:80?path=%2F&security=none&encryption=none&host=emergency-service2.pavilof.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4bc5fbb2-0a22-4639-a401-6d8653d86b27@snapp.ir:443?type=ws&encryption=none&path=/&host=kalbas1.pbvsrk.carnagesv.top&security=tls&fp=random&alpn=h3&sni=kalbas1.pbvsrk.carnagesv.top#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://59d69a99-1278-4d28-b64b-96f850a5ff24@snapp.ir:443?path=/&security=tls&alpn=h3&encryption=none&insecure=0&host=kalbas1.pbvsrk.carnagesv.top&fp=random&type=ws&allowInsecure=0&sni=kalbas1.pbvsrk.carnagesv.top#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
