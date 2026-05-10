@@ -88,3 +88,9 @@ vless://b2c49104-979e-4fed-b94d-5bf96ee3f594@varzesh3.com:443?path=%2F%3Fed%3D44
 
 vless://ce5ccdd9-a6f8-488f-aaa1-e5d66b9f9133@185.143.233.235:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
+vless://ce5ccdd9-a6f8-488f-aaa1-e5d66b9f9133@185.143.233.235:80?path=%2F&security=none&encryption=none&host=d.nsa03.com&type=ws@VMESS_RAY#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://9698d93a-bc5f-4a30-a3ac-bcba086e2607@line2.gymplusplus.com:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://45b78a97-ff5d-49d9-95e4-2eb7e2cd4ea9@2.144.21.201:6003?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
