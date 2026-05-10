@@ -12386,3 +12386,7 @@ vless://00669e97-27fb-4273-878b-d514f7f4fd4b@snapp.ir:80?path=%2F&security=none&
 
 vless://93e052a0-8b80-4eff-9943-6e167ef13bf8@admins.digimobile.bond:443?path=%2Ftestingpath22&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://f8ea345b-5ad1-4529-a90d-769741857bce@dverso.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fvl%2F&host=dverso.nahidapp.com&sni=dverso.nahidapp.com&fp=&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://f8ea345b-5ad1-4529-a90d-769741857bce@hi-verso.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fvl%2F&host=verso.nahidapp.com&sni=verso.nahidapp.com&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
