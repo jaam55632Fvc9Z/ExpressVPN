@@ -48,3 +48,11 @@ vless://48b942fd-779d-4839-bd26-527c8fe67c4f@185.143.233.23:2052?path=%2F&securi
 
 vless://ee309de6-154b-45da-aa71-0a3a1ca97c1b@85.159.229.84:443?security=reality&encryption=none&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&headerType=&fp=random&spx=%2F&type=tcp&sni=www.google.com&sid=93#%F0%9F%87%AE%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
+vless://42d3300c-fe44-43ad-9d12-a94278e2343d@ir.nazincup.ir:2086?path=%2Fapi&security=none&encryption=none&host=ir.nazincup.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://46f4c450-32db-4a0d-891e-e8d74a0e7954@snapp.ir:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=kalbas1.pbvsrk.carnagesv.top&fp=random&type=ws&allowInsecure=0&sni=kalbas1.pbvsrk.carnagesv.top#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://21076e19-0a1e-4d0c-862a-66ae77e9744d@em2.rishvend.com:57290?security=none&allowInsecure=0&encryption=none&type=ws&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9b0b41ad-7ecd-4291-ba00-e9b23625874c@2.144.21.201:6003?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
