@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://42d3300c-fe44-43ad-9d12-a94278e2343d@ir.nazincup.ir:2086?encryption=none&type=ws&path=/api&host=ir.nazincup.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://a469bf88-8f4c-4b39-81c8-736acb3e1a39@snapp.ir:80?path=/&security=none&encryption=none&host=biawban.yeksancloud.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://b06ef35b-5670-488a-b158-5a85f978b69c@snapp.ir:80?type=ws&encryption=none&path=/&host=siaa.real-jcvps.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.97.11:2087?note=---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---&path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Xlz767V2Ray.PAGEs.DEv#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://c64af538-4e53-4948-ae96-83051b456a76@skyline.bdsss.xyz:18970?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://a469bf88-8f4c-4b39-81c8-736acb3e1a39@snapp.ir:8080?path=%2F&security=none&encryption=none&host=biawban.yeksancloud.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://0b6705dc-157e-46a1-8872-2fa6923e8d83@185.143.233.200:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=final.idbedam.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayNG3
@@ -45,4 +35,10 @@ vless://3548d598-8a35-40f1-9458-f3de15935061@app.palmal.site:36517?security=none
 vless://bf6fbb00-41d9-4e32-acf1-43322a8d0e54@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=b.p0j.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://53b50d3e-5e0a-4c4e-9519-cd8283923b4f@aparatrat1.info:2083?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+trojan://telegram-id-directvpn@13.37.161.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.161.114:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.37.161.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
