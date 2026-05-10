@@ -42,3 +42,9 @@ trojan://telegram-id-privatevpns@13.37.161.114:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-v2rayvpnchannel@13.37.161.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://48b942fd-779d-4839-bd26-527c8fe67c4f@185.143.233.23:2052?path=%2F&security=&encryption=none&host=ir-st3.ge9.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://48b942fd-779d-4839-bd26-527c8fe67c4f@185.143.233.23:2052?path=%2F&security=none&encryption=none&host=ir-st3.ge9.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ee309de6-154b-45da-aa71-0a3a1ca97c1b@85.159.229.84:443?security=reality&encryption=none&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&headerType=&fp=random&spx=%2F&type=tcp&sni=www.google.com&sid=93#%F0%9F%87%AE%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
