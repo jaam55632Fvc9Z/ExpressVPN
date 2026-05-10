@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ea33d378-78ac-4d43-af97-240da7756123@snapp.ir:80?type=ws&path=/&host=simorgh.darerio.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 trojan://telegram-id-directvpn@51.44.92.102:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://telegram-id-privatevpns@51.44.92.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -97,4 +95,8 @@ vless://52f1878b-521e-46f6-b382-8ba57265ea0f@snappfood.ir:8080?encryption=none&t
 vless://Iran_VPN_D_2@letsencrypt.org:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-200%22%7D&insecure=0&host=it-teams.netlify.app&fp=chrome&type=xhttp&allowInsecure=0&sni=kubernetes.io#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://f4eab8db-dce4-4348-921c-a728f50db13c@dl1.insta-download.ir:2095?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://789fe299-81d9-430e-b73f-398558ae6995@185.143.235.200:8880?type=ws&encryption=none&path=%2Fvlink&host=www.byatov.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d9ae4879-27cf-4fed-90aa-3a606eaab4bc@snapp.ir:80?encryption=none&security=none&type=ws&host=arvan-abr.linkbaz.site&path=%2FVpn_jet7#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
