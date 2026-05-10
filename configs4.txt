@@ -42,3 +42,5 @@ trojan://telegram-id-privatevpns@63.180.116.50:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-directvpn@63.180.116.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://70596050-238f-4b23-839b-183090e4c076@snapp.ir:2082?encryption=none&type=ws&path=%2Fv&host=sub2.pavps.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
