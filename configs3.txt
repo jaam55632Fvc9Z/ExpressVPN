@@ -12478,3 +12478,13 @@ vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.136.116:80?path=%2F%3Fed%3D2
 
 vless://6749b48c-4810-4ca9-b4cb-5e2c84e870e3@app.palmal.site:48303?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@20.117.152.226:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@63.178.170.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@63.178.170.208:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.170.208:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8f25d191-c31c-4d07-86ec-db01fe1085d9@london1.ap221.com:443?sni=london.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2nodes
+
