@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://IcmHM26RLwKqSGSBYAOHfw@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://63bcae2f-5293-448d-9ee6-93dab89fe329@hi.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@13.229.61.103:80#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.90.251.133:80#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -33,4 +29,10 @@ vless://93e052a0-8b80-4eff-9943-6e167ef13bf8@admins.digimobile.bond:443?path=%2F
 vless://f8ea345b-5ad1-4529-a90d-769741857bce@dverso.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fvl%2F&host=dverso.nahidapp.com&sni=dverso.nahidapp.com&fp=&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://f8ea345b-5ad1-4529-a90d-769741857bce@hi-verso.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fvl%2F&host=verso.nahidapp.com&sni=verso.nahidapp.com&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.41:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://66e98153-7bde-48c9-bee1-5afbfc237c89@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ac4acdbc-b2bb-4444-a843-b981245a5060@dverso.nahidapp.com:443?path=%2Fvl%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dverso.nahidapp.com&type=ws&allowInsecure=0&sni=dverso.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
