@@ -46,3 +46,11 @@ vless://d27866d0-43ed-411e-905a-05613305d121@anten.ir:8443?path=%2F&security=tls
 
 vless://30345605-91e7-4102-a9d5-8362f22db31e@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin4.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin4.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://4d09868b-9651-45b0-883c-fd36bd45d3fb@swmm.simbaaa.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.simbaaa.top&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://4d09868b-9651-45b0-883c-fd36bd45d3fb@swmm.simbaaa.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.simbaaa.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://2f194e6a-e677-452c-8a26-377abee88791@185.143.233.43:8880?path=%2F&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://759f3bf2-ac6c-459b-905d-5d6088f422c4@185.143.233.167:2087?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=chat3.novationvps.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
