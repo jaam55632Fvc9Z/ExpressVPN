@@ -86,3 +86,9 @@ vless://0bf8c8bf-1c29-4ec1-b599-01063a49ba34@50.7.4.107:443?path=%2F---%40MiTiVP
 
 vless://0bf8c8bf-1c29-4ec1-b599-01063a49ba34@50.7.4.106:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=1.pars-cdn.ir&fp=chrome&type=ws&allowInsecure=1&sni=1.pars-cdn.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://03491a57-f071-4c0c-84f2-f4ec9062ede1@tokyo1.ap221.com:443?sni=tokyo.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e7312cc2-d27a-445b-8735-e3e7711043b4@digipay.ir:80?path=%2F&security=&encryption=none&host=asd.pixserver.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d429f68f-6185-4591-a104-92a399f62774@digipay.ir:80?path=/&security=none&encryption=none&host=asd.pixserver.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
