@@ -46,3 +46,15 @@ vless://27365cbd-6226-41f1-a561-f3ad7c9c7fb3@50.7.4.244:8443?encryption=none&typ
 
 trojan://8r%3C%5B9%27l6hAO%238ZQi@50.7.4.243:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2Ftr&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40cpy_teeL
 
+vless://662c2eb7-aaad-4008-ac8c-d0854106f57c@xtls-us.new-state.ir:443?mode=auto&path=%2Fmizban&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&type=xhttp&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://73e3ce89-3f74-460f-8f39-3361cee25332@185.143.233.235:8080?path=%2Fws%3Fed%3D2560&security=none&encryption=none&host=Nwe1.legendperm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://27365cbd-6226-41f1-a561-f3ad7c9c7fb3@50.7.4.244:8443?encryption=none&type=ws&host=king.pars-cdn.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN&security=tls&fp=chrome&sni=king.pars-cdn.ir&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://5f26403e-12ba-45ab-931f-02d607327bf9@94.130.50.12:443?encryption=none&security=tls&sni=kubernetes.io&fp=chrome&insecure=1&allowInsecure=1&type=xhttp&host=jocular-jalebi-c979e0.netlify.app&path=%2F66EFZXuswLnsZCO1bgRRwKIxLM&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A136.0%29%20Gecko%2F20100101%20Firefox%2F136.0%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA==@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://27365cbd-6226-41f1-a561-f3ad7c9c7fb3@50.7.4.106:8443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=king.pars-cdn.ir&fp=chrome&type=ws&allowInsecure=1&sni=king.pars-cdn.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
