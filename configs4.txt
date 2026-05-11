@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://8501015e-e481-4f34-bc8d-28bb574d2257@185.143.233.5:2086/?encryption=none&type=ws&path=%2F&host=cdn.mizbanertebatfarda.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-v2rayvpnchannel@13.37.158.16:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@50.7.4.243:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://3f433200-87fc-41b2-a4ef-120d1db4d6fd@thany.tech:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=cloudinohost.com&fp=chrome&type=ws&allowInsecure=1&sni=cloudinohost.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://ddcc4ecc-adfa-442a-9cb7-747116f0d545@hi.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://1a8cfae7-c8ef-4c33-86f0-74c6f14f76e6@snapp.ir:80?path=%2F&security=none&encryption=none&host=download.speedtell.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://c6764a61-8f14-47ba-bdcc-4c260926bab3@snapp.ir:80?path=%2F&security=&encryption=none&host=api.sobhan.cam&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -39,4 +29,6 @@ vless://27365cbd-6226-41f1-a561-f3ad7c9c7fb3@50.7.4.244:8443?path=%2F---%40MiTiV
 vless://6b2b4af4-31c9-4066-bda8-fed9ae6b5673@ailai.badiranservice1.top:8080?encryption=none&host=&mode=auto&path=%2F&security=none&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
 vless://94987766-73d1-4b2e-96f6-599e7131eec4@snapp.ir:80?encryption=none&host=dy.borna-otbas.ir&path=/&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=/vless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
