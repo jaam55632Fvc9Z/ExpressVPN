@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d000712a-080d-40d3-be7d-ef2ed60f4bfb@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=ss14.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-privatevpns@51.45.38.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.38.2:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@51.45.38.2:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiMjEzMDIiLCAiaWQiOiAiOTYyYjVmNjctY2ZlNi00MGIxLWIxMjYtYjY1YzE3NGQ3MjFkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
-
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.102:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.107.164.165:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -93,4 +83,20 @@ vless://376e4d67-4d29-4366-8c0a-90666d78882b@s3.vahshat.xyz:80?type=ws&security=
 vless://e7312cc2-d27a-445b-8735-e3e7711043b4@digipay.ir:80?path=%2F&security=none&encryption=none&host=asd.pixserver.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?security=none&allowInsecure=0&encryption=none&type=ws&host#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://f4871135-0f37-44dc-9010-788e760a4b01@cf.090227.xyz:2083?type=ws&encryption=none&host=eu2.337777777.xyz&path=%2Ftr3gaeg&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=firefox&insecure=0&sni=us1.337777777.xyz&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdoh.pub%2Fdns-query#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f4871135-0f37-44dc-9010-788e760a4b01@cf.090227.xyz:443?type=ws&encryption=none&host=eu2.337777777.xyz&path=%2Ftr3gaeg&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=firefox&insecure=0&sni=us1.337777777.xyz&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdoh.pub%2Fdns-query#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f4871135-0f37-44dc-9010-788e760a4b01@cf.090227.xyz:2096?type=ws&encryption=none&host=jp2.337777777.xyz&path=/tr3gaeg&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=jp2.337777777.xyz&ech=cloudflare-ech.com+https://doh.pub/dns-query#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f4871135-0f37-44dc-9010-788e760a4b01@www.shopify.com:2087?type=ws&encryption=none&host=sg1.337777777.xyz&path=/tr3gaeg&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=firefox&insecure=0&sni=sg1.337777777.xyz&ech=cloudflare-ech.com+https://doh.pub/dns-query#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f4871135-0f37-44dc-9010-788e760a4b01@cf.090227.xyz:2053?type=ws&encryption=none&host=sg1.337777777.xyz&path=/tr3gaeg&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=firefox&insecure=0&sni=sg1.337777777.xyz&ech=cloudflare-ech.com+https://doh.pub/dns-query#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f4871135-0f37-44dc-9010-788e760a4b01@cf.090227.xyz:443?type=ws&encryption=none&host=jp1.337777777.xyz&path=/tr3gaeg&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=jp1.337777777.xyz&ech=cloudflare-ech.com+https://doh.pub/dns-query#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f4871135-0f37-44dc-9010-788e760a4b01@www.shopify.com:443?type=ws&encryption=none&host=ous1.8886698.xyz&path=/tr3gaeg&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=ous1.8886698.xyz&ech=cloudflare-ech.com+https://doh.pub/dns-query#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f4871135-0f37-44dc-9010-788e760a4b01@www.shopify.com:443?type=ws&encryption=none&host=us1.337777777.xyz&path=/tr3gaeg&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=firefox&insecure=0&sni=us1.337777777.xyz&ech=cloudflare-ech.com+https://doh.pub/dns-query#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
