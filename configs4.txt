@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://03491a57-f071-4c0c-84f2-f4ec9062ede1@tokyo1.ap221.com:443?sni=tokyo.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://e7312cc2-d27a-445b-8735-e3e7711043b4@digipay.ir:80?path=%2F&security=&encryption=none&host=asd.pixserver.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://d429f68f-6185-4591-a104-92a399f62774@digipay.ir:80?path=/&security=none&encryption=none&host=asd.pixserver.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://97cc1f58-1e07-4cac-8714-f98848201693@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=gn.8lack.ir&fp=firefox&type=ws&allowInsecure=1&sni=gn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://be1fab42-7703-4f8c-9e63-1daec6d002d5@rec.yaraghfit.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&type=ws&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -87,4 +81,18 @@ vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.5:443?encryption=none&s
 vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.233:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=pishparda.ir&sni=pishparda.ir&fp=chrome&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.234:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=s1.pishparda.ir&sni=s1.pishparda.ir&fp=chrome&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.235:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=s2.pishparda.ir&sni=s2.pishparda.ir&fp=chrome&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.232:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=pishparda.ir&sni=pishparda.ir&fp=chrome&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://840989dc-9672-4334-89d6-fe10cac7f3df@line2.gymplusplus.com:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://0bf8c8bf-1c29-4ec1-b599-01063a49ba34@50.7.4.106:443?encryption=none&type=ws&security=tls&host=1.pars-cdn.ir&sni=1.pars-cdn.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.233:443?encryption=none&type=ws&security=tls&path=%2Fvoip&host=pishparda.ir&sni=pishparda.ir&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://cd9727b1-5e6c-4713-a826-13d4c3e4f961@f.kelimanjaro.ir:8880?path=%2Ffghj&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://0bf8c8bf-1c29-4ec1-b599-01063a49ba34@50.7.4.106:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=1.pars-cdn.ir&fp=chrome&type=ws&allowInsecure=1&sni=1.pars-cdn.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
