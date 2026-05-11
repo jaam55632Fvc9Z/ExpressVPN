@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://BxceQaOe@43.206.119.178:5159?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://7ebc402f3383366fe4f554abd8625439@54.249.141.77:6604?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://BxceQaOe@43.198.240.167:44386?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://BxceQaOe@116.80.61.236:443?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
-
 vless://a8236dc7-c827-42ff-8741-9e6fef874958@mil.ranisosvt.shop:8080?type=ws&encryption=none&path=/&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://8e911cca-1d9d-4942-bd4f-7c8db1925aac@snapp.ir:80?encryption=none&host=striker.starferi.ir&path=/&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -29,4 +21,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?ed=2560&eh=Sec-Web
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://434cfcce-88ba-43c7-bf43-9358c32f5ae7@anten.ir:80?path=%2Fgo&security=none&encryption=none&host=srv.elonshatel.fun&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://dab65f2a-48ca-4fe8-9143-06cd28f00a21@138.201.54.122:443?encryption=none&security=tls&sni=kubernetes.io&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=visionary-buttercream-f43f18.netlify.app&path=%2Ffree&mode=auto&extra=%7B%22headers%22%3A%7B%22x-host%22%3A%22https%3A%2F%2Fflare.diablo0.site%3A24855%22%7D%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
