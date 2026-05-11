@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@50.7.4.243:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2Ftr&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40cpy_teeL
-
 vless://662c2eb7-aaad-4008-ac8c-d0854106f57c@xtls-us.new-state.ir:443?mode=auto&path=%2Fmizban&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&type=xhttp&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://73e3ce89-3f74-460f-8f39-3361cee25332@185.143.233.235:8080?path=%2Fws%3Fed%3D2560&security=none&encryption=none&host=Nwe1.legendperm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -69,4 +67,8 @@ vless://1a8cfae7-c8ef-4c33-86f0-74c6f14f76e6@snapp.ir:80?path=%2F&security=none&
 vless://c6764a61-8f14-47ba-bdcc-4c260926bab3@snapp.ir:80?path=%2F&security=&encryption=none&host=api.sobhan.cam&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://37073025-44a1-45d8-bbcc-af3ed8e9c046@47.82.102.174:12201?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://21257f9e-a396-403a-86d2-179a2af3d95f@185.143.233.200:8880?type=ws&encryption=mlkem768x25519plus.native.0rtt.-dHBgFiE3o72yiSy-lApCXI5RZiQ__iyVOGUfrCZiwM&path=%2F&host=nima.hayalco.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@13.230.118.70:80#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2ray_configs_pool
 
