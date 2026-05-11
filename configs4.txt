@@ -74,3 +74,11 @@ vless://550e8400-e29b-41d4-a716-446655440000@50.7.5.83:443?encryption=none&secur
 
 vless://550e8400-e29b-41d4-a716-446655440000@94.130.50.12:443?encryption=none&security=tls&sni=musical-dollop-779j5g7pxgjghgwr-443.app.github.dev&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=packet-up#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
+vless://12a781ed-3c49-469b-96a6-984c0115912e@miller.iransatellite.net:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://TIGNAL@50.7.87.2:443?encryption=none&type=xhttp&security=tls&path=%2Flogin&host=wallweb0.netlify.app&mode=auto&sni=letsencrypt.org&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://TIGNAL@50.7.87.5:443?encryption=none&type=xhttp&security=tls&path=%2Flogin&host=wallweb0.netlify.app&mode=auto&sni=kubernetes.io&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://TIGNAL@50.7.87.4:443?encryption=none&type=xhttp&security=tls&path=%2Flogin&host=wallweb0.netlify.app&mode=auto&sni=vuejs.org&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
