@@ -30,3 +30,23 @@ vless://313359d9-47d2-4b42-8342-c0bf5676ca00@hi.nahidapp.com:443?security=tls&ty
 
 vless://62dfa965-870f-4637-a0a9-a901872c6cba@hi.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@3.126.44.218:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@3.126.44.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.44.218:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://2f1ac68e-06d4-4222-98c9-876fb47d1b0d@dl2.penguin-easyconnet.ir:80?path=%2Fgames%2Fbattlefied4&security=none&encryption=none&host=dl2.penguin-easyconnet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d3c7de84-54d6-4460-8acc-ffc63b023e5f@adler-1g.adelshoop.net:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://3ac8e4f6-7709-4b58-9715-f650d640f9b7@dl1.penguin-easyconnet.ir:80?path=%2Fgames%2Ffortnite&security=none&encryption=none&host=dl1.penguin-easyconnet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://955419a0-2bab-42d4-80a4-70a31a61765c@app.palmal.site:36517?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://62dfa965-870f-4637-a0a9-a901872c6cba@hi.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=****#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://62dfa965-870f-4637-a0a9-a901872c6cba@hi.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&host=red.nahidapp.com&type=ws&sni=red.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://2817fb9e-8767-4c7c-b459-4ca00e564f3a@tun1.aria-network.cloud:443?path=%2F&security=tls&encryption=none&type=ws&sni=svde1.aria-network.cloud#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
