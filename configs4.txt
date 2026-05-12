@@ -16,3 +16,9 @@ vless://2ce91fb8-d62f-4607-8f11-4408d78bcc15@varzesh3.com:80?path=%2Fws&security
 
 vless://5686743d-6785-4c59-af4f-96687da74b60@185.143.233.5:2083?path=%2F&security=tls&encryption=none&host=p1.sesrsa.com&fp=firefox&type=ws&sni=sub.sesrsa.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://ee8e0d4f-9d7e-41d6-a4ba-8599dc2cb406@varzesh3.com:80/?type=ws&encryption=none&path=%2F&host=proto.helexm.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3a68de36-243d-4504-864b-1e857f064441@sub.pardisvps.ir:2086?path=%2F&security=none&encryption=none&host=connect.pardisvps.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiMTkzLjE3Ni4yNDMuMTkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiY2lwLnNhbGltb3JlLmNvbSIsICJpZCI6ICJjOTk1OTViZC1jZWRjLTQ1NDAtOTMyZS0yYmJmMjQwMWRkOTYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3MvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+
