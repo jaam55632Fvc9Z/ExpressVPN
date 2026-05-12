@@ -74,3 +74,7 @@ vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?type=tcp&security=
 
 vless://54f89b97-9c1f-4339-a33d-a93738cc2a76@protectnet.cloudinohost.com:443?security=tls&sni=protectnet.cloudinohost.com&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=protectnet.cloudinohost.com&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://a8a1e103-7014-424c-a73e-a1607d0ba78e@snapp.ir:8080?encryption=none&security=none&type=ws&host=ts.programming-coding.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4b616b6f-6f6c-4e65-7773-f268f8f87451@63.141.252.203:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/&sni=potential-engine-qj4pwqq47vr396p9-443.app.github.dev&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
