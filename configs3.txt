@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://fc9855a7-116d-4f81-b601-e632df7a2f0a@arvancloud.ir:80/?path=@TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://dbb7efe6-5bd2-4331-8cf5-e3d5c8cdd4ab@Tamin.ir:2083/?type=ws&encryption=none&path=/&host=s2.reevan.ir&security=tls&fp=firefox&alpn=h2,http/1.1&sni=s2.reevan.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://0d12ff24-5e9b-4c6a-bd92-397f4dd40165@arvancloud.ir:80?path=/&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.44:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://b199c99a-2f30-4efa-b448-04ddfcc6175b@91.99.154.53:80?mode=auto&path=%2F%40custom_config&security=reality&encryption=none&pbk=RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w&fp=chrome&type=xhttp&sni=yahoo.com&sid=fbe3b0#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://49f4edd5-52f9-4d30-80cc-2af7a4001fa4@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?encryption=none&security=none&type=ws&host=sr.novatechsapr.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -36,6 +26,10 @@ vless://8d088bc9-bbd9-4430-ae09-a4129da28c6b@snapp.ir:80?path=%2F&security=&encr
 
 vless://df76d571-aa5d-4c76-b5e5-d29404ed5051@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://dbb7efe6-5bd2-4331-8cf5-e3d5c8cdd4ab@Tamin.ir:2083/?type=ws&encryption=none&path=%2F&host=s2.reevan.ir&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=s2.reevan.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fc9855a7-116d-4f81-b601-e632df7a2f0a@arvancloud.ir:80/?path=%40TunizoNET&security=none&encryption=none&host=ri.amirenzohost.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
 vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?encryption=none&type=ws&path=%2F&host=sr.novatechsapr.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://cd63c49a-d4cf-4856-89a6-6fe18b5070eb@snapp.ir:8880?encryption=none&type=ws&path=%2F&host=moein.akosha.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -43,6 +37,8 @@ vless://cd63c49a-d4cf-4856-89a6-6fe18b5070eb@snapp.ir:8880?encryption=none&type=
 vless://c5e37ade-1f00-4dfa-a01d-3611f83f39e8@snapp.ir:80?encryption=none&type=ws&path=%2F&host=simorgh.darerio.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://0d12ff24-5e9b-4c6a-bd92-397f4dd40165@arvancloud.ir:80?path=/&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://c4cb5a4b-6225-4c56-8f0b-7c23b4017d54@ww.iwantmoney.ir:8880?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -261,6 +257,8 @@ vless://2f5e621f-fedf-4efa-b84f-a9a1bafa50c7@arvancloud.ir:80?path=%2F&security=
 vless://caa50998-b0c8-4875-8096-652a9ee4037b@snapp.ir:80?encryption=none&type=ws&host=s1.shopbertar.ir&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://04272a6c-8df2-47d4-b948-082f89cf0997@wanted.linkinfo.cloud:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.44:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://25c65101-45fe-4212-bafa-58a5d74089cd@zir.alihapps3.aghanami.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -11065,4 +11063,10 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.149.12.191:2096?allowInsecure=1&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.191:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://34f2ac98-a381-4494-9c27-492b8a080d9d@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://c0815275-bd82-4b21-9cb2-97cc84ff69c2@pt6i.simbaaa.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.simbaaa.top&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://e4bf3d84-8bb1-4d18-bce5-ba7b001e18e3@s1.birfa.top:80?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://45cd71df-7b23-4568-8677-fdc4a0daa76e@protectnet.cloudinohost.com:443?security=tls&sni=protectnet.cloudinohost.com&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=protectnet.cloudinohost.com&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
