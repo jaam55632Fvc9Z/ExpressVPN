@@ -11488,3 +11488,11 @@ vless://77209653-f5cb-484f-a916-333dd9f89093@dverso.nahidapp.com:443?security=tl
 
 vless://a3a7ad72-fc87-13bd-4e15-1713508d4f46@hmt.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.242#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://a3a7ad72-fc87-13bd-4e15-1713508d4f46@hmt.masterdadeh.ir:80?path=%2F&security=&encryption=none&type=ws&sni=185.226.94.242#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://0bf8c8bf-1c29-4ec1-b599-01063a49ba34@50.7.4.106:443?encryption=none&type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&host=1.pars-cdn.ir&sni=1.pars-cdn.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://TIGNAL@kubernetes.io:443?encryption=none&type=xhttp&security=tls&path=%2Flogin&host=wallweb20.netlify.app&mode=auto&sni=kubernetes.io&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://ac7da42b-87f6-4b17-b9a1-eeb6fc929cdd@185.143.233.5:2083?encryption=none&fp=firefox&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
