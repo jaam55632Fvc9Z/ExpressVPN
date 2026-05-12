@@ -134,3 +134,7 @@ vless://e4bf3d84-8bb1-4d18-bce5-ba7b001e18e3@s1.birfa.top:80?security=&encryptio
 
 vless://45cd71df-7b23-4568-8677-fdc4a0daa76e@protectnet.cloudinohost.com:443?security=tls&sni=protectnet.cloudinohost.com&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=protectnet.cloudinohost.com&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://45cd71df-7b23-4568-8677-fdc4a0daa76e@protectnet.cloudinohost.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=protectnet.cloudinohost.com&fp=chrome&type=ws&allowInsecure=0&sni=protectnet.cloudinohost.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://efbe9ca9-a1e5-4da2-8f62-62cef94bd6a1@snapp.ir:80/?type=ws&encryption=none&path=%2F&host=pa3.ghostantaniehh.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
