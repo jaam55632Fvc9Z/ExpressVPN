@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://btu5b9wp-a81i-hgek-orvx-9kxl54qns5sp@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://0luh8pre-vg59-90o8-3cxz-zfxea1ilq6fw@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://tw4ij8v0-me0k-emsj-accx-y3fmc4g6immi@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@5.cdnconn.com:23335?type=tcp&security=reality&sni=icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.95:8443?type=tcp&security=reality&sni=ozon.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-trojan://uq4fmxt5-lg1o-pkpk-9s7c-bou6s1d48vw6@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://iw5h5988-e0fr-b6o5-d6rj-3icl1gxz8b9a@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://wftxnx2r-rtob-xopg-1wzt-n90oigfpccfe@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@93.115.25.177:443?type=tcp&security=reality&sni=mycatcollection.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?type=tcp&security=reality&sni=www.speedtest.net&flow=xtls-rprx-vision&pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&sid=479826bdfc3eb86e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
 vless://54f89b97-9c1f-4339-a33d-a93738cc2a76@protectnet.cloudinohost.com:443?security=tls&sni=protectnet.cloudinohost.com&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=protectnet.cloudinohost.com&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://a8a1e103-7014-424c-a73e-a1607d0ba78e@snapp.ir:8080?encryption=none&security=none&type=ws&host=ts.programming-coding.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -111,4 +91,14 @@ vless://51c399b9-f103-1965-c7bd-914a08d34dfc@snapp.ir:443?path=%2F&security=tls&
 vless://59956304-6abb-4a9a-a1f1-82c8d46ab7eb@62.60.185.223:13216?type=tcp&security=none&encryption=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://272d7c53-64f9-4eee-a7d3-4616d15ebd78@www.varzesh3.com:2082?path=%2F&security=&encryption=none&host=server1.mizbanertebatfarda.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40saministamm
+
+vless://ac15aff0-75df-404f-a726-3ed6d20143d1@185.143.233.5:2083?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fda8ce2c-f6b9-4948-952f-de348f5a1b22@185.143.233.235:8880?path=%2Fws%3Fed%3D2560&security=none&encryption=none&host=New1.legendperm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://f6274fe0-8573-43eb-a0fd-3f429ebb44a6@digi.10-gamecenter.online:8080?path=/&security=&encryption=none&host=varzesh.vexorantica.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4b616b6f-6f6c-4e65-7773-0fea9da20fd6@94.130.50.12:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=fuzzy-xylophone-p7r4g6gr796p3rpwr-443.app.github.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://b0d62285-3afc-499b-890a-ed5044547b17@snapp.ir:80?encryption=none&host=iranfuture.musicritmic.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
