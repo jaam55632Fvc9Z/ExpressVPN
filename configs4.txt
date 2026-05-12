@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnR2g1WHZTRnBmSWtTTmlxbi00VVFR@136.244.110.244:1080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 trojan://btu5b9wp-a81i-hgek-orvx-9kxl54qns5sp@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://0luh8pre-vg59-90o8-3cxz-zfxea1ilq6fw@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -97,4 +95,20 @@ vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJh
 vless://94284dcd-4fc0-46b2-a8ea-ffd65c5c3359@185.143.233.5:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=p1.sesrsa.com&path=/&sni=sub.sesrsa.com&fp=firefox#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://4b616b6f-6f6c-4e65-7773-7889bcdef1fb#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://742a2fb7-8da5-455a-945b-a082836c1de2@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://51c399b9-f103-1965-c7bd-914a08d34dfc@snapp.ir:443?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=main.fasrgobar.ir&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c597953b-c891-df7e-1cba-fbb3c9353a11@snapp.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=main.fasrgobar.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://2c958924-3844-434a-a9e8-932c67aa81e4@snapp.ir:2095?type=ws&encryption=none&path=%2Ftest&host=ws.mosiba.site&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://b23f84c7-5163-4b38-8c3e-8163e65f7ff2@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://51c399b9-f103-1965-c7bd-914a08d34dfc@snapp.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=main.fasrgobar.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://59956304-6abb-4a9a-a1f1-82c8d46ab7eb@62.60.185.223:13216?type=tcp&security=none&encryption=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://272d7c53-64f9-4eee-a7d3-4616d15ebd78@www.varzesh3.com:2082?path=%2F&security=&encryption=none&host=server1.mizbanertebatfarda.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40saministamm
 
