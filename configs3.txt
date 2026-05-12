@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://7c955a31-3c98-4195-8ddb-a177b4251675@er3.ir:2082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://c9baac5d-a59a-4493-b215-3c6c64f498ed@red.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://08b4ede0-5db7-48f2-a363-b3b5fc623d18@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://c305043b-d9b5-4bcc-98bc-3014d852138f@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=alaedin4.8lack.ir&fp=firefox&type=ws&allowInsecure=1&sni=alaedin4.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -357,6 +353,8 @@ vless://38e3d2de-5c0a-49fa-86b8-af69129abeab@arvancloud.ir:80?path=%2F&security=
 vless://24e1acab-3814-469c-beab-753c7d3c2735@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://d2019110-f196-44e3-8b98-33760c15a4e7@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://c9baac5d-a59a-4493-b215-3c6c64f498ed@red.nahidapp.com:443?path=%2Fred%2F&security=tls&encryption=none&insecure=0&host=red.nahidapp.com&type=ws&allowInsecure=0&sni=red.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://df64d23f-b89a-44a2-a39b-b2036019670e@snapp.ir:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=1.jojo.avenflow.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -10963,4 +10961,10 @@ vless://e2e5ecac-b8d1-40b0-9e15-e791a3c53d61@185.143.233.5:80?path=%2Fgraphql%3F
 vless://550e8400-e29b-41d4-a716-446655440000@50.7.5.83:443?mode=packet-up&path=%2F&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=opulent-memory-vp79j4p7gw9f6gq7-443.app.github.dev#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://3b007ca8-d9fa-42fc-882c-f2fbdaab0bb8@out.pixserver.ir:17107?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://9c6fd0f8-35db-41ad-a453-9ab0e322c7aa@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://607850f4-2b04-4e32-ba3f-0e2d65cb6fe3@Snapp.ir:80?host=down.speedtell.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://03cf95bc-bd22-4e7b-9b51-55a132467680@space-vip.zenvault.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
