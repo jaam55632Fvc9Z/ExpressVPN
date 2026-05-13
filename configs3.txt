@@ -11084,3 +11084,17 @@ vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir%2F%3FBya_telegram_%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
+trojan://telegram-id-privatevpns@3.122.87.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@3.122.87.69:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.87.69:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://eeb4b228-9783-4433-86df-21705901a05d@snapp.ir:80?encryption=none&host=sep1997.softnetconnect.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://5959524d-dd59-46ba-9ce8-77ce58f6d228@varzesh3.com:80?encryption=none&type=ws&host=proto.helexm.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiZnJlZS12Ny0wOS5lbGJydXN3YXkub25saW5lIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImZyZWUtdjctMDkuZWxicnVzd2F5Lm9ubGluZSIsICJpZCI6ICJiNGJjOGZjZC03MzllLTQ1MjUtOGJlZC0yMGQxMGU4NTA5ODgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLWJhbGthciIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggV1MtVExTIHwgQHYybm9kZXMiLCAic2N5IjogImF1dG8iLCAic25pIjogImZyZWUtdjctMDkuZWxicnVzd2F5Lm9ubGluZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+
+vless://4233b7c4-7710-4c9d-af71-4da1415d7683@milad2.cloudzeusggwp.com.tr:37062?security=reality&encryption=none&pbk=Dxad8fqzyEiiGpnoIwpF9GQOxaayPH217hlo1u01tSs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.aparat.com&sid=b2@M_MODINO_M#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+

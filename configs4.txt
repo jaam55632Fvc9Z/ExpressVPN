@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://db5138d8-8d80-47c3-9e1c-1d8dca997905@snapp.ir:80?type=ws&encryption=none&path=/&host=lr.kokomokiyoo.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://35396237-3662-4138-b138-396639666661@185.143.233.212:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://26077b35-4502-4ff3-b7c2-b765fe4df4e1@em4.vendnew.com:2082?type=ws&security=none&host=em4.vendnew.com&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083/?type=ws&encryption=none&flow=&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&fp=fi#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://3828adab-b2b0-4091-98b8-920aaa369711@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=ss3.limitless-cloud.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://Telegram-Parsashonam@kubernetes.io:443?encryption=none&type=xhttp&security=tls&path=%2Fp4r34m&host=ir-netlify-unlimited-new.netlify.app&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22netlify.parsashonam.sbs%3A444%22%7D%7D&sni=kubernetes.io&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://f80b158c-185a-44a3-a1fc-d1d738f03d16@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://f80b158c-185a-44a3-a1fc-d1d738f03d16@varzesh3.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=proto.helexm.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -51,4 +39,18 @@ vless://4233b7c4-7710-4c9d-af71-4da1415d7683@milad2.cloudzeusggwp.com.tr:37062?s
 vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=h32.1.beROzHA.IR&fp=ios&type=ws&sni=h32.1.beROzHA.IR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40manVPN
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir%2F%3FBya_telegram_%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+trojan://telegram-id-privatevpns@3.122.87.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@3.122.87.69:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.87.69:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://eeb4b228-9783-4433-86df-21705901a05d@snapp.ir:80?encryption=none&host=sep1997.softnetconnect.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://5959524d-dd59-46ba-9ce8-77ce58f6d228@varzesh3.com:80?encryption=none&type=ws&host=proto.helexm.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiZnJlZS12Ny0wOS5lbGJydXN3YXkub25saW5lIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImZyZWUtdjctMDkuZWxicnVzd2F5Lm9ubGluZSIsICJpZCI6ICJiNGJjOGZjZC03MzllLTQ1MjUtOGJlZC0yMGQxMGU4NTA5ODgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLWJhbGthciIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggV1MtVExTIHwgQHYybm9kZXMiLCAic2N5IjogImF1dG8iLCAic25pIjogImZyZWUtdjctMDkuZWxicnVzd2F5Lm9ubGluZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+
+vless://4233b7c4-7710-4c9d-af71-4da1415d7683@milad2.cloudzeusggwp.com.tr:37062?security=reality&encryption=none&pbk=Dxad8fqzyEiiGpnoIwpF9GQOxaayPH217hlo1u01tSs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.aparat.com&sid=b2@M_MODINO_M#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
