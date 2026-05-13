@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083/?type=ws&encryption=none&flow=&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&fp=firefox#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://c10ffc49-a11f-473c-aec6-642df9c63c34@185.143.233.5:2052?encryption=none&host=cdn.sesrsa.com&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyay01WUc5TGtKVHFjMHBBRl9zUEJ6UkhUZzB5OUhCVw==@130.49.189.40:8080#%F0%9F%87%A6%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083?encryption=none&fp=firefox&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://05a461c8-7c7c-4278-93bc-045cb835d521@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://49cd0e95-d98c-4b73-bb29-35144a374216@185.143.233.200:2082?path=%2F&security=none&encryption=none&host=nima.hayalco.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -49,4 +41,6 @@ vless://d5145ecf-ac75-4832-8fc2-3c925eec2d09@varzesh3.com:80?type=ws&encryption=
 vless://%40IR_NETLIFY@94.130.70.160:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/IR_NETLIFY&sni=kubernetes.io&fp=chrome&mode=auto&alpn=h2,http/1.1&extra=%7B%0A%20%20%22scMaxEachPostBytes%22%20:%20%221000000%22,%0A%20%20%22xPaddingBytes%22%20:%20%221-1%22,%0A%20%20%22headers%22%20:%20%7B%0A%20%20%20%20%22x-host%22%20:%20%22http:%5C/%5C/aa.websooj.site:444%22%0A%20%20%7D%0A%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://85308840-3f22-4d9d-9531-11da7efcae3d@emergency-service2.pavilof.ir:80?encryption=none&type=ws&path=%2F&host=emergency-service2.pavilof.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
+
+vless://72677b6d-3b93-4f7f-bc62-4e45aed1ccc3@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
