@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://35a69ea7-e7be-4503-aa2b-c89789db2d62@node-de-2.v2sv.top:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=upwork.com&fp=random&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=b85e293fa1&spx=/&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIm5vZGUtZGUtMi5hMmEzYTQudG9wIiwgInBvcnQiOiA0NDMsICJpZCI6ICIzNWE2OWVhNy1lN2JlLTQ1MDMtYWEyYi1jODk3ODlkYjJkNjIiLCAiYWlkIjogIjE2IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJub2RlLWRlLTIuYTJhM2E0LnRvcCIsICJwYXRoIjogIi93cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJub2RlLWRlLTIuYTJhM2E0LnRvcCIsICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIiwgImZwIjogInJhbmRvbSIsICJpbnNlY3VyZSI6ICIxIiwgInBzIjogIlx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBXUy1UTFMgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
-
-vless://7570c497-eb5a-4eab-8030-3b9beaa4eaea@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 trojan://telegram-id-privatevpns@35.180.13.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://telegram-id-directvpn@35.180.13.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -131,4 +125,10 @@ vless://bba5f933-36d9-4aa6-a14c-389b8aadaf43@api1.iramsmartkeyka.ir:8443?type=ws
 vless://818b203a-fc64-4408-b7ce-5f4b41651f7c@45.90.73.43:49288?encryption=none&security=none&type=tcp&headerType=http&host=divar.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://58ec2788-3a46-4d45-af7f-d88e7e3db869@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://c7f5534d-6f8d-48fa-8bb5-d56968df6597@varzesh3.com:80/?type=ws&encryption=none&path=%2F&host=proto.helexm.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://d1a248ff-9278-466f-ab81-b7b9d2586263@snapp.ir:80?encryption=none&host=pn.ghostdaa.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://614805f7-24c1-4f1f-9f53-c15d5aa8cb65@cdn2.sensishop.com.tr:2082?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
