@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&headerType=none&allowinsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#%F0%9F%87%A8%F0%9F%87%B3%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-ss://YWVzLTI1Ni1nY206ZmVuZzNkQHNzMjAyNQ==@li.feng3d.com:8388#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://ea760105-1dce-4f5c-8f5a-233e96324155@45.15.152.167:443?security=reality&encryption=none&echfq=none&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yahoo.com&sid=4b1b#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://eae26a2b-a8a3-4367-b5f0-3d12390424e4@mesh1.moonflash.lol:443?mode=auto&path=%2F&security=reality&encryption=none&echfq=none&pbk=t9UdUuzGk8GZBke5MJ1NYN1r2QiFX8dFBU-Bi4s3O3U&host=mesh1.moonflash.lol&fp=chrome&allowinsecure=0&type=xhttp&sni=mesh1.moonflash.lol&sid=a86616f81a3bf243#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://70049f51-7b75-4883-acfe-3db9910e58e2@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://a06d236a-fb01-4dbc-b4f9-263b16d52b01@185.143.235.20:8880?security=none&type=ws&headerType=&path=%2F&host=tr-st.ge9.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -53,4 +43,6 @@ vless://9431162b-b0ba-4304-a58a-b1332681e63b@snapp.ir:80?path=%2Fgraphql%3Fed%3D
 vless://bb6ffc2b-2eb8-41f9-8460-f114cbb427cb@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://8f2ca43d-0221-4f14-a610-e63c0940d713@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://584ea87a-40c3-4b1d-96f2-e12fcbd33fbc@185.143.235.20:2086?path=%2Fpath&security=none&encryption=none&host=tr-st2.ge9.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
