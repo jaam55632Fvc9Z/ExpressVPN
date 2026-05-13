@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://031d5628-916d-4a19-9bf4-1b6231e2458e@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=M4.snllshop.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://031d5628-916d-4a19-9bf4-1b6231e2458e@snapp.ir:8080?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=M2.snllshop.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://031d5628-916d-4a19-9bf4-1b6231e2458e@anten.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=M3.snllshop.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJhZGQiOiAiY2lwLnNhbGltb3JlLmNvbSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNDdkNTU3MGYtMDg5NC00MGY5LTg4M2ItMTJmZmYxZGZkNWNmIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiY2lwLnNhbGltb3JlLmNvbSIsICJwYXRoIjogIi93cy8iLCAidGxzIjogInRscyJ9
-
-vless://550e8400-e29b-41d4-a716-446655440000@50.7.5.83:443?mode=packet-up&path=%2F&security=tls&encryption=none&type=xhttp&sni=supreme-broccoli-qvqj4jp47qrv2qx4-443.app.github.dev#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://031d5628-916d-4a19-9bf4-1b6231e2458e@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=M1.snllshop.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://031d5628-916d-4a19-9bf4-1b6231e2458e@snapp.ir:80?path=%2F&security=none&encryption=none&host=M4.snllshop.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://f3d49ad9-a1de-4411-afa1-c9a65d28a3ee@snapp.ir:80?encryption=none&host=ir3cdn.ipkyc.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -67,4 +55,14 @@ vless://1200a61e-3254-42b9-b1f8-dd894115d95b@144.31.24.85:8443?encryption=none&t
 vless://1200a61e-3254-42b9-b1f8-dd894115d95b@79.137.198.154:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=XrXK3qb2CKCBP80Vkg3WfNBB4gpy4YOADmQ7mhHfDWE#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://1200a61e-3254-42b9-b1f8-dd894115d95b@gosuslugiru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=node12.telegavpn.org&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@13.37.117.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@13.37.117.168:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.117.168:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://3b9f2dc3-64a0-424e-a3a7-24a0d71b0562@185.213.165.67:33837?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://dostan#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
