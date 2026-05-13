@@ -60,3 +60,7 @@ vless://47e6add0-84c6-4372-b7c6-2ae7ed395f83@Tapsi.ir:80?path=%2Fcdn&security=&e
 
 vless://6c7a6936-e302-4a2e-a32f-28762d788ec8@cdn.yuzservice.site:8880?path=%2F&security=none&encryption=none&host=cdn.yuzservice.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://73cf2721-ea37-46a0-a6fc-813cba2c9456@185.143.234.25:2052?security=none&type=ws&headerType=&path=%2Fpath&host=tr-st3.ge9.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
