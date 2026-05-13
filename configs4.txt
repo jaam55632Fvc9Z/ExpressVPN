@@ -54,3 +54,9 @@ vless://92af1fcb-70e3-4d6a-b602-e9c6aebc331d@varzesh3.com:80?path=%2F&security=n
 
 vless://9365476e-75f4-4dab-93aa-e2b8918a9ba1@Snapp.ir:80?host=down.speedtell.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@188.114.98.0:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool
+
+vless://15b47ab1-a49b-48b2-8d31-774294fe0711@185.143.235.204:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F1041&host=p1.massivegamesl01l1l01.ir&sni=p1.massivegamesl01l1l01.ir&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1743f41b-917a-49bc-be56-82c374cf57d3@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.3PNlk3VCw8SIS4uRst643r6e43QNnmU8XSVF3VT-b3k&security=none&type=ws&host=dl3.smartnetworktools.ir&path=%2Fgraphql%3Fed%3D30#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
