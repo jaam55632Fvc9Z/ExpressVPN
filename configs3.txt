@@ -1,16 +1,10 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://764db33e-0aff-4ff6-ba0e-f666c4e0f6f7@185.143.233.200:80?type=ws&encryption=mlkem768x25519plus.native.0rtt.sdQ0jWsX6B8yh97yoZt4k_1nlR0zlApK3MV_hQD7KyA&path=%2F&host=nima.hayalco.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://f5549415-75d3-48dc-a7cb-6208c5f33811@185.143.235.253:80?encryption=none&host=ss.oppobot.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://628f8495-f851-42dd-8aa6-0e7157cd31d6@arvancloud.ir:80?path=%2F&security=none&encryption=none&host=m.ahwazteem.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-privatevpns@15.224.94.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://10acf714-e9ba-48f9-931a-726cc460cbd8@snapp.ir:8080?type=ws&path=%2F&host=hooshmasnoei-aidigibikalasnapptaxi-newversion.nove-kort.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://3295028b-9f47-dd81-a5db-f5c21bef2179@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://628f8495-f851-42dd-8aa6-0e7157cd31d6@arvancloud.ir:80?type=ws&encryption=none&path=%2F&host=m.ahwazteem.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://73a8f4cc-77b0-4001-a14d-0dc37e6d2c74@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -83,6 +77,8 @@ vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwg
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.210.141:443?security=tls&encryption=none&insecure=1&host=sni.latonyamadeline.ndjp.net&type=ws&allowInsecure=1&sni=sni.latonyamadeline.ndjp.net#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://2e6c17da-bf83-494c-a5d6-512d405a8e4b@nullnetwork.mashhad-gsm.ir:42726?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://764db33e-0aff-4ff6-ba0e-f666c4e0f6f7@185.143.233.200:80?type=ws&encryption=mlkem768x25519plus.native.0rtt.sdQ0jWsX6B8yh97yoZt4k_1nlR0zlApK3MV_hQD7KyA&path=%2F&host=nima.hayalco.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://3907eaf1-489b-4efa-969f-3a63f0fcc9b0@snapp.ir:8080?type=ws&path=%2F&host=hooshmasnoei-aidigibikalasnapptaxi-newversion.nove-kort.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -3201,6 +3197,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.5.221:22224?type=ws&security=t
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJsYWJheWsueWEua2hhbWVuZWkuc29mdDk4dmVyMi5henVtaXJhbC50b3AiLCAicG9ydCI6IDIwOTAsICJpZCI6ICJhOWMxNjRkNy0zNjgzLTQ4OWEtZTAwYi04NzFmNGFhYWQ4YmMiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUifQ==
 
 vless://82504e3b-68e8-463e-bb93-c22deddfbd33@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=ss12.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://f5549415-75d3-48dc-a7cb-6208c5f33811@185.143.235.253:80?encryption=none&host=ss.oppobot.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://d87adb50-08ae-4671-a708-d57a6bfecbb9@snapp.ir:443?alpn=h3&encryption=none&fp=random&host=sb2.pbvsrk.carnagesv.top&path=%2F&security=tls&sni=sb2.pbvsrk.carnagesv.top&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -11099,4 +11097,6 @@ vless://a8b58939-93d8-4407-8327-3c466ff41d6d@varzesh3.com:80?path=%2F&security=n
 vless://a9cc5d10-e154-4d4a-b12a-86fb7e7e3bd6@arvancloud.ir:80?encryption=none&host=samrexnet.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206eUsyWFpSZHpZYVBQekhGbytLWjVrQWlWTVVtR2F3YzMvaHpsZ05aa3lXTT06UlVTZDZmTDFTdVY1aVBPYk1GN2RBamdDVUF0WXF2bUpYLzJsc2twald5cz0@free.jibjob.mom:18318#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://YWVzLTI1Ni1nY206U003V1l0QXd2Qk9SWEtqSQ@154.53.63.42:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
 
