@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://789d2e02-5072-44c4-bce4-bc43cba7fd55@185.143.235.20:8880?security=none&type=ws&headerType=&path=%2F&host=tr-st.ge9.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://47e6add0-84c6-4372-b7c6-2ae7ed395f83@Tapsi.ir:80?path=%2Fcdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://6c7a6936-e302-4a2e-a32f-28762d788ec8@cdn.yuzservice.site:8880?path=%2F&security=none&encryption=none&host=cdn.yuzservice.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://73cf2721-ea37-46a0-a6fc-813cba2c9456@185.143.234.25:2052?security=none&type=ws&headerType=&path=%2Fpath&host=tr-st3.ge9.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&headerType=none&allowinsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#%F0%9F%87%A8%F0%9F%87%B3%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -49,4 +39,10 @@ vless://31efaa80-8584-4d1d-a1df-39cd19f4f359@varzesh3.com:80?path=%2F&security=n
 vless://be7fbd03-60cf-4cf9-88ea-28a4f91f885c@ohio9.newcallapphelper.online:80?type=ws&encryption=none&path=/&host=ohio9.newcallapphelper.online&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://991db615-3e91-43c6-afdc-5f9ff5bc83ca@185.143.235.20:2086?path=%2Fpath&security=none&encryption=none&host=tr-st2.ge9.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://5ddcc097-91f6-41b9-bdf0-af4b37c15b79@snapp.ir:8080?path=%2F&security=none&encryption=none&host=db.r6sq.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://991db615-3e91-43c6-afdc-5f9ff5bc83ca@185.143.235.20:2086?type=ws&host=tr-st2.ge9.ir&path=/path&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4222e8da-0934-4d8e-8180-7ec562ce31e4@s.ar-panelar.com:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=s.ar-panelar.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
