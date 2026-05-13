@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@188.114.98.0:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool
-
-vless://15b47ab1-a49b-48b2-8d31-774294fe0711@185.143.235.204:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F1041&host=p1.massivegamesl01l1l01.ir&sni=p1.massivegamesl01l1l01.ir&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://1743f41b-917a-49bc-be56-82c374cf57d3@185.143.233.5:80?encryption=mlkem768x25519plus.native.0rtt.3PNlk3VCw8SIS4uRst643r6e43QNnmU8XSVF3VT-b3k&security=none&type=ws&host=dl3.smartnetworktools.ir&path=%2Fgraphql%3Fed%3D30#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://15b47ab1-a49b-48b2-8d31-774294fe0711@185.143.235.212:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F1040&host=p0.massivegamesl01l1l01.ir&sni=p0.massivegamesl01l1l01.ir&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80/?type=ws&encryption=none&flow=&host=pa1.ghostantaniehh.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083/?type=ws&encryption=none&flow=&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&fp=firefox#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://c10ffc49-a11f-473c-aec6-642df9c63c34@185.143.233.5:2052?encryption=none&host=cdn.sesrsa.com&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -53,4 +41,12 @@ vless://f80b158c-185a-44a3-a1fc-d1d738f03d16@varzesh3.com:80?security=none&allow
 vless://664ee88e-93a8-41b7-8596-d51d9105449d@javid.purples.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=javid-5.helexx.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://d1dee838-e1ef-4679-a8d6-69137dad436f@dl11.wolfcityroleplay.ir:80?encryption=none&host=dl11.wolfcityroleplay.ir&path=%2Fjs&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
+
+vless://d0c077b7-a8a0-4613-b6c3-b3121f38be1e@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=ss10.limitless-cloud.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d5145ecf-ac75-4832-8fc2-3c925eec2d09@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://%40IR_NETLIFY@94.130.70.160:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/IR_NETLIFY&sni=kubernetes.io&fp=chrome&mode=auto&alpn=h2,http/1.1&extra=%7B%0A%20%20%22scMaxEachPostBytes%22%20:%20%221000000%22,%0A%20%20%22xPaddingBytes%22%20:%20%221-1%22,%0A%20%20%22headers%22%20:%20%7B%0A%20%20%20%20%22x-host%22%20:%20%22http:%5C/%5C/aa.websooj.site:444%22%0A%20%20%7D%0A%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://85308840-3f22-4d9d-9531-11da7efcae3d@emergency-service2.pavilof.ir:80?encryption=none&type=ws&path=%2F&host=emergency-service2.pavilof.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
 
