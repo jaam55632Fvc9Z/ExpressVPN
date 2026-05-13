@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://553ecd9f-9075-448c-8a72-ddee5bc565ce@admins.digimobile.bond:443?path=/testingpath22&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://1943c36b-8fa9-4271-a69e-039a6a1617ac@wxvl.simbaaa.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.simbaaa.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
-
-vless://35b0f28e-c275-41d6-8220-470e6337337b@ou4.virgooli.com:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://97aaeab2-f8a7-4ec7-b9e2-c5cac9559083@snapp.ir:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://f032f0cf-2fa3-11f1-9fc2-960003f27045@snapp.ir:80?encryption=none&type=ws&path=%2F%3Fed%3D2080&host=final.idbede.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://df8bfb4f-0f0d-401d-84c9-6363a7f49545@185.143.232.5:8080?encryption=none&type=ws&path=%2Fporroo&host=silver.segaltejarat.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -77,4 +69,10 @@ vless://5aa802a6-b84a-4965-9e49-4a3dd420e3ca@dl10.wolfcityroleplay.ir:80?path=%2
 vless://8c79b452-cd58-4f35-a1a7-b37fe798c821@185.143.233.5:2083?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://1290222b-e4a6-44a2-8546-4023f374f977@arvancloud.ir:2086?path=%2F&security=&encryption=none&host=panel.linuweb.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://8c79b452-cd58-4f35-a1a7-b37fe798c821@185.143.233.5:2083?path=%2F&security=tls&encryption=none&host=p1.sesrsa.com&fp=firefox&type=ws&sni=sub.sesrsa.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ@154.18.239.126:37425#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://qRpUIwWmlKxuKxl4a1bY2A@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
 
