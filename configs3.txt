@@ -11100,3 +11100,15 @@ vless://6da1f88f-1683-44c6-a2de-a95da972db90@space-vip.zenvault.ir:80?path=%2F&s
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
+vless://25a600a5-86d1-490f-8fa9-dc26c51e8681@snapp.ir:80?path=%2F&security=none&encryption=none&host=sep1997.softnetconnect.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://23d1e8eb-a515-420b-8fc7-9466e705c1be@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn2.softnetconnect.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://92177ca1-c032-4335-a166-c1947a3447b4@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=M1.snllshop.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.198.44:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@13.37.198.44:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@13.37.198.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
