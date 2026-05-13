@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@www.visasoutheasteurope.com:2096?encryption=none&security=tls&sni=daluan.eu.org&fp=randomized&type=ws&host=daluan.eu.org&path=/?ed=2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://1200eec7-1d18-49da-accf-8bc14096b5ae@anten.ir:8880?path=/&security=none&encryption=none&host=het.sp-fast.site&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://db5138d8-8d80-47c3-9e1c-1d8dca997905@snapp.ir:80?type=ws&encryption=none&path=/&host=lr.kokomokiyoo.ir&security=nonehttps://t.me/V2RANG_proxy#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://e73d4e2a-ac73-4948-960a-2c2dd57b7ea8@yellow-disk-0edf.diyenec996.workers.dev:443?encryption=none&security=tls&sni=yellow-disk-0edf.diyenec996.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=yellow-disk-0edf.diyenec996.workers.dev&path=/ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://16e54250-1e0a-461f-856b-f6c9bb271930@cactus.vipcloudless.ir:8080?path=%2F&security=none&encryption=none&host=cactus.vipcloudless.ir&type=ws#%F0%9F%87%A6%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://90851ffa-dd01-42bf-8bb2-e8ab9ceee707@sv1.vhuma.com:4043?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -51,4 +43,10 @@ vless://1e1e4592-954c-4717-917c-7ad56d089c32@bitpin.ir:2082?path=/&security=none
 vless://5a117d7b-1b9c-4730-9b0d-e151fa966e42@pingi.beshkanet.xyz:9811?type=xhttp&encryption=none&path=%2F&host=pingi.beshkanet.xyz&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=pingi.beshkanet.xyz&ech=AGb%2BDQBiAAAgACDJG6kqqXQRleGuRaH97J1kZnmt0PEAPBhI%2BNwSCR9ZcwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABNwaW5naS5iZXNoa2FuZXQueHl6AAA%3D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIHwgQHYybm9kZXMiLCAiYWRkIjogIjY0LjE4Ni4yMzMuMTMxIiwgInBvcnQiOiAiMTAwODYiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjFlZWI1NWYyLTg1MTYtNDZmMy04YzdiLTE3ZGIxZGUxZGY5YiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+
+vless://3fe85f5d-db7b-5e4b-da88-d4aefa075f50@snapp.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=main.fasrgobar.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5959524d-dd59-46ba-9ce8-77ce58f6d228@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6443cc9f-e8f7-44d2-b5f8-2902a59a54b7@apkred.redlife.info:57910?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
