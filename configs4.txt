@@ -110,3 +110,7 @@ vless://7a4a53c5-2abd-49eb-a054-25e77f3bc7d8@www.varzesh3.com:2082?security=none
 
 vless://bf5fa928-094f-45a5-8349-1b066b620ea1@Tapsi.ir:8080?path=%2Fcdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://9c5d7390-7978-4df3-b266-a67dd2a92149@red.docos.tech:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.docos.tech&sni=red.docos.tech&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://974361ea-6d56-46d6-b0e3-283b7c46e9ea@185.143.233.200:80?path=%2Fshorts&security=none&encryption=mlkem768x25519plus.native.0rtt.G7jF1YzVPaQRjTxtpT6mSTGsOyHT4YMz9s_6o-6C9BA&host=filimo.com.Mylinked.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
