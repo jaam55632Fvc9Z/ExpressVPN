@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://16e54250-1e0a-461f-856b-f6c9bb271930@cactus.vipcloudless.ir:8080?path=%2F&security=none&encryption=none&host=cactus.vipcloudless.ir&type=ws#%F0%9F%87%A6%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://90851ffa-dd01-42bf-8bb2-e8ab9ceee707@sv1.vhuma.com:4043?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://90851ffa-dd01-42bf-8bb2-e8ab9ceee707@fresh.vhuma.com:80?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJRQDgyLjM4LjMxLjE5NDo4MDgw#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://4233b7c4-7710-4c9d-af71-4da1415d7683@milad2.cloudzeusggwp.com.tr:37062?security=reality&encryption=none&pbk=Dxad8fqzyEiiGpnoIwpF9GQOxaayPH217hlo1u01tSs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.aparat.com&sid=b2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=h32.1.beROzHA.IR&fp=ios&type=ws&sni=h32.1.beROzHA.IR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40manVPN
@@ -61,4 +53,10 @@ vless://Troll_hastam@144.76.1.88:443?encryption=none&security=tls&sni=gateway-ap
 vless://Troll_hastam@144.76.1.88:443?encryption=none&security=tls&sni=kind.sigs.k8s.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=admirable-ganache-2a9f09.netlify.app&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22AhmadiNEJAD%20DOT%20COM%22%7D%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://Troll_hastam@94.130.50.12:443?encryption=none&security=tls&sni=jobset.sigs.k8s.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=admirable-ganache-2a9f09.netlify.app&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22AhmadiNEJAD%20DOT%20COM%22%7D%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://Troll_hastam@94.130.50.12:443?encryption=none&security=tls&sni=kubernetes.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=admirable-ganache-2a9f09.netlify.app&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22AhmadiNEJAD%20DOT%20COM%22%7D%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://Troll_hastam@144.76.1.88:443?encryption=none&security=tls&sni=cluster-api.sigs.k8s.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=admirable-ganache-2a9f09.netlify.app&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22AhmadiNEJAD%20DOT%20COM%22%7D%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://eb82df8f-b7cf-48b4-a601-e4f8e9612a9a@185.143.235.200:443?path=%2Fai&security=tls&encryption=none&insecure=0&host=ai.runtoweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=ai.runtoweb.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
