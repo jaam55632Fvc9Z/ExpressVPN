@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-privatevpns@13.37.117.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@13.37.117.168:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.117.168:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://3b9f2dc3-64a0-424e-a3a7-24a0d71b0562@185.213.165.67:33837?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vmess://dostan#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://7848e733-3d58-43d0-8d6e-78fcd6281157@snapp.ir:2095?encryption=none&host=srv.mihandex.site&path=%2Fuiux&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://b33e48f6-e6aa-435d-8314-939495269d47@ip.iran.mobileemdad.top:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -59,4 +49,10 @@ vless://5570746b-2095-49bf-ba01-7a9fe55a09e6@trial.wordqress.store:44093?encrypt
 vless://5821cdcd-b3eb-4085-a355-1464a84b2fd5@snapp.ir:80?encryption=none&host=rt.dbrun-gorsap.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://94ee6556-b081-4f64-a710-0cd07127fae2@sub.tahashopglry.ir:443?path=%2Fapi456&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dl.tahashopglry.ir&fp=chrome&type=ws&allowInsecure=0&sni=dl.tahashopglry.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=RZVPN#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://5570746b-2095-49bf-ba01-7a9fe55a09e6@trial.wordqress.store:44093?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://2435bd07-61f9-42e4-981c-ab3af4363ed0@185.143.233.233:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=pishparda.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
