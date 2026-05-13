@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.163.153.198:443?allow_insecure=0&host=sni.111000.dns.army&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8ef19221-6d5e-4bce-baa1-7c043eae3309@132.243.112.201:443?security=reality&sni=stats.vk-portal.net&fp=chrome&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%A6%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?security=tls&sni=pl74.mechvpn.online&insecure=1&fp=chrome&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://2068a81d-4ece-41ee-b9fc-b550fe6d8eac@37.220.84.147:443?security=reality&sni=apple.com&fp=qq&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://a5c04120-8f0d-4d52-8cdd-9ffff79a777d@kubernetes.io:443?mode=auto&path=%2Fmine&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22headers%22%3A%7B%22x-host%22%3A%22s1.onesrv98.eu.cc%3A444%22%7D%7D&host=leafy-yeot-838518.netlify.app&type=xhttp&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://3b9f2dc3-64a0-424e-a3a7-24a0d71b0562@185.213.165.67:33837?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -119,4 +111,6 @@ trojan://q1408120-f71b-lmgt-jsms-jia1ptni8n9a@127.0.0.1:4080?security=tls&type=t
 vless://203b0744-f943-4bba-a8d2-cab635467c46@45.136.126.16:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0&sid=d020b2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
 
 vless://454a6e70-95e6-4cea-8cac-7b335669d154@185.143.235.21:8080?security=none&type=ws&headerType=&path=%2Fpath&host=tr-st4.ge9.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJuZXdzLmtpbmdhc3RhcmlyYW4uc2l0ZSIsICJwb3J0IjogNDYxNjAsICJpZCI6ICIxMWQ2ZWJmZi05OWU4LTQ5OGYtYjZhNS1kMjMzY2EyNGM4YWYiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUifQ==
 
