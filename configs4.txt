@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://f32bdc69-4094-417b-8075-9cfa51af8f05@arvancloud.ir:80?encryption=none&host=filimo.starferi.ir&path=/&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://cf16cfea-794b-4632-8399-6f9750ceb04e@Snapp.ir:8080/?type=ws&encryption=none&path=%2F&host=Shaq.noovinteach.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://8fb9340e-8fa3-4832-8e17-fb254a7b30e0@snapp.ir:8080?encryption=none&type=ws&path=/&host=ts.programming-coding.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://1e1e4592-954c-4717-917c-7ad56d089c32@bitpin.ir:2082?path=/&security=none&encryption=none&host=aliReza.mobilesubasa.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://5a117d7b-1b9c-4730-9b0d-e151fa966e42@pingi.beshkanet.xyz:9811?type=xhttp&encryption=none&path=%2F&host=pingi.beshkanet.xyz&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=pingi.beshkanet.xyz&ech=AGb%2BDQBiAAAgACDJG6kqqXQRleGuRaH97J1kZnmt0PEAPBhI%2BNwSCR9ZcwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABNwaW5naS5iZXNoa2FuZXQueHl6AAA%3D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIHwgQHYybm9kZXMiLCAiYWRkIjogIjY0LjE4Ni4yMzMuMTMxIiwgInBvcnQiOiAiMTAwODYiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjFlZWI1NWYyLTg1MTYtNDZmMy04YzdiLTE3ZGIxZGUxZGY5YiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
 
 vless://3fe85f5d-db7b-5e4b-da88-d4aefa075f50@snapp.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=main.fasrgobar.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -113,4 +103,8 @@ vless://Troll_hastam@95.216.69.37:443?encryption=none&security=tls&sni=kubernete
 vless://Troll_hastam@94.130.33.41:443?encryption=none&security=tls&sni=jobset.sigs.k8s.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=admirable-ganache-2a9f09.netlify.app&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22AhmadiNEJAD%20DOT%20COM%22%7D%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://Troll_hastam@144.76.1.88:443?encryption=none&security=tls&sni=letsencrypt.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=admirable-ganache-2a9f09.netlify.app&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22AhmadiNEJAD%20DOT%20COM%22%7D%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://cfc7476f-a137-4db0-ad67-859c76a2a4c0@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTEyOC1nY206Njc4NGFlZTItMGRmZS00NzRmLTg0NDYtNDgwMjU5ZmY5OTE4@ru.safepass.click:442#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2nodes
 
