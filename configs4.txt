@@ -124,3 +124,11 @@ vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@tajikistan.mfa.gov.ua:443?security=
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@tajikistan.mfa.gov.ua:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://f98bb48f-23f8-1ea6-1129-2e03340e1ec3@185.53.141.155:465?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%7D%7D&host=iran.ir&fp=chrome&type=xhttp&sni=iran.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://1b9e9073-07e4-4edc-bc4d-22e1649433d9@ultranecctestusa.fqservershop.com:51395?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://9aa22ab6-c789-48bf-9ef0-1105b8e80055@snapp.ir:80?path=%2F&security=none&encryption=none&host=ir3cdn.ipkyc.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://d624203b-e193-4753-9407-05fad13a43c0@snapp.ir:80?path=%2F&security=none&encryption=none&host=ir3cdn.ipkyc.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
