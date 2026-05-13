@@ -11276,3 +11276,9 @@ vless://b66aac77-8338-471e-a656-86e273c5b012@185.50.38.17:434?type=tcp&security=
 
 vless://c24e1421-bce0-4c91-9ce6-ea7b29074ec3@45.81.16.109:13526?type=tcp&security=none&encryption=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://9ea9e54b-d4da-4773-855a-e5371e4da946@snapp.ir:80?path=%2F&security=&encryption=none&host=hubfile.zpax.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://b22294b8-f05a-49f1-b13e-54977706781c@snapp.ir:2095?path=%2F&security=none&encryption=none&host=network.broken.rest&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://59dfc544-00bd-4918-8e80-95109f6d0b16@188.121.124.181:443?mode=auto&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=1&host=static.cdn.asset.aparat.com&fp=chrome&type=xhttp&allowInsecure=1&sni=static.cdn.asset.aparat.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
