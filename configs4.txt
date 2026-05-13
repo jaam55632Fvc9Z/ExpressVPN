@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@72.56.235.141:8388#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 vless://66269cad-2657-4947-8554-526858d5362d@185.143.235.200:443?path=%2Fai&security=tls&encryption=none&insecure=0&host=ai.runtoweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=ai.runtoweb.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh42v8.carwashipdir.shop&alpn=h2&insecure=1&allowInsecure=1&type=grpc#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
@@ -45,4 +43,8 @@ vless://50b5ddf4-20d9-4f3c-943e-5d7de2847c3c@185.143.234.25:2052?security=none&t
 vless://a6c978d5-2dc6-45ac-a150-ea225660ff4e@185.143.235.200:2095?encryption=none&host=sss.aztt.ir&path=%2Fsnapp&security=none&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
 vless://d6794b29-5063-4a49-bc80-365bfd2e98d5@Snapp.ir:80?path=%2Fseulafk&security=none&encryption=none&host=FOAC.abanservers.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://4b4cf27b-1b57-4525-8002-238436b95f89@ursa.pardazwe.ir:2052?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://c5fb9170-98e4-47ab-9e85-0ba85d6d20b7@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ts.programming-coding.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
