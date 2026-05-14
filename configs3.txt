@@ -10916,3 +10916,7 @@ vless://79a66486-e1c7-4b68-b20b-0473b9748d63@185.50.38.194:51853?type=tcp&securi
 
 vless://06fbbe8a-dc5e-46ef-b9f7-657ea1c63aaa@45.81.16.109:13526?type=tcp&security=none&encryption=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://68ba29ee-f161-4f1d-8504-3d33247d9e38@185.50.38.17:434?type=tcp&security=none&encryption=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://52d25368-fe09-41a4-8840-a242d6b59d87@esna.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
