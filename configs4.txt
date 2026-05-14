@@ -10,3 +10,13 @@ vless://ae0d71fb-5121-4b78-adbc-753dbe2cd1a8@th.gostargate.top:49961?security=no
 
 vless://c9555eb6-75a2-4b6a-8ef7-25173d3f86b3@milad1.cloudzeusggwp.com.tr:36266?type=tcp&encryption=none&security=reality&pbk=1VJvRSqXw-Gcwf7TGQfq-AoT8pa2qN-2IMLVHiZvHiw&fp=chrome&sni=www.aparat.com&sid=d9919852&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://7e390b7e-0b7c-43fe-ba81-6c8d6d6a850a@snapp.ir:2052?path=%2F&security=none&encryption=none&host=vip.wirobike.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@18.197.233.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://00da4e11-82e5-46ea-91e1-d43504b6303b@snapp.ir:8080?path=%2F&security=none&encryption=none&host=ups1.shahan2019.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@18.197.233.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.197.233.165:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
