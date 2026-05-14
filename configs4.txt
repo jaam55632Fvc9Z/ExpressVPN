@@ -1,6 +1,8 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://7e390b7e-0b7c-43fe-ba81-6c8d6d6a850a@snapp.ir:2052?type=ws&security=none&host=vip.wirobike.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#%F0%9F%87%AC%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&encryption=none&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#%F0%9F%87%AC%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+vless://b818576e-951a-4a9c-879a-d32611b977ad@108.162.198.63:2096?encryption=none&host=cocobaby.pages.dev&path=%2Ffp%3Dchrome&security=tls&sni=cocobaby.pages.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@104.18.16.56:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
