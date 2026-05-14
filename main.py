@@ -213,7 +213,7 @@ def run():
     save_output('configs.txt', get_rotated_batch(ROTATION_LIMIT))
     save_output('configs2.txt', get_rotated_batch(ROTATION_LIMIT_2))
     save_output('configs3.txt', unique_pool[-ROTATION_LIMIT_3:])
-    save_output('configs4.txt', [item for item in unique_pool if now - float(item[0]) < 3600])
+    save_output('configs4.txt', [item for item in unique_pool if now - float(item[0]) < 300])
 
     # بروزرسانی دیتابیس (بدون پاکسازی، فقط حذف منقضی شده‌ها)
     with open('data.temp', 'w', encoding='utf-8') as f:
