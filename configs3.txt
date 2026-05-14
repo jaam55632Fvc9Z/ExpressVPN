@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.75.119.38:990#%F0%9F%87%A6%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODAwMzliNGQtYmFjMC00Zjg5LTgyYzctNTRmYWQzYjBhMWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDg2MTMsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmUgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-
-vless://4bf3f0fa-f8b1-4ca0-ae3d-ffb22aac876a@ss1.elmovipservice.ir:80?path=%2F&security=none&encryption=none&host=ss1.elmovipservice.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&security=none&encryption=none&host=p1.razstar.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://85a84b01-7841-44b9-9ac1-a40a93b1be36@nullnetwork.mashhad-gsm.ir:42726?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://87ee4888-65cb-4d02-b7ab-939275d1300b@nullnetwork.mashhad-gsm.ir:42726?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://a175d6b6-8a8b-49a0-8ec4-37f2a4de59b4@87.107.187.149:8010?encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?encryption=none&security=tls&sni=dabaius2.sylu.net&fp=chrome&insecure=1&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://36376138-5754-4284-b786-ded4e38ca453@varzesh3.com:80?path=%2F&security=none&encryption=none&host=sep.sofi98.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -30,7 +16,11 @@ vless://054be705-6bbf-42cd-9970-acfc325a34ca@SNApp.ir:80?path=%2FHoseisecu&secur
 
 vless://f4f7ff82-b369-424f-bfbc-730c39f4549a@namstar.hi-phonee.ir:54065?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray1_ng
 
+vless://a175d6b6-8a8b-49a0-8ec4-37f2a4de59b4@87.107.187.149:8010?encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray1_ng
+
 vless://0ed63d7f-ba30-4ec6-b539-d3fd9260f597@snapp.ir:8880?encryption=none&type=ws&path=%2Fapi&host=ryzo.px-ir.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&security=none&encryption=none&host=p1.razstar.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://9b9733bf-fd3a-4b8e-b9e5-8c7236db4360@snapp.ir:8880?encryption=none&type=ws&path=%2Fapi&host=ryzo.px-ir.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -45,6 +35,8 @@ vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@tajikistan.mfa.gov.ua:443?security=
 vless://fb4e2823-c727-43dd-921d-bbda2cf84ba8@snapp.ir:8080?path=/&security=none&encryption=none&host=chatgpt.jahansportmarkazi.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://6dbf69b7-8f24-4d8c-b568-c9f8075d5251@snapp.ir:80?path=/&security=&encryption=none&host=cdn.softnetconnect.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4bf3f0fa-f8b1-4ca0-ae3d-ffb22aac876a@ss1.elmovipservice.ir:80?path=/&security=none&encryption=none&host=ss1.elmovipservice.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://a6b7ba99-09fe-4583-ad5c-1250632a9302@185.143.233.5:80?path=%2Fgamescore%3Fed%3D128&security=&encryption=mlkem768x25519plus.native.0rtt.1TsRuWZdAHrU7z_ervQFaDusaDI9h2Cyn5HI-DoR5jQ&host=cdn9.restaurantworld.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -1266,6 +1258,8 @@ vless://a40a4e49-1dcf-4666-accf-4e278c894b00@us1bot-ws.headerip.com:80?encryptio
 
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODAwMzliNGQtYmFjMC00Zjg5LTgyYzctNTRmYWQzYjBhMWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDg2MTMsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmUgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.76.173.6:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@192.200.160.253:443?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -1453,6 +1447,8 @@ vless://31353336-6539-4362-b636-616363353938@185.143.233.243:80?path=%2Fl%2Fw%2F
 vless://42827133-57f1-4ed9-958d-4fb4cda405a8@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&encryption=none&host=ss2.limitless-cloud.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://b48ee6d1-495e-42cb-aa2e-613602b9cbe0@185.143.233.5:2095?path=%2F&security=none&encryption=none&host=p1.sesrsa.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.75.119.38:990#%F0%9F%87%A6%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
