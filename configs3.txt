@@ -11274,3 +11274,23 @@ vless://97d60b34-00a8-4d9e-a60a-f71d93ba93d9@185.24.253.108:443?security=tls&typ
 
 vless://39de32c6-34b7-4486-a15f-dd1ef9c96b34@185.143.233.5:2083?encryption=none&type=ws&security=tls&path=%2F&host=p1.sesrsa.com&sni=sub.sesrsa.com&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://e633d096-0b98-4eaa-985a-13c7f74e2d29@188.121.124.181:443?security=tls&type=xhttp&headerType=&path=&host=static.cdn.asset.aparat.com&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=static.cdn.asset.aparat.com&fp=chrome&pcs=f562dc60b65f99780e34ce1d5b7074c74e812c346e9c75494905948c12ab60f6&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://97b54b1d-be74-4e5c-b6d9-a5cece5045fd@185.24.253.108:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://186935d7-d82c-4a3f-8890-6cf2f58aaf1a@188.121.124.181:443?security=tls&type=xhttp&headerType=&path=&host=static.cdn.asset.aparat.com&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=static.cdn.asset.aparat.com&fp=chrome&pcs=f562dc60b65f99780e34ce1d5b7074c74e812c346e9c75494905948c12ab60f6&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://6f33898c-f1f1-4fe2-8ca0-66e9e1442f88@185.143.233.122:443?path=%2Fws&security=tls&encryption=none&insecure=1&host=vip2.tu5pars.ir&type=ws&allowInsecure=1&sni=vip2.tu5pars.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://da266c2f-2d20-4b38-aba6-01c5c4dbd85e@snapp.ir:80?encryption=none&type=ws&path=%2F&host=rami.m610.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://93ea5e7b-9427-416a-b2c6-f650d0c23193@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://1f672b81-dfa3-468a-ad22-7165f61496a3@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://36326231-3138-4166-b834-303439306131@185.143.234.96:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://017998c6-da9e-4edf-a5d1-0d7dc68f5097@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://cfbff5c7-d562-486a-a666-f6aa7d011168@snapp.ir:80?path=%2F&security=none&encryption=none&host=zirox-vip-net.naxm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
