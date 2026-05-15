@@ -11290,3 +11290,15 @@ vless://96458141-c862-47f7-947d-088eb3764009@87.236.215.18:443?mode=auto&pcs=610
 
 vless://0369f670-2a36-49aa-b1ff-7be054916aec@188.121.113.16:3?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40NormanV2ray
 
+vless://36636436-6636-4263-a563-386365393432@185.143.233.203:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://38b6ad0f-b493-493a-8374-9b043ce1ff89@188.121.124.181:443?mode=auto&pcs=f562dc60b65f99780e34ce1d5b7074c74e812c346e9c75494905948c12ab60f6&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=1&host=static.cdn.asset.aparat.com&fp=chrome&type=xhttp&allowInsecure=1&sni=static.cdn.asset.aparat.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://4e3f6a5b-acd3-4566-8349-bc71602b99c1@TechNowAi#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://4b45e821-ce92-463b-b17f-e19c5cb25051@87.236.215.18:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://ec769ba6-ec9b-48c1-b0c9-77b304148fbb@185.24.253.108:443?mode=auto&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=1&host=cdn.gapfilm.org&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.gapfilm.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://e58dbca4-0ae4-4433-8fb0-bde844306c26@188.121.124.181:443?mode=auto&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=static.cdn.asset.aparat.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.cdn.asset.aparat.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
