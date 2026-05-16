@@ -12,3 +12,19 @@ vless://32dcc781-e8aa-4a1f-a2cf-1689db0659d6@87.236.215.18:443?security=tls&type
 
 vless://f81e26d3-5098-4cad-b68b-90f98da6696e@185.24.253.107:443?mode=auto&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=1&host=cdn.gapfilm.org&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.gapfilm.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
+vless://68077ffe-3368-4755-98d0-9367aa1ad6f2@tw1.344233.cc:8443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.python.org&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#%F0%9F%87%B9%F0%9F%87%BC%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://61b17dc4-496d-4747-aa9e-c1c189fc1747@VARZESH3.COM:2095?path=%2F&security=none&encryption=none&host=h.goodphilips.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://68077ffe-3368-4755-98d0-9367aa1ad6f2@tw5.453521.xyz:8443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.python.org&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#%F0%9F%87%B9%F0%9F%87%BC%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://68eeac8d-521d-4559-9619-a688f05a82ae@Snapp.ir:2052?encryption=none&host=info.drevnelo.ir&path=%2FvmMarketlabs&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://68077ffe-3368-4755-98d0-9367aa1ad6f2@tw06.352343.cc:8443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.python.org&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#%F0%9F%87%B9%F0%9F%87%BC%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://68077ffe-3368-4755-98d0-9367aa1ad6f2@tw4.453521.xyz:8080?allowInsecure=0&peer=tw4.453521.xyz&sni=tw4.453521.xyz&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://68077ffe-3368-4755-98d0-9367aa1ad6f2@1.1.1.1:8080?allowInsecure=0&peer=1.1.1.1&sni=1.1.1.1&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f76bcdf8-234f-46f9-b7be-10c714f2df29@185.143.233.217:80?type=ws&encryption=none&path=%2Fws&host=ms.chehre-negar.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
