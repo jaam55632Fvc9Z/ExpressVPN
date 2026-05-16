@@ -1,43 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://a29e0815-8d5e-4743-afeb-1d3c5d128c34@snapp.ir:8080?path=%2F&security=&encryption=none&host=api.shomalnojm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@01-qq.com:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cdn.7zz.cn:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@www.mc.js.cool:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://955c0a83-a830-411e-bdbe-07a717971871@arvancloud.ir:80?path=%2F&security=none&encryption=none&host=samrexnet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://c956d8be-f6b1-454f-a111-a2fc7956635d@bitpin.ir:8080?encryption=none&type=ws&path=%2F&host=MELI.ARTARONA.IR#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://46fb62a0-df54-4110-82ec-05e30fa625d1@185.143.235.1:2082?path=%2F&security=none&encryption=none&host=ir-st2.ge9.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://4b95e998-adc1-4462-b8f2-e1f95b73fef8@185.143.233.5:2082?path=%2F&security=none&encryption=none&host=cdn.mizbanertebatfarda.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://9129bfb9-87cf-4bdf-ad37-0ff696c2ce14@104.18.4.130:443?security=tls&allowInsecure=0&encryption=none&type=httpupgrade&sni=letsencrypt.vIsuAlfineaRts.coM.TR.&fp=firefox&alpn=http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d2fcb443-6050-4075-a887-b8c8ad76f57e@nobitex.ir:80?encryption=none&type=ws&path=%2F&host=support.mindigosupport.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://Iran_VPN_D_2@letsencrypt.org:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-200%22%7D&insecure=0&host=it-teams.netlify.app&fp=chrome&type=xhttp&allowInsecure=0&sni=kubernetes.io#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@time.is:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cf.090227.xyz:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@store.ubi.com:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@mfa.gov.ua:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://TIGNAL@94.130.13.19:443?encryption=none&type=xhttp&security=tls&path=%2Flogin&host=wallweb12.netlify.app&mode=auto&sni=vuejs.org&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://662bd0c6-b06c-479e-bef9-3079697b50a8@185.24.253.108:443?encryption=none&security=tls&sni=cdn.gapfilm.org&fp=chrome&insecure=1&allowInsecure=1&type=xhttp&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://662bd0c6-b06c-479e-bef9-3079697b50a8@185.24.253.107:443?encryption=none&security=tls&sni=cdn.gapfilm.org&fp=chrome&insecure=1&allowInsecure=1&type=xhttp&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://662bd0c6-b06c-479e-bef9-3079697b50a8@188.121.124.181:443?encryption=none&security=tls&sni=static.cdn.asset.aparat.com&fp=chrome&insecure=1&allowInsecure=1&type=xhttp&host=static.cdn.asset.aparat.com&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=none&host=camp.nahidapp.com&path=%2FIF_VPN_Bot&security=tls&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -122,6 +84,10 @@ vless://f4eab8db-dce4-4348-921c-a728f50db13c@dl1.insta-download.ir:2095?path=%2F
 
 vless://2e268265-f477-4540-8e4e-7d4a8bfc7468@snapp.ir:80?path=%2F&security=none&encryption=none&host=zrpro-faster.net&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://Iran_VPN_D_2@letsencrypt.org:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-200%22%7D&insecure=0&host=it-teams.netlify.app&fp=chrome&type=xhttp&allowInsecure=0&sni=kubernetes.io#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d2fcb443-6050-4075-a887-b8c8ad76f57e@nobitex.ir:80?encryption=none&type=ws&path=%2F&host=support.mindigosupport.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
 vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gpuopen.com&fp=chrome&pbk=vDKgmefC_2JaSrrvQSsb7DU3KBeKUlXG1V0vgdjv_i4&sid=0a856e071790b1&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cdns.doon.eu.org:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=vless.lrdxw.club&path=/&security=tls&sni=vless.lrdxw.club&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -175,6 +141,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.204:81?allowInsecure=1&
 vless://5669aa4c-7f36-495d-99dc-6e626b2db252@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://88627e0d-4547-4912-b254-0a8b3352ed53@Tapsi.ir:8080?path=%2Fcdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://a29e0815-8d5e-4743-afeb-1d3c5d128c34@snapp.ir:8080?path=%2F&security=&encryption=none&host=api.shomalnojm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://8f8ccdc5-fe99-38d7-a8a6-422f8c88ef0a@s298.okgg.top:443?sni=3556s298.okgg.top&flow=xtls-rprx-vision-udp443&fp=random&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -5128,6 +5096,10 @@ vless://bafacd98-136a-4530-838d-4e5c51838dac@cf1.danfeng.eu.org:443?encryption=n
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@tajikistan.mfa.gov.ua:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@mfa.gov.ua:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@store.ubi.com:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://f98bb48f-23f8-1ea6-1129-2e03340e1ec3@185.53.141.155:465?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%7D%7D&host=iran.ir&fp=chrome&type=xhttp&sni=iran.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://1b9e9073-07e4-4edc-bc4d-22e1649433d9@ultranecctestusa.fqservershop.com:51395?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -5146,9 +5118,15 @@ vless://72519110-727b-45d2-bac1-8d4aa1de54ac@snapp.ir:80?path=%2F&security=none&
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@www.mc.js.cool:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cdn.7zz.cn:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@01-qq.com:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cu.877774.xyz:443?security=tls&type=ws&ech=cloudflare-ech.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
