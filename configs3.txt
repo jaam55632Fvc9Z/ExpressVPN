@@ -11272,3 +11272,11 @@ vless://1f390c4e-7ec1-4d86-87c6-4013666d4f2d@emergency-service.pavilof.ir:80?pat
 
 vless://30f7e7f7-0a70-4126-9689-cb3c84fbc179@af5n.vexloraz.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.vexloraz.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+vless://9a88115e-a579-4c35-b96b-7d8b6b488ae1@ougsm2.virgooli.com:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://41d3f87f-d0b2-43c8-a656-d3e24ad57cbe@h2-trex.docos.tech:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=h2-trex.docos.tech&fp=chrome&type=ws&allowInsecure=1&sni=h2-trex.docos.tech#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9c450d48-0bb9-4de4-ba54-a791c32b8387@h2-trex.docos.tech:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=h2-trex.docos.tech&fp=chrome&type=ws&allowInsecure=1&sni=h2-trex.docos.tech#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fc08bb2a-b437-40d9-978c-80d9f7e51f5b@trex.docos.tech:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.docos.tech&fp=chrome&type=ws&allowInsecure=1&sni=trex.docos.tech#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
