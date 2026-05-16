@@ -1,20 +1,4 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6946cf76-2c1e-4fbc-a28a-e2beeb7c29cb@144.31.200.56:443?security=reality&encryption=none&fm=%7B%22fragment%22%3A%7B%22length%22%3A%2250-100%22%2C%22packets%22%3A%22tlshello%22%2C%22interval%22%3A%2210-20%22%7D%7D&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://9b020c0a-1fa7-494d-b9fe-209a06c40044@www.varzesh3.com:2095?path=%2Fchat%3Fed%3D128&security=none&encryption=none&host=dl2.mizbanertebatfarda.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://ed31ce4d-6cff-467c-8774-9e0ac0448b74@snapp.ir:80?path=%2F&security=&encryption=none&host=derakhshan.molvliafor.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://%40IR_NETLIFY@144.76.1.88:443?encryption=none&security=tls&sni=kind.sigs.k8s.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=lambent-mermaid-ee241e.netlify.app&path=%2FIR_NETLIFY&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingKey%22%3A%22iran%22%2C%22xPaddingHeader%22%3A%22iran%22%2C%22headers%22%3A%7B%22x-host%22%3A%2291.107.188.73%3A444%22%7D%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://e65a5cbc-5663-4f7d-ad7d-800e86ba487d@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://%40IR_NETLIFY@138.201.54.122:443?encryption=none&security=tls&sni=letsencrypt.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=lambent-mermaid-ee241e.netlify.app&path=%2FIR_NETLIFY&mode=auto&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingKey%22%3A%22iran%22%2C%22xPaddingHeader%22%3A%22iran%22%2C%22headers%22%3A%7B%22x-host%22%3A%2291.107.188.73%3A444%22%7D%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://7fc8c897-abc1-467d-bc40-41cf42489084@anten.ir:80?encryption=none&type=ws&host=fdcluma-c0a1c-fbc-4c77-60nf5.daravento.ir&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://14f145fb-8e9e-4e8c-a001-5a54c1f18814@snapp.ir:2082?path=%2F&security=none&encryption=none&host=mail.zivotra.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://9ebcbe6a-944e-4f89-a8ba-529edfa44f41@snapp.ir:2082?path=/&security=none&encryption=none&host=mail.zivotra.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://9b020c0a-1fa7-494d-b9fe-209a06c40044@www.varzesh3.com:2095?security=none&allowInsecure=0&encryption=none&type=ws&host=dl2.mizbanertebatfarda.ir&path=/chat?ed%3D128#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
