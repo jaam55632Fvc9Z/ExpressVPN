@@ -10,3 +10,7 @@ vless://Troll_hastam@94.130.13.19:443?encryption=none&security=tls&sni=cluster-a
 
 vless://Troll_hastam@94.130.70.160:443?encryption=none&security=tls&sni=kind.sigs.k8s.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=cheery-kelpie-b80dbc.netlify.app&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%2215-35%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%22150000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22MAHMOOD%20AHMADI%20NEJAD%20DAT%20COM%22%7D%2C%22xPaddingKey%22%3A%22Panjali%22%2C%22xPaddingHeader%22%3A%22Mamooli%22%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
+vless://9676f9e2-7cc3-4dad-9282-49e2f4864d2a@46.34.163.45:2053?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v2.kavu.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://3ef53141-afd4-de04-18f2-df75ab72ecb9@snapp.ir:8080?path=%2F&security=&encryption=none&host=sor-cdn.helxh.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
