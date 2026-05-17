@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://67aa928d-0402-48ea-869a-a72dba3df515@185.143.233.235:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=who.xwho.ir&fp=chrome&type=ws&allowInsecure=0&sni=who.xwho.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://5a7511a3-1efa-4f0b-b6aa-7a3c23a41b41@snapp.ir:80?encryption=none&type=ws&path=%2F&host=cdn2.softnetconnect.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://046acd51-53ac-46ef-b564-3ec0912b98f7@digipay.ir:80?type=ws&encryption=none&path=%2F&host=asd.pixserver.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://12a781ed-3c49-469b-96a6-984c0115912e@miller.iransatellite.net:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40saministamm
-
 vless://d6ef4a50-ea08-4f35-ba27-b58a86487dd0@50.7.4.106:443?type=ws&security=tls&path=%2Fws&host=wro.u3er1.ir&sni=wro.u3er1.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
 vless://43f41fbf-514a-468c-b565-1b602bc8e737@anten.ir:80?encryption=none&type=ws&path=%40TunizoNET&host=TU.amirenzohost.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -51,6 +43,8 @@ vless://75b37c08-36eb-4c05-afdd-462209477b69@snapp.ir:80?encryption=none&host=ar
 vless://cb09f4a4-4ba3-4f39-8edf-a9cdf5043ab7@185.143.232.253:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&allowInsecure=0&sni=dl1.farsdroid.site#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
 
 vless://7e2964bf-aba1-443a-9ff1-5f0499bb2c82@185.143.232.253:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&allowInsecure=0&sni=dl2.farsdroid.site#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://12a781ed-3c49-469b-96a6-984c0115912e@miller.iransatellite.net:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
 
 vless://c71aad72-d2eb-46c9-9321-817406ae1bd7@digipay.ir:80?path=%2F&security=&encryption=none&host=asd.pixserver.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
@@ -10655,4 +10649,14 @@ vless://46064ee9-420c-45a4-b1ca-435e6cbfd364@185.143.233.235:80?security=none&en
 vless://%40IR_NETLIFY@104.198.14.52:443?mode=auto&path=%2FIR-NETLIFY&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingKey%22%3A%22iran%22%2C%22xPaddingHeader%22%3A%22iran%22%2C%22headers%22%3A%7B%22x-host%22%3A%22http%3A%2F%2F89.22.236.213%3A444%22%7D%7D&insecure=1&host=ww12.area.ac&fp=chrome&type=xhttp&allowInsecure=1&sni=104.198.14.52#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@jobinja.ir:8080?security=none&type=ws&headerType=&path=%2Fcdn&host=dl4.movizdl.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6207414d-7b7b-48a9-9e7a-7579f3c2ef01@Tapsi.ir:2052?security=none&type=ws&headerType=&path=%2Fcdn&host=dl5.movizdl.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://071fa6a5-ba32-49be-97b9-9922ef1eddd9@185.143.235.200:2082?path=%2Fsnapp&security=none&encryption=none&host=sss.aztt.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://661e1e90-3361-4bb5-a544-9bdd10986dc1@185.143.235.200:2082?path=%2Fsnapp&security=none&encryption=none&host=sss.aztt.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://b92b9109-b40a-4f19-bcef-086c75b838b5@tell.hi-phonee.ir:433?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://4dac1b07-3dbe-4270-9968-e13579ef9a71@panel2.shivasayyah.ir:8443?type=ws&encryption=none&path=%2F&host=home.shivasayyah.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
