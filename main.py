@@ -12,7 +12,7 @@ from datetime import datetime, timezone
 #  بخش تنظیمات (Settings)
 # =============================================================
 PINNED_CONFIGS = [
-    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91",
+    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.",
 ]
 
 MY_CHANNEL_ID = "@Express_alaki"
