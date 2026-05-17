@@ -4,3 +4,19 @@ vless://34323763-3038-4537-b433-343735636430@185.143.233.142:80?path=%2Fl%2Fw%2F
 
 vless://ab59c722-1e49-44a8-86b6-3618e4aaf6f9@94.182.149.202:6666?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@15.236.132.94:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.132.94:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.236.132.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://ab59c722-1e49-44a8-86b6-3618e4aaf6f9@94.182.149.202:6666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://129f6645-83c5-4fd8-ba0a-d5d22771993e@zir.alihapps3.aghanami.ir:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://e0f9542c-43fb-45b5-82a3-d50c6a8536f3@zir.alihapps3.aghanami.ir:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://-78364b@yas.c1.ir:8227security=none&encryption=none&host=www.speed.&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://10f541b4-a4b8-4840-aa5c-33a7aef5b6b6@snapp.ir:8080?encryption=none&host=cdn.tiopmfikg.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
