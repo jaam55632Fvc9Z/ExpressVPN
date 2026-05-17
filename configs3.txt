@@ -10908,3 +10908,9 @@ vless://ad4796a4-a449-42e1-8bb5-9375ce8918b1@87.236.215.18:443?security=tls&type
 
 vless://6d792045-5b17-4fee-b034-da5335eb7c72@185.143.233.5:2096?encryption=none&type=ws&host=p1.sesrsa.com&path=/&security=tls&fp=firefox&sni=sub.sesrsa.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://ff79293b-e542-4dc9-8d44-eaacf6df1fe3@anten.ir:80?path=%2F&security=&encryption=none&host=nitro.web-wizard.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://cd59c731-654e-4c12-af62-6b1cf8ab8211@185.143.233.5:2096?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
