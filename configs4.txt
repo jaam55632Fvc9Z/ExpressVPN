@@ -4,3 +4,7 @@ vless://45aac20b-21be-4491-bf5c-8e8b4fc28173@snapp.ir:80?encryption=none&securit
 
 vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@62.3.41.49:1?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://d9665c82-5e02-4e6d-a511-907e077a11e0@u3x7.vexloraz.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=cdn.vexloraz.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://d2e239d0-a513-4378-a49a-425e706680c0@sl.dezh.click:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
