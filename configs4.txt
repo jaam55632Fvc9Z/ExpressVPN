@@ -4,3 +4,9 @@ vless://2e635a14-57bb-40d1-bc0d-c811b1fb74be@varzesh3.com:80?path=%2F&security=n
 
 vless://75d93baf-46d2-48f3-8d51-4ac943f88830@varzesh3.com:2083?encryption=none&type=ws&host=user.chinie.ir&path=/&security=tls&fp=chrome&sni=user.chinie.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://1ead77c1-0733-4b55-8241-7b3c44093fb3@193.151.129.116:443?security=tls&type=ws&headerType=&path=%2Fws%3Fed%3D500&host=&sni=r1-vod.varzesh3.com&fp=chrome&pcs=3308f15fc05422bbd9e15744ed93a67c163c51e8fa625a069cd798d1d3f87059&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://1ead77c1-0733-4b55-8241-7b3c44093fb3@188.121.123.73:443?security=tls&type=ws&headerType=&path=%2Fws%3Fed%3D500&host=&sni=plus.sabavision.com&fp=chrome&pcs=7af8aa0f3d118b625908fcd58693bd64226b8693e47cdde374e6214480decd2e&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
