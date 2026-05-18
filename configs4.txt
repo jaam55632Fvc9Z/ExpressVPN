@@ -12,3 +12,13 @@ vless://26524cce-d514-4014-a426-365fb266a14d@104.253.175.136:443?allowInsecure=0
 
 vless://95d38539-4996-4417-9e40-3cc458551043@87.236.215.18:443?security=tls&encryption=none&type=xhttp&sni=cdn.gapfilm.org&fp=chrome&mode=auto#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vslshi
 
+vless://fb59526f-74e2-405f-a2be-6897ce560ff4@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=ss5.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://012a5fc7-2015-431f-af7b-705c3843872c@www.varzesh3.com:2082?type=ws&encryption=none&path=&host=dl.heynewdays.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://95d38539-4996-4417-9e40-3cc458551043@87.236.215.18:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://95d38539-4996-4417-9e40-3cc458551043@87.236.215.18:443?mode=auto&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=1&host=cdn.gapfilm.org&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.gapfilm.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://1f9aaf03-d101-4f7f-af06-0db0a5a86d3c@snapp.ir:8080?encryption=none&type=ws&path=%2F&host=sayanstoree.tel.goleij.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
