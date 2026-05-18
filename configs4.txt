@@ -1,4 +1,12 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?path=%2F&security=none&encryption=none&host=dns-02.dl-toucan.monster&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://UUID@google.com:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=google.com&fp=safari&type=ws&sni=google.com#%F0%9F%87%AD%F0%9F%87%BA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://651de6cb-df22-45cd-8842-438fdbef87fb@2.59.135.137:7022?security=reality&encryption=none&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40manVPN
+
+vless://89e6e690-6fca-435d-b286-c65a9925a65b@fl1bot-ws.headerip.com:80?encryption=none&type=ws&path=%2F&host=fl1.mv5.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40NormanV2ray
+
+vless://3f5e4344-678a-4259-b3b3-5dae5f789df9@snapp.ir:80?encryption=none&type=xhttp&path=%2F&host=dash.beynodcomplete.ir&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40NormanV2ray
 
