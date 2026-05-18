@@ -10732,3 +10732,5 @@ vless://9bb207d7-1086-427e-ba25-0f264e9ca8b5@api.digimobile.bond:443?alpn=h2%2Ch
 
 vless://f230b511-4474-4cdb-b771-3d987f564903@185.143.233.5:2096?path=%2F&security=tls&encryption=none&insecure=1&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=1&sni=sub.sesrsa.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A6%F0%9F%87%BA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
