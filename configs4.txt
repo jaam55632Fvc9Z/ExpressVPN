@@ -4,3 +4,11 @@ vless://15280171-2f05-42cf-b6aa-6710e6ce1775@rfral.aghanami.ir:80?path=%2F&secur
 
 vless://b116c0b2-8566-4d97-950d-c7ff2e93fec4@185.239.3.16:2053?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=v3.kavu.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+trojan://e5c22f63-e473-496a-beff-fdc5655008c1@tvhinet.lajichang.xyz:2096?allowInsecure=1&sni=bing.com#%F0%9F%87%B9%F0%9F%87%BC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://606207dd-23f0-49d9-9746-3943e35b15ab@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=ss15.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://36c4dba7-e4df-4b8a-a4a9-9bcccb6edce4@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://26524cce-d514-4014-a426-365fb266a14d@161.33.212.44:1443?allowInsecure=0&sni=jbp7i.data-edge.chinav.indevs.in&type=ws&host=jbp7i.data-edge.chinav.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
