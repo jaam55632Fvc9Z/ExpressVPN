@@ -11082,3 +11082,11 @@ vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=%2F
 
 vless://ca4da98c-7851-4a9c-9bc0-874e406ef774@snapp.ir:8080?type=ws&security=none&path=%2Fuser%2Flogin&host=vip.falnqiro.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://6339375a-67d0-4587-9b73-c63f4cd2f808@rfral.aghanami.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://57296151-a443-4876-9b9f-4872795abd53@snapp.ir:8080?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://b5521d21-8b91-4252-aad2-3415cbbc2cee@188.121.124.181:443?security=tls&type=xhttp&headerType=&path=&host=static.cdn.asset.aparat.com&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=static.cdn.asset.aparat.com&fp=chrome&pcs=f562dc60b65f99780e34ce1d5b7074c74e812c346e9c75494905948c12ab60f6&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
