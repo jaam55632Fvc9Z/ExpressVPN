@@ -11080,3 +11080,5 @@ vless://Troll_hastam@94.130.33.41:443?encryption=none&security=tls&sni=cluster-a
 
 vless://Troll_hastam@94.130.13.19:443?encryption=none&security=tls&sni=gateway-api.sigs.k8s.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=larijani.com&path=%2FTroll_hastam&mode=auto&extra=%7B%22xPaddingBytes%22%3A%2215-35%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%22150000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22MAHMOOD%20AHMADI%20NEJAD%20DAT%20COM%22%7D%2C%22xPaddingKey%22%3A%22Panjali%22%2C%22xPaddingHeader%22%3A%22Mamooli%22%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
+vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?path=%2F&security=none&encryption=none&host=dns-02.dl-toucan.monster&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
