@@ -1,14 +1,6 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-trojan://telegram-id-directvpn@52.47.169.8:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.169.8:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@52.47.169.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://telegram-dickiriptorbot@13.249.2.122:443?path=%2F&security=tls&encryption=none&insecure=1&host=dbw9jfe94rh28.cloudfront.net&type=ws&allowInsecure=1&sni=3.173.21.63#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ultrasurf_12
-
-vless://eba119b1-2524-4a53-8dba-2cdfb473de68@www.varzesh3.com:2095?encryption=none&type=ws&path=%2Fchat%3Fed%3D128&host=dl2.mizbanertebatfarda.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+vless://telegram-dickiriptorbot@13.249.2.122:443?path=%2F&security=tls&encryption=none&insecure=1&host=dbw9jfe94rh28.cloudfront.net&type=ws&allowInsecure=1&sni=3.173.21.63#%F0%9F%8C%90%20WS-TLS%20%7C%20%40cpy_teeL
 
 ss://YWVzLTI1Ni1nY206NW1DSDQ2MjRRZmxPMWNGUg@185.111.156.33:80#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40cpy_teeL
 
@@ -10829,4 +10821,14 @@ vless://22534415-0da4-411a-9784-6b1770e67086@Snapp.ir:80?path=%2F&security=none&
 vless://6d3ac179-5dff-4788-a417-dcdd89b41a7c@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://877604d4-7f9b-456c-9ecf-f729ca1aaafa@wg-de1.smrfy.online:15230?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://85d5a492-72c4-4e4c-80ce-ff0d36d4f785@f.pvnet.ir:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://93169166-d5bd-4fc2-aee1-257951ba7327@varzesh3.com:8080?path=%2Fcdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://32dcb673-926e-4e22-92c2-bdf4d9c01422@snapp.ir:443?path=%2F&security=tls&encryption=none&alpn=h3&host=sb1.pbvsrk.carnagesv.top&fp=random&type=ws&sni=sb1.pbvsrk.carnagesv.top#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://3c71acee-968a-4803-bc41-f61bee44b8ea@varzesh3.com:8080?path=%2Fcdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://efae4cd9-b311-47c8-b8fb-72ae91ca9599@varzesh3.com:8080?path=%2Fcdn&security=none&encryption=none&host=Za.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
