@@ -10,3 +10,13 @@ vless://89e6e690-6fca-435d-b286-c65a9925a65b@fl1bot-ws.headerip.com:80?encryptio
 
 vless://3f5e4344-678a-4259-b3b3-5dae5f789df9@snapp.ir:80?encryption=none&type=xhttp&path=%2F&host=dash.beynodcomplete.ir&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40NormanV2ray
 
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@fairfaxcountyeda.org:2053?encryption=none&host=qyi.fqjd663.ggff.net&path=/&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@3.77.116.109:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@3.77.116.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.116.109:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://49a87d56-0703-4e39-b662-5e25b08b6cd4@register.mobile-khayam.ir:50121?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40NormanV2ray
+
