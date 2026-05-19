@@ -2,3 +2,29 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
 vless://6e7f7390-5dbe-4fa4-804d-65bed6b5b2a0@blubank.sb24.ir:2086?path=%2F&security=none&encryption=none&host=srv2.khavarpress.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://3c03e9c9-88e2-404d-bfef-e4fcf29a29e3@finite-node.rtxconfigz.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5d3edd3f-7e6a-4c3d-a00e-9723c42cb2b4@centurylink.es:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=finite-node.rtxconfigz.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://759700eb-59a9-4523-9b65-1fe196e00b99@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=finite-node.rtxconfigz.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://038a5046-282a-4f63-bfe5-bdbb3877d305@finite-node.rtxconfigz.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=api.zoom.us#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://872adab9-dab5-4e01-a975-aa2ac673cbcc@finite-node.rtxconfigz.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=youtube.com#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://cf7600e5-5619-4cff-b938-ae095b438f86@finite-node.rtxconfigz.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=www.netflix.com#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@finite-node.rtxconfigz.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=telegram.us#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ce2aa2ab-d893-43c2-ae4c-5b45eb74d49f@finite-node.rtxconfigz.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=tiktok.com#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a5d740d3-2af5-49c2-bfca-f0983456f5fc@finite-node.rtxconfigz.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=finite-node.rtxconfigz.com&fp=chrome&type=ws&sni=web.whatsapp.net#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ad148fcd-aefa-47e8-8c7e-5fc242f9e142rvancloud.ir:80?encryption=none&host=gh2.ghostantaniehh.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://dcea49ec-0038-4463-a7de-99de33460d70@185.128.139.11:50266?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://cfc0ffe8-d2fa-4d9c-9c05-f95ae072eadf@185.126.200.137:443?encryption=none&fp=chrome&pbk=E1a5AKxZHIGa5G00bU3JJTQB67RKThD3VvK_B1tQl3g&security=reality&sid=75ce0ab4&sni=arvancloud.ir&spx=%2FRSUUhO2w9XfTrPV&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
