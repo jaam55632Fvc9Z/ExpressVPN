@@ -12,3 +12,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?security=tls&all
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?encryption=none&type=ws&security=tls&path=%2F&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40vslshi
 
+trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
