@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://fe32da6d-bc19-47f0-868d-9c42e0100236@185.143.234.235:443?encryption=none&security=tls&sni=dl15.bale.lovlytehran.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=firefox&type=ws&host=dl15.bale.lovlytehran.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.239.3.8:40443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://bbaedd14-649a-44e1-a032-58d79c26cf6e@tehrantimes.com:2052?path=/&security=none&encryption=none&host=iran.medadcarboni.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://75bc6374-e337-490c-85a1-3bc8e2c76aee@s1.whatiffa.ir:2082?path=/&security=none&encryption=none&host=s1.whatiffa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -13,4 +9,8 @@ vless://77832ed9-47a2-447c-96b3-a3390f2ede1a@nobitex.ir:80?path=/&security=none&
 vless://3212a762-6698-4242-aec3-17da724ab6dd@meliplus.navixx.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=meliplus.navixx.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40anty_filter
 
 vless://8e65595f-97ba-4bb2-a1a7-0e9fa194a54e@varzesh3.ir:2052?path=%2F&security=none&encryption=none&host=sni.bahanetco.sbs&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://244f43cb-3e03-4f00-8a27-9422b7259e46@185.143.233.232:80?path=%2F&security=none&encryption=none&host=api.angrydevs.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e9771b47-c317-486a-9eed-cba0221cada8@varzesh3.ir:2052?type=ws&encryption=none&path=%2F&host=sni.bahanetco.sbs&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
