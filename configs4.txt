@@ -14,3 +14,15 @@ vless://192348c1-49fe-4bef-88d7-a453f01e9cd8@185.141.134.165:443?type=tcp&encryp
 
 vless://2a19b7e5-c3c2-4ca3-81d1-30ef2faba97d@185.143.232.7:443?security=tls&encryption=none&insecure=1&host=nl.theretro.ir&type=ws&allowInsecure=1&sni=nl.theretro.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://3f72d5c3-aa30-4fc1-a3a2-4c997a4776a7@varzesh3.com:443?security=tls&encryption=none&insecure=1&host=em.theretro.ir&type=ws&allowInsecure=1&sni=em.theretro.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8eb2dcb2-e5f9-4967-865f-b882d2750925@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d21fe711-607c-4080-9e4b-89820b1bb570@snapp.ir:2082?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=1.jojo.avenflow.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://471abf49-364c-4ce7-ab3b-60649f1eb538@snapp.ir:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=v2raypulse.farsituch.ir&fp=chrome&type=ws&allowInsecure=0&sni=v2raypulse.farsituch.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9353c4a4-4c7c-45f8-a5c1-85151cd7a590@ss3.mraph.store:80?path=/w0A7arFCWh1n07bLCPY2sRPzhX533Aa&security=none&encryption=none&host=s3.goldariha.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://539f1eb0-ec1b-4502-8899-8137f938d400@vip.masterdadeh.ir:80?type=ws&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
