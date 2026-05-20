@@ -1,22 +1,4 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://cb8ad1f0-85ef-4659-a65d-b4e01baf587d@sbb.4nel.ir:2052?path=%2F&security=none&encryption=none&host=sbb.4nel.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://2004c2a9-c3b3-23e0-025f-ad53c35cb36e@18.199.0.184:443?encryption=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://8f4fbe2e-9e13-2567-1fc0-7ee8e49d4240@18.157.196.119:443?encryption=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://73bae3c1-3da0-4f17-bda9-464f5a43657d@185.143.235.212:443?encryption=none&type=ws&security=tls&path=%2F1040&host=p0.massivegamesl01l1l01.ir&sni=p0.massivegamesl01l1l01.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@85.198.11.172:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.92.172:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-privatevpns@51.102.92.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@51.102.92.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://80a1688e-fbf4-2b48-02e8-2caea7f12b1a@18.199.86.4:45966?encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://065268d3-c1a8-1231-8d5a-9ad95e9ded95@varzesh3.com:443?security=tls&type=ws&headerType=none&encryption=none&path=%2F&host=&sni=cdn-reb-aaa.fasrgobar.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
