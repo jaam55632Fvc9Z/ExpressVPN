@@ -4,3 +4,17 @@ vless://1c2430f1-4da5-43fc-bda4-19bd078e51c1@radar.arvancloud.ir:80?type=ws&path
 
 trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%AA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://b720d027-5ac1-4058-baa3-ee080f4ebbc5@pl.hothapp.com:2066?encryption=none&flow=xtls-rprx-vision&fp=&pbk=u4lNvUk5pLZGl0XN-QK4xQgPQBhoJiMkOP2XZoQ99GA&security=reality&sid=d18f4e&sni=apple.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=pl194.mechvpn.online&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a77198e2-9cf7-44c7-a97f-319f6f0e5b07@game-de.love-list-server.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=game-de.great-server-list.co.uk&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-at-ph.ray-balance.space:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://7625adbb-52f7-4ff4-95f8-677471071a77@89.127.211.73:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-MS_qpxViChYzpiJc9JOzyeee72MxtOF_eb7zJpeZxA&security=reality&sid=6ba85179e30d4fc2&sni=io.ozone.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://027ddfdf-59c3-4cce-b75a-d6cec7ace390@89.125.37.77:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mO8C8IMouuBMVJA63JnS4xcdY7knrc7Hg_IclJR_MnE&security=reality&sid=75&sni=www.nvidia.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch&allowinsecure=0&security=tls&path=%2Ffp%3Dchrome&echfq=none&encryption=none&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
