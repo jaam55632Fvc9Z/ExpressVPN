@@ -10512,3 +10512,11 @@ vless://80a1688e-fbf4-2b48-02e8-2caea7f12b1a@18.199.86.4:45966?encryption=none&t
 
 vless://065268d3-c1a8-1231-8d5a-9ad95e9ded95@varzesh3.com:443?security=tls&type=ws&headerType=none&encryption=none&path=%2F&host=&sni=cdn-reb-aaa.fasrgobar.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://065268d3-c1a8-1231-8d5a-9ad95e9ded95@varzesh3.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn-reb-aaa.fasrgobar.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e75cc5df-6d9d-4e4d-8ba9-d7cdeeffee49@varzesh3.com:8080?path=%2Fcdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://23a62d8e-0a67-17f1-338f-786ef2974f50@varzesh3.com:443?security=tls&type=ws&headerType=none&encryption=none&path=/&host=&sni=cdn-reb-aaa.fasrgobar.ir&fp=chrome&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://7eac8a88-fea3-40d2-8a6a-e0dd4e8ac6e6@varzesh3.com:8080?path=/cdn&security=none&encryption=none&host=Za.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
