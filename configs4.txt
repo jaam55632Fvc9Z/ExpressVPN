@@ -10,3 +10,9 @@ vless://2f337f9f-7e68-42e1-af93-b2280faedcb2@193.176.243.204:443?security=tls&ty
 
 vless://2f337f9f-7e68-42e1-af93-b2280faedcb2@188.121.123.73:443?security=tls&type=ws&headerType=&path=%2Fws%3Fed%3D500&host=&sni=plus.sabavision.com&fp=chrome&pcs=7af8aa0f3d118b625908fcd58693bd64226b8693e47cdde374e6214480decd2e&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.151.19:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@35.180.151.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@35.180.151.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
