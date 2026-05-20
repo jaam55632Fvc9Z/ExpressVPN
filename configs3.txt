@@ -1,16 +1,6 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.205.175:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
-
-vless://00da4e11-82e5-46ea-91e1-d43504b6303b@snapp.ir:8080?encryption=none&type=ws&path=%2F&host=ups1.shahan2019.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://ae0d71fb-5121-4b78-adbc-753dbe2cd1a8@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://c9555eb6-75a2-4b6a-8ef7-25173d3f86b3@milad1.cloudzeusggwp.com.tr:36266?type=tcp&encryption=none&security=reality&pbk=1VJvRSqXw-Gcwf7TGQfq-AoT8pa2qN-2IMLVHiZvHiw&fp=chrome&sni=www.aparat.com&sid=d9919852&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://04738fc0-2279-4e80-a641-5e99485a1367@185.221.239.67:2222?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://00da4e11-82e5-46ea-91e1-d43504b6303b@snapp.ir:8080?encryption=none&type=ws&path=%2F&host=ups1.shahan2019.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://9ea9e54b-d4da-4773-855a-e5371e4da946@snapp.ir:80?path=%2F&security=none&encryption=none&host=hubfile.zpax.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -10897,4 +10887,16 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.212.174.66:2025?encryption=none&
 vless://309fd41e-d78a-42d6-8c38-57c08a30889f@rfral.aghanami.ir:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://4102aa5a-d235-4a81-989d-d267d6157f6c@188.121.124.181:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=69#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40manVPN
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.135:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://DI4MSzOTKIJTWe605Zqq1hgDYo08in4VstyaGSwgTK86oMmTvdnrPNw66ZMhVEdOJumnxA32GBsC4pGvLg4UjVqT5cgqebllC1wxDedwV41gEQSNbyxnGtJQjjp1T91aLqqlJmerqGtJGkYbO0z3CfS03H1/z3SpsujDXiQct/u2i02msXqjgIoXNE2ioFmujF0F42oByD3yBkZmlNHEWe0b5Pd8Ak1yjd72PyR/Db7DGfwjC0DMmJP2oPIR209X#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://dcf2b006-f8a6-4797-b434-b18a10ce5d9d@193.151.140.200:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://6db279a7-c8fc-4cc8-9253-4cf5ca09f3cb@rfral.aghanami.ir:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://db3c74e8-632e-442a-a674-f0b7240a874a@94.101.179.193:80?path=%2F&security=none&encryption=none&host=w4.mazandaranmusic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
