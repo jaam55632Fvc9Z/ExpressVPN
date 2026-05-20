@@ -14,3 +14,9 @@ vless://81d6a801-ab9f-25a7-c0ba-9acb875e86da@18.184.134.186:443?type=tcp&encrypt
 
 vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.192.95.247:443?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
 
+vless://9029ef60-b188-4397-ab96-1a77074ecb3a@snapp.ir:80?path=%2F&security=none&encryption=none&host=pan92e.nexoratechcenter.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4e8ed3d9-2398-4b97-9cce-4d310045d5b5@185.143.234.115:443?path=%2F&security=tls&encryption=none&insecure=0&host=rest.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=rest.parhamm2.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c29f4fa4-8d8d-3b9a-c64d-53c26752be76@subbb.garkao.ir:8080?security=none&type=ws&headerType=none&encryption=none&path=%2F&host=cdn-665e-o0g.fars-rehan.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
