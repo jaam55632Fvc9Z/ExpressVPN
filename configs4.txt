@@ -12,3 +12,31 @@ vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=none&enc
 
 trojan://humanity@188.213.197.228:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://cc8aefd7-d984-453e-835e-865e41344c5d@free.server.techsonic.me:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=netflix.com#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0d43ad56-1f5c-412d-a490-6e266efe4cdf@172.66.40.229:8443?type=ws&encryption=none&path=%2Ffree.server.techsonic.me&host=free.server.techsonic.me&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=free.server.techsonic.me#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://cc8aefd7-d984-453e-835e-865e41344c5d@free.server.techsonic.me:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@partner.zoom.us:8080?type=ws&encryption=none&path=%2Ffree.server.techsonic.me&host=free.server.techsonic.me&security=none#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://50d11f1e-fdaa-4fd7-be06-d492eae42b6f@snapp.ir:80?path=/&security=none&encryption=none&host=sv12.mazand-mizban-hosting.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://deb9a630-1ad0-492d-b227-50b446a35286@iliya.8ib.ir:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://52c043c9-e5ff-4236-b0f3-e48736768f78@snapp.ir:2095?type=ws&encryption=none&path=/&host=game.ir.goresfile.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://cc8aefd7-d984-453e-835e-865e41344c5d@free.server.techsonic.me:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&sni=android.googleapis.com#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://cc8aefd7-d984-453e-835e-865e41344c5d@free.server.techsonic.me:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&sni=whatsapp.net#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@support.zoom.us:8080?type=ws&encryption=none&path=/free.server.techsonic.me&host=free.server.techsonic.me&security=none#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://cc8aefd7-d984-453e-835e-865e41344c5d@free.server.techsonic.me:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&sni=webex.com#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@13.39.101.184:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.101.184:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.39.101.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
