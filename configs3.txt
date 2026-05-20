@@ -2,8 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
 vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22netlify.parsashonam.sbs%3A444%22%7D%7D&insecure=1&host=ir-netlify-unlimited-new.netlify.app&type=xhttp&allowInsecure=1&sni=kubernetes.io#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://ee156bda-40f2-4352-8d1d-63bf79b269c3@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://245943b8-c164-40c2-8ba5-05094e33dded@varzesh3.com:80?path=/&security=none&encryption=none&host=proto.helexm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://59b1a85f-6e87-40e0-a4f7-6e26c1cff5ba@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -10875,4 +10873,14 @@ vless://679a6a56-a74a-4267-aadc-47ce47d814b4@rfral.aghanami.ir:80?type=ws&encryp
 vless://ef476806-27cc-497a-a7d8-4693bcb0c422@rfral.aghanami.ir:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://0ead412c-9c8f-46c1-aa04-68b39ca7b579@nova.zenprime.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.212.174.66:2020?encryption=none&security=tls&sni=sni.111000.cc.cd&insecure=1&allowInsecure=1&type=ws&host=sni.111000.cc.cd&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@91.212.174.66:2020?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&insecure=1&allowInsecure=1&type=ws&host=babayaga-6i7.pages.dev&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@91.212.174.66:2020?encryption=none&security=tls&sni=2026.hhhhh.eu.org&insecure=1&allowInsecure=1&type=ws&host=2026.hhhhh.eu.org&path=%2F222.167.202.31%3A7443#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+trojan://humanity@91.212.174.66:2020?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.212.174.66:2020?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=1&allowInsecure=1&type=ws&host=sni.111000.v6.navy&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
 
