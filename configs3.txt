@@ -10436,3 +10436,5 @@ vless://9f2da640-93a5-4dbd-a163-3f10e6751dde@151.101.97.137:443?mode=auto&path=%
 
 vless://9f2da640-93a5-4dbd-a163-3f10e6751dde@151.101.97.137:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&host=ovh4.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=127.0.0.1#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
+trojan://BxceQaOe@116.80.80.121:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
