@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#%F0%9F%87%A6%F0%9F%87%B9%20TCP-None%20%7C%20%40v2nodes
-
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2nodes
 
 vless://bbc68258-173b-4f0f-b126-f7aac6bb2db3@adler-1g.adelshoop.net:80?encryption=none&type=ws&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40vasl_bashim
@@ -2757,6 +2755,8 @@ vless://a92ffa84-a3b0-4aa2-a7b7-4485d0f5878e@snapp.ir:80?encryption=none&securit
 vless://9c450d48-0bb9-4de4-ba54-a791c32b8387@h2-trex.docos.tech:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=h2-trex.docos.tech&fp=chrome&type=ws&allowInsecure=1&sni=h2-trex.docos.tech#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://fc08bb2a-b437-40d9-978c-80d9f7e51f5b@trex.docos.tech:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=1&host=trex.docos.tech&fp=chrome&type=ws&allowInsecure=1&sni=trex.docos.tech#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#%F0%9F%87%A6%F0%9F%87%B9%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool
 
@@ -10355,4 +10355,14 @@ vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?path=%2F&securit
 vless://b39604e6-5d65-4c8b-a5f6-829403d5d946@185.143.233.5:8443?encryption=none&type=ws&security=tls&path=%2F&host=p1.sesrsa.com&sni=sub.sesrsa.com&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgImFkZCI6ICJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwgInBvcnQiOiAiMjI0MDEiLCAiaWQiOiAiOTAzYTE2NzYtYTIzMi00OTFhLWJmZDgtOWUzNGQ5NmMyYzAzIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@144.172.88.117:443?sni=1-aym.pages.dev&type=ws&host=1-aym.pages.dev&security=tls#%F0%9F%87%A6%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://ZJU29smXwp@45.85.118.88:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://ZJU29smXwp@cf1.danesh-bonyan.store:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid2.teama.tk#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://ZJU29smXwp@cf2.danesh-bonyan.store:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid1.teama.tk#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://73bcd72f-9545-4cb8-8daf-7d004501880d@83.229.126.127:32237?allowInsecure=0&sni=dcsrzh.ccwu.cc&type=ws&host=dcsrzh.ccwu.cc&path=/fp=chromefp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
