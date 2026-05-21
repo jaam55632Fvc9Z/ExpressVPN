@@ -10042,3 +10042,13 @@ vless://39346141-f3cb-4fb5-8e93-4d03de411552@185.143.233.5:8443?path=%2F&securit
 
 vless://ace92c94-9f91-48c1-a578-13b2072f6f27@185.143.235.200:2082?encryption=none&host=sss.aztt.ir&path=%2Fsnapp&security=none&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
+vless://0c56b354-af80-4489-9812-13120d65285b@snapp.ir:80?type=ws&encryption=none&path=%2Fwa&host=starlinkmod.fun&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://2a141258-2452-4408-bd06-202badd60b29@snapp.ir:2087?type=xhttp&encryption=none&path=%2F&host=v4.mooara.store&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&security=tls&fp=chrome&alpn=h3%2Ch2&sni=v4.mooara.store#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://b636445d-59be-43e0-8c27-55e037dc78f6@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=ss7.limitless-cloud.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9f2c9e18-2078-496a-af95-d22499dc63ed@hi.nahidapp.com:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=haji.nahidapp.com&path=/haji/&sni=haji.nahidapp.com&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://32bef899-6c34-4a8d-8eab-550a3443df5a@varzesh3.com:8443?encryption=none&fp=firefox&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
