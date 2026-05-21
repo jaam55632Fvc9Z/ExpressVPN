@@ -9920,3 +9920,13 @@ vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=%2F&secu
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@96.9.226.188:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://20b27c8a-818d-4de0-91c6-0ef6b3e1ba94@varzesh3.com:8443?path=%2F&security=tls&encryption=none&host=p1.sesrsa.com&fp=firefox&type=ws&sni=sub.sesrsa.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://00674c40-4f46-423d-a4fe-baae669d8f15@fl1bot-ws.headerip.com:80?path=%2F&security=none&encryption=none&host=fl1.mv5.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSGlkMmdiQkxQaGhORGUvM0Fxa2J4dHNLMkV3ODdTUWxrM1E4R1hiUHVZPQ@79.175.176.82:4465?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://084da12a-26ac-4cec-aed7-84092ad50952@eliaselya.innovativeinc2greenfuture2techpioneers.sbs:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=eliaselya.innovativeinc2greenfuture2techpioneers.sbs#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
