@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://1b50eb2c-ee25-479e-b593-ec80db9a54a0@red.docos.tech:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.docos.tech&sni=red.docos.tech&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NormanV2ray
-
 vless://e05482d4-ba12-41ac-af45-2bf2afc56b4a@46.31.76.3:80?mode=auto&path=%2Fpwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#%F0%9F%87%B9%F0%9F%87%B7%20XHTTP-Reality%20%7C%20%40manVPN
 
 ss://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#%F0%9F%8C%90%20TCP-None%20%7C%20%40cpy_teeL
@@ -487,6 +485,8 @@ vless://6946cf76-2c1e-4fbc-a28a-e2beeb7c29cb@144.31.96.174:443?encryption=none&f
 vless://bb3bd02e-8b77-4856-8df4-653e900fe114@snapp.ir:80?path=%2Fugdeigyafdgfiabiudvf8a%2F&security=&encryption=none&host=bomb.amirvinet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://1b50eb2c-ee25-479e-b593-ec80db9a54a0@red.docos.tech:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.docos.tech&sni=red.docos.tech&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://0a5c4948-f3ea-4418-8ada-d0726a928498@snapp.ir:8880?encryption=none&host=andro.px-ir.ir&path=%2Fapi&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9935,4 +9935,6 @@ vless://6f8f4c70-43cf-4677-8b84-c77e89db6c17@hmt.masterdadeh.ir:80?path=%2F&secu
 vless://c5f7ce6f-5476-437c-abdf-841037a2a462@hmt.masterdadeh.ir:80?type=ws&security=none&path=%2F&headerType=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://52dee00c-1cf7-4002-9b3b-2eceae928644@snapp.ir:80?path=%2F&security=none&encryption=none&host=pan102e.redordead.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMWYxOWQ4YTMtMzQ5Ny00NzUxLTg5NjAtY2VjZmJiMjVlOGFiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIyNDAzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBOb3JtYW5WMnJheSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
