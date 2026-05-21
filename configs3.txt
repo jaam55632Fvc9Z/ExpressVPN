@@ -10384,3 +10384,7 @@ vless://16fc98be-306f-4e90-aa0d-5c7d3273e133@185.143.235.200:8080?encryption=non
 
 vless://cf0b4326-bb19-4be6-b260-42d4a4e6083d@snapp.ir:2052?encryption=none&host=s4.uspart.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://2edbc503-a413-48e8-820f-e8cdc5bda42f@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=&encryption=none&host=ss3.limitless-cloud.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://a94095e2-18a1-408c-88d7-777492eb5711@185.143.233.5:8443?encryption=none&fp=firefox&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
