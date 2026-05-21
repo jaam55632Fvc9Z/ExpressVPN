@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?security=tls&sni=HL-FREEDOM-1.UNDEF.NETWORK#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
-
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2nodes
-
 trojan://telegram-id-directvpn@52.28.27.2:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.28.27.2:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
@@ -400,6 +396,8 @@ vmess://eyJhZGQiOiAicGxheWVyLm9ubGluZXNpdGUudG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAi
 
 ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw@154.53.60.212:80#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
 
+trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?security=tls&sni=HL-FREEDOM-1.UNDEF.NETWORK#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://47cd29fc-22ae-4db6-9660-07e0e2862dcd@varzesh3.com:2082?encryption=none&type=ws&path=%2F&host=snappp.khanumjan.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://38aaef4d-6098-4e4e-b7cd-ff3a9780191d@varzesh3.com:2082?encryption=none&type=ws&path=%2F&host=snappp.khanumjan.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -413,6 +411,8 @@ vless://71e4d064-8947-42e8-88e5-988961c947fc@varzesh3.com:2082?encryption=none&t
 trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://3e064073-c87d-4eab-bb0b-66900800e16f@meligoli.lol:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.HvLXMqIeCyOMEjMl69Y2aZ3VUU3ZXOblsqW-lH75X3Q&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=meligoli.lol&fp=chrome&type=xhttp&allowInsecure=0&sni=meligoli.lol#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%AA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -10379,4 +10379,8 @@ vless://e08a582e-c158-46ff-0bd7-8affdfe1dfa0@digipay.ir:443?path=/&security=tls&
 vless://bc9639fa-6600-43ff-9a43-eb34ad192810@cloud.globaledgenet.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cloud.globaledgenet.com&fp=firefox&security=reality&pbk=rRGPedMea32_bsWFx_fxQPy-50TOF6KbBAmYL2rkmQ4&sid=#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://6be0517b-add4-4540-ba6a-b88e95587d84@usa.ascella.network:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=usa.ascella.network&fp=chrome&security=reality&pbk=moEptBPJzCjPAXFmzdAshavhdrnzkt5ljaCY3I3rzU0&sid=#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://73bcd72f-9545-4cb8-8daf-7d004501880d@83.229.126.127:32237?allowInsecure=1&sni=dcsrzh.ccwu.cc&type=ws&host=dcsrzh.ccwu.cc&path=/?ed=2560fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.186.216.186:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
