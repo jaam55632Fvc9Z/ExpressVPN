@@ -10130,3 +10130,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.10.101:22224?type=ws&securit
 
 trojan://telegram-id-privatevpns@35.181.10.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://087ab8a5-aa67-4e92-be27-e18d93ffd068@198.169.2.1:443?mode=auto&path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=relay-o0drhb9k-7796x82gs-love-you-mori.vercel.app#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
