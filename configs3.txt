@@ -10012,3 +10012,5 @@ vless://761da37c-1d47-46ca-b581-03cbd0fb4ddf@188.121.99.144:443?type=tcp&securit
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh42v8.carwashipdir.shop&alpn=h2&insecure=1&allowInsecure=1&type=grpc#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://1dbf52b5-94ae-4cfd-97e4-a8d3fe0295da@snapp.ir:8880?type=ws&security=none&path=/status&host=ioslink.seodiamond.ir&sni=snapp.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
