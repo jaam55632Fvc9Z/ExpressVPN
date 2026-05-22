@@ -10080,3 +10080,7 @@ vless://bc344862-da55-4e1c-bd95-d5233f230290@185.143.233.235:8080?type=ws&encryp
 
 vless://0ae77bbe-3be6-46e9-b019-baa17d38e284@snapp.ir:8080?type=ws&security=none&encryption=none&path=%2F&host=penhoon-ref.morvaridvps.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40AloConfig_com
 
+vless://5973ecf3-5dac-4dcc-93e9-0b997b7ebef6@198.169.2.1:443?mode=auto&path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=mehran28.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=mehran28.vercel.app#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://32bef899-6c34-4a8d-8eab-550a3443df5a@185.143.232.201:8443?security=tls&sni=sub.sesrsa.com&type=ws&host=p1.sesrsa.com&path=/&fp=firefox&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
