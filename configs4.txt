@@ -8,3 +8,7 @@ vless://ed1a38d0-9216-4b52-b76b-58efb0d49294@abr.superip.ir:8080?security=none&t
 
 vless://ed1a38d0-9216-4b52-b76b-58efb0d49294@abr.superip.ir:2095?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=cd.phill-up.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://d417fbe9-c313-49f5-9faa-9e2b3eec6782@irna.ir:2087?type=ws&security=tls&encryption=none&path=%2Fweb&host=m2.fardaamoz.ir&sni=m2.fardaamoz.ir&alpn=h2&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://33b19d79-5f16-4d19-943d-10de6ab92041@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
