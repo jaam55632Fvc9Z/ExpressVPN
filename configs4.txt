@@ -1,16 +1,22 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://e9c4da8c-b6dc-46d5-96f4-18bd9389f155@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://e7f5b93a-986b-49fb-a027-401c61f7db2e@185.143.235.253:8880?type=ws&path=%2F%3Fed%3D2560&host=webmail.hajimamadcloud.com&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://26524cce-d514-4014-a426-365fb266a14d@8.6.112.6:443?path=%2Fdanfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://f7c545f6-e087-4b8c-a44f-06606f80f251@185.143.234.235:2052?path=%2F&security=none&encryption=none&host=sofr.soralis.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-trojan://humanity@188.121.121.183:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://9709f4d4-b3b9-15ea-b1f4-2ab4bfc3b91d@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.204#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
-vless://161b8253-02a1-4573-8ab7-ec36c7328010@fl1bot-ws.headerip.com:80?path=%2F&security=none&encryption=none&host=fl1.mv5.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://940c4196-8e8d-fdc3-032b-756c2aec3142@me4.servbadarlo.ir:2082?security=none&type=ws&path=/&host=#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
-vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8080?type=ws&path=%2F%3Fed%3D2560&host=sv-1.jservices.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://cab1f210-71d4-4f22-91f5-da25bc416cf7@snapp.ir:2082?path=%2F&security=none&encryption=none&host=faq.mob48.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
-vless://a9c28cf3-1962-8824-1175-a69268a0e213@92.42.203.170:5690?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+vless://e44e4e50-867d-4acf-a7e3-a8baee3bb421@snapp.ir:8080?encryption=none&security=none&type=ws&host=ts.programming-coding.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://273a9076-920c-477e-85de-709fb780bcbb@snapp.ir:2086?path=%2F&security=none&encryption=none&host=sv1.nopp.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://15a53ad3-e34f-4152-898b-ed8a7bb3dfe4@fast.panelha.sbs:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&host=fastlymyserverplusvip.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://e707f38a-1fa2-4340-a7fb-4a37f2e68afc@pov.iran-mehrbu.ir:443?path=%2Fwebpanel%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dog.kazem-moviez.ir&fp=chrome&type=ws&allowInsecure=0&sni=dog.kazem-moviez.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NormanV2ray
 
