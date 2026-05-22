@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://b831381d-6324-4d53-ad4f-8cda48b30811@67.102.180.16:443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=16&pbk=3j9h81MFAlsEOQ4K1ey1XD0tz1aEVNaMGMoMjQwif1w&encryption=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
-vless://cb316682-4116-4ae9-b2ba-5c01337b9e93@snappfood.ir:80?path=%2F&security=none&encryption=none&host=test-free-zirox.naxm.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://c13f1379-010f-41cd-bb0e-18974042863d@185.143.235.200:80?path=%2F&security=none&encryption=none&host=static.ninja-online.shop&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://2f353fb0-1bc4-4d6d-aa55-ff23110b8c58@185.143.233.5:2086?path=%2F&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://abccfd13-62bb-4164-b285-68a5867cf480@SNApp.ir:80?path=%2FHoseisecu&security=none&encryption=none&host=MMW.abanservers.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://0486a1b5-a851-4f65-a65d-cf8ad63c9791@185.24.253.108:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
@@ -223,6 +215,8 @@ vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?pat
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.25.127:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dns.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://14f145fb-8e9e-4e8c-a001-5a54c1f18814@snapp.ir:2082?path=%2F&security=none&encryption=none&host=mail.zivotra.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://b831381d-6324-4d53-ad4f-8cda48b30811@67.102.180.16:443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=16&pbk=3j9h81MFAlsEOQ4K1ey1XD0tz1aEVNaMGMoMjQwif1w&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://9ebcbe6a-944e-4f89-a8ba-529edfa44f41@snapp.ir:2082?path=/&security=none&encryption=none&host=mail.zivotra.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9971,4 +9965,12 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?encryption=non
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.32:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.11.138:2096?encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a93126de-65fa-47ed-917f-30b262bee77d@185.143.232.200:443?path=%2F&security=tls&encryption=none&insecure=0&host=apif.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=apif.hesam2.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a93126de-65fa-47ed-917f-30b262bee77d@185.143.234.115:443?path=%2F&security=tls&encryption=none&insecure=0&host=rest.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=rest.hesam2.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a93126de-65fa-47ed-917f-30b262bee77d@185.143.232.214:443?path=%2F&security=tls&encryption=none&insecure=0&host=api.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=api.hesam2.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://48449360-4abd-43b2-9d56-e22af072437a@snapp.ir:2087?type=xhttp&encryption=none&path=%2F&host=v1.pariroo.store&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&security=tls&fp=chrome&alpn=h3%2Ch2&sni=v1.pariroo.store#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 

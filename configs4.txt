@@ -10,3 +10,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.32:2053?ed=2560&eh=Sec-
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.11.138:2096?encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://a93126de-65fa-47ed-917f-30b262bee77d@185.143.232.200:443?path=%2F&security=tls&encryption=none&insecure=0&host=apif.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=apif.hesam2.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a93126de-65fa-47ed-917f-30b262bee77d@185.143.234.115:443?path=%2F&security=tls&encryption=none&insecure=0&host=rest.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=rest.hesam2.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a93126de-65fa-47ed-917f-30b262bee77d@185.143.232.214:443?path=%2F&security=tls&encryption=none&insecure=0&host=api.parhamm2.ir&fp=random&type=ws&allowInsecure=0&sni=api.hesam2.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://48449360-4abd-43b2-9d56-e22af072437a@snapp.ir:2087?type=xhttp&encryption=none&path=%2F&host=v1.pariroo.store&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&security=tls&fp=chrome&alpn=h3%2Ch2&sni=v1.pariroo.store#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
