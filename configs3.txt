@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://83651df1-488a-408a-8220-f4421cf93d57@fast.sheeplow.ir:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIm0uY25tamluLm5ldCIsICJwb3J0IjogIjE2NjIyIiwgImlkIjogImM4OTQ2NTZkLWMwZGMtNDEwYS1iNWNlLTg2MzdlMjg1OThjMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiOTM4MzJhMDgxYjA1M2MzYzEwM2EwOWNjOTczYmRlN2YubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 
 vmess://eyJ2IjogIjIiLCAiYWRkIjogInQuY25tamNuLmN5b3UiLCAicG9ydCI6ICIxNjYyMiIsICJpZCI6ICJjODk0NjU2ZC1jMGRjLTQxMGEtYjVjZS04NjM3ZTI4NTk4YzIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjkzODMyYTA4MWIwNTNjM2MxMDNhMDljYzk3M2JkZTdmLm1vYmdzbGIudGJjYWNoZS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLU5vbmUgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
@@ -15,6 +13,8 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogIm0uY25tamluLm5ldCIsICJwb3J0IjogIjE2NjE2IiwgImlk
 vmess://eyJ2IjogIjIiLCAiYWRkIjogInQuY25tamNuLmN5b3UiLCAicG9ydCI6ICIxNjYxNiIsICJpZCI6ICJjODk0NjU2ZC1jMGRjLTQxMGEtYjVjZS04NjM3ZTI4NTk4YzIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjkzODMyYTA4MWIwNTNjM2MxMDNhMDljYzk3M2JkZTdmLm1vYmdzbGIudGJjYWNoZS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLU5vbmUgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
 
 vmess://eyJ2IjogIjIiLCAiYWRkIjogInBsYW5iLm1vamNuLmNvbSIsICJwb3J0IjogIjE2NjQ4IiwgImlkIjogImM4OTQ2NTZkLWMwZGMtNDEwYS1iNWNlLTg2MzdlMjg1OThjMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiOTM4MzJhMDgxYjA1M2MzYzEwM2EwOWNjOTczYmRlN2YubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+vless://83651df1-488a-408a-8220-f4421cf93d57@fast.sheeplow.ir:80?type=ws&encryption=none&path=/&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://edb305b4-4ab3-4e93-8b8f-11c4175308a7@Snapp.ir:80?host=down.speedtell.ir&path=/&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9959,4 +9959,6 @@ ss://YWVzLTI1Ni1nY206dFVqQzhtOGIwL1lCdzhhTVczWklkU0Yyd1JWdXNKaDlYSWQ4djluWFNZWT0
 ss://YWVzLTI1Ni1nY206eENRbGhSeTdveFMzRkhZSDhxdFVqcFNHdDJYUHd4RURpUnJYWS9YT2J2az0@31.220.61.82:17040?type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTI1Ni1nY206a0g1RFdmamkvVWJaMHpzRDNIeExZV3REWGY4ZDBkeEJkQTRJQ1hGYmEzQT0@187.77.141.224:29435?type=tcp#%F0%9F%87%B2%F0%9F%87%BE%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://527962ce-70da-4c6f-b36d-cee7b77f0357@141.ir:2086?path=%2F&security=none&encryption=none&host=sv1.nopp.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40proxymaann
 
