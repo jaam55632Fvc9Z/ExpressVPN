@@ -12,3 +12,9 @@ vless://58a28a02-5081-4720-9ffa-bfad73202337@185.143.233.5:2087?security=tls&all
 
 vless://7b51dea0-43d2-406d-ba97-664811629ee0@snapp.ir:80?type=ws&security=none&path=%2F&host=derakhshan.molvliafor.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://2d2685f1-22bd-4821-a69b-9a1f8b0ddb0d@hmt.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://58a28a02-5081-4720-9ffa-bfad73202337@185.143.233.5:2087?path=%2F&security=tls&encryption=none&host=p1.sesrsa.com&fp=firefox&type=ws&sni=p1.sesrsa.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4798a91b-bd6d-4662-8b26-760ab885cf94@snapp.ir:2086?path=%2F&security=none&encryption=none&host=wpadmin.somera.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
