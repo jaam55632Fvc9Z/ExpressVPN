@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://75f2130f-f0ee-4773-be64-1abc740a4e43@Snapp.ir:80?path=/&security=none&encryption=none&host=down.speedtell.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://ccb3a745-6086-4319-98d9-edd4b8ebd6e5@varzesh3.com:80?path=%2Fws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -2385,6 +2383,8 @@ trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecur
 vless://1235d730-707c-4a11-8ce3-ebb17561564b@45.12.133.207:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=4dd1&pbk=0T96I8dvAUF7BxhbwTp0PfFfy9AHFDsXXpwDnP0i224#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.190:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.59.230.8:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -10037,4 +10037,14 @@ vless://d02d5522-37d2-4dde-8340-8eb320bdc877@185.143.233.122:8080?type=ws&securi
 vless://5fdf19d2-7379-4f05-bd8d-9fc01c2b4a5e@snapp.ir:80?path=%2F&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://09a601b8-ac43-4934-95e3-21e732ebfaf3@ir20.novalynxhub.online:51847?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e5bdbc50-abe0-4e70-b73f-3b6e3c871d95@snapp.ir:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=blog.kalbodteam.online&fp=chrome&type=xhttp&allowInsecure=0&sni=blog.kalbodteam.online#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://090350fc-0369-4200-9b77-73b9a6d6f599@193.151.129.116:443?path=%2Fws%3Fed%3D500&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=r1-vod.varzesh3.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://8f8fd638-150d-45f6-a59e-d26845aa40eb@snapp.ir:8080?type=ws&security=none&encryption=none&path=%2F&host=penhoon-ref.morvaridvps.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6aff309e-e280-474d-9951-69ca567495d0@tiro.hi-phonee.ir:35829?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://de451f99-59c1-4b6a-82a7-04e4b19318b9@snapp.ir:2086?security=none&type=ws&headerType=&path=%2F&host=marz.hilux-automobile.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
