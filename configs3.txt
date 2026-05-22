@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRR1F0SnRZbVh0UkZnUS1CMDB2cXB3@94.125.102.36:10004#%F0%9F%87%A7%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#%F0%9F%87%A8%F0%9F%87%AD%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.64.229:443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.16.38:8443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4cef7502-b13a-4476-8815-c4bd8a3b04f5@snapp.ir:80?encryption=none&type=ws&path=%2F&host=simorgh.garfar.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://0eb37211-fcad-4386-bb46-8a729903503d@snapp.ir:2086?path=%2F&security=none&encryption=none&host=Pan122e.nexoratechcenter.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.my111000.tech&path=Telegram%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A8%F0%9F%87%BC%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -148,9 +134,13 @@ vless://b132fe6c-2cf4-4ada-b8a5-1ba02b4810ff@snapp.ir:2086?type=ws&encryption=no
 
 vless://2fe27e8f-3d31-4083-8105-41f62c6b88ef@rayan.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://4cef7502-b13a-4476-8815-c4bd8a3b04f5@snapp.ir:80?encryption=none&type=ws&path=%2F&host=simorgh.garfar.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
 vless://a9553ae1-6559-431d-ab68-0186b77598fa@connect.sayeonline.com:2082?encryption=none&host=&path=/&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://4c81d29a-4312-4404-89f5-b10bcbc2f74c@useredge1.noroozmobarak.com:2095?path=/webpanel?ed=2560&security=&encryption=none&host=gostaresh8.irgostar123.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://0eb37211-fcad-4386-bb46-8a729903503d@snapp.ir:2086?path=%2F&security=none&encryption=none&host=Pan122e.nexoratechcenter.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://7f22dd6d-b7e4-40a0-91dd-f0ade9cb67e8@Tapsi.ir:80?security=none&type=ws&headerType=&path=%2Fcdn&host=dl6.movizdl.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -2164,6 +2154,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.156.19.238:2096?allowInsecure=1
 
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@95.140.154.101:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.64.229:443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@108.162.196.231:443?allowInsecure=1&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -2193,6 +2185,8 @@ vless://15cbab96-197e-46a5-9042-073b3980c798@213.136.69.8:80?encryption=none&hos
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram??@WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@193.32.177.152:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram??@WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@193.32.177.101:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -3229,6 +3223,8 @@ vless://efae4cd9-b311-47c8-b8fb-72ae91ca9599@varzesh3.com:8080?path=%2Fcdn&secur
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.58.40.177:8443?fp=chrome&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#%F0%9F%87%A8%F0%9F%87%AD%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@89.150.40.152:443?encryption=none&host=1-aym.pages.dev&security=tls&sni=1-aym.pages.dev&type=ws#%F0%9F%87%AA%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -10061,4 +10057,6 @@ vless://c17cbe1c-5ad1-4227-b867-7484c9b74a59@sanjesh.org:80?type=ws&encryption=n
 vless://308d14d1-92dd-449c-a21e-ee1329e599ed@irancell.rankista.ir:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://279c99c1-ad19-4024-a50b-b906d1a4d25d@185.143.233.217:80?path=%2Fws&security=none&encryption=none&host=s26.chehre-negar.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d5d36002-2c49-4a16-9cb2-8e240156dfd1@185.143.232.201:80?path=%2F&security=none&encryption=none&host=down.speedtell.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
