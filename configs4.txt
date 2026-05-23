@@ -12,3 +12,13 @@ vless://7c32c245-68e3-4017-aad5-ecea5c117715@185.143.232.201:80?encryption=none&
 
 vless://faa634db-ac40-48b7-92cc-28c763312b8a@sub.degeristcs.ir:2052?encryption=none&host=vip.degeristcs.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://92e84d44-6afe-479d-a11f-ee0a2e917d7c@red.docos.tech:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.docos.tech&sni=red.docos.tech&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://92e84d44-6afe-479d-a11f-ee0a2e917d7c@red.docos.tech:443?encryption=none&type=ws&path=/red/&security=tls&fp=chrome&sni=red.docos.tech#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a9061c4b-76a0-4da6-8bed-f8ea2c8b1497@snapp.ir:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=gun5.pbvsrk.carnagesv.top&fp=random&type=ws&allowInsecure=0&sni=gun5.pbvsrk.carnagesv.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://02f4eafe-2f24-4516-9a5f-fd8072e67802@pensrv.silvaa.ir:80?encryption=none&host=pensrv.silvaa.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://02f4eafe-2f24-4516-9a5f-fd8072e67802@pensrv.silvaa.ir:80?encryption=none&type=ws&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
