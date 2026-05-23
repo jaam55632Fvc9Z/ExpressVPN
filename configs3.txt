@@ -10686,3 +10686,5 @@ vless://0c4da793-9f11-41d5-ab4f-70cf24f6b2d9@198.169.2.1:443?path=%2Fapi&securit
 
 vless://153d7d20-6686-45a6-ac09-17c16d6dfc41@api1.iramsmartkeyka.ir:8443?path=%2FwsVMarketLoad&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=api1.iramsmartkeyka.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+trojan://humanity@45.89.221.111:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40proxymaann
+
