@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://b8065f37-7a9c-4041-96f7-5ed3147d45ae@185.143.233.5:2053?path=%2F&security=tls&encryption=none&insecure=1&host=cd2.sesrsa.com&fp=firefox&type=ws&allowInsecure=1&sni=cd2.sesrsa.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://0bff17bb-f5f9-4109-99de-03100b5af216@193.228.168.43:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_confiig
-
 vless://d09c384b-384b-4d9a-85c6-07d3dce8ae5b@74.48.173.150:28906/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.suffolk.edu&fp=chrome&security=reality&pbk=wi1nGPSt-wF8rJIwpMTZI_5QG1qnkuzRyAWFEtgnBS0&sid=6ba85179e30d4fc2&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NFlOWFJZUHNSR0NyY2Z3ZXVrNy9IWUN4UnhnOEE2YU1wZG1YQU1ucnViaz06MDYrN0NmeUZZRnF0V3lucTdLWVRodXFyNmpOTXg1bFpqRk1ibjc4NWJMdz0@94.183.173.225:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -10309,4 +10305,8 @@ vless://6fd1d1ff-5e9a-4b15-a8e4-ca4dd811ab5c@snapp.ir:2052?encryption=none&type=
 vless://29b2ea2e-44a8-a3f2-79be-29781b78d787@varzesh3.com:8080?encryption=none&type=ws&path=/&host=cdn-665e-o0g.fars-rehan.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://17cc254b-9057-4f2e-bc0d-5418fe9a45e8@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://635340b47bddf8f41c123dc6f2b5f7ce@18.162.49.218:53018?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8dddc1d9-92fe-40a2-8394-1dedd7a9389b@varzesh3.com:80?path=%2Fws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
