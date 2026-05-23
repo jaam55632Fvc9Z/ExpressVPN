@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://ff79293b-e542-4dc9-8d44-eaacf6df1fe3@anten.ir:80?path=%2F&security=&encryption=none&host=nitro.web-wizard.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://cd59c731-654e-4c12-af62-6b1cf8ab8211@185.143.233.5:2096?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-trojan://3UThqDZRx2@193.151.150.161:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ir1.iobase.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40NormanV2ray
-
-vless://97b36571-ffdc-5bdb-7bc4-bbcf8f3debb4@varzesh3.com:8080?path=%2F&security=none&encryption=none&host=cdn-665e-o0g.fars-rehan.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40NormanV2ray
-
 vless://13acf46f-b8f2-4889-bdab-d28e41b0c25a@m4zf.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
 vless://2d8feaae-2b0c-4082-8b6c-98efce02f6d7@anten.ir:80?path=%2F&security=none&encryption=none&host=fdcluma-c0a1c-fbc-4c77-4dhn.daravento.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
@@ -165,6 +155,8 @@ trojan://telegram-id-directvpn@15.237.54.100:22223?security=tls&alpn=http/1.1&he
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.54.100:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@15.237.54.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://d0bdf825-ecf6-470f-a991-bd26d6a51312@mine.airplan10.ir:1?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40UnNurmal
 
 vless://2676ecaa-fc74-474a-8c3a-6b06ea1b08ac@d.iopk.ir:8080?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
@@ -435,6 +427,8 @@ vless://83345037-0431-42e8-b620-2d2deba8f4ce@blubank.sb24.ir:8880?encryption=non
 vless://Telegram-WallWeb@104.198.14.52:443?mode=auto&path=%2FWallWeb&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingKey%22%3A%22iran%22%2C%22xPaddingHeader%22%3A%22iran%22%2C%22headers%22%3A%7B%22x-host%22%3A%22wallweb-x.hydradllcloud.info%3A444%22%7D%7D&insecure=1&host=Conquermountains.ca&fp=chrome&type=xhttp&allowInsecure=1&sni=104.198.14.52#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://%40IR_NETLIFY@50.7.5.83:443?mode=auto&path=%2FIR_NETLIFY&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingKey%22%3A%22iran%22%2C%22xPaddingHeader%22%3A%22iran%22%2C%22headers%22%3A%7B%22x-host%22%3A%22http%3A%2F%2F89.22.236.213%3A444%22%7D%7D&insecure=1&host=Xvideos3.com&fp=chrome&type=xhttp&allowInsecure=1&sni=vuejs.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://97b36571-ffdc-5bdb-7bc4-bbcf8f3debb4@varzesh3.com:8080?path=%2F&security=none&encryption=none&host=cdn-665e-o0g.fars-rehan.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2ray_confiig
 
 vless://25da8abb-0d69-463e-829c-327033569003@snapp.ir:2086?encryption=none&type=ws&path=%2F&host=simorgh.garfar.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
