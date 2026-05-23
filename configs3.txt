@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://93dc0a2d-e7c6-448e-b0c3-b1bb62fa2f00@185.143.233.5:2053?encryption=none&type=ws&security=tls&path=%2F&host=cd2.sesrsa.com&sni=cd2.sesrsa.com&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://0bff17bb-f5f9-4109-99de-03100b5af216@193.228.168.43:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://f0134c20-44f7-41c1-8442-fecf842a9120@185.24.253.107:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://81cd36fe-3a9b-4315-8c55-be491ed4f2ed@snapp.ir:80?path=%2F&security=&encryption=none&host=in.side.nextbt.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 trojan://wyz1ipt8-45t1-9smk-pswg-gw81p71dp1p9@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://3npvyrdw-b5fl-9n7p-5o1g-xkfy1agj4lcd@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -49,6 +41,8 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NFlOWFJZUHNSR0NyY2Z3ZXVrNy9IWUN4UnhnOEE2YU1
 vless://ed8e4c91-4d54-41c2-b0c3-f9515342b142@rayan.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2ray_confiig
 
 vless://b8065f37-7a9c-4041-96f7-5ed3147d45ae@185.143.233.5:2053?path=%2F&security=tls&encryption=none&insecure=1&host=cd2.sesrsa.com&fp=firefox&type=ws&allowInsecure=1&sni=cd2.sesrsa.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://0bff17bb-f5f9-4109-99de-03100b5af216@193.228.168.43:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2ray_confiig
 
 vless://d09c384b-384b-4d9a-85c6-07d3dce8ae5b@74.48.173.150:28906/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.suffolk.edu&fp=chrome&security=reality&pbk=wi1nGPSt-wF8rJIwpMTZI_5QG1qnkuzRyAWFEtgnBS0&sid=6ba85179e30d4fc2&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
 
