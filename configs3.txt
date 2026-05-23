@@ -10716,3 +10716,9 @@ vless://0d484164-6a55-4827-8065-c7f3cbebfe5f@arvancloud.ir:80?encryption=none&ty
 
 vless://fbc1777d-f73c-4804-8212-70c008b8fe5a@31.14.116.74:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=PJe8eZp_kumcwDXcR7j375o1K9K906tpEGhD0-GPCz8&host=aparat.com&fp=chrome&spx=%2F&type=xhttp&sni=aparat.com&sid=93#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40AloConfig_com
 
+trojan://telegram-id-directvpn@63.179.19.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.19.192:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@63.179.19.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
