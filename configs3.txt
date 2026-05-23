@@ -10350,3 +10350,9 @@ trojan://telegram-id-privatevpns@3.65.4.209:22222?security=tls&alpn=http/1.1&hea
 
 vless://8d3a5e01-1713-43e5-8abe-76c9c6050de4@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
 
+vless://e13d5177-3fac-4ec7-894d-caed09dec1dc@irna.ir:2053?type=ws&security=tls&encryption=none&path=%2F&host=shahr.fardaamoz.ir&sni=shahr.fardaamoz.ir&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e13d5177-3fac-4ec7-894d-caed09dec1dc@irna.ir:2053?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=shahr.fardaamoz.ir&fp=firefox&type=ws&allowInsecure=0&sni=shahr.fardaamoz.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://97fdc613-af07-40ef-bfde-7052d1c90c61@varzesh3.com:80?path=%2F&security=none&encryption=none&host=fr.it-net.top&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+

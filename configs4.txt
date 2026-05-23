@@ -1,18 +1,8 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://5654b922-2aa3-47c2-bc60-09d59c9cf495@198.169.2.1:443?mode=auto&path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=relay-g356jz7c.vercel.app&fp=chrome&type=xhttp&sni=relay-g356jz7c.vercel.app#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+vless://e13d5177-3fac-4ec7-894d-caed09dec1dc@irna.ir:2053?type=ws&security=tls&encryption=none&path=%2F&host=shahr.fardaamoz.ir&sni=shahr.fardaamoz.ir&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.19.229.21:443?path=%2Ftr&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://e13d5177-3fac-4ec7-894d-caed09dec1dc@irna.ir:2053?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=shahr.fardaamoz.ir&fp=firefox&type=ws&allowInsecure=0&sni=shahr.fardaamoz.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://524198b9-9e1c-4e93-8b0b-94c22c4f3091@193.151.129.116:443?path=%2Fws%3Fed%3D500&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=r1-vod.varzesh3.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://dbbb5ffe-b5ce-4ce5-b731-6377dc90712d@185.143.232.122:2052?path=%2.Fnews&security=none&encryption=none&host=cdn-gr.pasargardnet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@3.65.4.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.4.209:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@3.65.4.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://8d3a5e01-1713-43e5-8abe-76c9c6050de4@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
+vless://97fdc613-af07-40ef-bfde-7052d1c90c61@varzesh3.com:80?path=%2F&security=none&encryption=none&host=fr.it-net.top&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
