@@ -6,3 +6,17 @@ vless://5bc4971a-e0b6-4723-985c-801b1c80f23a@snapp.ir:2095?path=%2Fwskhan&securi
 
 vless://05ba138e-b12d-4c15-b17c-5ca34e3612fd@snapp.ir:80?type=ws&security=none&path=%2F&host=derakhshan.molvliafor.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
 
+trojan://telegram-id-directvpn@35.159.190.54:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.159.190.54:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.159.190.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://944a0133-3ffc-4772-8bd3-6125ad0683fa@193.24.120.154:8080?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplSS1tSG1Zb2R6SDJhR1hvcnFwOHBB@185.226.119.96:8082?type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://ec81224f-9781-4fad-807f-779fc5616ebf@varzesh3.com:8880/?type=ws&encryption=none&path=%2F&host=sajjad.panivo.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://63626365-3534-4138-b731-346165303366@185.143.232.32:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
