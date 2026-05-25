@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://ef7d9123-8d24-4b96-bd67-6265460cf618@185.143.233.235:8880?security=&encryption=none&host=gr.TheRetro.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://46494eb6-390c-4c69-a087-d22c2b8d6e34@snapp.ir:80?path=%2F&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://3bddf5f7-1829-455a-88a1-7c95c9a8e894@185.189.58.195:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://b15c90e9-b08c-4f1c-b6a3-5cf8d889b00b@cdn2.sensishop.com.tr:2082?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://f0aad53d-aa3e-41b1-9cb7-820cb5f90364@cdn2.sensishop.com.tr:2082?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://f2794a4e-b324-4507-8e56-3677c0567f39@Snapp.ir:80?encryption=none&host=down.speedtell.ir&path=/&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://d81549b8-7a2b-4c21-8217-a5c7c2f1eb46@varzesh3.com:8080?path=/cdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=aabbccdd&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.146.153:990#%F0%9F%87%A7%F0%9F%87%AD%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://2d6780ea-d5bb-41bb-a60b-d3984dcd6519@185.143.233.200:2052?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.9Zwbp5JsBrqWXj8vFrYXBFUSgphRW3Td-4nL6xgfe1I&host=nima.hayalco.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -35,6 +17,8 @@ vless://6d9d858b-7e23-4a2f-a35b-17eccf5e974d@snapp.ir:2082?path=%2F%3Fed%3D2080&
 vless://8483ffb8-519f-406f-8251-6e34256264a2@185.143.233.235:443?security=tls&encryption=none&insecure=1&host=sw.theretro.ir&type=ws&allowInsecure=1&sni=sw.theretro.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://d65e527a-43bc-43c3-8e64-8d3d3cc37abd@varzesh3.com:8080?path=%2Fcdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://f2794a4e-b324-4507-8e56-3677c0567f39@Snapp.ir:80?encryption=none&host=down.speedtell.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiAiNDcuMjUwLjE0OS41MSIsICJhaWQiOiAwLCAiYWxsb3dJbnNlY3VyZSI6ICIwIiwgImFsbG93X2luc2VjdXJlIjogIjAiLCAiaWQiOiAiOTY2NTI4MGMtYTNkMS00YWFiLWVmOWYtYTNhNDk3MzM3ZDkxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLzk2NjUyODBjIiwgInBvcnQiOiA1MDAxOCwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJwcyI6ICJcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmUgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 
@@ -734,6 +718,8 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?security=tls&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://f0aad53d-aa3e-41b1-9cb7-820cb5f90364@cdn2.sensishop.com.tr:2082?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.171.254:990#%F0%9F%87%AE%F0%9F%87%A9%20TCP-None%20%7C%20%40v2ray_configs_pool
@@ -1385,6 +1371,10 @@ trojan://humanity@188.121.111.4:40443?security=tls&sni=www.ignitelimit.com&insec
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.79.211:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://f545f2ff-7003-4ef8-b04e-ecda817755fc@185.143.234.122:8443?mode=auto&path=%2Ft.me%2FMikasaVpn2&security=tls&alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%2210-50%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&insecure=0&host=mikasa.violetkate.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mikasa.violetkate.ir#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=aabbccdd&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://2e8d5e03-2290-4e49-b633-3a7f52dd364d@snappfood.ir:2082?path=/page1&security=none&encryption=none&host=shop.dsiders.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
@@ -9861,4 +9851,6 @@ vless://909e0050-9734-79d1-9327-5666a96d3287@15.237.165.45:443?security=none&enc
 vless://12361e81-7af2-1cd4-2595-eba27ddadce8@63.180.33.71:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.8.174.166:40443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://094b7193-89b5-458d-9b0f-975c708d8016@pg.nexorainnovationhub.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=germany.lezzaluxa.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
