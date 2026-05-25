@@ -18,3 +18,19 @@ vless://b8718a25-e3ad-43b1-b4ef-0bcc4732f381@snapp.ir:8880?encryption=none&secur
 
 vless://98875208-5356-4bb4-9e1a-d0eed4a53844@45.90.72.231:30760?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40vasl_bashim
 
+vless://5f102c23-d35a-4c05-b5de-6d467272a1fc@hostioko.online:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fapi%2Fcpanel%2FCPnHeezFoAZcv3jcS7E6N02HfkRN%3Fed%3D2560&host=hostioko.online&sni=hostioko.online&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://5f102c23-d35a-4c05-b5de-6d467272a1fc@snapp.ir:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=g13.derakcloud.org&sni=g13.derakcloud.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://ac77b2ac-acf7-47eb-bf36-46bff4385f58@snapp.ir:8880?path=%2F&security=none&encryption=none&host=boss.helexu.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://0ecb2769-9d3c-4ed3-9ffd-88a96f90f30a@abr.superip.ir:2082?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://aaf622b3-e5e6-4c7e-b6f7-52a3d55550c3@37.152.185.16:27156?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://d212a62b-dc05-4c8f-a039-a34340f15f2d@s3.tehranionliine.ir:80?encryption=none&security=none&type=ws&path=%2F&host=s3.tehranionliine.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://7adc328b-4538-4f87-8cf6-9b1d000eeb4d@varzesh3.com:80?path=%2Froshd&security=none&encryption=none&host=roshd.a379n.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
