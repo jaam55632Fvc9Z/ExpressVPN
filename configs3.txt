@@ -9962,3 +9962,5 @@ vless://78340ee0-4872-4689-a39f-a0587ac62f70@45.82.139.120:52?security=none&encr
 
 vless://9e08aa78-561c-44ee-87da-a8d10eaa0f83@194.145.119.7:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vasl_bashim
 
+trojan://humanity@95.38.189.135:40443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+
