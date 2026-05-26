@@ -20,3 +20,43 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.89.120:443?path=%2F%3FTelegr
 
 vless://392c0d0a-157f-4fe0-b528-11586477cbe0@185.213.165.81:38024?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40UnNurmal
 
+vless://8711e97a-63cc-47f5-b1ab-b9280b82ac2e@85.234.65.21:443?security=reality&encryption=none&pbk=JVvNP8J16POftTcKdIPtpeX6mHLqq44jFisU1ftAuEo&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=www.sony.com&sid=2c#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@vip.yaml7.ggff.net:443?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=tls&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c24400a2-84d7-4f37-8cef-a0b22c9b87d7@169.40.32.241:48487?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls& encryption=none&path=%2F&security=&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c17182e4-f87e-4837-b964-a7514453f004@ip.feydooomain.ir:8443?mode=packet-up&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=azure.feydooomain.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=azure.feydooomain.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.16.79.73:443?path=%2Fplay%2Fsettings&security=tls&encryption=none&host=pagescm.freen32.cc.cd&type=ws&sni=pagescm.freen32.cc.cd#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://5c923a18-f249-466c-a315-e58aabc689ef@108.162.198.81:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=star.vipco-gg.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=star.vipco-gg.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40netmelli15
+
+trojan://5c923a18-f249-466c-a315-e58aabc689ef@108.162.198.81:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=star.sipco-gg.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=star.vipco-gg.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://e0a98968-eb18-417a-87e7-c8933aac5f13@31.59.40.53:52729?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmloud.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@166.62.113.253:443?path=%2FtrTelegram&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.253.41:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&sni=de.xn--q9jyb4c.online#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:8443?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.16.89.120:443?path=%2F&security=tls&encryption=none&host=qyi.fqjd663.ggff.net&type=ws&sni=qyi.fqjd663.ggff.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.16.7.70:443?path=%2Ftr&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.29:443?path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&alpn=http%2F1.1&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.16.6.70:443?path=%2Ffast&security=tls&encryption=none&host=hio-awx.pages.dev&type=ws&sni=hio-awx.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.78.179:2053?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.16.89.120:2053?path=%2Ffast&security=tls&encryption=none&host=hio-awx.pages.dev&type=ws&sni=hio-awx.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.44.26:2053?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&encryption=none&host=sni.111000.dns.army&type=ws&sni=sni.111000.dns.army#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.78.179:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Va3lSho
+
