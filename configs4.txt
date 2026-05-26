@@ -8,3 +8,15 @@ vless://20afe519-9ef3-4c70-a2cf-5336b1125090@195.133.2.45:26048?encryption=none&
 
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?encryption=none&type=xhttp&security=tls&path=%2Fde&mode=stream-one&sni=de.xn--q9jyb4c.online&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vaslbemonim7
 
+vless://05e09c8a-a3a9-4bd5-acf9-2c3c87bab827@145.239.173.163:443?type=tcp&encryption=none&security=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://1c77de35-7af7-40c8-b240-0842e7f89e55@193.151.133.97:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vmess://trojan#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://44c34448-d281-4a7b-91e1-52d046e75484@ip.feydooomain.ir:8443?mode=packet-up&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=azure.feydooomain.ir&type=xhttp&allowInsecure=1&sni=azure.feydooomain.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiMjEzLjE1Ni4xNDEuNTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAxMzguMTg2LjE0Mi44MTo5OTA=#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
