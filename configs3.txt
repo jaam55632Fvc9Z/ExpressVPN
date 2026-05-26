@@ -10232,3 +10232,13 @@ vless://7eeeb196-0018-4e77-8bb4-34aca534930d@172.66.47.69:443?path=%2F&security=
 
 vless://7eeeb196-0018-4e77-8bb4-34aca534930d@185.18.250.252:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2Bauth.iranhttp.com&fp=chrome&type=ws&allowInsecure=0&sni=%2Bauth.iranhttp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+ss://YWVzLTI1Ni1nY206WTJJeE1tRXlObU5qWVRsaU16RmxPVGM0Tm1Jek16azFZalppTTJZdw@ir.npvnot.com:10098?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.21.7.21:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTI1Ni1nY206WTJJeE1tRXlObU5qWVRsaU16RmxPVGM0Tm1Jek16azFZalppTTJZdw@ir.npvnot.com:10098#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&fp=ios&type=ws&sni=www.ignitelimit.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d20da79c-f6c1-41cd-873d-080697fdc8e2@194.5.177.116:2070?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
