@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-ss://YWVzLTI1Ni1nY206WTJJeE1tRXlObU5qWVRsaU16RmxPVGM0Tm1Jek16azFZalppTTJZdw@ir.npvnot.com:10098?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.21.7.21:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://YWVzLTI1Ni1nY206WTJJeE1tRXlObU5qWVRsaU16RmxPVGM0Tm1Jek16azFZalppTTJZdw@ir.npvnot.com:10098#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&fp=ios&type=ws&sni=www.ignitelimit.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d20da79c-f6c1-41cd-873d-080697fdc8e2@194.5.177.116:2070?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://f3d08978-e457-43a3-b062-d74e4328833d@api.chat.video.cdn.vles.space:1443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Ej_PPr2iomuIl23svqB6FgWf2Sw6FMC6ipavO5w5OXY&security=reality&sid=099755ac7b731e9e&sni=botapi.max.ru&type=tcp#%F0%9F%87%AC%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiAiMTcyLjIzMi4xMDMuMTg2IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIyMzI0IiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmMyBUQ1AtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
@@ -35,4 +25,14 @@ vless://d20da79c-f6c1-41cd-873d-080697fdc8e2@194.5.177.116:2070?security=&encryp
 vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560%20PuLaFreeBOT%20PuLaVPN%20PuLaVPN%20PuLaVPN&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://fc2b2ec8-d048-4e2e-b4f1-2c15a133d360@104.16.7.70:2087?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=ws.tignaltofan.fun&path=%2Flogin&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.101.216:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c219cfd0-2884-4cda-bf08-0fec52dc9b99@snapp.ir:80?path=%2F&security=none&encryption=none&host=kharej.iranianshoop.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://9a03d123-6bb8-4f5e-8cd4-8a0be00c6118@varzesh3.com:2095/?type=ws&security=none&encryption=none&path=%2F&host=uplinkdl27.lyraforge.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@2.144.23.105:40443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://cb1c1d82-e7b8-40ba-9b07-79024381d6ea@5.56.132.201:29748?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40vaslbemonim7
 
