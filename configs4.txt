@@ -26,3 +26,11 @@ trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&f
 
 vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@212.192.14.50:61825?mode=gun&security=reality&encryption=none&pbk=G8hjZomMXOCmbVboqMiuf2sVvcnihjQ4BdyVo3XewW4&type=grpc&serviceName=newinsight&sni=github.com&sid=6bcde426#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40Config_magazine
 
+vless://2c3d9aca-3e23-4266-8f25-80d20c1ada8e@31.216.62.84:8000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiNjIuMy4xMi4xNDAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjkwYTdhMjAxLWRlNzEtNDY5Ni1iZTQ0LWYyYzA0YWEzNjM0OCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMjA4NyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+
+vless://8e6d6d70-5f7e-4f2c-89b6-8f5f8db4c3a1@18.171.214.200:80?encryption=none&type=xhttp&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://69a78d1a-ac27-4e25-b4c3-87998938b132@63.141.128.25:443?encryption=none&security=tls&sni=hope.skydriftzone.sbs&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fwss%3Fed%3D2048#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
