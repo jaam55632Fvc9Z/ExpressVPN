@@ -15,13 +15,13 @@ PINNED_CONFIGS = [
     "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.",
 ]
 
-MY_CHANNEL_ID = "@Express_alaki"
+MY_CHANNEL_ID = ""
 CUSTOM_SEPARATOR = "|"
 NOT_FOUND_FLAG = "🌐"
 
 SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://', 'ss://', 'shadowsocks://']
 
-EXPIRY_HOURS = 144       # حذف از دیتابیس فقط پس از 144 ساعت
+EXPIRY_HOURS = 72       # حذف از دیتابیس فقط پس از 144 ساعت
 SEARCH_LIMIT_HOURS = 1   # بررسی پیام‌های 1 ساعت اخیر
 ROTATION_LIMIT = 65      
 ROTATION_LIMIT_2 = 1000   
