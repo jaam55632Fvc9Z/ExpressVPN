@@ -40,3 +40,19 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@31.133.0.49:2053?path=%2FtrTelegram%F0%9F%87%A
 
 vless://d58ee1bc-4eaf-4b82-ac8b-5e45837f2956@185.220.226.20:11000?encryption=none&security=reality&sni=icloud.com&fp=firefox&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Va3lSho
 
+trojan://telegram-id-v2rayvpnchannel@13.37.186.112:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fc2e2138-08d2-42b7-976c-4408f2541326@185.143.235.212:8080?encryption=none&host=kirr.salehvip-web.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://64c830ec-e701-4b2f-dc36-d5c59eadae67@83.228.248.80:443?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@13.37.186.112:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.186.112:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.37.186.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.133.0.159:2053?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5MTR0Q2thVlNONENHQm9q@102.133.225.225:443?outline=1&prefix=POST%20s332dcdp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
