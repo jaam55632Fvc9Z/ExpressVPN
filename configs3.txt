@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=69#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40manVPN
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.135:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://DI4MSzOTKIJTWe605Zqq1hgDYo08in4VstyaGSwgTK86oMmTvdnrPNw66ZMhVEdOJumnxA32GBsC4pGvLg4UjVqT5cgqebllC1wxDedwV41gEQSNbyxnGtJQjjp1T91aLqqlJmerqGtJGkYbO0z3CfS03H1/z3SpsujDXiQct/u2i02msXqjgIoXNE2ioFmujF0F42oByD3yBkZmlNHEWe0b5Pd8Ak1yjd72PyR/Db7DGfwjC0DMmJP2oPIR209X#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://dcf2b006-f8a6-4797-b434-b18a10ce5d9d@193.151.140.200:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
-
-vless://6db279a7-c8fc-4cc8-9253-4cf5ca09f3cb@rfral.aghanami.ir:80?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://db3c74e8-632e-442a-a674-f0b7240a874a@94.101.179.193:80?path=%2F&security=none&encryption=none&host=w4.mazandaranmusic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
 trojan://telegram-id-directvpn@63.176.4.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.4.250:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
@@ -10375,4 +10363,16 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@193.26.157.139:8443?path=%2FtrTelegram%F0%9F%8
 trojan://8r%3C%5B9%27l6hAO%238ZQi@50.62.88.253:443?path=%2FtrTelegram&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://50f13b25-d799-48ec-9305-c467de1b8f9a@185.143.233.235:8080?encryption=none&security=none&type=ws&host=g4.duolingoo.ir&path=%2Fws#%F0%9F%8C%90%20WS-None%20%7C%20%40Va3lSho
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.65:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?allowInsecure=1&encryption=none&security=tls&sni=proxy.wastech.org&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6b2bd003-b3fd-4208-83f3-197f9a4d2297@96.47.238.103:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EaaPtT7jhK6wTiZKklE7uHMjlege0ZN6TBqgojca2yg&security=reality&sid=5a626ceb&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%B9%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
+
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
 

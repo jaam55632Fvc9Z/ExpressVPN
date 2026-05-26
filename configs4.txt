@@ -18,3 +18,15 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@50.62.88.253:443?path=%2FtrTelegram&security=t
 
 vless://50f13b25-d799-48ec-9305-c467de1b8f9a@185.143.233.235:8080?encryption=none&security=none&type=ws&host=g4.duolingoo.ir&path=%2Fws#%F0%9F%8C%90%20WS-None%20%7C%20%40Va3lSho
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.65:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?allowInsecure=1&encryption=none&security=tls&sni=proxy.wastech.org&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6b2bd003-b3fd-4208-83f3-197f9a4d2297@96.47.238.103:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EaaPtT7jhK6wTiZKklE7uHMjlege0ZN6TBqgojca2yg&security=reality&sid=5a626ceb&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%B9%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
+
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
+
