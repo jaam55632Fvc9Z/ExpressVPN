@@ -1,38 +1,20 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-trojan://c90cedc3-8d7f-4c7d-8bd7-d011d694aef3@1.1.1.1:8080?allowInsecure=0&peer=1.1.1.1&sni=1.1.1.1&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+vless://e8c695e9-2802-4936-90b0-8ba281d5f8cb@185.226.93.224:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
-trojan://9c0347aa-80f3-42bd-a906-9c645b4574cf@1.1.1.1:8080?allowInsecure=0&peer=1.1.1.1&sni=1.1.1.1&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+vless://50f13b25-d799-48ec-9305-c467de1b8f9a@185.143.233.235:8080?path=%2Fws&security=&encryption=none&host=g4.duolingoo.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
-trojan://64c5b7d0-87aa-45eb-9721-3602325fa106@1.1.1.1:8080?allowInsecure=0&peer=1.1.1.1&sni=1.1.1.1&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+vless://TELEGRAM-NUFiLTER@104.18.26.90:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=none&encryption=none&host=kk50.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
-trojan://15893455-4d21-4338-a273-01aed1d77fa2@1.1.1.1:8080?allowInsecure=0&peer=1.1.1.1&sni=1.1.1.1&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@211.75.210.32:443?path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&encryption=none&insecure=0&host=1-aym.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=1-aym.pages.dev#%F0%9F%87%B9%F0%9F%87%BC%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-trojan://522c2107-f297-4420-bd56-ec82b175aa2d@1.1.1.1:8080?allowInsecure=0&peer=1.1.1.1&sni=1.1.1.1&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+vless://e8cbc051-e0ac-452d-9bd3-8ad46625573c@arvancloud.ir:8080?mode=auto&path=%2F&security=&encryption=none&host=r.cafeplusstore.ir&type=xhttp#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-None%20%7C%20%40v2ray_configs_pool
 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@195.66.27.8:8443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://6fcfb60d-655f-4a6c-8608-692701bacd38@104.18.139.67:2083?type=ws&encryption=none&path=%2Flogin&host=ws.tignaltofan.fun&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+trojan://8r%3C%5B9%27l6hAO%238ZQi@193.26.157.139:8443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.158.90:443?path=%2F%3Fhttps%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&encryption=none&insecure=0&host=sni.latonyamadeline.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.latonyamadeline.ndjp.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
+trojan://8r%3C%5B9%27l6hAO%238ZQi@50.62.88.253:443?path=%2FtrTelegram&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-trojan://humanity@104.17.72.206:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-trojan://humanity@104.17.72.206:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-trojan://8r%3C%5B9%27l6hAO%238ZQi@15.204.173.154:8443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-vless://28154b7e-afc2-449b-8a78-bf1eba31bd05@a.darafiq.ir:8880?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.64.235.238:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.18:443?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.47:443?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-vless://9fd110ad-779f-453e-8a20-ce033d6f7یad9@aیاnten.ir:80?path=%2Fapi%2Fv3&seیوcurity=none&encryption=noneیتت&host=outnika02.shoptinyis.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://d75596f2-d428-4875-b982-8945df89ff11@104.18.32.47:2087?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=ws.tignaltofan.fun&path=%2Flogin&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+vless://50f13b25-d799-48ec-9305-c467de1b8f9a@185.143.233.235:8080?encryption=none&security=none&type=ws&host=g4.duolingoo.ir&path=%2Fws#%F0%9F%8C%90%20WS-None%20%7C%20%40Va3lSho
 
