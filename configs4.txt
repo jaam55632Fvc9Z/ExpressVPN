@@ -30,3 +30,19 @@ vless://148addd5-6344-4276-8b7c-1cd0fa138f9b@91.107.184.230:30650?encryption=non
 
 vless://7d7e7469-2e04-46b6-8675-cc7aea3624ad@62.171.188.84:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?encryption=none&fp=&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&security=reality&sid=2001&sni=yahoo.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE&security=reality&sid=fef8dcb8cafe30&sni=www.tesla.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?encryption=none&fp=&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&security=reality&sid=69a2&sni=yahoo.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://06a1719f-417e-46f0-8a7d-e2b13ecf893a@43.203.249.214:39295?encryption=none&flow=xtls-rprx-vision&fp=&pbk=CKyy_gy40xRlKa3sBbCg759CMC7vDMjZKqsiuC5BtWU&security=reality&sid=88a32a0e9853b9&sni=www.icloud.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://b877a059-4473-43ec-8f62-c36ce19b28d9@151.101.1.194:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.21.7.21:2096?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://RJbtIstwtcU5buDY3r@nl-4.tr202604.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://507d8a85-46c4-487b-8fc9-64572caa21b4@snapp.ir:2052?path=%2F&security=none&encryption=none&host=ps4.mobile-khayam.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
