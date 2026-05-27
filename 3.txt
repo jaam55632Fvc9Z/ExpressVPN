@@ -11350,3 +11350,15 @@ vless://1a930d09-9612-4967-9cf4-5ac56ab1b5bb@tr3.darazen.ir:443?alpn=h2%2Chttp%2
 
 vless://3ea37b28-9336-497d-adfe-bac5fc846409@nexus.thisisdomain.monster:443?encryption=none&security=tls&sni=sos2.thisisdomain.monster&insecure=0&allowInsecure=0&type=ws&host=sos2.thisisdomain.monster&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Va3lSho
 
+vless://2a69638e-5613-44d2-b6a3-d4d736bb6ccf@paziresh24.com:8080?path=%2F&security=none&encryption=none&host=dd.coresaxt.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e09a2f83-db37-4167-9664-786d45614905@208.103.161.2:8443?mode=auto&path=%2FConfig_By_%40Amo_NexT&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=vercel1.gamelistak.com&fp=chrome&type=xhttp&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://237c32fd-228e-4c20-990c-e6b8a52eb6dc@snapp.ir:80?type=ws&path=/&host=simorgh.garfar.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://2a69638e-5613-44d2-b6a3-d4d736bb6ccf@paziresh24.com:8080?path=/&security=&encryption=none&host=dd.coresaxt.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://dea9a083-7a96-438b-ba20-8cf302abba05@31.57.35.131:2034/?type=tcp&encryption=none&path=%2F&headerType=http&security=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206bXpJcGZIb1ZIL1hybmszY3VTYjlhdz09OmN3Kzk3cGlpcE5DMGRkb1hyNXBnekE9PQ@5.160.47.214:8443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
