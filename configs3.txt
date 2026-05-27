@@ -7630,3 +7630,19 @@ vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=%2F&securit
 
 vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@18.158.159.193:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://d16eb634-5c01-41ea-aaef-23c856c03950@ip.feydooomain.ir:8443?encryption=none&type=xhttp&security=tls&path=%2F&host=sni6.asukasimp.com&mode=auto&sni=sni6.asukasimp.com&alpn=h2&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://47eecc0d-93a1-485a-8b66-4532e895de90@blubank.sb24.ir:8443?encryption=none&security=tls&sni=manager.abczy.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=manager.abczy.ir&path=/mehdi&mode=auto&extra=#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://647c7ac8-791e-46e6-8c06-80c015ebc23a@blubank.sb24.ir:8443?encryption=none&security=tls&sni=manager.abczy.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=manager.abczy.ir&path=/mehdi&mode=auto&extra=#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8da2d3ea-264e-4cf4-a08c-0c06cdfbe6a8@blubank.sb24.ir:8443?encryption=none&security=tls&sni=manager.abczy.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=manager.abczy.ir&path=/mehdi&mode=auto&extra=#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ad664153-ff33-4283-aded-25bee55485d0@blubank.sb24.ir:8443?encryption=none&security=tls&sni=manager.abczy.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=manager.abczy.ir&path=/mehdi&mode=auto&extra=#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://YWVzLTI1Ni1nY206TlRjeVl6TmpaRFV5WW1RM05XTmxZMkk0WW1Fd01UQTROams0TkRabQ@ir.npvnot.com:10109?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPaWduM25JSG5pWWNmZGUxcmx4bVlB@45.95.233.55:443#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://799dc55f-0e1d-4b6f-849b-ef55c5eeef6d@blubank.sb24.ir:8443?encryption=none&security=tls&sni=manager.abczy.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=manager.abczy.ir&path=%2Fmehdi&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
