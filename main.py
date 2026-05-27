@@ -195,13 +195,20 @@ def run():
     pool_size = len(unique_pool)
     if current_index >= pool_size: current_index = 0
 
-    def get_rotated_batch(size):
-        if pool_size == 0: return []
-        actual_size = min(size, pool_size)
-        if current_index + actual_size <= pool_size:
-            return unique_pool[current_index : current_index + actual_size]
+    # تغییر داده شده: اضافه شدن پشتیبانی از استخرهای مجزا برای حفظ منطق چرخشی
+    def get_rotated_batch(size, specific_pool=None):
+        target_pool = specific_pool if specific_pool is not None else unique_pool
+        t_size = len(target_pool)
+        if t_size == 0: return []
+        
+        # تنظیم ایندکس بر اساس سایز لیست جدید تا در بازه مجاز بماند
+        idx = current_index % t_size
+        actual_size = min(size, t_size)
+        
+        if idx + actual_size <= t_size:
+            return target_pool[idx : idx + actual_size]
         else:
-            return unique_pool[current_index:] + unique_pool[:actual_size - (pool_size - current_index)]
+            return target_pool[idx:] + target_pool[:actual_size - (t_size - idx)]
 
     # ذخیره فایل‌های متنی
     def save_output(filename, batch):
@@ -210,8 +217,13 @@ def run():
             for ts, source_ch, raw_cfg in batch:
                 f.write(analyze_and_rename(raw_cfg, source_ch) + "\n\n")
 
-    save_output('1.txt', get_rotated_batch(ROTATION_LIMIT))
-    save_output('2.txt', get_rotated_batch(ROTATION_LIMIT_2))
+    # استخراج کانفیگ‌های ۳۰ دقیقه اخیر (۱۸۰۰ ثانیه) و ۳ ساعت اخیر (۱۰۸۰۰ ثانیه)
+    pool_30m = [item for item in unique_pool if now - float(item[0]) <= 1800]
+    pool_3h = [item for item in unique_pool if now - float(item[0]) <= 10800]
+
+    # اعمال استخرهای زمانی به منطق چرخشی فایل‌های ۱ و ۲
+    save_output('1.txt', get_rotated_batch(ROTATION_LIMIT, pool_30m))
+    save_output('2.txt', get_rotated_batch(ROTATION_LIMIT_2, pool_3h))
     save_output('3.txt', unique_pool[-ROTATION_LIMIT_3:])
     save_output('4.txt', [item for item in unique_pool if now - float(item[0]) < 300])
 
