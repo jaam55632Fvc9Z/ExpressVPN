@@ -16,3 +16,19 @@ vless://0b69e501-28c8-4d44-f1f5-b36942226db6@47.82.183.252:56231?encryption=none
 
 vless://3825a504-7b6c-4f34-bf4d-a5b86f4650dd@47.242.43.198:47683?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40vaslbemonim7
 
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&type=ws&sni=www.calmloud.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://Tel%3AArshiacomplus@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=omm.kotlet.org&fp=firefox&type=xhttp&allowInsecure=1&sni=soft98.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://Tel%3AArshiacomplus@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=omm.kotlet.org&fp=firefox&type=xhttp&allowInsecure=1&sni=www.wikipedia.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.26.6.89:443?encryption=none&type=ws&security=tls&path=%2Fchina%2Fpage%2Fclips&host=pagescm.freen12.cc.cd&sni=pagescm.freen12.cc.cd&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://Tel%3AArshiacomplus@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=omm.kotlet.org&fp=firefox&type=xhttp&sni=yahoo.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://3825a504-7b6c-4f34-bf4d-a5b86f4650dd@47.242.43.198:47683?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://47030ea3-4e8c-4dd6-b440-418a7a54c1a0@47.82.87.196:50724?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40vaslbemonim7
+
