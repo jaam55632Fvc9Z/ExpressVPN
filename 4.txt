@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?path=%2Fgraphql&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=69565ce3109804e7813f98ee.mmdbay.blog&fp=chrome&type=ws&allowInsecure=0&sni=69565ce3109804e7813f98ee.mmdbay.blog#%F0%9F%87%AA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://f1fc9768-b67c-46e7-b01a-51923bcfd53e@208.103.161.2:443?encryption=none&type=xhttp&security=tls&path=%2FAmo_NexT&host=du1.gamelistak.com&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://3ea37b28-9336-497d-adfe-bac5fc846409@nexus.thisisdomain.monster:443?path=/&security=tls&encryption=none&insecure=1&host=sos2.thisisdomain.monster&type=ws&allowInsecure=1&sni=sos2.thisisdomain.monster#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://1a930d09-9612-4967-9cf4-5ac56ab1b5bb@tr3.darazen.ir:443?path=/tr3&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=tr3.darazen.ir&fp=chrome&type=ws&allowInsecure=0&sni=tr3.darazen.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://1a930d09-9612-4967-9cf4-5ac56ab1b5bb@63.141.128.5:443?path=%2Ftr3&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=tr3.darazen.ir&fp=chrome&type=ws&allowInsecure=0&sni=tr3.darazen.ir#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://75851373-9166-4413-bcb4-e995135ca3ce@dlbazi1.ketakhan.sbs:8443?security=tls&encryption=none&insecure=0&host=my.d-service.sbs&type=ws&allowInsecure=0&sni=my.d-service.sbs#%F0%9F%87%A6%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://1a930d09-9612-4967-9cf4-5ac56ab1b5bb@tr3.darazen.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=tr3.darazen.ir&path=%2Ftr3&security=tls&sni=tr3.darazen.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://3ea37b28-9336-497d-adfe-bac5fc846409@nexus.thisisdomain.monster:443?encryption=none&security=tls&sni=sos2.thisisdomain.monster&insecure=0&allowInsecure=0&type=ws&host=sos2.thisisdomain.monster&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Va3lSho
-
 vless://2a69638e-5613-44d2-b6a3-d4d736bb6ccf@paziresh24.com:8080?path=%2F&security=none&encryption=none&host=dd.coresaxt.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://e09a2f83-db37-4167-9664-786d45614905@208.103.161.2:8443?mode=auto&path=%2FConfig_By_%40Amo_NexT&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=vercel1.gamelistak.com&fp=chrome&type=xhttp&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -27,4 +11,18 @@ vless://2a69638e-5613-44d2-b6a3-d4d736bb6ccf@paziresh24.com:8080?path=/&security
 vless://dea9a083-7a96-438b-ba20-8cf302abba05@31.57.35.131:2034/?type=tcp&encryption=none&path=%2F&headerType=http&security=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206bXpJcGZIb1ZIL1hybmszY3VTYjlhdz09OmN3Kzk3cGlpcE5DMGRkb1hyNXBnekE9PQ@5.160.47.214:8443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@166.88.186.161:666?path=%2Fproxy&security=tls&encryption=none&host=166.88.186.161&fp=chrome&type=ws&sni=166.88.186.161#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://40b66927-2f62-4a7b-8b75-1be2b45bd9ad@104.18.32.47:8443?path=%2FUI7fh2CARuUJjLEj%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=mina2-1hf.pages.dev&fp=chrome&type=ws&sni=mInA2-1Hf.PaGeS.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6a719f2b-b629-462d-975a-9c0daa3edb75@chatgpt.com:2083?security=tls&encryption=none&insecure=1&host=raviddd.pages.dev&type=ws&allowInsecure=1&sni=rAviDdD.paGEs.DEv#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.66.44.211:80?security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.227:80?security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Outline_Vpn
+
+vless://InternetAzadRobot@199.232.57.91:80?mode=auto&path=%2FTignaliSWithYou&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofan.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
