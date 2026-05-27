@@ -8028,3 +8028,13 @@ trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=%2Fassignment&hos
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@104.248.145.216:443?path=%2F&security=tls&encryption=none&insecure=1&host=1-gjo.pages.dev&fp=chrome&type=ws&allowInsecure=1&sni=1-gjo.pages.dev#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40Raiv2mmr
 
+vless://01c0530f-168d-4645-a74c-f2b3b015c217@104.244.73.115:2053?encryption=none&type=tcp&security=reality&headerType=none&sni=patreon.com&fp=random&allowInsecure=1&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=b85e293fa1&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx1011.game2lizard.com:2083?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&sni=mzaxmc.lizardshop.org&fp=360&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4259cd49-5ad0-432d-a078-29159dc999d0@fl-3-direct.djarbnet.ru:443?encryption=none&host=fl-3-direct.djarbnet.ru&path=/getupdates&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://01c0530f-168d-4645-a74c-f2b3b015c217@104.244.73.115:2053?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=patreon.com&sid=b85e293fa1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
