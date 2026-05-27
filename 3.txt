@@ -10180,3 +10180,17 @@ vless://cc6ebab0-937f-4649-976d-73ad5547ee25@104.252.53.3:33840?alpn=h2%2Chttp%2
 
 trojan://mitivpn@208.103.161.91:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&host=www.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.iranpoems.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://1c8204a5-d361-49b0-8a43-07a035841ca1@5.78.60.126:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://b54fbd00-dc57-46d0-8bc0-d5546b977012@104.21.7.147:8880?path=%2F&security=none&encryption=none&host=kk195.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.25.249.217:443?encryption=none&security=tls&sni=de.xn--q9jyb4c.online&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fde&mode=stream-one#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.38.183:2083?mode=stream-one&path=%2Fde&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=de.lezzatzone.ir#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40BigSmoke_Config
+
+trojan://%6d%69%74%69%76%70%6e@www.iranpoems.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.iranpoems.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40BigSmoke_Config
+
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@172.64.152.23:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40BigSmoke_Config
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
