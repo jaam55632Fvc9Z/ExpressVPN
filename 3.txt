@@ -12936,3 +12936,31 @@ vless://1f656a0a-b630-4ed7-8b10-4c0a8f43464e@104.19.165.22:443?path=%2Ffree&secu
 
 vless://1f656a0a-b630-4ed7-8b10-4c0a8f43464e@192.65.217.127:443?path=%2Ffree&security=tls&encryption=none&insecure=0&host=moonvpn0.rookari.com&fp=firefox&type=ws&allowInsecure=0&sni=moonvpn0.rookari.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://bed120da-8602-4efe-a2cf-5d10e0b11e01@104.16.7.70:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=armn.xuiprospeed.ir&mode=multi&sni=armn.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://bed120da-8602-4efe-a2cf-5d10e0b11e01@104.16.7.70:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=kUU.xuiprospeed.ir&mode=multi&sni=kUU.xuiprospeed.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://bed120da-8602-4efe-a2cf-5d10e0b11e01@104.16.7.70:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=fr.xuiprospeed.ir&mode=multi&sni=fr.xuiprospeed.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://bed120da-8602-4efe-a2cf-5d10e0b11e01@45.131.6.203:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=fr.xuiprospeed.ir&mode=auto&sni=fr.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://bed120da-8602-4efe-a2cf-5d10e0b11e01@104.16.7.70:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=TRM.xuiprospeed.ir&mode=multi&sni=TRM.xuiprospeed.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://bed120da-8602-4efe-a2cf-5d10e0b11e01@104.16.7.70:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=Itw.xuiprospeed.ir&mode=auto&sni=Itw.xuiprospeed.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://bed120da-8602-4efe-a2cf-5d10e0b11e01@104.16.7.70:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=Itw.xuiprospeed.ir&mode=multi&sni=Itw.xuiprospeed.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://bed120da-8602-4efe-a2cf-5d10e0b11e01@104.16.7.70:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=fr.xuiprospeed.ir&mode=auto&sni=fr.xuiprospeed.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://bed120da-8602-4efe-a2cf-5d10e0b11e01@104.16.7.70:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=TRM.xuiprospeed.ir&mode=auto&sni=TRM.xuiprospeed.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://bed120da-8602-4efe-a2cf-5d10e0b11e01@104.16.7.70:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=kUU.xuiprospeed.ir&mode=auto&sni=kUU.xuiprospeed.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://bed120da-8602-4efe-a2cf-5d10e0b11e01@104.16.7.70:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=armn.xuiprospeed.ir&mode=auto&sni=armn.xuiprospeed.ir&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://03951375-af0b-4cb7-b684-b5922de0e155@ww.vidboxco.ir:2053?path=%2F%3Fed&security=tls&encryption=none&insecure=1&host=de-fd-npx.iranvatanam.com&fp=chrome&type=ws&allowInsecure=1&sni=de-fd-npx.iranvatanam.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://03951375-af0b-4cb7-b684-b5922de0e155@104.18.13.149:2053?path=%2F%3Fed&security=tls&encryption=none&insecure=1&host=nl-fd-px.iranvatanam.com&fp=chrome&type=ws&allowInsecure=1&sni=nl-fd-px.iranvatanam.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAid2l6LnJlYXRhLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3YzczMjU0Yy1lNmUxLTRmMGQtYTM2Mi1jNjIwNGY5YWZiMTAiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjAyMCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+
