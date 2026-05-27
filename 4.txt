@@ -16,3 +16,19 @@ vless://874d4e13-145b-4b86-b67a-d747703067aa@snapp.ir:80?type=ws&path=%2F&host=s
 
 vless://6ec2c7cd-2990-4bdf-bd23-09c2b6ba9666@snapp.ir:80?type=ws&path=%2F&host=simorgh.garfar.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+trojan://humanity@128.65.185.146:40443?mux=&path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&muxConcurrency=-1&sni=www.ignitelimit.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://aac3ea72-fdc9-4d13-8cbb-a1873040010b@lemonia.digistoretg.ir:443?encryption=none&fp=chrome&pbk=1JiozppXlHAKGjhr1RdVD8uGHIKlLOEtagTxarTvwTI&security=reality&sid=bd03&sni=www.sony.com&spx=/9gRd4rHhxOwqRiq&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://49f3fec2-1a21-481e-ae65-7c32ae262582@serv-ne-3.whit3.net:10444?security=reality&encryption=none&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=serv-ne-3.whit3.net&sid=378086fbdb7c61cd#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=uk1.fromblancwithlove.com#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b59239b8-d5db-4842-a848-de29720e9e00@varzesh3.com:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=9019.87x.ir&fp=chrome&type=ws&allowInsecure=0&sni=d4c74a9333f52fe1.87x.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://9c9797a1-d946-4f5c-8447-bff561d3b839@panel.spartanmc.ir:8443?security=&encryption=none&host=tgju.org&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://8eda2eda-ec7d-416f-8e33-b66bcd35ef28@45.81.19.250:443?type=tcp&security=none&headerType=http&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.15.57:50099#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
