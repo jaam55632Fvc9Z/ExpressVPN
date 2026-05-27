@@ -8070,3 +8070,7 @@ vless://36f00530-bbbd-4a59-bd67-a3269152c379@188.114.99.160:2083?encryption=none
 
 vless://aeec50e6-f176-4f87-9f46-0610a0e76435@172.64.155.209:8443?path=%2FRoBeRt&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://adfd34ba-ad3e-4335-8300-ce9d6c4c8fcc@45.130.125.160:443?encryption=none&type=ws&security=tls&path=%2F&host=tesdt.arvanabr.xyz&sni=tesdt.arvanabr.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiMTcyLjIzMy4xNy43NiIsICJhaWQiOiAiMSIsICJhbHBuIjogbnVsbCwgImZwIjogbnVsbCwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuYW1lIjogIlx1ZDgzY1x1ZGRlN1x1ZDgzY1x1ZGRmNyBCUiAxIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMjMyNCwgInNjeSI6IG51bGwsICJzbmkiOiBudWxsLCAidGxzIjogIiIsICJ0eXBlIjogbnVsbCwgInYiOiBudWxsLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJwcyI6ICJcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZjcgVENQLU5vbmUgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
+
