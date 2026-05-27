@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://b59239b8-d5db-4842-a848-de29720e9e00@185.143.232.201:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=1878.87x.ir&fp=chrome&type=ws&allowInsecure=0&sni=d01eb13786a81185.87x.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8563b9b8-8c9d-43b9-9cd1-bc81f83477f4@172.235.175.57:35351?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.37.33.30:8880?type=ws&security=none&host=vms.lifetime57.workers.dev&path=%2F#%F0%9F%87%A8%F0%9F%87%BE%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=#%F0%9F%87%A8%F0%9F%87%BE%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -129,4 +125,8 @@ vless://516de717-7301-4ae3-80d9-f68056f8ea14@45.130.125.160:443?mode=auto&path=%
 trojan://mitivpn@104.25.249.217:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=www.iranpoems.ir&fp=chrome&type=ws&sni=www.iranpoems.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://7aba68e5-c291-48a0-82f6-1c2245637983@185.10.16.181:443?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://a0ae4e44-480c-4282-b526-f1bdf749e0d1@104.21.18.41:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e8cba620-1abf-4b68-8181-a278e77ff9f4@varzesh3.com:80?type=ws&encryption=none&path=/&host=wingman.mawesta.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
