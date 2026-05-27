@@ -22,3 +22,23 @@ trojan://mitivpn@arvancloud.ir:443?type=ws&security=tls&path=%2F%3Fed%3D2048&hos
 
 vless://389ed394-15c8-473c-9c7e-1a6e0ba3d303@tamin.ir:2052?encryption=none&type=ws&path=%2F&host=free.sedighi0915.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
 
+vless://0c422f0c-5ada-4ef7-8294-0f383b42ad65@snapp.ir:80?type=ws&path=%2F&host=kabotar.garfar.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://mitivpn@arvancloud.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&host=www.gameify.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.gameify.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://dba52067-4f1b-4be5-8c4d-0798f9c938f4@45.76.83.35:54985?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://IR_NETLIFY@89.22.236.213:54346?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@162.159.38.129:80?encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F%3Fed%253D2048&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://389ed394-15c8-473c-9c7e-1a6e0ba3d303@tamin.ir:2052?path=%2F&security=none&encryption=none&host=free.sedighi0915.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJkZXZpY2VJRCI6ICIiLCAiYWxwbiI6ICIiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAic25pIjogIiIsICJoZWFkZXJUeXBlIjogImh0dHAiLCAidGxzIjogIm5vbmUiLCAiYWRkIjogInZpcHR1bjIubWFqYWxla2hvZHJvc2hvcC5pciIsICJzZWVkIjogIiIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAibW9kZSI6ICIiLCAiZXh0cmEiOiAiIiwgImF1dGhvcml0eSI6ICIiLCAiaG9zdCI6ICJmYXJhYXppbi5pciIsICJwYXRoIjogIi8iLCAiZnAiOiAiIiwgInYiOiAiMiIsICJwb3J0IjogIjE2MTYiLCAic2VydmljZU5hbWUiOiAibm9uZSIsICJhaWQiOiAiMCIsICJmcmFnbWVudCI6ICIiLCAiaWQiOiAiNTZkMzViOGMtOGU5Yy00YzY0LWEyNTAtNDU0MDFkY2IxNTZmIn0=
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3QXFEUmZpaml1TzV3VDZoOFRJZVVR@45.95.233.55:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaN09zYnFGTnp6RmZGRlJIaUlORzF1@45.95.233.55:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMRmN4OUdSTFFEM0lQUWl6SE1MelRx@45.95.233.55:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
