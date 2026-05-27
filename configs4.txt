@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://d51f5702-2d20-410a-87d4-d7dceb9b18a8@178.255.222.169:42115?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&type=xhttp&security=tls&path=/kavir&host=dey.lnmarketplace.net&mode=stream-one&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}&sni=dey.lnmarketplace.net&alpn=h2&fp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=p1.thisiswe.uno&fp=chrome&type=ws&sni=p1.thisiswe.uno#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://815dba60-0b12-4be4-9106-33952667e63b@snapp.ir:443?path=/?@V_P_N_Ahmad&security=tls&alpn=h2,http/1.1&encryption=none&host=link-kon.ir&fp=chrome&type=ws&sni=snapp.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=1&sni=sni.skylee4.cloudns.ch#%F0%9F%87%A8%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9aaf56a4-a173-461d-b3d4-8560ba723ade@198.41.223.119:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nightgemshop.emergency-service.org#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAiMTAzLjE3OS4xNDIuMjEyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5NDg3NjNiNS1hMDY0LTQ1M2MtYTAxNS0xODVjYjE4M2JiZmUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIyMDQ3IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQFYycmF5TkczIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
-
-vless://d1be0d5c-ca89-482d-b7ef-ccdd5a0c6328@1:1?security=none&type=tcp&headerType=&path=&host=#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://8665a030-22fc-4f95-a8f9-121c7f5409c8@whites.aruxf.ir:8880/?type=ws&encryption=none&path=/&host=vip.aruxf.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://dbb76e9c-4a6f-4a80-b69c-c4e7aa5a3604@hel.ios.lat:8443?path=%2F&security=tls&encryption=none&type=httpupgrade&sni=hel.ios.lat#%F0%9F%87%AB%F0%9F%87%AE%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
@@ -179,4 +159,18 @@ vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?encryption=non
 vless://99671f01-0836-4234-8446-d6b5cb69ca60@domain2.trahsakhteman.ir:443?mode=auto&path=%2FinboundsCWNeRzWFjgWHWZFw%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=eqor.trahsakhteman.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
 vless://8fa0ab69-c88c-4a7f-a79c-5a6669b3d04c@1.iran2.axenet.company:1114?security=tls&encryption=none&headerType=none&type=tcp&sni=zaya1.ketabland.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://b39ea5f2-ded9-48ed-9040-0b2875fab211@speedtest.net:80?path=%2F&security=none&encryption=none&host=nleiyajji.global.ssl.fastly.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://3d957e3e-f1da-41b4-8742-40e8de5a5545@156.243.83.0:2095?security=none&type=httpupgrade&headerType=&path=%2F&host=sw.carefreemob2.com.#%F0%9F%87%B5%F0%9F%87%B9%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://3d957e3e-f1da-41b4-8742-40e8de5a5545@104.26.6.0:2095?security=none&type=httpupgrade&headerType=&path=%2F&host=gb.carefreemob2.com.#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://3d957e3e-f1da-41b4-8742-40e8de5a5545@cd2.pascalplus.com:2095?security=none&type=httpupgrade&headerType=&path=%2F&host=nl.carefreemob2.com.#%F0%9F%87%A6%F0%9F%87%B2%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://3d957e3e-f1da-41b4-8742-40e8de5a5545@162.159.232.164:2095?security=none&type=httpupgrade&headerType=&path=%2F&host=de.carefreemob2.com.#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://3d957e3e-f1da-41b4-8742-40e8de5a5545@5.10.214.0:2095?security=none&type=httpupgrade&headerType=&path=%2F&host=gb.carefreemob2.com.#%F0%9F%87%A6%F0%9F%87%B2%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://3d957e3e-f1da-41b4-8742-40e8de5a5545@188.114.96.0:2095?security=none&type=httpupgrade&headerType=&path=%2F&host=it.carefreemob2.com.#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
