@@ -12,7 +12,7 @@ from datetime import datetime, timezone
 #  بخش تنظیمات (Settings)
 # =============================================================
 PINNED_CONFIGS = [
-    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.",
+    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91",
 ]
 
 MY_CHANNEL_ID = ""
@@ -21,7 +21,7 @@ NOT_FOUND_FLAG = "🌐"
 
 SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://', 'ss://', 'shadowsocks://']
 
-EXPIRY_HOURS = 72       # حذف از دیتابیس فقط پس از 144 ساعت
+EXPIRY_HOURS = 120       # حذف از دیتابیس فقط پس از 120 ساعت
 SEARCH_LIMIT_HOURS = 1   # بررسی پیام‌های 1 ساعت اخیر
 ROTATION_LIMIT = 65      
 ROTATION_LIMIT_2 = 1000   
@@ -29,7 +29,7 @@ ROTATION_LIMIT_3 = 100000
 # =============================================================
 
 def get_only_flag(text):
-    if not text: return NOT_FOUND_FLAG
+    if not text: return 
     try:
         text = urllib.parse.unquote(urllib.parse.unquote(str(text)))
     except: pass
