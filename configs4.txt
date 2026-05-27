@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://f1d3c083-8694-4a6b-8059-1bdfd7f21f2d@178.255.222.169:42115?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://555dce26-3455-4401-9236-395a817c8c07@185.143.233.5:443?path=%2Fchat%3Fed%3D129&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=g5.podro.store&fp=firefox&type=ws&allowInsecure=0&sni=g5.podro.store#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8665a030-22fc-4f95-a8f9-121c7f5409c8@whites.aruxf.ir:8880?path=/&security=none&encryption=none&host=vip.aruxf.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://a21a66a5-231b-4135-be2c-09f65fc0b7d7@snapp.ir:80?path=/&security=none&encryption=none&host=pa.hamyarpanel.site&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://e234245f-b66e-4eef-b8cb-6298500221ba@198.41.223.119:443?encryption=none&type=xhttp&security=tls&path=%2F&host=panel-free.emergency-service.org&mode=auto&sni=panel-free.emergency-service.org&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://1a0aec01-4f79-4087-b0b8-f963c05c5b9d@92.42.205.227:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://88926075-7b7b-0114-aa83-201efd3e0319@auto.trahodrom.fun:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://3f01b5cc-9371-48bb-8e7e-13f5f4226291@my.thewindows.ir:443?alpn=h2,http/1.1&encryption=none&extra=#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@18.158.159.193:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
 vless://b3118dd0-d012-4bbb-99fd-86ef5fa28ec8@104.16.7.70:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=nexus.po2pco.top&fp=chrome&type=ws&allowInsecure=1&sni=nexus.po2pco.top#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.26.1.83:443?path=%2Fshop%2Fprograms%2Fpicturefp%3Dchrome&security=tls&encryption=none&insecure=0&host=pagescm.freen10.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=pagescm.freen10.cc.cd#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -161,4 +143,16 @@ trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.calmlunc
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.40.17:2053?encryption=none&security=tls&sni=pagescm.freen2.de5.net&insecure=1&type=ws&host=pagescm.freen2.de5.net&path=%2Ftools#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
 trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.calmloud.com&fp=ios&insecure=1&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.3.201:443?encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://99671f01-0836-4234-8446-d6b5cb69ca60@domain1.trahsakhteman.ir:443?mode=auto&path=%2FinboundsCWNeRzWFjgWHWZFw%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=eqor.trahsakhteman.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.97.7:443?encryption=none&security=tls&sni=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&alpn=http%2F1.1&insecure=1&type=ws&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://73bcd72f-9545-4cb8-8daf-7d004501880d@210.156.180.102:16090?encryption=none&security=tls&sni=dcsrzh.ccwu.cc&insecure=1&type=ws&host=dcsrzh.ccwu.cc&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@104.19.250.98:2083?encryption=none&security=tls&sni=yousef.varzesh.dpdns.org&fp=chrome&insecure=1&type=ws&host=yousef.varzesh.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
