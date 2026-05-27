@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://aef3e66f-7907-4430-85aa-39c9dd429686@anten.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgames&host=sayeh.copershop.info#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://dea89136-6337-45ce-9cbb-a277fa437e67@anten.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgames&host=sayeh.copershop.info#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJ2IjogIjIiLCAiYWRkIjogImd0bS1zZy1jYzU0cTdkMXEwMS4zNjVjbG91ZDAyODUuY29tIiwgInBvcnQiOiA2MDAxLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYTAzMDg0MmEtZDI5YS00ZWE5LWE3NzYtMTRmYzRiOWUxMDJkIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFRDUC1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
-
-vless://4d70a474-aa93-457b-a2fb-98b05272ce25@104.16.80.73:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=finland.blackkwolff.com&path=/cf&sni=finland.blackkwolff.com&fp=chrome&alpn=h2,h3,http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.5.134:80?path=%2F&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://e0d3b44d-9037-4009-b949-dde59db19f02@blubank.sb24.ir:8443?encryption=none&security=tls&sni=manager.abczy.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=manager.abczy.ir&path=/mehdi&mode=auto&extra={#%F0%9F%87%AE%F0%9F%87%B7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowI#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -173,4 +163,12 @@ vless://771af8c7-ee89-48b8-abe6-fb0a7a97e37c@84.201.181.153:443?security=reality
 vless://24b33792-8c92-4a56-8585-528c9c50d844@px1t-tab-57fzza.de.deepl-cdn.com:40443?security=reality&encryption=none&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=505c94b8c65afb0a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
 vless://24b33792-8c92-4a56-8585-528c9c50d844@z5xa-b1a-azar11.se.deepl-cdn.com:40443?security=reality&encryption=none&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=505c94b8c65afb0a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiYi5zaWduYWxmLnNob3AiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzcGVlZHRlc3QubmV0IiwgImlkIjogImQ2OGI1OWJmLThlZTQtNGU1YS1hNzIwLWY0NjlkNWI1OWNmNyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODA4MSwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFRDUC1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+
+vless://94968e80-d1ab-4763-9d4b-1d29fb21b642@188.114.96.12:443?encryption=none&security=tls&sni=2.webramz.store&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=ws&host=2.webramz.store&path=%2Fstream#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://75851373-9166-4413-bcb4-e995135ca3ce@dlbazi3.ketakhan.sbs:8443?security=tls&encryption=none&insecure=0&host=my.d-service.sbs&type=ws&allowInsecure=0&sni=my.d-service.sbs#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaUpTd1NRYXlsaDhLRWRtTGpCcVJR@b.signalf.shop:10808#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
