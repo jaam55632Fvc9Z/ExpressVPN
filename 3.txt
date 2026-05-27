@@ -9772,3 +9772,13 @@ vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.38.183:2083?mode=stream-one
 
 vless://7ac3865f-44c8-45d4-9b4b-2883848a39f9@tr3.mynethub99.top:443?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&sid=c42db93ba6c62c&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://39927834-ba52-4875-9ba6-bd5e681d6baf@taktun1.majalekhodrostore.ir:8080?security=none&encryption=none&host=bbb.bama.ir&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://fedbed70-4dcc-4780-badc-addca59b1736@tr3.mynethub99.top:2096?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=tr3.mynethub99.top&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://05f2bbe3#None%20TCP-None%20%7C%20%40filembad
+
+vless://TIGNAL@151.101.1.57:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=%2Flogin&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
