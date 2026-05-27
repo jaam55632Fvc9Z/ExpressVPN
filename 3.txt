@@ -9666,3 +9666,17 @@ vless://7a47ada8-e046-4c17-a2ed-dc334ce98146@de11.amirvend.com:20530?path=%2F&se
 
 vless://b0f0160f-0d3c-4252-88a1-d10725af131f@213.142.133.4:1212?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.32.185:2096?path=%2Fcontact%2Flib%2Facg&security=tls&encryption=none&insecure=0&host=pagescm.freen28.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen28.cc.cd#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@208.103.161.4:443?path=%2Fplay%2Fsettings&security=tls&encryption=none&insecure=0&host=pagescm.freen32.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen32.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d3ee0e3b-3347-4129-9622-0a8a09d03f08@tnl.sm1612.ir:50430?security=none&encryption=none&host=plus.telewebion.com,#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://d262c258-e73a-47d2-944d-55cfc4bc8fd0@45.39.241.51:23837?path=%2Fws&security=none&encryption=none&host=45.39.241.51&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://9a38fa2a-e626-4263-aa9e-b84eaaa6a37c@172.65.99.23:25565?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b06a06e3-f859-4911-bad9-826bf8d084c6@2.katze-heydar.ir:2019?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a0ae4e44-480c-4282-b526-f1bdf749e0d1@104.16.7.70:443?encryption=none&type=ws&security=tls&path=%2F&host=c.downloadphysics.ir&sni=c.downloadphysics.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
