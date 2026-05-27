@@ -11488,3 +11488,21 @@ vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?path=%2Fuploade
 
 vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@141.101.115.71:8443?path=%2Fdownload.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://c278fd08-2481-4c54-b317-b4d4e95be61b@snapp.ir:8080?encryption=none&type=ws&host=cloud.tokyoservice.ir&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://pjqRC5wfEFhYTyiaKF@ee-1.tr202604.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
+vless://f5fea9f5-f217-4c9c-b4f2-9a5ef08cf031@vitallife.gg:443?alpn=h2&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=&host=&mode=auto&path=%2Fwp-content%2Fcachecache&security=tls&sni=vitallife.gg&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://93f6c3ed-623f-4d8a-9ade-3f8fa55ce8e4@136.244.95.161:13918?encryption=none&fp=chrome&pbk=_fko8uAjj5dF4AZ1vcGIjCa-90CDrBHhjMNGLjpH6Ts&security=reality&sid=b956b96d72&sni=refersion.com&spx=%2FNQAlFqm7Gf3lzr2&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://faefb304-91b9-473d-af79-40096f07559f@tokyoservice.ir:8088?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.amazon.com&pbk=L8m3Rq1x-3TOefBFskO_r97WmzFpNod4qBMf7DepQUQ&sid=d139cedc&spx=/mE7Dc3cAdX9VJ8G#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://350621ad-05f1-4bd0-b096-70378d9cd755@tokyoservice.ir:8082?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.intel.com&pbk=L8m3Rq1x-3TOefBFskO_r97WmzFpNod4qBMf7DepQUQ&sid=d139cedc&spx=/jCYq4nLr8hVR0V4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://b308e65f-15e7-4c4a-8484-4f0365164f8b@tokyoservice.ir:8084?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.amd.com&pbk=L8m3Rq1x-3TOefBFskO_r97WmzFpNod4qBMf7DepQUQ&sid=7cd9&spx=/Iv5qUVZAReuuRZe#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://23bd6242-1ee0-41a8-8d18-8745b1686308@tokyoservice.ir:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.nvidia.com&pbk=L8m3Rq1x-3TOefBFskO_r97WmzFpNod4qBMf7DepQUQ&sid=825a6cdd1a&spx=/xywoBQfpLVUQQFG#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
