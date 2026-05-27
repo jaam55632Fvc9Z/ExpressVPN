@@ -7980,3 +7980,7 @@ vless://4d70a474-aa93-457b-a2fb-98b05272ce25@104.16.80.73:443?path=%2Fcf&securit
 
 vless://e234245f-b66e-4eef-b8cb-6298500221ba@198.41.223.119:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=panel-free.emergency-service.org&fp=chrome&type=xhttp&allowInsecure=1&sni=panel-free.emergency-service.org#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://%40free_conf_iran@172.66.40.99:8880?path=%2Fdatax%3Fed%3D2560&security=none&encryption=none&host=uk.dataxshop.ir&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
