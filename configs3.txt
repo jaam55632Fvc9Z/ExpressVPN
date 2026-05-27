@@ -7734,3 +7734,9 @@ vless://9aaf56a4-a173-461d-b3d4-8560ba723ade@198.41.223.119:2053?mode=auto&path=
 
 vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiMTAzLjE3OS4xNDIuMjEyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5NDg3NjNiNS1hMDY0LTQ1M2MtYTAxNS0xODVjYjE4M2JiZmUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIyMDQ3IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQFYycmF5TkczIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+
+vless://d1be0d5c-ca89-482d-b7ef-ccdd5a0c6328@1:1?security=none&type=tcp&headerType=&path=&host=#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
