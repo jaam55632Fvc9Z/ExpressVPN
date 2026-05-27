@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.215.250.129:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://e5961492-0a40-41c5-a36b-ad847d96313b@snapp.ir:80?path=%2F&security=&encryption=none&host=botp.bexora.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?encryption=none&fp=chrome&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&security=reality&sid=2001&sni=yahoo.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://d9e9b066-c96b-4042-ab00-065c0b1b55d9@185.143.235.201:2095?path=%2Fbalepingbot&security=&encryption=none&host=sr2.baleping.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://c1c65bd6-e363-4996-8f10-02a43e18783a@188.121.125.105:8080?path=%2F&security=none&encryption=none&host=ice.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -83,4 +77,14 @@ vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx2022.game2lizard.com:2083?encrypt
 vless://d32e83bc-43ad-4ed0-9430-2b6421e4a5c4@mira.godp.shop:2053?type=ws&encryption=mlkem768x25519plus.native.0rtt.AuxlfTIOxRF2Y5yWpENO24w622W4k-B9gLCNoUHPBKcB2LAGZwxGB0hrsBcs-Tt6Lwu7IGmU22VuMMOpZwVkbjtoEzM7Aecr1bKukYhGvsdABuVTmeXA1WaRs-UhdwCZ1jNPF6MLgcKrcNeGEvONWpOpl3dvyTpSunEaFYhyCbY9yEpzoLOpp1FT6YkmlxFw4AYzblKIhQigclRtbdsfrMBWPoQaAtkvQGITXparofRolfyhe4cAoGQ6eISkFdeeEOU-fSiKDEXJDZfHelUqnfeTnRlc9kNHzItgleumgUlZyqpXZNSP9hHBAtulsnp3G0JRKhmOzFoYX0Ff_CyFGNYlX7uklDBJehAbI6EGqvnE5tx2f6MisKJ2cCkCAUeqY#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://838d4b8d-9f3e-491f-8238-2e818e2d365a@193.151.132.227:443?security=reality&encryption=none&pbk=kmEWW5HS-yIasfOMVF5JSZzxPmGvy2Zn5cNdn3rdlB0&host=speedtest.net&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=divar.ir&sid=c9ca77a721d65b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&sni=dey.lnmarketp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.71.242:443?path=%2Fhtml%2Fads&security=tls&encryption=none&host=pagescm.freen30.cc.cd&type=ws&sni=pagescm.freen30.cc.cd#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.153.95:443?path=%2Fredirect.htmlfp&security=tls&encryption=none&host=pagescm.freen30.cc.cd&type=ws&sni=pagescm.freen30.cc.cd#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://162534@217.60.248.94:8443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@119.59.127.129:990#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
