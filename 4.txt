@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://cf94b572-00b2-4d03-bcc5-6285c01685bf@193.151.152.210:2070?encryption=none&headerType=http&host=&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vmess://eyJhZGQiOiAiZmx0LnJlYXRhLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyN2Y2MzJmYy0yZjZmLTQ5ZTYtODM5Yi0yNzIxMzlmZjZhZmYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTA2MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-
-vless://RG9HnPBMI6r9zQos+ztEbqExkBqoU31Y+taczlxAd0cV/Uj0RfeHr4RmEVMhUtkBVyJs0pqiE5ow+qgzbloFwrbSUrgP8NpYQMAGRe3E46Du148OWAAbSqPdEHB+CfPl+4O+aX89vy9UIRtf1QGtDigIIdKwo99L142f3e8eXllFbr2ZICJzEutALxLOKrQLWw6eOaaIYQUH2puQD2ltB02yS5a+eg4JVgY9/053BCmAZpJpvi1pUdyg9PJ5xz24AFJVNICiCQvUvwafa91few==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
 vless://22768339-9096-48aa-9109-ff28141145b9@roz2r.skystreamgame.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&sid=4326&sni=roz2r.skystreamgame.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ip.sb:443?encryption=none&type=ws&host=3-7ny.pages.dev&path=/&security=tls&sni=3-7ny.pages.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -15,4 +7,18 @@ vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ip.sb:443?encryption=none&type=ws&h
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&type=ws&path=/vless/&security=tls#%F0%9F%87%AE%F0%9F%87%B9%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://22768339-9096-48aa-9109-ff28141145b9@roz2r.skystreamgame.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=roz2r.skystreamgame.com&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://03790554-d3b7-44b4-af31-fde276f52e96@snapp.ir:2082?path=%2F&security=none&encryption=none&host=cnd3.masterteam.shop&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://7a4c73ef-a98b-41f6-8256-6967a9c70315@104.16.19.7:443?type=ws&encryption=none&path=%2F&host=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=germanfal.carbutik.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://cb4118da-da59-42e9-b058-cafebcea3b06@a2.hamrahnode.ir:2053?security=tls&type=ws&headerType=&path=/&host=&sni=f64010cbc6e3092e.fast-cdn-uploader.com&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f8710b88-574d-4b36-b1ff-954ff9df88fa@46.62.152.194:4062?encryption=none&security=none&type=tcp&headerType=http&host=kifpool.me#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://7a4c73ef-a98b-41f6-8256-6967a9c70315@104.16.19.7:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=germanfal.carbutik.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdXNTanBUOGFKV1hQODZ4@20.87.107.99:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMW1kWEZRcTN1NjExWklC@20.87.107.99:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
