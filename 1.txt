@@ -1,5 +1,7 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
+vless://b48a224b-0eaa-477b-8e16-1e5350d2d77b@a1.hamrahnode.ir:2053?security=tls&type=ws&headerType=&path=/&host=&sni=4e43cae8691ca379.x-upload.org&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://c9e9fb6d-d9fd-40be-aaa7-8639031e127b@cd2.pascalplus.com:2095?path=%2F&security=&encryption=none&host=nl.carefreemob2.com.&type=httpupgrade#%F0%9F%87%A6%F0%9F%87%B2%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
 vless://b48a224b-0eaa-477b-8e16-1e5350d2d77b@a3.hamrahnode.ir:2053?security=tls&type=ws&headerType=&path=/&host=&sni=653c262dbd4244db.uploadhub.org&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -22,15 +24,21 @@ vless://d9377513-7e6b-48f1-89e4-a21f855b1969@sets.starservice.site:13764?securit
 
 vless://0b4c8629-a787-4ff7-b135-009218620b0b@185.226.140.140:2086?path=%2F&security=none&encryption=none&host=polelelo.sbs&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
-vless://9bdd71f4-a793-4bde-bd91-974ccf9ffa4f@wwww.vidboxco.ir:8443?encryption=none&security=tls&sni=main-fd-px.iranvatanam.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=/#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://301a4309-0f4d-42bf-a057-7d60c7a73259@144.31.30.131:8443?security=reality&encryption=none&pbk=-5-QemzFc7ddcsXFtVEn1ciZmhkdxjnBPmhnqYPJEzM&headerType=none&type=tcp&sni=eh.vk.com&sid=18730e64df45#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
-vless://9bdd71f4-a793-4bde-bd91-974ccf9ffa4f@nl-fd-npx.iranvatanam.com:6078?encryption=none&security=reality&sni=pcmag.com&fp=firefox&pbk=Ak3gZa-Tu1UK7RFZiOddKd5vbYPwZMf3jmZ9aq5Wo04&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@193.56.3.125:8443?security=reality&encryption=none&pbk=f1kpVFY3EHaR41TCKGqSWzZq7HG-WpyE2g_tlMm2US0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl1.skysafe.online&sid=844dfa3681e4c4#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=%2F&security=tls&encryption=none&insecure=1&host=pagescm.freen1.de5.net&type=ws&allowInsecure=1&sni=pagescm.freen1.de5.net#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://9270ef77-592f-11f1-98cc-54db13ea7d40@78.40.117.132:443?security=reality&encryption=none&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.blocket.se#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
-vless://8bf735b7-0bed-4cc2-8c19-be901572df15@104.26.8.155:443?hiddify=1&sni=cloud2.shayan.cyou&type=ws&alpn=http%2F1.1&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=%2FYAIb93ZcNf9TH3l8ioeuFbwmvjL2y&host=cloud2.shayan.cyou&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&ech=AEX%2BDQBBnQAgACAYpxQ3puFUr7dCpSEJKR%2FeY4Q%2BKC4nijhLsrPaa7%2FeZQAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA%3D#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://bdd008a1-7acb-4847-91b8-a6fc23bc5d4c@gb.nodes.rocketnetwork.ru:443?security=reality&encryption=none&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gb.nodes.rocketnetwork.ru&sid=428ef87fd47a3a32#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
-vless://c704eee0-3e08-4a1b-ba45-bc31561ace0f@nf-lat-new.mrgpl.com:80?path=%2Ffilimo&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://96a62489-daf4-4a94-b01d-a6ab491e1f0e@104.17.77.77:443?path=%2Fmio%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=phv2ray.purplrose.ir&fp=chrome&type=ws&allowInsecure=0&sni=phv2ray.purplrose.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Raiv2mmr
+
+vless://874d4e13-145b-4b86-b67a-d747703067aa@snapp.ir:80?type=ws&path=%2F&host=simorgh.garfar.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://6ec2c7cd-2990-4bdf-bd23-09c2b6ba9666@snapp.ir:80?type=ws&path=%2F&host=simorgh.garfar.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@202.37.33.80:443?path=%2F43.218.77.16&security=tls&encryption=none&insecure=0&host=apexbhao1.qzz.io&type=ws&allowInsecure=0&sni=apexbhao1.qzz.io#%F0%9F%87%B3%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -95,6 +103,4 @@ vless://e624dcd5-6290-476c-a179-8ea40fab43d0@37.27.12.2:56909?encryption=none&se
 vless://1b6d9a08-fafa-4957-b0d9-31a2f88439cd@mhcdn.sudo-network.co:2087?type=ws&encryption=none&path=%2F%3Fed%3D2560&host=mh.sudo-network.co&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=mh.sudo-network.co#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://b48a224b-0eaa-477b-8e16-1e5350d2d77b@a1.hamrahnode.ir:2053?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=4e43cae8691ca379.x-upload.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://b48a224b-0eaa-477b-8e16-1e5350d2d77b@a1.hamrahnode.ir:2053?security=tls&type=ws&headerType=&path=/&host=&sni=4e43cae8691ca379.x-upload.org&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
