@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#.
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@1.161.240.114:50099#%F0%9F%87%B9%F0%9F%87%BC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://61beb227-5709-4999-851d-fe87d2859c56@141.101.115.71:2083?encryption=none&type=xhttp&mode=packet-up&host=chopin.wikimatn.ir&path=/jvbdfb1sd&security=tls&fp=chrome&sni=chopin.wikimatn.ir&alpn=h2&ech=https://8.8.8.8/dns-query&allowInsecure=false#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://36f00530-bbbd-4a59-bd67-a3269152c379@188.114.99.160:2083?encryption=none&type=xhttp&mode=packet-up&host=maple.wikimatn.ir&path=/ktbrKMKH&security=tls&fp=chrome&sni=maple.wikimatn.ir&alpn=h2&ech=https://8.8.8.8/dns-query&allowInsecure=false#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://aeec50e6-f176-4f87-9f46-0610a0e76435@172.64.155.209:8443?path=%2FRoBeRt&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://adfd34ba-ad3e-4335-8300-ce9d6c4c8fcc@45.130.125.160:443?encryption=none&type=ws&security=tls&path=%2F&host=tesdt.arvanabr.xyz&sni=tesdt.arvanabr.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiAiMTcyLjIzMy4xNy43NiIsICJhaWQiOiAiMSIsICJhbHBuIjogbnVsbCwgImZwIjogbnVsbCwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuYW1lIjogIlx1ZDgzY1x1ZGRlN1x1ZDgzY1x1ZGRmNyBCUiAxIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMjMyNCwgInNjeSI6IG51bGwsICJzbmkiOiBudWxsLCAidGxzIjogIiIsICJ0eXBlIjogbnVsbCwgInYiOiBudWxsLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJwcyI6ICJcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZjcgVENQLU5vbmUgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
@@ -85,4 +77,12 @@ trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@103.74.192.228:443?encryption=none&type=ws&security=tls&sni=sni.skylee4.cloudns.ch&fp=chrome&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://7c35a51a-1096-40f0-9874-c7aa0774f9f1@37.139.42.139:5443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=gzRwDrnVPWTBAXs2CmGb9uE6H2pJH8lo4GZazGYNLRc&security=reality&sid=18240b4c71f05887&sni=google.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://0113dbe3-7b54-455f-b412-00c8e3b3c65c@185.143.233.200:80?path=%2F&security=none&encryption=none&host=a1.supreme-xfast.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ff1fc547-524d-47c7-a348-c2d8808b7eb1@tamin.ir:2052?encryption=none&type=ws&host=big1.sedighi0915.ir&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://3d45219c-6460-42da-9233-a02fbe944d19@varzesh3.com:80?encryption=none&type=ws&path=%2F&host=api.sobhan.cam#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://7841aff6-8552-4f8e-ad0c-06c3b73e6440@usr.moktana.app:443?encryption=none&type=grpc&security=reality&serviceName=moktana.net.v1.StreamService&sni=us.moktana.app&fp=chrome&pbk=_yzmX8WwaZJD4ddVgOZWJsx6r0lJzhTrTbkQLhwiWXk&sid=c8540a3e9e1d8136#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
