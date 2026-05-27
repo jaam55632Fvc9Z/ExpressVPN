@@ -16,3 +16,35 @@ vmess://eyJhZGQiOiAiNjYuMTYzLjExNy41OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 
 vless://210ed1b0-63d0-416a-93f5-591027245e7d@109.120.177.210:14088?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Va3lSho
 
+trojan://ASoZeIVwzX4w4wxwig@193.8.169.74:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://600c333c-53dd-4eb9-80cf-c5716cc570f8@213.182.216.6:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hartfordmedia.online&sid=2356d1ae4b#%F0%9F%87%AC%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://140d13d4-3507-4f36-93ef-5913b24ec8fe@69.84.182.50:2087?encryption=none&security=tls&sni=dl-pack.motionbetter.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=dl-pack.motionbetter.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8f8a9baf-16c2-4d59-a267-09e65b0a55e4@45.130.125.160:443?path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=1&host=ssj.new-persian-song.ir&fp=chrome&type=ws&allowInsecure=1&sni=ssj.new-persian-song.ir#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://mitivpn@208.103.161.101:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=www.iranpoems.ir&fp=chrome&type=ws&sni=www.iranpoems.ir#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8f8a9baf-16c2-4d59-a267-09e65b0a55e4@45.130.125.160:443?path=%2F%3Fed%3D80&security=tls&encryption=none&host=ssj.new-persian-song.ir&fp=chrome&type=ws&sni=ssj.new-persian-song.ir#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8eda2eda-ec7d-416f-8e33-b66bcd35ef28@45.81.19.250:443?encryption=none&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://b06a06e3-f859-4911-bad9-826bf8d084c6@0.katze.lion-ix.site:2019?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206SDB0UkxoTk5VRHlyaGxIbmZ0NHdRUVBqWmhzZWRwN0xyV0V2SXdUQkVkdz06cjdvYXA5ZElUa01ySDNhcnp1TUZPdGFoN2dBY0hGQm5wK25kd1RRMDNtaz0=@5.22.0.99:8080?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://InternetAzadRobot@chatgpt.com:2087?encryption=none&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHZWVJU0RRM3R2VWFMTWlpTmRmZU4w@45.95.233.55:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAicGwuY29ubmZ1bGwub3JnIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICJkOGE3MDZkMC05ZjIxLTQ2YjgtOWMwOC1mODI2Yjc3OTljNzciLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA1MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLVRMUyB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://5da02d88-a8cb-4bbb-a667-7d543a72f0a4@god2.ultimagamest.com:443?security=reality&encryption=none&pbk=oqoNDQVcGzlSfB6v8mVlDZhLBUC9glFEOG853ZWiLh4&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=god2.ultimagamest.com&sid=4326#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+trojan://mitivpn@www.iranpoems.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.iranpoems.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://52aa097b-57a8-4493-b571-a5804b71f12f@speedtest.net:80?encryption=none&type=ws&path=%2F&host=neszjzfeshab.global.ssl.fastly.net#%F0%9F%8C%90%20WS-None%20%7C%20%40vaslbemonim7
+
