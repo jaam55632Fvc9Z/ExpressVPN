@@ -210,10 +210,10 @@ def run():
             for ts, source_ch, raw_cfg in batch:
                 f.write(analyze_and_rename(raw_cfg, source_ch) + "\n\n")
 
-    save_output('configs.txt', get_rotated_batch(ROTATION_LIMIT))
-    save_output('configs2.txt', get_rotated_batch(ROTATION_LIMIT_2))
-    save_output('configs3.txt', unique_pool[-ROTATION_LIMIT_3:])
-    save_output('configs4.txt', [item for item in unique_pool if now - float(item[0]) < 300])
+    save_output('1.txt', get_rotated_batch(ROTATION_LIMIT))
+    save_output('2.txt', get_rotated_batch(ROTATION_LIMIT_2))
+    save_output('3.txt', unique_pool[-ROTATION_LIMIT_3:])
+    save_output('4.txt', [item for item in unique_pool if now - float(item[0]) < 300])
 
     # بروزرسانی دیتابیس (بدون پاکسازی، فقط حذف منقضی شده‌ها)
     with open('data.temp', 'w', encoding='utf-8') as f:
