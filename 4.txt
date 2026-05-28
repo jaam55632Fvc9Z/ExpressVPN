@@ -6,3 +6,9 @@ vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?path=%2F&security
 
 trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=safari&type=ws&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.90.66.7:443?encryption=none&type=ws&security=tls&path=%2F&sni=glorious-space-spork-5v7rgxpjqrr2v5qp-443.app.github.dev&allowInsecure=0#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.103.221.187:443?encryption=none&type=ws&security=tls&path=%2F&sni=glorious-space-spork-5v7rgxpjqrr2v5qp-443.app.github.dev&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5e8c894b-1efa-48d4-85ee-9daf5d574c16@45.130.125.69:2096?encryption=none&type=grpc&security=tls&serviceName=irannewsdaily.com.hamshahrionline.ir.irdiplomacy.ir.irandaily.ir.alef.ir.rajanews.com.irannewsdaily.com&sni=bad-AppLicatIon22nBd8j5OK.CArBoNbLaCkBmw.Ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%A8%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
