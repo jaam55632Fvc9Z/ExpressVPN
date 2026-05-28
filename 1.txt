@@ -1,24 +1,8 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
-vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@78.153.155.205:8443?type=tcp&security=reality&sni=www.google.com&flow=xtls-rprx-vision&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@c23.prodnsspeed10.ir:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=bloue-tr.gozarcloud.ir&type=xhttp&allowInsecure=0&sni=bloue-tr.gozarcloud.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?type=tcp&security=reality&sni=fuck.rkn&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-trojan://bz7wxcwx-p4oi-4bnw-h6c5-tq95mzecuuo0@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://vh3uqi6w-bct0-i7tz-s8yc-9tzap1046d70@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://v3ze2eyw-ak9h-fzjz-06qs-3g821st7jxsb@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://4371ad14-b981-4699-bedf-83fb79bde3e6@176.108.242.76:443?type=tcp&security=reality&sni=www.vkvideo.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=6354585c37827955#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-trojan://3y4myy08-h80e-ds57-7d00-lnrrxp8qwjmk@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://8zv0hhj4-ahl7-zbph-95ns-on8ocpvhlddb@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://t7n9uqh1-ianh-rhc9-bjln-bpvfu8m0si55@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://14818654-7689-453a-9a1f-4c72f89782d5@nl-amst-node.genadata.online:2040?type=tcp&security=reality&sni=tradingview.com&fp=chrome&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@172.66.128.70:2052?type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&path=%2F%3Fed#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://a03b375d-93b1-4cbc-e35f-f83af1f9c84e@myanmar.com:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=freebypass.wt4p2ppro.me&fp=chrome&type=ws&sni=freebypass.wt4p2ppro.me#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -62,5 +46,13 @@ vmess://eyJhZGQiOiAiMTcyLjIzMy4xNy43NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.12.75.30:8880?type=ws&security=none&path=/&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://8f9c17b0-0a00-4ffb-a82d-007caf1e0743@snapp.ir:80?type=ws&path=%2F&host=kabotar.garfar.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://213426db-afb7-48d1-ae51-5093317212df@172.64.152.23:2087?path=%2F&security=tls&encryption=none&insecure=0&host=iopl90nn.bingnet.online&fp=chrome&type=ws&allowInsecure=0&sni=iopl90nn.bingnet.online#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@chatgpt.com:2083?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Love&allowInsecure=0&sni=blouck-de.gozarcloud.ir#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@c27.prodnsspeed10.ir:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=black-de.gozarcloud.ir&type=xhttp&allowInsecure=0&sni=black-de.gozarcloud.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fc5e2e68-b416-49bb-a689-61032faf7fcf@172.64.152.23:8443?encryption=none&%3Bsecurity=tls&%3Bsni=backup.f-sub.cfd&%3Bfp=chrome&%3Balpn=h2%2Chttp/1.1&%3Binsecure=1&%3BallowInsecure=1&%3Btype=ws&%3Bhost=backup.f-sub.cfd&%3Bpath=/#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
