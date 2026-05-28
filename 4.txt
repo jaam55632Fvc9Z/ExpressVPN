@@ -20,3 +20,7 @@ vless://dc163737-386e-452e-8803-6fab8acb8a33@varzesh3.com:80?encryption=none&sec
 
 vless://f7addfa5-c21e-452c-a8d3-3beb3de5b79e@45.32.237.122:47407?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://94162405-33eb-4073-bad0-311408bcfbd1@91.107.175.24:443?encryption=none&security=tls&sni=91.107.175.24&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&path=%2Fhtup#%F0%9F%87%A9%F0%9F%87%AA%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://53f32e75-39d3-4b64-b601-5664d7a38b60@it1.connectsuite.org:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
