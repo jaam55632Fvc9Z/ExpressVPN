@@ -14956,3 +14956,25 @@ trojan://mitivpn@104.18.32.47:8443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2
 
 trojan://mitivpn@104.18.32.47:2096?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&sni=www.app-cloud.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://26524cce-d514-4014-a426-365fb266a14d@46.8.226.15:443?security=tls&type=ws&path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvl&host=i8dxb.media-cdn-us.chinav.indevs.in&sni=i8dxb.media-cdn-us.chinav.indevs.in&fp=firefox&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://26524cce-d514-4014-a426-365fb266a14d@103.100.158.202:443?security=tls&type=ws&path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvl&host=i8dxb.media-cdn-us.chinav.indevs.in&sni=i8dxb.media-cdn-us.chinav.indevs.in&fp=firefox&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ff75acb0-3fec-4c18-815e-3c24f918d78b@84.201.172.166:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&sid=3c1523da43287ec4&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.209.231:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%B1%F0%9F%87%BB%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@3.65.4.245:22223?sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://mitivpn@14.102.228.76:443?sni=www.app-cloud.ir&allowInsecure=1&type=ws&path=%2F%3Fed%3D2048&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c26afe5b-d730-44ee-a081-5297e95442ea@ws.chatgpt.com:80?encryption=none&type=xhttp&path=%2F&host=uegeusus-18181811.maxgh5766.ir.&mode=packet-up&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://033c77e1-a250-42d9-9602-41cff0c29581@37.152.187.85:10439?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiNDUuMTQyLjE4OC40MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYTkwZTdiMWYtYWM4My00MWYzLTliODctY2ExMzk4ODMwNDE2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjMxMjg2IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://90994ad7-b4db-4b98-973c-4d424e77e258@snapp.ir:80?path=%2F&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=@configprxy#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
