@@ -18,3 +18,21 @@ vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?path=%2F&security
 
 vless://kire-amir-to-kone-pasha-test@45.130.125.76:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=irani.dorostify.com&path=%2Fir&security=tls&sni=irani.dorostify.com&type=ws#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://1dffe075-634c-4e8c-8d60-810552da355e@3.215.180.114:2085?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=play.google.com&fp=firefox&pbk=KR_f-E_pR8kfCW3Su1tjR3FWRtpcYAn_ajfKjiPZAAQ&sid=ec8926fc13a19d95#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@45.130.125.160:443?path=%2F&security=tls&encryption=none&insecure=0&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=0&sni=sni.skylee4.cloudns.ch#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://3a785934-ca53-49f2-82ae-b77fabfb29cf@45.130.125.160:2053?path=%2F%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=3wZrJxpkNJ.rz0045er.ir.&fp=chrome&type=ws&allowInsecure=0&sni=pass68future.rz0045er.ir#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://saministamm@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://33ws1asxa8vmbehw@snapp.ir:80?path=%2F&security=none&host=web.maxisup.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ada4ea8a-41d8-41b2-bcf5-9bf961b7d676@45.130.125.69:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn12.kaiserping.site&fp=chrome&type=ws&allowInsecure=0&sni=cdn12.kaiserping.site#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://bf552658-6b12-4dd6-97f2-d7422e83ebd3@91.198.110.181:8082?mode=auto&path=%2F&security=none&encryption=none&host=a1.maxilium.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://1dffe075-634c-4e8c-8d60-810552da355e@45.81.58.159:2053?security=tls&type=ws&headerType=&path=%2Fdashfair%3Fed%3D2560&host=dancingwithourhandstied.fairit.ir&sni=c68872a273b00960.fairit.ir&fp=firefox&alpn=h2#%F0%9F%8C%90%20WS-TLS%20%7C%20%40saministamm
+
+trojan://UnNurmal@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnNurmal
+
