@@ -48,3 +48,25 @@ vless://bc5bdae2-290b-4473-8af5-612f0acfb4d3@snapp.ir:80?path=%2F&security=none&
 
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?path=%2Fproxy&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dongjing4.zqjsqapi.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40UnNurmal
 
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.69:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.112:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@43.170.25.96:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@37.120.188.105:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.138:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@47.250.212.59:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#%F0%9F%87%B2%F0%9F%87%BE%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.77.206.201:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@91.239.23.10:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#%F0%9F%87%B1%F0%9F%87%BB%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5678b00f-9ed6-4982-9f8a-1a7306e25126@162.217.249.74:48748?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40BigSmoke_Config
+
+vless://%40IR_NETLIFY@ksmd.lol:666?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://b5a850cc-c323-4db9-8a2a-46f250591c7c@84.32.51.137:443?security=reality&encryption=none&pbk=Abv_GBHT7hWs6pm7h9DC83-TvYXCa7gryqC296DRM1c&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=3480570f03d0a601#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
