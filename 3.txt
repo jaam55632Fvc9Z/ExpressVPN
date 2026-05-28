@@ -17310,3 +17310,29 @@ vless://3ffe4958-ab4a-475e-b26b-622e99148293@jobvision.ir:80?path=%2Fpath&securi
 
 vless://3ffe4958-ab4a-475e-b26b-622e99148293@jobvision.ir:80?security=none&type=ws&headerType=&path=%2Fpath&host=info.geo-cpanel.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40mitivpnir
 
+vless://66265232-e176-4c29-b133-8260c9dcb0a3@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://16ea7949-0ac7-4ebd-ac67-a41fb58fdf62@a5niexkn4bb7.dop14.com:443?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@45.130.125.76:2053?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@104.17.121.71:2053?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@104.18.32.47:2053?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a6bdf293-c3b0-4b8f-9a70-528874376f62@104.17.121.71:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&host=my.pars-cdn.ir&fp=chrome&type=xhttp&sni=my.pars-cdn.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@216.24.57.6:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://3ffe4958-ab4a-475e-b26b-622e99148293@jobvision.ir:80?path=%2Fpath&security=none&encryption=none&host=info.geo-cpanel.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d07032bf-b8af-47b8-a9b9-12efe64f9ede@3.123.255.38:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfWTlXczRuUll3Mnk4Q3RHTERNWi1IbUV0alNXLXU0Ng@vip.tekcloud.site:20900#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.90.66.7:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=cuddly-space-fortnight-4qjqppq6gxxrfqpw7-443.app.github.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://IRGC@136.244.104.7:114?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://YWVzLTI1Ni1nY206NjMyYWVjYmYtY2JhNi1hODc2LWFmOGUtNzJmYTMzMjEyMWU1@341339989853.international-ixp.com:11601?#%F0%9F%8C%90%20TCP-None%20%7C%20%40Va3lSho
+
