@@ -16190,3 +16190,23 @@ vless://45c718b7-4d4c-44ee-8645-df1e1d44f571@dl7.okarimi.ir:2053?security=tls&en
 
 vless://45c718b7-4d4c-44ee-8645-df1e1d44f571@dl6.okarimi.ir:2053?security=tls&encryption=none&host=dl1.rayantarh.com&type=ws&sni=dl1.rayantarh.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://70ba8d40-3796-4dd9-82ba-93e295f53cc0@136.244.104.232:54711?encryption=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWFINm51L2prWm1ZdXNrVkpXekdKUT09OkpuMUtUUFFKZ21FMGhWRVBDRG5qL1E9PQ@5.160.47.220:443#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://a6bdf293-c3b0-4b8f-9a70-528874376f62@104.17.121.71:443?encryption=none&type=xhttp&security=tls&path=%2F&host=my.pars-cdn.ir&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&sni=my.pars-cdn.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5b6e7300-8fc8-404e-8dc9-40a5393dd881@45.130.125.160:80?encryption=none&type=ws&path=%2FXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn%3Fed%3D2560&host=line.smartphone1.azazilvpn.sbs#%F0%9F%87%B8%F0%9F%87%A8%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://0e9b2a9f-4ecf-448c-b9ea-9abfc4c77953@104.18.32.47:2096?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&authority=&fp=chrome&type=grpc&serviceName=alalamtv.net.isna.ir.asriran.com.isna.ir.financialtribune.com.irna.ir.jamejamonline.ir&sni=BeWIlDEred-mATHXUj61KQKOI.caRBONblackbmw.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://90329e5a-b769-4c78-9eec-38714460cf82@45.130.125.76:2086?path=%2F&security=none&encryption=none&host=war2.unlimiteddev-service2881.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3bbacc1e-8b36-467b-8b81-27ad9578b6bc@170.168.7.63:443?path=%2Fsefidaws&security=tls&encryption=none&host=vps.masir-sefid-5.shop&fp=chrome&type=ws&sni=vps.masir-sefid-5.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://45c718b7-4d4c-44ee-8645-df1e1d44f571@dl6.okarimi.ir:2053?security=tls&encryption=none&insecure=0&host=dl1.rayantarh.com&type=ws&allowInsecure=0&sni=dl1.rayantarh.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://70ba8d40-3796-4dd9-82ba-93e295f53cc0@136.244.104.232:54711?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWFINm51L2prWm1ZdXNrVkpXekdKUT09OkpuMUtUUFFKZ21FMGhWRVBDRG5qL1E9PQ%3D%3D@5.160.47.220:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
