@@ -34,3 +34,23 @@ vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@s3.iran-ahwaz.ir:1212?encryption=no
 
 vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@ikco.ir:2052?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=s1.ahwaz-game.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://c575c0fd-4833-4cba-937d-2342fd32544b@45.130.125.69:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=de.fbase.cc.cd#%F0%9F%87%B8%F0%9F%87%A8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g1.steptofreedom.one:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=g1.steptofreedom.one&sid=6d6f13013d3e1d0c#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c575c0fd-4833-4cba-937d-2342fd32544b@45.130.125.69:443?mode=stream-one&path=%2Fdev%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=de.fbase.cc.cd&fp=chrome&type=xhttp&sni=de.fbase.cc.cd#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Free_World2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHbXpWNnRVbXotaDZqQm1uc2t5WU82YzZFUTFFT2dXVg==@10101:1080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@s4.iran-ahwaz.ir:1212?encryption=none&security=none&type=tcp&headerType=http&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@s2.iran-ahwaz.ir:1212?encryption=none&security=none&type=tcp&headerType=http&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://bd65ca43-4604-4f5c-99be-4c21ed3e2faa@vip.subrexo.com:38850?path=%2F&security=none&encryption=none&host=vip.subrexo.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://f9a37232-5c81-4004-b158-1f803699f039@vip.subrexo.com:54394?path=%2F&security=none&encryption=none&host=vip.subrexo.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAic3B0LnJlYXRhLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhZjVhMDFjZi1mNGRlLTQ2YTctOTgzYi01ZTBjYTc5NzAyMWMiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTA1MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+
