@@ -10,3 +10,11 @@ vless://94d665f4-ec0c-4f8f-83f7-861c4e8de312@45.63.18.87:80?type=tcp&encryption=
 
 vless://%40IR_NETLIFY@mr-x-shop.ir:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
+vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?security=reality&encryption=none&echfq=none&pbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yahoo.com&sid=8735#%F0%9F%87%B3%F0%9F%87%B4%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.21:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=clou…#None%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://masirsefid@104.16.80.73:443?mode=auto&path=%2Fmkolsjdeds&security=tls&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=1&host=vps.smamin.com&type=xhttp&allowInsecure=1&sni=vps.smamin.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40proxymaann
+
+vless://InternetAzadRobot@165.215.250.14:2087?encryption=none&type=xhttp&security=tls&path=%2Flogin&host=ws.kheybar.store&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22Accept-Encoding%22%3A%22gzip%2C+deflate%2C+br%22%2C%22Accept-Language%22%3A%22en…#None%20XHTTP-TLS%20%7C%20%40VIPV2rayNGNP
+
