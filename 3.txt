@@ -15528,3 +15528,13 @@ vless://33cdc2c3-c680-41f2-96aa-2583a0b3d4cf@169.40.5.41:443?security=reality&en
 
 vless://f1d3f59a-3226-48e5-ab65-f5a6a578a310@app1.hostingsarv.ir:443?path=%2Fsarv&security=tls&encryption=none&alpn=http/1.1,h2&host=app1.hostingsarv.ir&fp=firefox&allowinsecure=0&type=ws&sni=app1.hostingsarv.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://aa5e25fc-c7d7-4e6e-b7f7-105a35c0175a@tamin.ir:80?path=%2F&security=none&encryption=none&host=tr1.kianorbit.ir&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@snapp.ir:8880?path=%2F&security=none&encryption=none&host=cd.ahwaz-game.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d4645dac-c05c-4902-bdf6-757f7abc2dfb@varzesh3.com:80?encryption=none&security=none&type=ws&host=secondary.meri-ili.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://88ae4a81-1770-47bd-926d-17372dc84931@185.226.140.140:2086?encryption=none&security=none&type=ws&host=polelelo.sbs&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://dbcc7a85-addb-4e2c-afbb-902845488654@185.226.140.140:2086?encryption=none&security=none&type=ws&host=polelelo.sbs&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
