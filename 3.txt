@@ -17554,3 +17554,21 @@ vless://cca617a2-ede0-4855-a2ef-cc7f218ba75d@long-forest.ru:443?security=reality
 
 vless://c21b3b73-b671-47f8-b0a8-4a75e687b9d2@95.179.140.164:19857?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+trojan://Mitivpn@104.17.121.71:443?path=%2F%3Fed%3D2048&security=tls&insecure=1&host=cdn.hitgram.ir&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://cf07f53c-e494-44e2-b25f-7c9e9196d0b7@185.143.233.5:2052?encryption=none&host=p1.sesrsa.com&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@216.24.57.7:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=cdn.hitgram.ir#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://f899a410-efab-4b58-8364-9aaa9ba372e1@104.18.139.67:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&host=cartoon.hozheen.ir&fp=chrome&type=ws&sni=cartoon.hozheen.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@216.24.57.7:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40NETMelliAnti
+
+trojan://Mitivpn@45.130.125.76:443?path=%2F%3Fed%3D2048&security=tls&insecure=1&host=www.hitgram.ir&type=ws&allowInsecure=1&sni=www.hitgram.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://Mitivpn@104.18.32.47:2053?path=%2F%3Fed%3D2048&security=tls&insecure=1&host=dash.hitgram.ir&type=ws&allowInsecure=1&sni=dash.hitgram.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://d6c7779c-1ac5-40ef-c0d8-6c952bb9032e@melimtn.piroowat.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=panel8.piroowat.com&fp=chrome&type=ws&allowInsecure=0&sni=panel8.piroowat.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbDZjWWZYTTVEelFiZHRNTWI3MkFfanFWbk5salUzeXFl@149.104.109.74:21273#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
