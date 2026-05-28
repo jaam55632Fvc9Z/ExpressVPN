@@ -2,25 +2,13 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://a6bdf293-c3b0-4b8f-9a70-528874376f62@104.17.121.71:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&insecure=1&host=my.pars-cdn.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=my.pars-cdn.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%AC%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://6aecfefe-f873-4461-8a18-ca4ebbbfae93@2.26.98.185:4443?path=%2Fhtup&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=httpupgrade&allowInsecure=0&sni=2.26.98.185#%F0%9F%87%A9%F0%9F%87%AA%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6aecfefe-f873-4461-8a18-ca4ebbbfae93@2.26.98.185:4443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=2.26.98.185#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://27302727-9dfa-4975-990e-88c7a63747cd@199.34.228.77:443?path=%2F&security=tls&encryption=none&insecure=0&host=hi-wg.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=hi-wg.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://27302727-9dfa-4975-990e-88c7a63747cd@63.141.128.3:443?path=%2F&security=tls&encryption=none&insecure=0&host=ws-x1.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=ws-x1.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e258977b-e413-4718-a3af-02d75492c349@81.255.154.10:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.7:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://489b2ec1-7a65-4f14-b1d2-7ba16e59d6a2@45.130.125.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pahlevan.pahlevancompani.com&fp=chrome&type=ws&allowInsecure=0&sni=pahlevan.pahlevancompani.com#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://489b2ec1-7a65-4f14-b1d2-7ba16e59d6a2@104.17.121.71:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pahlevan.pahlevancompani.com&fp=chrome&type=ws&allowInsecure=0&sni=pahlevan.pahlevancompani.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:2053?mode=auto&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=xhttp&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://853be1a7-7d16-4a01-8347-0a09ff14f536@vshah.alishserv.top:49027?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=soft98.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://dc163737-386e-452e-8803-6fab8acb8a33@bmi.ir:80?security=none&allowInsecure=0&encryption=none&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
 
