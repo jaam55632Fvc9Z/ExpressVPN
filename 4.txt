@@ -12,3 +12,27 @@ vless://938a7106-f76e-4c4a-af56-5f3d6d114cff@136.244.80.155:443?security=tls&enc
 
 vless://03fa2758-626f-47c7-ac66-5c549e4f4ce0@116.203.138.13:443?mode=stream-one&path=%2Fstreamio&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%273%27%7D%7D&host=dir.antidogm.xyz&type=xhttp&sni=dir.antidogm.xyz#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
+trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=www.hitgram.ir&sni=www.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://14b41f88-df39-4bca-a22e-2a6a5dea7ad1@38.107.237.116:18995?encryption=none&fp=chrome&pbk=zW-FfOdEGTr12KXnlbJ6hZyPm_MzQJHoTHtZ5NM9Lk8&security=reality&sid=3abfc379af18&sni=www.yahoo.com&spx=%2FzUZsQFN5IgvFfjv&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://9e0c0ec9-ae5c-448e-95aa-e39bfde9622a@95.179.140.164:19857?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c08e4a49-5582-4e3a-b4b3-fc2bec1fd7df@209.250.245.206:37385?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://5c4d0f74-85b1-457a-adb3-414c8339707d@104.18.139.67:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=cartoon.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=cartoon.hozheen.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://5c4d0f74-85b1-457a-adb3-414c8339707d@31.43.179.111:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=256828fc03386e94.hozheen.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://7576eec5-728b-4ab7-9e9b-8e1b4ef05a5e@193.151.140.29:42525?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://Mitivpn@216.24.57.7:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=www.hitgram.ir&fp=chrome&type=ws&sni=www.hitgram.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+trojan://Mitivpn@216.24.57.7:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=cdn.hitgram.ir&fp=chrome&type=ws&sni=cdn.hitgram.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
