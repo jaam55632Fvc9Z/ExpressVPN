@@ -13924,3 +13924,13 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?security=tls&alpn=
 
 trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://d5f6f47b-a98f-4489-918e-88bb9d9967d4@ssbd.freewayorg.net:8080?encryption=none&host=moz.tecnotech.ir&path=%2Fmoz&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d5f6f47b-a98f-4489-918e-88bb9d9967d4@snapp.ir:8080?encryption=none&host=moz.tecnotech.ir&path=%2Fmoz&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ab4e082d-cd89-48ea-8de6-48c0618baedf@185.143.233.235:443?path=%2Fapi%2Fv3%2Fstream&security=tls&encryption=none&insecure=1&host=ns.vaslpro.com&fp=chrome&type=ws&allowInsecure=1&sni=ns.vaslpro.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://7198574b-8eb0-4a25-be3e-e4dc4a96bf45@panel.rahaanet.ir:45749?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://masirsefid@45.130.125.76:443?mode=auto&path=%2Fmkolsjdeds&security=tls&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=vps.smamin.com&allowinsecure=0&type=xhttp&sni=vps.smamin.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
