@@ -2,20 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-ss://2022-blake3-aes-256-gcm:NWRbLv+NIz5+zssu7nxk+fCw7wDHYLFbWy4m3Ey7Oo0=%3AMIedpwLQ84+CGETW0tfC0TR8HVAsw5A1sI+Lj+0iEyk=@91.107.247.25:8083#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://3cbd560c-8063-4671-835b-47ba18a0f05f@199.232.57.91:80?path=%2F%3Fed&security=none&encryption=none&host=jookeji.global.ssl.fastly.net&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://InternetAzadRobot151.101.1.57:80?mode=auto&path=%2Flogin&security=none&encryption=none&host=tignalz.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
-
-vless://8de0eac3-73c5-4d81-a26b-8816d4e827f1@95.179.134.159:80?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://e85e5523-402e-4eb0-ad27-2bcdbd4ea0f4@212.47.244.85:16595?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://bd872608-c747-4e04-9357-6c6577e79fd8@sv6.zarghamweb.ir:20804?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=parsi.zarghamportal.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
-vless://bd872608-c747-4e04-9357-6c6577e79fd8@sv4.zarghamweb.ir:64828?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=parsi.zarghamportal.ir&fp=chrome&type=ws&allowInsecure=0&sni=parsi.zarghamportal.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 vless://bd872608-c747-4e04-9357-6c6577e79fd8@sv5.zarghamweb.ir:54746?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=parsi.zarghamportal.ir&fp=chrome&type=ws&allowInsecure=0&sni=parsi.zarghamportal.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://bd872608-c747-4e04-9357-6c6577e79fd8@anten.ir:2099?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
@@ -60,15 +46,23 @@ vless://e234245f-b66e-4eef-b8cb-6298500221ba@165.215.250.14:443?mode=auto&path=%
 
 vless://90bc3542-678f-4d08-afc2-4adf1c6f44bd@a1.hamrahnode.ir:2053?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=op1.x-upload.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://ff9177e6-7609-4d9c-a3f8-3e91bb0f7da6@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.30:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=%2Fmehdi#%F0%9F%87%A6%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://7fad1bad-4930-464c-9516-b1dee556b9f9@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.31:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=%2Fmehdi#%F0%9F%87%A6%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://c16c1cc7-62d3-48cb-9aba-58db58bf9b7a@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+vless://09627a91-8d28-4bc3-b409-6359002d8fbb@18.185.37.5:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+vless://90bc3542-678f-4d08-afc2-4adf1c6f44bd@a1.hamrahnode.ir:2053?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=op1.x-upload.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCAibmV0IjogInRjcCIsICJwYXRoIjogIj9lZD0yMDQ4QEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTi0tQEhpQnllVlBOTiIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBUQ1AtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+trojan://masirsefid@104.16.80.73:443?type=xhttp&security=tls&path=%2Fmkolsjdeds&host=vps.smamin.com&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=vps.smamin.com&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+trojan://masirsefid@162.159.60.192:443?type=xhttp&security=tls&path=%2Fmkolsjdeds&host=vps.smamin.com&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=vps.smamin.com&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://e7798dd4-cadc-43e2-933c-7a3ee236c164@185.14<۰#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://bd872608-c747-4e04-9357-6c6577e79fd8@sv6.zarghamweb.ir:20804?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=parsi.zarghamportal.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://bd872608-c747-4e04-9357-6c6577e79fd8@sv4.zarghamweb.ir:64828?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=parsi.zarghamportal.ir&fp=chrome&type=ws&allowInsecure=0&sni=parsi.zarghamportal.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
