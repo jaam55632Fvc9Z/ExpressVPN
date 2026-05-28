@@ -17714,3 +17714,9 @@ vless://34794988-1666-4489-bdc3-0cea439306e7@snapp.ir:2095/?type=ws&encryption=n
 
 vless://aff20fc0-3dea-4b1b-8e26-5bf68802530b@password.f1qwert.ir:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=password.f1qwert.ir&fp=chrome&type=ws&sni=password.f1qwert.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40proxy_tunnel
 
+vless://c326dcd2-9914-4b8a-a2ed-4d15d43cfcea@95.179.140.164:19857?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://da0948ac-6249-47c6-80e6-bf9e5d87d07b@95.179.140.164:19857?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vmess://eyJhZGQiOiAiNDUuMTMwLjEyNS43NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJ3SW4uQ2NObnguSVIiLCAiaWQiOiAiNzhlNjQxMTctZmIyNC00ZTMyLWFkYWEtNzg4YWI3ODc2Y2QzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0B2MnJheWRpYS0tQHYycmF5ZGlhLS1AdjJyYXlkaWEtLUB2MnJheWRpYS0tQHYycmF5ZGlhLS1AdjJyYXlkaWEtLUB2MnJheWRpYS0tQHYycmF5ZGlhLS1AdjJyYXlkaWEtLUB2MnJheWRpYSIsICJwb3J0IjogIjIwODciLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAid0luLkNjTm54LklSIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+
