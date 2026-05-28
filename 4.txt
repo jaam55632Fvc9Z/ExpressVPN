@@ -18,3 +18,9 @@ vless://38622ab0-30b3-4458-9f60-f026737a0811@snapp.ir:80?path=%2F&security=none&
 
 vless://58abb273-16cb-4115-907e-3cf05e885ca2@snapp.ir:80?path=%2F&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://2f792a89-91ea-4a7b-8cae-43caf2b1eb95@a.bia2goni.site:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=h1.ihoma.site&sni=h1.ihoma.site&fp=chrome&alpn=h3,h2,http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://2f792a89-91ea-4a7b-8cae-43caf2b1eb95@b.bia2goni.site:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=h1.ihoma.site&sni=h1.ihoma.site&fp=chrome&alpn=h2,http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://2f792a89-91ea-4a7b-8cae-43caf2b1eb95@c.bia2goni.site:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=h1.ihoma.site&sni=h1.ihoma.site&fp=chrome&alpn=h2,http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
