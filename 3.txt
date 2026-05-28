@@ -16112,3 +16112,7 @@ vless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?path=%2F&security
 
 vless://ea270277-c86e-4b79-b5ab-a998c7008031@geeeer.greewebservices.ir:2202?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:2053?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=xhttp&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
