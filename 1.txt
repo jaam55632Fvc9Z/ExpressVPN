@@ -2,6 +2,14 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://08c9fe19-9584-454e-8122-6b9572935ea9@185.143.233.5:2052?encryption=none&host=p1.sesrsa.com&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://5f0bc671-471a-457e-a19a-4214473ce29e@45.63.18.87:80?type=tcp&encryption=none&security=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://94d665f4-ec0c-4f8f-83f7-861c4e8de312@45.63.18.87:80?type=tcp&encryption=none&security=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
+
 vless://%40IR_NETLIFY@mr-x-shop.ir:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?security=reality&encryption=none&echfq=none&pbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yahoo.com&sid=8735#%F0%9F%87%B3%F0%9F%87%B4%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -60,19 +68,11 @@ vless://a03c3684-d9b2-4b6b-890e-2fdad128416c@18.158.242.102:443?security=none&en
 
 ss://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=%2Fde&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=de.lezzatzone.ir&fp=chrome&type=xhttp&sni=de.lezzatzone.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
-vless://b1f99cd9-0b45-4cf1-8117-930fd1557473@104.17.144.16:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=lingering-star-1086.wixal14993.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://4b616b6f-6f6c-4e65-7773-cf2ebcc133f8@20.103.221.187:443?encryption=none&security=tls&sni=reimagined-acorn-p7j76jjx4rj6h7xw4-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://b1f99cd9-0b45-4cf1-8117-930fd1557473@162.159.60.192:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=lingering-star-1086.wixal14993.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://4b616b6f-6f6c-4e65-7773-cf2ebcc133f8@20.90.66.7:443?encryption=none&security=tls&sni=reimagined-acorn-p7j76jjx4rj6h7xw4-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://b1f99cd9-0b45-4cf1-8117-930fd1557473@104.17.150.200:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=lingering-star-1086.wixal14993.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://9fcfbe37-eea0-4c76-8784-327b34a6ce5b@cd2.phoneshop98.ir:2053?encryption=none&type=ws&security=tls&path=%2Fws%3Fed%3D2560&host=c2.pcapps.ir&sni=c2.pcapps.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://b1f99cd9-0b45-4cf1-8117-930fd1557473@cf.877771.xyz:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=lingering-star-1086.wixal14993.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.189:8080#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://08c9fe19-9584-454e-8122-6b9572935ea9@185.143.233.5:2052?encryption=none&host=p1.sesrsa.com&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://5f0bc671-471a-457e-a19a-4214473ce29e@45.63.18.87:80?type=tcp&encryption=none&security=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://94d665f4-ec0c-4f8f-83f7-861c4e8de312@45.63.18.87:80?type=tcp&encryption=none&security=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=hkg1.fromblancwithlove.com#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 

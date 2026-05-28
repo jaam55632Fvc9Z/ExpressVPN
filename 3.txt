@@ -13914,3 +13914,13 @@ vless://a03c3684-d9b2-4b6b-890e-2fdad128416c@18.158.242.102:443?security=none&en
 
 ss://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=%2Fde&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=de.lezzatzone.ir&fp=chrome&type=xhttp&sni=de.lezzatzone.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://4b616b6f-6f6c-4e65-7773-cf2ebcc133f8@20.103.221.187:443?encryption=none&security=tls&sni=reimagined-acorn-p7j76jjx4rj6h7xw4-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4b616b6f-6f6c-4e65-7773-cf2ebcc133f8@20.90.66.7:443?encryption=none&security=tls&sni=reimagined-acorn-p7j76jjx4rj6h7xw4-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9fcfbe37-eea0-4c76-8784-327b34a6ce5b@cd2.phoneshop98.ir:2053?encryption=none&type=ws&security=tls&path=%2Fws%3Fed%3D2560&host=c2.pcapps.ir&sni=c2.pcapps.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=hkg1.fromblancwithlove.com#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
