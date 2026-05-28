@@ -16820,3 +16820,9 @@ vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?encryption=none
 
 trojan://mitivpn@14.102.228.76:443?type=ws&security=tls&path=%2Fhttp%2F1.1&sni=www.app-cloud.ir&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://526be552-290f-47b1-9a61-a13da8a0a43b@bmi.ir:80?path=%2F&security=&encryption=none&host=fi1.kianorbit.ir&type=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://a05f8278-d521-4652-bfb9-2b8dbe6b3102@a2.hamrahnode.ir:2053?encryption=none&type=ws&security=tls&path=%2F&sni=op2.x-upload.org&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=de1.fromblancwithlove.com&fp=chrome&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
