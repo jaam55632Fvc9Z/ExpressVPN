@@ -2,6 +2,16 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=TRM.xuiprospeed.ir&mode=multi&sni=TRM.xuiprospeed.ir#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=didi.xuiprospeed.ir&mode=auto&sni=didi.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@45.131.6.203:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=fr.xuiprospeed.ir&mode=auto&sni=fr.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A7%F0%9F%87%BF%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=AR2.xuiprospeed.ir&mode=auto&sni=AR2.xuiprospeed.ir&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=DeS.xuiprospeed.ir&mode=multi&sni=DeS.xuiprospeed.ir&alpn=h2%2Chttp%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=fr.xuiprospeed.ir&mode=multi&sni=fr.xuiprospeed.ir#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=TRM.xuiprospeed.ir&mode=auto&sni=TRM.xuiprospeed.ir#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
@@ -68,31 +78,7 @@ vless://05b1577f-7d86-42e9-b6e4-162d304a0e32@snapp.ir:2052?security=none&allowIn
 
 vless://05b1577f-7d86-42e9-b6e4-162d304a0e32@snapp.ir:2052/?type=ws&encryption=none&path=%2F&host=de31.fastplus11.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
-vless://c44510cf-e271-401b-8a52-6010ab7609dd@209.250.245.206:37385?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://Mitivpn@5.10.214.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%B2%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://Mitivpn@5.10.214.56:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=www.hitgram.ir&sni=www.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%B2%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://Mitivpn@5.10.214.54:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%B2%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://34794988-1666-4489-bdc3-0cea439306e7@snapp.ir:2095?security=none&allowInsecure=0&encryption=none&type=ws&host=de31.fastplus11.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://Mitivpn@5.10.214.56:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#%F0%9F%87%A6%F0%9F%87%B2%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://5d97adc4-7070-4c67-9bd6-77261746462a@snappfood.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=arvan.ihoomayon.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://1811f7ca-d39e-4a51-91b5-82fd8d31399d@snapp.ir:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=na.avenflow.ir%F0%9F%87%AB%F0%9F%87%AE%D9%86%D8%AA%20%D9%85%D9%84%DB%8C#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g1.steptofreedom.one:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=g1.steptofreedom.one&sid=6d6f13013d3e1d0c#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=kUU.xuiprospeed.ir&mode=multi&sni=kUU.xuiprospeed.ir#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=TRM.xuiprospeed.ir&mode=multi&sni=TRM.xuiprospeed.ir#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=didi.xuiprospeed.ir&mode=auto&sni=didi.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@45.131.6.203:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=fr.xuiprospeed.ir&mode=auto&sni=fr.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A7%F0%9F%87%BF%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=AR2.xuiprospeed.ir&mode=auto&sni=AR2.xuiprospeed.ir&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://091fd4c7-4fec-49b2-a4e9-0000ca857dc3@50.62.198.124:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=DeS.xuiprospeed.ir&mode=multi&sni=DeS.xuiprospeed.ir&alpn=h2%2Chttp%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
 
