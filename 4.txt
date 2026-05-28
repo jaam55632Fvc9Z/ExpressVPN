@@ -12,3 +12,7 @@ vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.244:443?security=tls&encr
 
 vless://aca0b821-0511-4f86-9ac3-95a0441d0ed5@snapp.ir:80?type=ws&path=%2F&host=kabotar.garfar.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://e258977b-e413-4718-a3af-02d75492c349@81.255.154.10:443?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://%40xniceshop@tr.xniceping.ir:666?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Outline_ir
+
