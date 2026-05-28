@@ -13246,3 +13246,13 @@ vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@104.20.1.252:80?path=/?ed&security=
 
 vless://b50e741b-c80f-4e3c-b55d-ab9480603dc3@tlsapi.abrdata.com.tr:1000?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=aparat-stream&allowInsecure=0&sni=tlsapi.abrdata.com.tr#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTEdDUG5qMldnenhYMUllZFc4eWQ3dHJ3UmxYcWpMYQ==@vip9.myspacex.shop:443#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://68496179-5d08-446b-8e6b-ad1d8285d54c@www.vidboxco.ir:443?security=tls&type=ws&headerType=&path=%2F&host=de-fd-px.iranvatanam.com&sni=de-fd-px.iranvatanam.com&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://68496179-5d08-446b-8e6b-ad1d8285d54c@wwww.vidboxco.ir:8443?security=tls&type=ws&headerType=&path=%2F&host=&sni=main-fd-px.iranvatanam.com&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://68496179-5d08-446b-8e6b-ad1d8285d54c@ww.vidboxco.ir:2053?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2052&host=de-fd-npx.iranvatanam.com&sni=de-fd-npx.iranvatanam.com&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://68496179-5d08-446b-8e6b-ad1d8285d54c@104.18.13.149:2053?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2052&host=nl-fd-px.iranvatanam.com&sni=nl-fd-px.iranvatanam.com&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
