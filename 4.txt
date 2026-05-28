@@ -18,3 +18,25 @@ trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=%2Fassignment&hos
 
 vless://InternetAzadRobot@165.215.250.14:2087?encryption=none&type=xhttp&security=tls&path=%2Flogin&host=ws.kheybar.store&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22Accept-Encoding%22%3A%22gzip%2C+deflate%2C+br%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Cache-Control%22%3A%22no-cache%22%2C#None%20XHTTP-TLS%20%7C%20%40ConfigX2ray
 
+vless://a194c6a9-152c-4463-994a-9eb141ecb3fe@vip3.marzxo.sbs:1002?mode=gun&security=tls&alpn=http/1.1&encryption=none&fp=firefox&type=grpc&serviceName=yourServiceName&sni=panel.vip.marzxo.sbs#%F0%9F%87%AE%F0%9F%87%B7%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://irconfiig@104.18.20.213:443?path=%2Fpoliaubshd&security=tls&host=vps.smamin.com&allowinsecure=0&type=ws&sni=vps.smamin.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://irconfiig@45.130.125.76:443?path=%2Fpoliaubshd&security=tls&host=vps.smamin.com&allowinsecure=0&type=ws&sni=vps.smamin.com#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://irconfiig@14.102.228.76:443?path=%2Fpoliaubshd&security=tls&host=vps.smamin.com&allowinsecure=0&type=ws&sni=vps.smamin.com#%F0%9F%87%A8%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80/?type=ws&encryption=none&flow=&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://128aa35e-b9d3-49a2-a54a-ac1e1ef2b066@Zyros-84744322-62727.hosted-in.iranray.online:2052?path=%2FphpMyAdmin%3Fq%3D%E4%B8%80%E4%BD%8D%E8%99%95%E5%A5%B3%E5%9C%A8%E5%AD%AB%E5%85%88%E7%94%9F%E7%9A%84%E8%BE%B2%E5%A0%B4%E5%B7%A5%E4%BD%9C%E3%80%82&security=none&encryption=none&host=de4.node.glynet.qzz.io&type=httpupgrade#%F0%9F%87%AC%F0%9F%87%A7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://23c83127-fcc7-49b7-b11e-0d80afd1564b@185.143.232.230:80?type=ws&encryption=none&path=%2F&host=user.netabinvip.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://23c83127-fcc7-49b7-b11e-0d80afd1564b@185.143.232.251:80?type=ws&encryption=none&path=%2F&host=user.netabinvip.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://23c83127-fcc7-49b7-b11e-0d80afd1564b@Snapp.ir:80?type=ws&encryption=none&path=%2F&host=user.netabinvip.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://af1f8c6d-44b3-4768-90b9-debd4d385a03@94.183.241.73:2083?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://f172c28c-14f7-408b-b41e-838f4f32a15f@185.143.234.122:2082?encryption=none&type=ws&headerType=none&path=%2F&host=tl2.axepart.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
