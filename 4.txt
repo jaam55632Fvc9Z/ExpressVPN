@@ -8,3 +8,19 @@ vless://da0948ac-6249-47c6-80e6-bf9e5d87d07b@95.179.140.164:19857?security=none&
 
 vmess://eyJhZGQiOiAiNDUuMTMwLjEyNS43NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJ3SW4uQ2NObnguSVIiLCAiaWQiOiAiNzhlNjQxMTctZmIyNC00ZTMyLWFkYWEtNzg4YWI3ODc2Y2QzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0B2MnJheWRpYS0tQHYycmF5ZGlhLS1AdjJyYXlkaWEtLUB2MnJheWRpYS0tQHYycmF5ZGlhLS1AdjJyYXlkaWEtLUB2MnJheWRpYS0tQHYycmF5ZGlhLS1AdjJyYXlkaWEtLUB2MnJheWRpYSIsICJwb3J0IjogIjIwODciLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAid0luLkNjTm54LklSIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 
+vless://c44510cf-e271-401b-8a52-6010ab7609dd@209.250.245.206:37385?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@5.10.214.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%B2%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@5.10.214.56:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=www.hitgram.ir&sni=www.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%B2%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@5.10.214.54:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%B2%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://34794988-1666-4489-bdc3-0cea439306e7@snapp.ir:2095?security=none&allowInsecure=0&encryption=none&type=ws&host=de31.fastplus11.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@5.10.214.56:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#%F0%9F%87%A6%F0%9F%87%B2%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5d97adc4-7070-4c67-9bd6-77261746462a@snappfood.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=arvan.ihoomayon.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://1811f7ca-d39e-4a51-91b5-82fd8d31399d@snapp.ir:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2080&host=na.avenflow.ir%F0%9F%87%AB%F0%9F%87%AE%D9%86%D8%AA%20%D9%85%D9%84%DB%8C#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
