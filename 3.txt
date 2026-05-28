@@ -16268,3 +16268,7 @@ vless://2d4f08f7-afc9-4d20-ac26-7cf02582b1d6@45.76.83.35:54985?encryption=none&s
 
 vless://d4305704-a108-4ce0-8ef0-66076e6227e9@3.66.32.10:443?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://6e31f357-b1e8-4ffa-bd0a-d2926219bef5@tun2.aria-network.cloud:443?security=tls&type=ws&headerType=&path=%2F&host=&sni=setr.aria-network.cloud&fp=#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a2067e90-ca33-47ee-b55e-8ff7ce1e51f5@45.130.125.5:443?encryption=none&type=xhttp&security=tls&path=%2Fgame&mode=auto&sni=cd1.fix98.ir&fp=chrome&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
