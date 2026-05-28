@@ -13,6 +13,7 @@ from datetime import datetime, timezone
 # =============================================================
 PINNED_CONFIGS = [
     "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91",
+    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes",
 ]
 
 MY_CHANNEL_ID = ""
