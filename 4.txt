@@ -2,23 +2,11 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://29fa6782-0831-4b47-aeac-036bfed2e09c@vip.coindrift.online:43698?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40vaslbemonim7
+vless://809d80b0-b680-11f0-9169-a0423f416fbc@dl6.okarimi.ir:2053?security=tls&encryption=none&insecure=1&host=dl4.rayantarh.com&type=ws&allowInsecure=1&sni=dl4.rayantarh.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://d572321e-1988-4680-8189-bc0e5449fd26@mrshop.opik.net:50873?mode=auto&path=%2Fmybe&security=none&encryption=mlkem768x25519plus.native.0rtt.SKETdIfCG7nw-FhroOBgjxpGRsOhsVnQ63Ig5N3Bhkg&extra=%7B%22xPaddingBytes%22%3A%221-10%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22x_a%22%2C%22xPaddingHeader%22%3A%22x_a%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&host=mrshop.opik.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-None%20%7C%20%40v2ray_configs_pool
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@81.255.155.10:443?path=%2Ftools&security=tls&encryption=none&insecure=0&host=pagescm.freen2.de5.net&type=ws&allowInsecure=0&sni=pagescm.freen2.de5.net#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://95faa698-2165-40c5-902c-0cda6de58596@hes.purplrose.ir:8443?encryption=none&security=tls&sni=meh.purplrose.ir&alpn=h2,http/1.1&fp=chrome&type=xhttp&host=meh.purplrose.ir&path=/&mode=auto&extra=#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+vless://afca7c78-f0bc-4709-8bd3-e3741a25956d@snapp.ir:443?path=%2Fhelloword&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=asia.devops-grid-project.org&fp=chrome&type=ws&allowInsecure=0&sni=asia.devops-grid-project.org#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://4b616b6f-6f6c-4e65-7773-74ae1dc5e296@20.90.66.7:443?encryption=none&security=tls&sni=fantastic-disco-6vx4p667xjxfjx5-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4b616b6f-6f6c-4e65-7773-74ae1dc5e296@20.103.221.187:443?encryption=none&security=tls&sni=fantastic-disco-6vx4p667xjxfjx5-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4b616b6f-6f6c-4e65-7773-411591b3848b@20.90.66.7:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=literate-pancake-gx4xpxxr5r5vfw9x5-443.app.github.dev#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d572321e-1988-4680-8189-bc0e5449fd26@mrshop.opik.net:50873?mode=auto&path=/mybe&security=none&encryption=mlkem768x25519plus.native.0rtt.SKETdIfCG7nw-FhroOBgjxpGRsOhsVnQ63Ig5N3Bhkg&extra=#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIOG5CMnRGdklKUUFtUGVq@20.87.107.99:443#%F0%9F%87%BF%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAidW5kZXJ3YXRlci5ob21lbGVzc2Nsb3dhbi5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogImh0dHAvMS4xIiwgImZwIjogImNocm9tZSIsICJob3N0IjogInVuZGVyd2F0ZXIuaG9tZWxlc3NjbG93YW4uaXIiLCAiaWQiOiAiNDU1NGNmYTMtZTI5YS00Y2VkLTk0ZGEtMGI2YTMwMmJiMTY3IiwgIm5ldCI6ICJ4aHR0cCIsICJwYXRoIjogIi9kYWI3NEpKdTVIMkk1Z2VxY25NRzZ6QThiYzMiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgWEhUVFAtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidW5kZXJ3YXRlci5ob21lbGVzc2Nsb3dhbi5pciIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJ2IjogIjIifQ==
-
-vless://5e1ce6a8-5fb6-41e6-87f9-5e3138d8e892@de1.alligatostore.shop:8080?path=%2F&security=tls&encryption=none&insecure=0&host=de1.alligatostore.shop&type=ws&allowInsecure=0&sni=de1.alligatostore.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://408e86f5-beb7-4649-85c8-d01ad3eceab5@144.31.24.49:8443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=ads.x5.ru&fp=qq&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
