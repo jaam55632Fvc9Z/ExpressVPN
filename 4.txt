@@ -12,3 +12,19 @@ vless://c43e2b8a-c70d-4725-9dec-03a23710de76@valen.vlaen776.sbs:52655?encryption
 
 vless://b080e247-2cc6-4d0d-b638-9ea3bcf0f59e@com001.hozheen.com:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=com.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=b887c95414e49d33.hozheen.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://ae042d67-28c3-4fe0-88b0-0806607fc58f@104.20.2.168:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D80&host=gcore-21.napsternetx.ir&sni=gcore-21.napsternetx.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c575c0fd-4833-4cba-937d-2342fd32544b@104.17.121.71:443?encryption=none&type=xhttp&security=tls&path=%2Findex.html&host=de.vpncustomize.cc.cd&mode=stream-one&sni=de.vpncustomize.cc.cd&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b4d55cd1-5ca1-41c7-a84f-7aaef315ccaa@chatgpt.com:443?path=%2Fadmin&security=tls&encryption=none&host=ger.digikala-aparat-zula.com&fp=randomized&type=ws&sni=ger.digikala-aparat-zula.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0e0bd555-4d21-485c-90a4-bb0b497c002a@104.18.32.47:2096?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&authority=&fp=chrome&type=grpc&serviceName=presstv.ir.iribnews.ir.tasnimnews.com.irannewsdaily.com.ifpnews.com.kayhan.ir.irdiplomacy.ir&sni=cOMpASSioNAte-INtEntIOnr55Et2c87l.carbONBLACKBMW.IR#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40prrofile_purple
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=0&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%AC%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://ae042d67-28c3-4fe0-88b0-0806607fc58f@104.18.22.128:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2095&host=fi-21.nvclud.ir&sni=fi-21.nvclud.ir&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://d4305704-a108-4ce0-8ef0-66076e6227e9@3.66.32.10:443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://ae042d67-28c3-4fe0-88b0-0806607fc58f@104.25.249.217:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D80&host=GER-21.napsternetx.ir&sni=GER-21.napsternetx.ir&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
