@@ -16076,3 +16076,21 @@ vless://a2b81a67-3cd2-42c7-a3f9-fd47ac27d4a1@95.182.97.249:443?path=%2F&security
 
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
+vless://7e02ffdb-7bcb-4170-9b1b-0732332e4420@104.16.7.70:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=lin.logiclama.com&fp=chrome&type=ws&allowInsecure=1&sni=lin.logiclama.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ea270277-c86e-4b79-b5ab-a998c7008031@mtnreal1.greewebservices.ir:1020?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://ea270277-c86e-4b79-b5ab-a998c7008031@gerr1.greewebservices.ir:1101?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://ea270277-c86e-4b79-b5ab-a998c7008031@gerr.greewebservices.ir:2053?mode=gun&security=reality&encryption=none&pbk=uYVDQmYNVB_yJ-nqn3ZJaRqLvfZnilS8ukZMzDn99D8&fp=chrome&type=grpc&sni=yahoo.com&sid=e419fa28#%F0%9F%87%B5%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@3.78.211.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.211.9:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.78.211.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://afca7c78-f0bc-4709-8bd3-e3741a25956d@varzesh3.com:443?encryption=none&type=ws&security=tls&path=%2Fhelloword&host=asia.devops-grid-project.org&sni=asia.devops-grid-project.org&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+vmess://eyJhZGQiOiAiOTQuMjM3LjU0LjkwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmNzA0OWE1OC1lOGQyLTQ1NWUtYTc3Ny1hOTg2ZWY0YTkyNDQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBmaWxlbWJhZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
