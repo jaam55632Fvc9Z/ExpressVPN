@@ -16210,3 +16210,23 @@ vless://70ba8d40-3796-4dd9-82ba-93e295f53cc0@136.244.104.232:54711?security=none
 
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TWFINm51L2prWm1ZdXNrVkpXekdKUT09OkpuMUtUUFFKZ21FMGhWRVBDRG5qL1E9PQ%3D%3D@5.160.47.220:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://a6bdf293-c3b0-4b8f-9a70-528874376f62@104.17.121.71:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=my.pars-cdn.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=my.pars-cdn.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40VPNCUSTOMIZE&security=tls&encryption=none&insecure=1&host=jp.aniua.qzz.io&type=ws&allowInsecure=1&sni=jp.aniua.qzz.io#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0de9130c-40ab-4956-a21d-8433627da065@www.atlask.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=record.khayyam.na.am&fp=android&type=ws&allowInsecure=0&sni=69f21a359bdf8503.khayyam.na.am#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?encryption=none&type=ws&security=tls&path=%2FChannel----%40VPNCUSTOMIZE&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&fp=chrome&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://bd6a2423-8be4-414b-8aea-6b30a7527c69@185.143.233.235:2083?type=ws&encryption=none&path=%2F&host=miracloud.ir&security=tls&fp=chrome&alpn=http%2F1.1&sni=miracloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1b25db0a-38ba-44ee-8320-f094b36f7740@snapp.ir:2052?type=ws&encryption=none&path=%2F&host=music.ir.temas-lomat.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://78a70304-3237-4b13-a26c-0365b9f42f2b@snapp.ir:2086?type=ws&encryption=none&path=%2Fbibobibo&host=t4knet.top&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?encryption=none&type=ws&security=tls&path=%2FChannel----%40VPNCUSTOMIZE&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0a594c2e-b085-4de4-b4db-d57630e1e665@138.124.54.58:31952?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://0505fbc7-9df1-0320-bfa8-320008d4d46b@s1.ws.dvzh.net:443?path=%2Fupload%2Fsession&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=s1.ws.dvzh.net&fp=chrome&type=ws&allowInsecure=0&sni=s1.ws.dvzh.net#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
