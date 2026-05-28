@@ -17460,3 +17460,15 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@165.232.122.206:8443?security=tls&sni=Koma-YT.
 
 vless://69242e37-99cf-40d3-8c63-1d6e147c2ef5@61.245.11.227:80?type=httpupgrade&encryption=none&path=%2F&host=aparat.com&security=none#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
 
+trojan://poinshtan@216.24.57.6:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ae95d992-66c7-4ef1-bd21-f1c5eacad85c@185.143.233.5:2083?encryption=none&type=ws&path=/&security=tls&fp=firefox&sni=sub.sesrsa.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5e163014-84e0-4d77-b8e4-801618cb39c4@snapp.ir:80?type=ws&security=none&encryption=none&path=/&host=hoosh.sabasarmaye.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://884137ff-040f-49e2-9719-50abc0960115@vip.subrexo.com:10888?path=%2F&security=&encryption=none&host=vip.subrexo.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://c575c0fd-4833-4cba-937d-2342fd32544b@45.130.125.69:443?encryption=none&type=xhttp&security=tls&path=%2Fdev%2Fapi&host=de.fbase.cc.cd&mode=stream-one&sni=de.fbase.cc.cd&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vslshi
+
+vless://200290dc-8698-4284-a6e5-0ffd91be8589@45.89.244.210:35750?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=cloudflare.com&sid=01f43c37b8&fp=chrome&pbk=rtqKOfjHLaN8qzlOOGHXrxWnEoqzQKQLSi8ZGIMjVlQ&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vslshi
+
