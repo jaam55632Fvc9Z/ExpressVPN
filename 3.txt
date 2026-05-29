@@ -17918,3 +17918,7 @@ vless://596adb58-8b96-40a5-9ea2-3c798c64db5d@a1.hamrahnode.ir:2053?path=%2F&secu
 
 vless://596adb58-8b96-40a5-9ea2-3c798c64db5d@a1.hamrahnode.ir:2053?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=op9.easy-upload.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=sub.sbrf-cdn342.ru&fp=chrome&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5678b00f-9ed6-4982-9f8a-1a7306e25126@162.217.249.74:48748?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
