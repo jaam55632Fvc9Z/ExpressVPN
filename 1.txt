@@ -2,8 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://9748d871-3e41-4ef3-a683-c34d2c5fe572@85.234.73.39:2088?encryption=none&security=tls&sni=google.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NXlaTGVmdzhOdHF3LzU4aXJUVzJPcE1zTnV5SmpSNjFCdVJlMmdDb3hqbz06ZG9WL2M3eEEzc28rZjJZalJrMkFKVyt1bHFmNkJQd2hGVWxKQmRLVGFsVT0@s.api50951.ir:443#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443?security=reality&type=tcp&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=5d&pbk=56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -40,19 +38,11 @@ vless://b94194df-c343-4d77-96be-ab530f1b06ec@179.237.72.235:56391?security=none&
 
 vless://2844e242-ea5a-46e4-a9ae-b6eaf4d6728c@mee.api50951.ir:8880?mode=auto&path=%2F&security=tls&encryption=none&insecure=1&type=xhttp&allowInsecure=1&sni=soft98.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
 
-vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.90.66.7:443?encryption=none&security=tls&sni=turbo-space-carnival-6v9rvxvqww4v345xr-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://5103c474-b990-427c-a853-71e87e4c618c@104.17.131.203:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=oxin.cloudfaler90.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
-vless://b6b2c827-4ac1-4e2c-af28-dfa7edbfeb81@35.182.252.92:51072?security=reality&encryption=none&pbk=5KJ1tLErCUEfqxc3IsnY_49p_gWe0mPB8eXJ3MLucgU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=0675732ab101#%F0%9F%87%A8%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vless://5103c474-b990-427c-a853-71e87e4c618c@104.18.11.221:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=oxin.cloudfaler90.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
-vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.103.221.187:443?encryption=none&security=tls&sni=turbo-space-carnival-6v9rvxvqww4v345xr-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://2c173a70-bf54-4a70-a121-5eb07c6b5b56@snapp.ir:8080?encryption=none&host=savoj.neonull.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://f68850ec-db80-4e3f-ada3-58e17e43f2bb@65.109.186.7:53960?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://cb12d2f4-d743-47c8-9e23-26f22387a042@94.140.0.188:443?mode=auto&path=%2FAmir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn.amirak.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.amirak.qzz.io#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vmesskhodam
+vless://0d913327-f4f0-4df9-b98c-fcbcb7ad3acf@141.ir:2086?type=ws&security=none&path=%2F&host=sv1.nopp.ir&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://4e5ae820-fc9b-476a-bcf6-a4aba49709af@151.101.116.219:443?encryption=none&type=ws&serviceName=---Telegram@V2rayNGcloud------Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud--&serviceName=---Telegram@V2rayNGcloud------Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud--&security=tls&path=%2Fwp-admin.php%3Fed%3D2052&host=nesfeshzksab.global.ssl.fastly.neT.&sni=speedtest.net&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -79,4 +69,6 @@ vless://f2297a9a-a195-40e3-9e80-281f9e8de846@199.247.1.31:443?security=reality&e
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE@185.5.38.111:55988#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://4e5ae820-fc9b-476a-bcf6-a4aba49709af@151.101.116.219:443?path=%2Fwp-admin.php%3Fed%3D2052&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=nesfeshzksab.global.ssl.fastly.neT.&fp=chrome&type=ws&sni=speedtest.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://9748d871-3e41-4ef3-a683-c34d2c5fe572@85.234.73.39:2088?encryption=none&security=tls&sni=google.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
