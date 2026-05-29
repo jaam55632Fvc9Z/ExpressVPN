@@ -20866,3 +20866,7 @@ vless://73dd2e32-eb5b-4187-a7da-36d4d1a4c719@193.29.225.108:80?path=%2F&security
 
 vless://4b829266-8976-46e3-a593-31ae96635d04@167.235.23.91:100?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://a882b833-d3a7-4a3e-b9ad-0553c693850d@a1.hamrahnode.ir:2053?security=tls&type=ws&headerType=&path=%2F&host=&sni=op1.x-upload.org&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@104.17.121.71:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
