@@ -8,3 +8,7 @@ vless://0107e7ff-a576-4bb4-85fc-5a0ff84ac328@ARVAN1.FASTSPEEDS.IR:443?encryption
 
 vless://0107e7ff-a576-4bb4-85fc-5a0ff84ac328@ARVAN2.FASTSPEEDS.IR:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=PPL2.xuiprospeed.ir&mode=multi&sni=PPL2.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B8%F0%9F%87%AC%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
 
+trojan://es385i68hdp1hexy@31.57.108.93:443?path=%2Fws&security=none&host=31.57.108.93&type=httpupgrade#%F0%9F%87%AB%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
+
+vless://dd8f19bd-210c-4506-a1a1-e2f81a613839@a1.hamrahnode.ir:2053?security=tls&allowInsecure=0&encryption=none&type=ws&path=/&sni=op1.x-upload.org&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
