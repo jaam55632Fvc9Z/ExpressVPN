@@ -22,3 +22,11 @@ vless://841ea5a8-f233-434c-8b13-ef5166d190a1@185.125.102.227:2086?security=none&
 
 vless://c0909646-31ce-49d5-8210-d03dbfa0294c@speedtest.net:80?path=%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=my-server-test.global.ssl.fastly.net&fp=random&type=ws&sni=my-server-test.global.ssl.fastly.net#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://9748d871-3e41-4ef3-a683-c34d2c5fe572@farbood.drshoayb.top:8443?encryption=none&security=tls&sni=google.com&fp=firefox&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9748d871-3e41-4ef3-a683-c34d2c5fe572@farbood.drshoayb.top:2053?encryption=none&security=tls&sni=google.com&fp=firefox&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9748d871-3e41-4ef3-a683-c34d2c5fe572@farbood.drshoayb.top:2088?encryption=none&security=tls&sni=google.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c0909646-31ce-49d5-8210-d03dbfa0294c@speedtest.net:80?encryption=none&security=none&sni=my-server-test.global.ssl.fastly.net&fp=random&type=ws&host=my-server-test.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40Va3lSho
+
