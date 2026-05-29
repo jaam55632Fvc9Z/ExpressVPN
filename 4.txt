@@ -34,3 +34,7 @@ vless://7753daae-6164-45ae-8715-86d67112b6cc@5.160.243.153:3000?security=&encryp
 
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+vless://EarnMoneyarz@45.130.125.69:2096?path=%2FEarnMoney_arz&security=tls&encryption=none&insecure=0&host=cnt.real-team.online&fp=chrome&type=ws&allowInsecure=0&sni=cnt.real-team.online#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c7ccd788-1172-46f2-a749-c1a743da2ef2@104.17.121.71:443?mode=auto&path=%2FTelegram-Zedmodeon&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=faboo.tll-far.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=faboo.tll-far.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
