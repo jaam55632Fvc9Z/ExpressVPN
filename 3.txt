@@ -19382,3 +19382,17 @@ vless://7ea79a74-7289-4a01-987c-c6379ddb8dc5@45.130.125.167:443?security=tls&typ
 
 vless://7ea79a74-7289-4a01-987c-c6379ddb8dc5@104.25.231.18:8443?security=tls&type=xhttp&headerType=&path=%2F%3Fed%3D80&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cname.nimhub.ir&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://8b2b44b7-0d0a-4d80-b983-171ed1ac2aa7@anten.ir:2086?path=%2Fcdn&security=none&encryption=none&host=whm.zarping.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://8b2b44b7-0d0a-4d80-b983-171ed1ac2aa7@185.143.232.178:2086?path=%2Fcdn&security=none&encryption=none&host=whm.zarping.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://8a4c13ea-0981-4b21-876f-58ad011a4805@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=%2Fstream&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://70703b2f-a472-4183-a440-3c6fe231dae4@fr.gameirani.com:100?security=none&encryption=none&headerType=none&type=tc#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://331157cc-a92d-4b33-a871-3bf7715c72f8@185.143.234.235:443?type=ws&encryption=none&path=%2F&host=dl14.bale.lovlytehran.ir&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1%2Ch3&sni=dl14.bale.lovlytehran.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://4e93e8e6-8cc1-4a5b-b577-3d5bcae6ada0@104.17.121.238:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=irdiplomacy.ir.rajanews.com.parstoday.com.donya-e-eqtesad.com.alalamtv.net.yjc.ir.tehrantimes.com&allowInsecure=0&sni=FAiNT-beliEFst4dReAkTi.WINdler.Co.Uk#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://063a70bd-e08e-4248-a387-969e36be3411@pg.nexorainnovationhub.ir:80?encryption=none&type=ws&path=%2F&host=finland1.lezzaluxa.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
