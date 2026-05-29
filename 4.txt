@@ -28,3 +28,11 @@ vless://454bb62d-5313-4a8d-8ba3-3244f286e8fe@du.mobileemdad.top:42542?security=n
 
 vless://aad692f4-1459-4c83-aa3f-867b5725b267@72.62.147.53:443?encryption=none&host=72.62.147.53&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://a821a6c4-0c8f-4864-82ea-0172776c479a@212.100.171.194:11813?mode=auto&path=%2F&security=reality&encryption=none&pbk=WTmAL4xE7bvfXKXHGfMmn4UvPM-cUTfRfo5CTskJuD0&fp=chrome&spx=%2F&type=xhttp&sni=www.speedtest.net&sid=11#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://c1e32c6c-9a14-4edf-95c7-b1236a55aa07@95.182.80.130:16146?mode=gun&security=reality&encryption=none&pbk=lCkGLh6mypATTCMgrwjjqOxWBISCIB9fmdt_5Fff3Ug&fp=chrome&spx=%2F&type=grpc&sni=www.samsung.com&sid=e7eac240#%F0%9F%87%A8%F0%9F%87%BF%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@5.253.31.13:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&headerType=none&fp=random&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ae065531-7a26-4c3f-82cf-7c2ee9effcde@45.130.125.76:2087?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chan1.newappdominfastlogin4.com&fp=chrome&type=xhttp&sni=chan1.newappdominfastlogin4.com#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
