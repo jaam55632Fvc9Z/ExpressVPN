@@ -18,3 +18,13 @@ vless://07a7b6e8-35dd-411d-90e2-d328d9ed9dc9@island.cloudureld.com:443?mode=auto
 
 vless://dbc1e7c2-6b76-40c4-9cd1-781b7d552941@18.165.198.193:443?encryption=none&type=ws&security=tls&path=%2Fwss%3Fed%3D2048&host=d1axj54leefkw.cloudfront.net&sni=d1axj54leefkw.cloudfront.net&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vaslbemonim7
 
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?type=grpc&security=reality&encryption=none&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&fp=chrome&sni=5post-gate.x5.ru&sid=1fad87#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=www.sony.com&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&sid=e6bb2b5c0ab6fd47#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://c650d62b-35e5-436b-a7a6-3a03d2f85e8a@g4.vcommunity.ir:2083?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=g4.vcommunity.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=g4.vcommunity.ir#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?security=reality&encryption=none&pbk=UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=ce9f790791426d83#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://99d38f43-0a5d-462a-8459-d6ab36dd7a64@45.130.125.94:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=khabaronline.ir.isna.ir.en.mehrnews.com.khabaronline.ir.en.mehrnews.com.asriran.com.jamejamonline.ir&sni=ImportAnt-CUPi24nv9Tm3Y.WInDLeR.CO.Uk#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
