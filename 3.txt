@@ -18102,3 +18102,7 @@ vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?type=tcp&secur
 
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b&sni=yahoo.com#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
+vless://d98c7a24-adc0-4a03-b963-cc35d4254ca8@F8.ELDENRINGSHOP.IR:2053?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=wmxs2.mxspeed8-2.ir#%F0%9F%87%B1%F0%9F%87%B9%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@216.24.57.7:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
