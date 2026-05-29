@@ -2,20 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@ninisite.com:80?encryption=none&type=ws&path=%2F&host=nl1.orllina.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@bitpin.ir:80?encryption=none&type=ws&path=%2F&host=ua1.nexat.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://88cee4e8-2705-482a-96e8-5f6fd1b020c4@brilliantgift.:1?encryption=none&type=tcp&headerType=http&path=%2F&host=skyroom.online#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@snapp.ir:80?encryption=none&type=ws&path=%2F&host=de1.nexat.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@bmi.ir:80?encryption=none&type=httpupgrade&path=%2F&host=fi1.kianorbit.ir#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
-
-vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@nobitex.ir:80?encryption=none&type=httpupgrade&path=%2F&host=is1.nexat.ir#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
-
-vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@varzesh3.com:80?encryption=none&type=httpupgrade&path=%2F&host=se1.kianorbit.ir#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
-
 vless://edf11b49-77ee-47b3-8cd9-057d2dab65b3@185.143.233.202:443?encryption=none&type=ws&security=tls&path=%2Fed%3D2080&host=cyrus.frtshop.ir&sni=cyrus.frtshop.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
 vless://53201d9c-ac59-4853-95a3-eadee0acf5be@api.naxm.ir:2086?type=grpc&encryption=none&serviceName=%2Fdashboard&authority=home.naxm.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=home.naxm.ir#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40v2ray_freex
@@ -350,9 +336,19 @@ vless://20d22515-a850-4fb5-afa3-fc4993c73256@[::ffff:53d:1fba]:2626?encryption=n
 
 trojan://Mitivpn@104.17.121.71:443?type=ws&security=tls&path=%2F%3Fed&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40DeamNet_proxy
+vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&insecure=1&type=raw&headertype=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40DeamNet_proxy
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?type=tcp&security=tls&path=%2F#%F0%9F%87%B5%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@63.185.71.248:22223?type=tcp&security=tls&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://4c5ec35b-d2aa-49be-a596-77c956aa40e9@31.57.63.70:12530?security=reality&encryption=none&pbk=odlIn9uuty8SSCafs7Dpka-jRTTUpiuJUuotikQU1i8&headerType=&fp=chrome&spx=%2FqlF7U3tRy88uURE&type=tcp&sni=www.yahoo.com&sid=dc6ed267aee4#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://0187999c-83ff-4889-8ead-f2b85a0b8d81@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=%2F&host=tr.iamaster.ir&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=tr.iamaster.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fb206250-709c-44d7-b887-08f66dd7a974@cdn.irandoc.info:80?encryption=none&security=none&type=ws&host=cdn.irandoc.info&path=%2F16475%2Fmci#%F0%9F%87%B8%F0%9F%87%AC%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?encryption=none&fp=chrome&headerType=none&pbk=Crjd0I6hcasRXZcfNf7cs-YtJLpQ8u-t1CbwHIDAciU&security=reality&sid=478dc6&sni=eh.vk.com&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
@@ -785,4 +781,18 @@ vless://310506a7-75ad-4dd9-9667-0defa413fb1b@45.81.58.167:2083?mode=multi&securi
 vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@wallex.ir:80?encryption=none&type=ws&path=%2F&host=us1.nexat.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
 vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@tamin.ir:80?encryption=none&type=httpupgrade&path=%2F&host=tr1.kianorbit.ir#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@ninisite.com:80?encryption=none&type=ws&path=%2F&host=nl1.orllina.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@bitpin.ir:80?encryption=none&type=ws&path=%2F&host=ua1.nexat.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://88cee4e8-2705-482a-96e8-5f6fd1b020c4@brilliantgift.:1?encryption=none&type=tcp&headerType=http&path=%2F&host=skyroom.online#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@snapp.ir:80?encryption=none&type=ws&path=%2F&host=de1.nexat.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@bmi.ir:80?encryption=none&type=httpupgrade&path=%2F&host=fi1.kianorbit.ir#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@nobitex.ir:80?encryption=none&type=httpupgrade&path=%2F&host=is1.nexat.ir#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@varzesh3.com:80?encryption=none&type=httpupgrade&path=%2F&host=se1.kianorbit.ir#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
 
