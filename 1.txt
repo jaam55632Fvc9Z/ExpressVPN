@@ -2,10 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://b1ac23fb-b336-4d37-a3c0-64b29c4ef3a4@s2.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigV2rayNG
-
-vless://InternetAzadRobot@chatgpt.com:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigV2rayNG
-
 vless://ae95d992-66c7-4ef1-bd21-f1c5eacad85c@185.143.233.5:2083?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
 
 vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@ca-1.omuvpn.tech:18543?security=reality&encryption=none&pbk=N6QQQTEXQaXI9PRxOYdlnsdviaLwu4eP4sIq9ifz5VM&headerType=none&fp=random&spx=%2FZYJ57oDaAQqvl3m&type=tcp&flow=xtls-rprx-vision&sni=www.zvuk.com&sid=fb0839b3bc1d6e#%F0%9F%87%A8%F0%9F%87%BE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -106,23 +102,15 @@ vless://d51f5702-2d20-410a-87d4-d7dceb9b18a8@178.255.222.169:42115?path=%2F&secu
 
 vless://f141701f-09ae-4c84-bc38-ee1cc16711d4@192.71.82.0:2095?path=%2F&security=&encryption=none&host=de.carefreemob2.com.&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40ConfigV2rayNG
 
-vless://ba71b482-f990-4f0a-9496-1ebd58102f96@51.250.106.87:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdp.x5.ru&fp=safari&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vless://f141701f-09ae-4c84-bc38-ee1cc16711d4@188.114.96.0:2095?path=%2F&security=&encryption=none&host=de.carefreemob2.com.&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40ConfigV2rayNG
 
-trojan://BxceQaOe@116.80.61.224:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+vless://2d61f818-b470-41f8-9316-fb82f88499a7@185.143.232.122:8080?path=%2Farvancloud&security=&encryption=none&host=lo56e.randomized.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigV2rayNG
 
-vless://7e2f56c9-b1e6-496f-a036-2461d0c7298f@178.154.204.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=wl-4-4.nodes.ac&fp=chrome&pbk=FVceIo73-WJfacwis9bRlQ7wEYbQuN4N25oWQlmdwl0&sid=bfb16f73e35be2da&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://add10fac-0931-4422-838f-ff2d0b1e4c25@84.201.177.246:3001?encryption=none&security=reality&sni=cdnv-img.perekrestok.ru&fp=safari&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&sid=4ad64b956eed301f&type=xhttp&path=%2Fapi%2Fv2%2Fconfig%2Fsync&mode=auto&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22stream-one%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionPlacement%22%3A%22%22%2C%22sessionKey%22%3A%22%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A0%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%2220-40%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%2296-192%22%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://add10fac-0931-4422-838f-ff2d0b1e4c25@84.201.177.246:3001?encryption=none&security=reality&sni=cdnv-img.perekrestok.ru&fp=safari&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&sid=74bc9b278afc749a&type=xhttp&path=%2Fapi%2Fv2%2Fconfig%2Fsync&mode=auto&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22stream-one%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionPlacement%22%3A%22%22%2C%22sessionKey%22%3A%22%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A0%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%2220-40%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%2296-192%22%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://793d0168-a014-42b8-8ae5-abd65406246b@51.250.108.162:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdp.x5.ru&fp=safari&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@2.26.255.17:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=plnew.stardevs.top&fp=chrome&pbk=3eQPRXLwOXCmDF0ufIeY1vpD_PRWteJJni-mxeU42Ek&sid=b03a4d1767157467&spx=%2F&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://ba71b482-f990-4f0a-9496-1ebd58102f96@51.250.106.87:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdp.x5.ru&fp=safari&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a&type=tcp&headerT…#None%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://cf1d62d6-acd4-4c52-9c39-6a43610fbbea@arvancloud.ir:80?encryption=none&security=none&type=ws&host=p.melalgame.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40v2ray_configs_pool
+trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
 
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=%2Fquestion%2Favatar%2Fhot&security=tls&encryption=none&insecure=0&host=pagescm.freen34.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen34.cc.cd#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b1ac23fb-b336-4d37-a3c0-64b29c4ef3a4@s2.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigV2rayNG
+
+vless://InternetAzadRobot@chatgpt.com:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigV2rayNG
 

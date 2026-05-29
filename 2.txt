@@ -2,14 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-trojan://BxceQaOe@116.80.61.224:443?allowInsecure=1&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&sni=eh.vk.com&headerType=none\\#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=tcp&security=reality&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sni=www.icloud.com#%F0%9F%87%A8%F0%9F%87%B3%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@sw2.fi1-cosmostechnology.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&sni=fi1-cosmostechnology.ru#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sni=www.fh-aachen.de#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&sid=&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -350,15 +342,11 @@ vless://d51f5702-2d20-410a-87d4-d7dceb9b18a8@178.255.222.169:42115?path=%2F&secu
 
 vless://f141701f-09ae-4c84-bc38-ee1cc16711d4@192.71.82.0:2095?path=%2F&security=&encryption=none&host=de.carefreemob2.com.&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40ConfigV2rayNG
 
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=sub.sbrf-cdn342.ru&fp=chrome&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+vless://f141701f-09ae-4c84-bc38-ee1cc16711d4@188.114.96.0:2095?path=%2F&security=&encryption=none&host=de.carefreemob2.com.&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40ConfigV2rayNG
 
-vless://5678b00f-9ed6-4982-9f8a-1a7306e25126@162.217.249.74:48748?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+vless://2d61f818-b470-41f8-9316-fb82f88499a7@185.143.232.122:8080?path=%2Farvancloud&security=&encryption=none&host=lo56e.randomized.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigV2rayNG
 
-vless://t-me-kinsta_service@91.107.179.224:47411#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-ss://t-me-kinsta_service@91.107.179.224:47411#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigV2rayNG
 
 vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&sid=5a55&spx=%2F#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
@@ -469,4 +457,12 @@ vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?type=raw&secur
 vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?type=tcp&security=reality&fp=chrome&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&sid=302e&sni=yahoo.com&spx=/#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppVUtLcHlUMjF4d1FvYllvWGFDZXFj@195.93.253.240:14130?#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://BxceQaOe@116.80.61.224:443?allowInsecure=1&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&sni=eh.vk.com&headerType=none\\#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=tcp&security=reality&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sni=www.icloud.com#%F0%9F%87%A8%F0%9F%87%B3%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@sw2.fi1-cosmostechnology.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&sni=fi1-cosmostechnology.ru#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
