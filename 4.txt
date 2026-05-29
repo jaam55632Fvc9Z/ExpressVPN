@@ -18,3 +18,17 @@ vless://2e1cbeb7-f8c3-4894-be53-a0bb643c9a5f@ninisite.com:80?path=%2F&security=n
 
 vless://e5faa73c-7cba-4834-b1c0-5aa9a9058e60@91.107.140.160:443?security=reality&encryption=none&pbk=Efid51phV7wQ6vF48DC97364AyVl7tQa22ILzIOLYgg&headerType=none&fp=chrome&spx=%2FdwHykcaladd80Me&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=8d91d01029d2b9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://20ae58df-d562-40b3-908c-21b4881315d4@18.143.151.84:38967?security=reality&type=raw&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=9b1cdc34dd5664&pbk=TFAGMtH1LB503O0SJadbPxBs8S_LACshWQpEIAyuS1g&encryption=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.117:10443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?security=reality&sni=sw1tzerl4nd.gxcore.net&fp=chrome&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://c5563e04-daff-4fea-a8ce-8741ad0bc2cf@193.163.203.76:50547?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZAqXfcXRYWRBjEYJQInYWkFSKTSbd7NXg66D7MUZ2wg&security=reality&sid=03d0fa9716a73af2&sni=kinopoisk.ru&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@45.129.242.162:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sni=www.samsung.com&sid=a1b2c3d4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://c0506c1d-c26c-496f-a573-9c8f3958a9aa@91.107.133.225:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
