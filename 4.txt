@@ -26,3 +26,19 @@ vless://3.120.81.26:443?echfq=none&fp=randomized&type=xhttp&sni=store.steampower
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080?type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&type=tcp&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.108.30:8880?type=ws&host=vms.lifetime17.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://%4d%69%74%69%76%70%6e@45.130.125.76:2053?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40BigSmoke_Config
+
+trojan://%56%50%4e%43%55%53%54%4f%4d%49%5a%45@45.81.58.159:443?type=ws&security=tls&path=%2Flousyrestateme%3Fed%3D2048&sni=www.godaddy.cc.cd&fp=chrome&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40BigSmoke_Config
+
+vless://10be524f-e1dc-4d1c-a256-17df1399a739@104.17.121.71:2096?sni=loVELY-bATtLeNn9IH0SniS.WInDlER.Co.Uk&alpn=h2%2Chttp/1.1&type=grpc&serviceName=donya-e-eqtesad.com.fararu.com.alef.ir.hamshahrionline.ir.khabaronline.ir.asriran.com.alalamtv.net&fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-TLS%20%7C%20%40v2nodes
+
+vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&encryption=none&pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a20a8fdc#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40manVPN
+
+vless://3bc6c0d4-bdbe-4ef3-85db-a7f3e9f4a080@91.107.181.202:11860?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
