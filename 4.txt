@@ -32,3 +32,23 @@ vless://4d70a474-aa93-457b-a2fb-98b05272ce25@104.16.80.73:443?encryption=none&ty
 
 vless://da48859d-edf9-4a8c-a026-80910591f284@nytimes.com:80?encryption=none&security=none&type=xhttp&host=tignaltofansv8.global.ssl.fastly.net&path=%2FTignal&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
 
+vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.129.164:80?encryption=none&security=none&type=xhttp&host=tignaltofansv8.global.ssl.fastly.net&path=%2FTignal&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://cb12d2f4-d743-47c8-9e23-26f22387a042@94.140.0.188:443?encryption=none&type=xhttp&security=tls&path=%2FAmir&host=cdn.amirak.qzz.io&mode=auto&sni=cdn.amirak.qzz.io&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%87%A6%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fef999d0-4d28-48fe-a519-24fd4b2f7bd3@snapp.ir:8443?mode=auto&path=%2Fapi%3Fed%3D256&security=tls&encryption=none&insecure=0&host=dl.alborzmv.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=dl.alborzmv.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://bd2270d1-58ef-43c8-af63-d502ff14178e@server.leedsroastery.com:443?encryption=none&fp=chrome&pbk=DMMr6z1o9D94v2F-wmB2RhJfqi2ll-RVsSd4kkZu0n8&security=reality&sid=553d78fa144950&sni=www.samsung.com&spx=%2FHSgOIsI6bIj4bCE&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://c1e32c6c-9a14-4edf-95c7-b1236a55aa07@95.182.80.130:16146?type=grpc&serviceName=&authority=&security=reality&pbk=lCkGLh6mypATTCMgrwjjqOxWBISCIB9fmdt_5Fff3Ug&fp=chrome&sni=www.samsung.com&sid=e7eac240&spx=%2F#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?type=tcp&security=reality&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&fp=chrome&sni=www.speedtest.net&sid=9891d7&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://c1e32c6c-9a14-4edf-95c7-b1236a55aa07@212.100.171.194:16146?type=grpc&serviceName=&authority=&security=reality&pbk=lCkGLh6mypATTCMgrwjjqOxWBISCIB9fmdt_5Fff3Ug&fp=chrome&sni=www.samsung.com&sid=e7eac240&spx=%2F#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40filembad
+
+vless://a821a6c4-0c8f-4864-82ea-0172776c479a@212.100.171.194:11813?type=xhttp&path=%2F&host=&mode=auto&security=reality&pbk=WTmAL4xE7bvfXKXHGfMmn4UvPM-cUTfRfo5CTskJuD0&fp=chrome&sni=www.speedtest.net&sid=11&spx=%2F#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40filembad
+
