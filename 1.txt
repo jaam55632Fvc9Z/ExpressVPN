@@ -2,12 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.2:80?path=%2F&security=&encryption=none&host=tt.andishehparenting.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@104.18.23.63:443?encryption=none&security=tls&sni=www.ignitelimit.com&alpn=http%2F1.1&fp=chrome&insecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://439f353b-b52f-4355-93d8-26e0567d5308@193.163.203.76:50592?security=reality&encryption=none&pbk=kATzSBDyNkm6Ee7p8Ad8iPD5CrJmkJ5n1T-l-LCRmXQ&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=b7ca855a4763a7ac#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
-
 vless://690b9877-d3f7-40e3-9652-2bff79e8570c@81.161.229.124:55999?path=%2Fssh&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=httpupgrade&allowInsecure=0&sni=81.161.229.124#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40filembad
 
 vless://690b9877-d3f7-40e3-9652-2bff79e8570c@81.161.229.124:55999?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=81.161.229.124#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -39,6 +33,14 @@ vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=t
 vless://d6641b78-1556-4f9d-ab17-e3b31117fe4b@104.17.121.71:2096?encryption=none&type=grpc&security=tls&serviceName=en.mehrnews.com.isna.ir.entekhab.ir.khabaronline.ir.alef.ir.irandaily.ir.tehrantimes.com&sni=AdVenTurOUs-cOnflIcT3W7nbZ9EQw.carboNblACKbmw.Ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40V2rayBaaz
 
 vless://003cd0b9-ae9a-4ec2-bb29-ba683535ded4@185.143.233.5:80?encryption=none&security=none&type=ws&host=kheybar.aghanami.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://20df9a62-5948-11f1-bf0f-5254eff7fba9@154.205.145.79:8443?security=reality&encryption=none&pbk=bQrdBuhZRuvqaYIKIT1mRcDipJmqLZPKTzE2HkLZ_j4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=2046e176b80e8278#%F0%9F%87%B5%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://5e8c894b-1efa-48d4-85ee-9daf5d574c16@45.130.125.69:2096?encryption=none&type=grpc&security=tls&serviceName=irannewsdaily.com.hamshahrionline.ir.irdiplomacy.ir.irandaily.ir.alef.ir.rajanews.com.irannewsdaily.com&sni=bad-AppLicatIon22nBd8j5OK.CArBoNbLaCkBmw.Ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0%E2%80%8B#%F0%9F%87%B8%F0%9F%87%A8%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d6641b78-1556-4f9d-ab17-e3b31117fe4b@104.17.121.71:2096?encryption=none&type=grpc&security=tls&serviceName=en.mehrnews.com.isna.ir.entekhab.ir.khabaronline.ir.alef.ir.irandaily.ir.tehrantimes.com&sni=AdVenTurOUs-cOnflIcT3W7nbZ9EQw.carboNblACKbmw.Ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1%E2%80%8B#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a6994fa4-2b8f-4b84-b75f-f84829c27d45@37.152.185.16:27156?type=tcp&encryption=none&security=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://a3798125-5413-0002-a8eb-267708c85be8@spb.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=spb.connectv.net#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
@@ -115,4 +117,10 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?encryption=none&
 vless://ea819a73-e6ec-48f2-9042-96175825678e@185.143.234.235:2052?path=%2F&security=none&encryption=none&host=v2.mollar.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://a76935f5-3fb3-4aba-8664-4ba524f4c11b@varzesh3.com:2086?encryption=none&security=none&type=ws&host=srv2.khavarpress.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.2:80?path=%2F&security=&encryption=none&host=tt.andishehparenting.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@104.18.23.63:443?encryption=none&security=tls&sni=www.ignitelimit.com&alpn=http%2F1.1&fp=chrome&insecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://439f353b-b52f-4355-93d8-26e0567d5308@193.163.203.76:50592?security=reality&encryption=none&pbk=kATzSBDyNkm6Ee7p8Ad8iPD5CrJmkJ5n1T-l-LCRmXQ&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=b7ca855a4763a7ac#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 

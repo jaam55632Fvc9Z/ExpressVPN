@@ -26,3 +26,11 @@ vless://d6641b78-1556-4f9d-ab17-e3b31117fe4b@104.17.121.71:2096?encryption=none&
 
 vless://003cd0b9-ae9a-4ec2-bb29-ba683535ded4@185.143.233.5:80?encryption=none&security=none&type=ws&host=kheybar.aghanami.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
 
+vless://20df9a62-5948-11f1-bf0f-5254eff7fba9@154.205.145.79:8443?security=reality&encryption=none&pbk=bQrdBuhZRuvqaYIKIT1mRcDipJmqLZPKTzE2HkLZ_j4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=2046e176b80e8278#%F0%9F%87%B5%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://5e8c894b-1efa-48d4-85ee-9daf5d574c16@45.130.125.69:2096?encryption=none&type=grpc&security=tls&serviceName=irannewsdaily.com.hamshahrionline.ir.irdiplomacy.ir.irandaily.ir.alef.ir.rajanews.com.irannewsdaily.com&sni=bad-AppLicatIon22nBd8j5OK.CArBoNbLaCkBmw.Ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0%E2%80%8B#%F0%9F%87%B8%F0%9F%87%A8%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d6641b78-1556-4f9d-ab17-e3b31117fe4b@104.17.121.71:2096?encryption=none&type=grpc&security=tls&serviceName=en.mehrnews.com.isna.ir.entekhab.ir.khabaronline.ir.alef.ir.irandaily.ir.tehrantimes.com&sni=AdVenTurOUs-cOnflIcT3W7nbZ9EQw.carboNblACKbmw.Ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1%E2%80%8B#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a6994fa4-2b8f-4b84-b75f-f84829c27d45@37.152.185.16:27156?type=tcp&encryption=none&security=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
