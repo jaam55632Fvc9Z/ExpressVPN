@@ -50,3 +50,9 @@ vless://57f66a32-fa3c-45ca-8b03-c564b78aa2a0@dl2.baguvix.xyz:8080?encryption=non
 
 trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=0&host=cdn.hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.hitgram.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 
+vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.7:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@s2.iran-ahwaz.ir:1213?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@s1.iran-ahwaz.ir:1212?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
