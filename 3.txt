@@ -18460,3 +18460,11 @@ vless://aade9681-719e-4837-bc16-cf129feefff6@151.101.111.223:443?path=%2Fwp-admi
 
 vless://aade9681-719e-4837-bc16-cf129feefff6@151.101.111.223:443?encryption=none&type=ws&host=Wordpress.Mihan.cOm&path=/wp-admin.php?ed%3D2052&security=tls&fp=firefox&sni=python.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+trojan://Mitivpn@216.24.57.6:443?type=ws&security=tls&path=%2F%3Fed%3Dmitivpn&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@208.103.161.33:443?type=ws&security=tls&path=%2F%3Fed%3Dmitivpn&host=www.hitgram.ir&sni=www.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@5.10.214.53:443?type=ws&security=tls&path=%2F%3Fed%3Dmitivpn&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%B2%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://abbfb2df-819b-4744-b76b-bf7ef9a2a0c0@63.178.15.1:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+

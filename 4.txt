@@ -2,8 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=jp.aniua.qzz.io&path=/&sni=jp.aniua.qzz.io&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://cc1c6c8a-91ee-4ed6-9d42-d63510bb1190@83.229.14.131:58888?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -25,4 +23,12 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&type=ws&sni=
 vless://aade9681-719e-4837-bc16-cf129feefff6@151.101.111.223:443?path=%2Fwp-admin.php%3Fed%3D2052&security=tls&encryption=none&insecure=1&host=Wordpress.Mihan.cOm&fp=firefox&type=ws&allowInsecure=1&sni=python.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://aade9681-719e-4837-bc16-cf129feefff6@151.101.111.223:443?encryption=none&type=ws&host=Wordpress.Mihan.cOm&path=/wp-admin.php?ed%3D2052&security=tls&fp=firefox&sni=python.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@216.24.57.6:443?type=ws&security=tls&path=%2F%3Fed%3Dmitivpn&host=cdn.hitgram.ir&sni=cdn.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@208.103.161.33:443?type=ws&security=tls&path=%2F%3Fed%3Dmitivpn&host=www.hitgram.ir&sni=www.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Mitivpn@5.10.214.53:443?type=ws&security=tls&path=%2F%3Fed%3Dmitivpn&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%B2%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://abbfb2df-819b-4744-b76b-bf7ef9a2a0c0@63.178.15.1:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
