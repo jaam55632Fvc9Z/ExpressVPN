@@ -18410,3 +18410,7 @@ hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=t
 
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.178.101.149:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://adc3d5ab-22a4-44ef-9b73-62b18c298ff0@37.152.190.46:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://79c83e7a-32f2-43c3-a53d-d402294a3024@38.79.154.34:2053?mode=auto&path=%2Fhttp%3A%2F%2Facme.sh%2F38.79.154.34_ecc%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&insecure=1&host=8.35.211.138&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.apple-dns.net#%F0%9F%87%B7%F0%9F%87%B4%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
