@@ -18758,3 +18758,13 @@ vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@s2.iran-ahwaz.ir:1213?security=none
 
 vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@s1.iran-ahwaz.ir:1212?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://RapTime@fastly.com:80?encryption=none&type=xhttp&mode=auto&host=shangulin.global.ssl.fastly.net&path=/login&security=none#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool
+
+vless://a1c50f14-f020-424e-9aff-28a4f9653817@192.248.185.121:8443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@152.53.53.168:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cloudrynth.com&fp=firefox&allowInsecure=1&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://RapTime@fastly.com:80?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&mode=auto&path=%2Flogin&security=none&type=xhttp&x_padding_bytes=100-1000#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
+vless://25f7a5bb-df43-4869-a8fc-8884c42af8a4@185.143.234.122:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&path=%2Fbspath&security=tls&sni=srv.tooorkshop.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2_mod_shop
+
