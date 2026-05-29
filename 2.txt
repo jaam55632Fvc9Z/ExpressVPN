@@ -2,6 +2,24 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
+vless://e9adbac6-90e1-4c1f-ad17-46226d45a262@85.133.221.48:5001?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://684eefab-a712-4a65-83fd-535112228a6a@95.179.140.164:19857?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@193.22.229.35:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@91.209.253.225:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#%F0%9F%87%B8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@185.156.19.225:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#%F0%9F%87%AC%F0%9F%87%A7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@185.149.135.102:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#%F0%9F%87%AE%F0%9F%87%B3%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@185.207.198.170:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://7f07d06b-3eda-4f2c-b0e6-df6e9f82456e@209.250.245.206:37385?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://e13f6433-144b-402c-93d0-7a85cae9c2c7@snapp.ir:80?type=ws&security=none&encryption=none&path=/&host=hoosh.sabasarmaye.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
 vless://64dcb836-684c-4390-80c3-a8c752c1b68c@ver.newye.cc:80?type=ws&encryption=none&path=/stream&host=ver.newye.cc&security=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://3c53398c-977f-442d-b7d0-bf92979e5c05@37.46.18.128:443?type=tcp&encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=rKwAJxz4TAUYnvaGiTCsS1DrtYg-WhPreh-GvtDXwmw&sid=8feda7fefa82&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -82,13 +100,19 @@ vless://v2raydia@45.130.125.76:443?path=%2F%40v2raydia&security=tls&encryption=n
 
 vless://25c54771-12fd-4b37-a969-9e0391274cca@209.250.245.206:37385?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
 
-trojan://UnNurmal@216.24.57.6:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://26524cce-d514-4014-a426-365fb266a14d@122.116.216.90:995?allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&host=i8dxb.media-cdn-us.chinav.indevs.in&path=/danfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%BC%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-trojan://UnNurmal@104.18.32.47:2053?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://26524cce-d514-4014-a426-365fb266a14d@211.206.53.72:26470?allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&host=i8dxb.media-cdn-us.chinav.indevs.in&path=/danfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp=firefox&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-trojan://UnNurmal@104.17.121.71:2053?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
-trojan://UnNurmal@45.130.125.76:2053?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://44036b76-ecd4-488b-83ce-108d94583cf3@104.18.32.47:2096?sni=FAt-CORNEr1twsv3GlGF.WIndleR.Co.UK&alpn=h2%2Chttp/1.1&type=grpc&serviceName=farsnews.ir.mizanonline.com.eghtesadonline.com.tasnimnews.com.irdiplomacy.ir.sharghdaily.com.donya-e-eqtesad.com&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://da703b27-62f2-451a-993f-99224c53f12b@104.18.32.47:2096?sni=MOOdY-facE1ob4n437nt.caRBonbLacKBMw.Ir&alpn=h2%2Chttp/1.1&type=grpc&serviceName=alalamtv.net.entekhab.ir.donya-e-eqtesad.com.hamshahrionline.ir.alalamtv.net.irdiplomacy.ir.snn.ir&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://99d38f43-0a5d-462a-8459-d6ab36dd7a64@104.18.32.47:2096?sni=ImportAnt-CUPi24nv9Tm3Y.WInDLeR.CO.Uk&alpn=h2%2Chttp/1.1&type=grpc&serviceName=khabaronline.ir.isna.ir.en.mehrnews.com.khabaronline.ir.en.mehrnews.com.asriran.com.jamejamonline.ir&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogInMyLnByb2plY3R2LmJvbmQiLCAicG9ydCI6IDQyNDQ0LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODUyMTA5NWItNTUxMi00NTg5LTk2ODgtMTg3NTBmM2FhNmI0IiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFRDUC1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
 trojan://acccrd@216.24.57.6:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -469,22 +493,4 @@ vless://66db2af0-c780-4c28-9058-1e77332e123b@185.167.60.105:80?encryption=none&t
 vless://3b628a70-7e60-436d-a064-f622662c96b7@ers.ir:443?path=%2Fray&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=ters.ir&fp=chrome&type=ws&allowInsecure=1&sni=tooters.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://humanity@www.gossipglove.com:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://e9adbac6-90e1-4c1f-ad17-46226d45a262@85.133.221.48:5001?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
-
-vless://684eefab-a712-4a65-83fd-535112228a6a@95.179.140.164:19857?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@193.22.229.35:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@91.209.253.225:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#%F0%9F%87%B8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@185.156.19.225:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#%F0%9F%87%AC%F0%9F%87%A7%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@185.149.135.102:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#%F0%9F%87%AE%F0%9F%87%B3%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@185.207.198.170:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://7f07d06b-3eda-4f2c-b0e6-df6e9f82456e@209.250.245.206:37385?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://e13f6433-144b-402c-93d0-7a85cae9c2c7@snapp.ir:80?type=ws&security=none&encryption=none&path=/&host=hoosh.sabasarmaye.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
