@@ -10,3 +10,13 @@ vless://f7b750e4-289e-4a1c-b929-60de654fa001@165.215.250.12:8443?path=%2F&securi
 
 vless://9748d871-3e41-4ef3-a683-c34d2c5fe572@85.234.73.39:2088?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=google.com&fp=chrome&headerType=none&alpn=h2,http/1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+vless://89a9381c-57c5-4fbe-9957-f679f7dc9179@169.40.32.180:7235?security=reality&encryption=none&pbk=-y9ICGWwLbWYcKSXZNiBAaSvh9e1odOgYVKxiCIuhWw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d3c25ef4#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://ef28c332-8314-494b-a9aa-b98d3d16052a@dl3.okarimi.ir:2053?security=tls&encryption=none&insecure=0&host=dl3.rayantarh.com&type=ws&allowInsecure=0&sni=dl3.rayantarh.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6f2a99c7-d29b-44d1-aadc-b9f3b382233c@95.179.245.139:56190?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://547a9e3e-436c-4e97-af29-764b82510ca1@45.130.125.76:2095?path=%2F&security=none&encryption=none&host=pinghub.primenet3.shop&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://ef28c332-8314-494b-a9aa-b98d3d16052a@dl7.okarimi.ir:2053?security=tls&encryption=none&insecure=0&host=dl3.rayantarh.com&type=ws&allowInsecure=0&sni=dl3.rayantarh.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
