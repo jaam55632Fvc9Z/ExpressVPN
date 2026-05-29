@@ -10,3 +10,35 @@ vless://f153fbcb-055f-40a6-88b2-496d46e12be8@ww.vidboxco.ir:2087?encryption=none
 
 vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@s1.iran-ahwaz.ir:1212?encryption=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
+vless://db38535b-d3c3-42a0-97b6-f1e83f3ed09a@45.130.125.76:443?encryption=none&type=ws&security=tls&path=%2Fupload%2F%3Fed%3D2560&host=de1.uploadsho.com&sni=de1.uploadsho.com&alpn=http%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://db38535b-d3c3-42a0-97b6-f1e83f3ed09a@mtnde.hosmci.com:8011?encryption=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://db38535b-d3c3-42a0-97b6-f1e83f3ed09a@fi.hosmci.com:8880?encryption=none&type=kcp&seed=Hs5xtwTnIM&headerType=wireguard#%F0%9F%8C%90%20KCP-None%20%7C%20%40filembad
+
+vless://db38535b-d3c3-42a0-97b6-f1e83f3ed09a@dns1.uploadma.com:443?encryption=none&type=ws&security=tls&path=%2Fupload%2F%3Fed%3D2560&host=usa.uploadsho.com&sni=usa.uploadsho.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://db38535b-d3c3-42a0-97b6-f1e83f3ed09a@104.19.229.21:443?encryption=none&type=ws&security=tls&path=%2Fupload%2F%3Fed%3D2560&host=usa.uploadsho.com&sni=usa.uploadsho.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://db38535b-d3c3-42a0-97b6-f1e83f3ed09a@188.114.98.0:443?encryption=none&type=ws&security=tls&path=%2Fupload%2F%3Fed%3D2560&host=de1.uploadsho.com&sni=de1.uploadsho.com&alpn=http%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://db38535b-d3c3-42a0-97b6-f1e83f3ed09a@104.18.32.47:443?encryption=none&type=ws&security=tls&path=%2Fupload%2F%3Fed%3D2560&host=de1.uploadsho.com&sni=de1.uploadsho.com&alpn=http%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://db38535b-d3c3-42a0-97b6-f1e83f3ed09a@167.68.42.141:443?encryption=none&type=ws&security=tls&path=%2Fupload%2F%3Fed%3D2560&host=de1.uploadsho.com&sni=de1.uploadsho.com&alpn=http%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://0a5e9e8d-16ee-46b3-a85c-6154ced66bf8@185.143.233.5:2052?path=%2F&security=none&encryption=none&host=p1.sesrsa.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://3a284cea-341a-4656-ac32-d57489894388@104.19.64.105:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=a3ssa.vaslbsh.com&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40filembad
+
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@14.102.228.76:80?encryption=none&type=ws&path=%2F&host=tt.andishehparenting.com#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.16.250.22:80?encryption=none&type=ws&path=%2F&host=tt.andishehparenting.com#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://ac0517ac-af76-4436-bfa4-0a8b2b6bb433@45.130.125.69:2096?encryption=none&type=grpc&security=tls&serviceName=fararu.com.parstoday.com.ilna.news.financialtribune.com.presstv.ir.jamejamonline.ir.alalamtv.net&mode=gun&sni=eVoLVIng-CHAnCeR6CS39rs25.caRBoNblAcKbMw.Ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://60631e0f-7db6-4050-94f8-bf4127592e74@104.18.32.47:2096?encryption=none&type=grpc&security=tls&serviceName=parstoday.com.alef.ir.iribnews.ir.hamshahrionline.ir.alalamtv.net.kayhan.ir.irannewsdaily.com&mode=gun&sni=iNvigOraTEd-engInelD4f5u35Fw.wiNDLER.co.UK&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@45.152.202.52:64534?encryption=none&type=ws&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://629325d2-7e7b-47e8-a503-301677a59589@104.18.32.47:2096?encryption=none&type=grpc&security=tls&serviceName=khabaronline.ir.iranprimer.usip.org.entekhab.ir.alalamtv.net.kayhan.ir.fararu.com.irna.ir&mode=gun&sni=poWeRFUL-HIStORym1zX7jVJwb.cARbonbLAckBmw.Ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
