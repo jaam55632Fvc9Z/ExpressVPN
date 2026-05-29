@@ -18148,3 +18148,9 @@ vless://dd8f19bd-210c-4506-a1a1-e2f81a613839@a3.hamrahnode.ir:2053?security=tls&
 
 vless://dd8f19bd-210c-4506-a1a1-e2f81a613839@a2.hamrahnode.ir:2053?security=tls&allowInsecure=0&encryption=none&type=ws&path=/&sni=op2.x-upload.org&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://629325d2-7e7b-47e8-a503-301677a59589@104.18.32.47:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=khabaronline.ir.iranprimer.usip.org.entekhab.ir.alalamtv.net.kayhan.ir.fararu.com.irna.ir&sni=poWeRFUL-HIStORym1zX7jVJwb.cARbonbLAckBmw.Ir#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0107e7ff-a576-4bb4-85fc-5a0ff84ac328@ARVAN1.FASTSPEEDS.IR:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=PPL1.xuiprospeed.ir&mode=multi&sni=PPL1.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B8%F0%9F%87%AC%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0107e7ff-a576-4bb4-85fc-5a0ff84ac328@ARVAN2.FASTSPEEDS.IR:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=PPL2.xuiprospeed.ir&mode=multi&sni=PPL2.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B8%F0%9F%87%AC%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
