@@ -14,3 +14,17 @@ trojan://Mitivpn@104.17.121.71:443?type=ws&security=tls&path=%2F%3Fed%3D2048&hos
 
 trojan://humanity@141.101.90.101:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&fp=ios&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://7c2f87b5-2a5c-49c1-92c5-3c0be905fc04@a1.hamrahnode.ir:2053?security=tls&type=ws&headerType=&path=%2F&host=&sni=op1.x-upload.org&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1d210677-2023-42f5-ab58-c2247a27d11a@194.5.207.92:29982?encryption=none&headerType=http&host=ulpod.ir&path=%2F&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://1d210677-2023-42f5-ab58-c2247a27d11a@194.5.207.92:47596?encryption=none&host=194.5.207.92&path=%2Fir&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://4b616b6f-6f6c-4e65-7773-deba033fba5f@20.90.66.7:443?encryption=none&security=tls&sni=super-parakeet-r74rgr55v7rv2xvq4-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4b616b6f-6f6c-4e65-7773-deba033fba5f@20.103.221.187:443?encryption=none&security=tls&sni=super-parakeet-r74rgr55v7rv2xvq4-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@84.32.70.206:443?security=reality&encryption=none&pbk=FhYXVO-0BlCdga4MFczEVVC_clTA2UaIhWUiaWvYlR0&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=dfgh.falsemirrov.com&sid=fb2a682d44bdc70c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
+vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@152.53.53.168:443?security=reality&encryption=none&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&headerType=none&fp=firefox&type=tcp&sni=cloudrynth.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+
