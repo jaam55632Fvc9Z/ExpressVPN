@@ -18538,3 +18538,13 @@ vmess://4a26a7f0-ceca-440b-bc1a-577aab41a6e0@uk.connfull.org:2052?encryption=aut
 
 vmess://59e28f78-c31b-4613-9d9f-1e6732a31f46@51.195.235.71:2052?encryption=auto&headerType=http&path=%2F&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40oneclickvpnkeys
 
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.131:443?encryption=none&type=tcp&security=tls&headerType=none&sni=sub.sbrf-cdn342.ru&fp=qq&allowInsecure=0&flow=xtls-rprx-vision-udp443#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5e8c894b-1efa-48d4-85ee-9daf5d574c16@45.130.125.69:2096?encryption=none&type=grpc&security=tls&serviceName=irannewsdaily.com.hamshahrionline.ir.irdiplomacy.ir.irandaily.ir.alef.ir.rajanews.com.irannewsdaily.com&mode=gun&sni=bad-AppLicatIon22nBd8j5OK.CArBoNbLaCkBmw.Ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%A8%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://da703b27-62f2-451a-993f-99224c53f12b@104.18.32.47:2096?encryption=none&type=grpc&security=tls&serviceName=alalamtv.net.entekhab.ir.donya-e-eqtesad.com.hamshahrionline.ir.alalamtv.net.irdiplomacy.ir.snn.ir&mode=gun&sni=MOOdY-facE1ob4n437nt.caRBonbLacKBMw.Ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6992f972-39ab-41e3-9d2e-39efc00ced3d@104.17.121.129:2096?encryption=none&type=grpc&security=tls&serviceName=alalamtv.net.jamejamonline.ir.iribnews.ir.alef.ir.eghtesadonline.com.rajanews.com.khabaronline.ir&mode=gun&sni=aRTfuL-eXCHAnGed81Ihi4YWX.carbONblAckBMW.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
