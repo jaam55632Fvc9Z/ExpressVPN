@@ -23990,3 +23990,7 @@ vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&
 
 vless://a0551943-0cd7-4b39-b234-599fa60a8b58@185.16.110.43:443?path=%2F&security=tls&encryption=none&insecure=0&host=sub.ishvas.shop&fp=chrome&type=ws&allowInsecure=0&sni=sub.ishvas.shop#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://d815c2de-d8fe-4db4-a107-fbc48bad9737@45.130.125.0:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=de.download100.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.download100.ir#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0b46c05b-2147-413a-b4fe-4b62c999ec86@Snapp.ir:2086?path=%2F&security=none&encryption=none&host=caffe.blueberrynetwork.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
