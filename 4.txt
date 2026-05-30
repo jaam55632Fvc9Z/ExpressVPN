@@ -34,3 +34,31 @@ trojan://Mitivpn@104.17.121.37:443?allowInsecure=1&alpn=h2,http/1.1&eh=Sec-WebSo
 
 trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.220.10#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
 
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.104.237.100#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://ZJU29smXwp@172.67.191.189:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@ru9.aimodelhub.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru9.aimodelhub.top&fp=chrome&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://ZJU29smXwp@172.67.68.87:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=Web2.teama.tk#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://ZJU29smXwp@45.85.118.0:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c94ce99f-c4ea-4bd1-9d4f-c29be3214cc9@nl1.aerosafe.work:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=9dqybl.workspacefiles.com&fp=firefox&pbk=gxIyGzfvsbaoIA6c3mVSQElFloOPqKl0ohi2XWx08jQ&sid=43c77e7d4e24f589&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://b65cbe72-59e2-4011-a22b-760621b5921f@65.109.129.120:80?security=tls&headerType=none&type=tcp&sni=fl.configasli.xyz#%F0%9F%87%AB%F0%9F%87%AE%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://cead26ce-f4e0-4820-aa2c-96cf3e61fb4c@lol-usa-0001.api.neuralrelay.stream:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&sid=0f7e&sni=hls-svod.itunes.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://9b1d61e1-22ff-4327-abf2-0e6cf1b5abd4@most-usa2.harknmav.fun:443?flow=xtls-rprx-vision&sni=eh.vk.com&security=reality&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.235.63.252#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c94ce99f-c4ea-4bd1-9d4f-c29be3214cc9@us1.aerosafe.work:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=y8coh6.workspacefiles.com&fp=firefox&pbk=AYyE5oWqNHxKXtiUwwRZmoM3aY8sr9VUKMDl7HwrqQY&sid=00df452c7d2f6372&spx=%2F#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://InternetAzadRobot-AliKiller@151.101.129.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40filembad
+
