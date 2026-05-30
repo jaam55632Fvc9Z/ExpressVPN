@@ -18,3 +18,21 @@ vless://6ef2cd26-bd6c-45ee-88b6-ef4240cb012c@cdn-de-1.bigbossvpn.online:8443?sec
 
 vless://3e7ade9b-d14e-4cca-94f2-f349f0b490ed@txt.irajapan.store:28561?type=tcp&encryption=none&security=reality&pbk=Oeqvti84_ZY-qSA3sQv4F7mc7-9eOwxw3oXDVtSOaRg&fp=chrome&sni=yahoo.com&sid=538dbb66ff&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
 
+vless://62470850-6875-4008-b773-925d7ad510a0@199.34.228.53:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/Telegram-Zedmodeon&sni=my.pars-cdn.ir&fp=chrome&mode=auto&alpn=h2,http/1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://b811b3e2-f39d-47b1-8465-1d849e4545df@nexacdn79.x-upload.org:2053?security=tls&allowInsecure=0&encryption=none&type=ws&path=/&sni=nexacdn79.x-upload.org&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://f8218ac8-0a9b-5d70-a6c8-31936767c357@145.239.173.163:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+trojan://mitivpn@mitivpn.ws-ws-ws.workers.dev:443?security=tls&sni=mitivpn.ws-ws-ws.workers.dev&fp=edge&allowInsecure=0&alpn=http/1.1&type=ws&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://a08af6fb-21af-4c99-99d6-a3361e7a8456@fsxhh.fastshop1.com:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/mammadalifsx&sni=ssl.fastly.com&fp=chrome&mode=packet-up#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40filembad
+
+vless://f322debc-8e3f-4268-89d8-4708161a8e5e@45.81.58.159:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=newgen14.hozheen.ir&path=/ws?ed%3D2560&sni=a2c107fee2b79722.hozheen.ir&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+
+vless://3608340b-456e-41c6-a5bb-b495ff8bf302@54.36.113.174:80?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+
+vless://7c8ac542-7e69-459a-9c99-25e68663b2b6@cloud.invadors.ir:8080?encryption=none&host=cloud.invadors.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
+
+vless://4a0994db-7ba9-4d38-a539-a63e77ed4c42@new1.dil2.online:2096?alpn=h2&encryption=none&fp=chrome&security=tls&sni=new1.dil2.online&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40filembad
+
