@@ -2,10 +2,6 @@ ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%91%91
 
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360?#%F0%9F%9F%A2%20UPDATE%3A%20Every%2010%20Minutes
 
-vless://9de45eb1-188e-404b-bcac-2756afe53cd5@185.143.232.200:80?path=%2F&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40filembad
-
-vless://3d7d9306-49a2-43f1-818b-5f4008220d05@snapp.ir:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=kalbas5.pbvsrk.carnagesv.top&fp=random&type=ws&allowInsecure=0&sni=kalbas5.pbvsrk.carnagesv.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
-
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UGE4b1dLc0wxOWduaStLelR3WExzZXRRVDBUbUxYbml2cW8vZzFnOVdOaz06aTF0TTJ1ZVV3dmoxRVNnQ0gxOEtQWHFYejllemdBZytiVWFWdk9hYmw2UT0@95.38.190.24:3375?type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 trojan://humanity@104.20.42.250:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
@@ -25545,4 +25541,20 @@ vmess://eyJhZGQiOiAiMTA0LjIzOC4xODkuMTUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAi
 vless://017c7d11-2cd0-49bd-bbe8-177790ac1d0f@104.238.189.15:50386?security=none&encryption=mlkem768x25519plus.native.0rtt.Z88rrRf42dsSJbdfORI98M9bYplDAI6HoMHhdW2qPRI&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
 vless://017c7d11-2cd0-49bd-bbe8-177790ac1d0f@104.238.189.15:50386?encryption=mlkem768x25519plus.native.0rtt.Z88rrRf42dsSJbdfORI98M9bYplDAI6HoMHhdW2qPRI&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vaslbemonim7
+
+trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?type=tcp&security=tls&path=%2F#%F0%9F%87%B9%F0%9F%87%BC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&alpn=h3,h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#%F0%9F%87%AC%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1f01e53a-f9d1-48a3-8b35-6f10b9be0736@185.255.95.247:27265?encryption=none&security=none&sni=185.255.95.247&type=ws&host=185.255.95.247&path=%2Fws#%F0%9F%87%B9%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://84dec368-0934-4789-8e36-c14af84e589e@usa-emergency-service.24567.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=usa-emergency-service.24567.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://84dec368-0934-4789-8e36-c14af84e589e@nl-emergency-service.24567.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=nl-emergency-service.24567.ir#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiOTUuMTc5LjE2Ni4xOTAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjRlZDYwZGFhLTQxYzEtNDVlYy04OWM2LTU2YTBiNTczOGM0ZCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzMTcwNyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAZmlsZW1iYWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+
+vmess://eyJhZGQiOiAiOTUuMTc5LjE2Ni4xOTAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjRlZDYwZGFhLTQxYzEtNDVlYy04OWM2LTU2YTBiNTczOGM0ZCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzE3MDciLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGZpbGVtYmFkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://sohU2TLEnj9xq0aQgW8I6yl5XGiXHF0StkP6crsDKVK+NBfS9e9czCFqZD+8h0C91R5ohbuXuvEf02082kQOOBhGhIZCjy1erCcyd0CEiyuTzcbd+tkc/4kAwp+MphP8MJg2d1fTC02oynbFVxmQtp/f80FwsKOiJHP3KEXYth9K5ZWtZk8GF+0nZOze+gjut55NqsW3jMCHelxodqyiPw==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 
