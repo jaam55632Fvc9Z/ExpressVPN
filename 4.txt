@@ -16,3 +16,13 @@ vless://c8ebfec9-ce4c-4f0c-bd7d-f245f47de92a@45.130.125.69:2096?encryption=none&
 
 vless://6391b2b2-bf0a-450e-9334-1f88f8fe1ed7@45.130.125.76:2096?encryption=none&type=grpc&security=tls&serviceName=fararu.com.mizanonline.com.presstv.ir.irna.ir.irna.ir.eghtesadonline.com.irna.ir&sni=effOrTlESs-beAuTYBuomawpzMM.cARBonblaCKbMw.iR&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
 
+trojan://telegram-id-directvpn@51.44.150.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.150.171:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@51.44.150.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://c89ba1c4-1e7b-4457-b7cf-a70334f1b96d@45.130.125.76:2096?encryption=none&type=grpc&security=tls&serviceName=asriran.com.rajanews.com.alalamtv.net.fararu.com.irna.ir.iribnews.ir.mizanonline.com&sni=BRAVe-ExTEnsIonyv4AV6w91i.SaMsUngOVENs.iR&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40filembad
+
+vmess://eyJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQGZpbGVtYmFkIiwgInBhdGgiOiAiL0tvc2UtbmFuYXQtZGVjb2RlciIsICJ0bHMiOiAidGxzIiwgInBvcnQiOiAiNDQzIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAic2N5IjogImF1dG8iLCAiZnAiOiAiY2hyb21lIiwgIm5ldCI6ICJ3cyIsICJhZGQiOiAiODguMjE2LjY5LjUiLCAiaG9zdCI6ICJLb3NlLW5hbmF0LWRlY29kZXIuZHItcGluZy5pciIsICJpZCI6ICJmZGY4MDM0YS02N2EwLTRiZjItOTBlOS02ZDY1ZDIxMWFjYTYiLCAic25pIjogIktvc2UtbmFuYXQtZGVjb2Rlci5kci1waW5nLmlyIn0=
+
